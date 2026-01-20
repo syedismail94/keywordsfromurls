@@ -1,24 +1,24 @@
-main:
-  - title: "Home"
-    url: /
+title: Keywords From URLs
+description: Home Decor, Fashion, Gardening & Parenting Blog
 
-  - title: "Home Decor"
-    url: /category/home-decor/
+url: "https://syedismail94.github.io"
+baseurl: "/keywordsfromurls"
 
-  - title: "Fashion"
-    url: /category/fashion/
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-include-cache
 
-  - title: "Gardening"
-    url: /category/gardening/
+minimal_mistakes_skin: default
 
-  - title: "Parenting"
-    url: /category/parenting/
+markdown: kramdown
+permalink: /:categories/:title/
 
-  - title: "Blog"
-    url: /blog/
-
-  - title: "About"
-    url: /about/
-
-  - title: "Contact"
-    url: /contact/
+# Footer links (About / Contact / Privacy)
+footer:
+  links:
+    - label: "About"
+      url: /about/
+    - label: "Contact"
+      url: /contact/
+    - label: "Privacy Policy"
+      url: /privacy-policy/
