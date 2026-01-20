@@ -16,9 +16,12 @@ permalink: /:categories/:title/
 # Footer links (About / Contact / Privacy)
 footer:
   links:
-    - label: "About"
+    - label: "About Us"
       url: /about/
-    - label: "Contact"
+    - label: "Contact Us"
       url: /contact/
     - label: "Privacy Policy"
       url: /privacy-policy/
+          - label: "disclaimer"
+      url: /disclaimer/
+
