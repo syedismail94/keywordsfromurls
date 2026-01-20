@@ -1,0 +1,18 @@
+main:
+  - title: "Home"
+    url: /
+
+  - title: "Home Decor"
+    url: /category/home-decor/
+
+  - title: "Fashion"
+    url: /category/fashion/
+
+  - title: "Gardening"
+    url: /category/gardening/
+
+  - title: "Parenting"
+    url: /category/parenting/
+
+  - title: "Blog"
+    url: /posts/
