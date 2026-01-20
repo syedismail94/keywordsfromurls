@@ -1,3 +1,18 @@
+title: Keywords From URLs
+description: Home Decor, Fashion, Gardening & Parenting Blog
+
+url: "https://syedismail94.github.io"
+baseurl: "/keywordsfromurls"
+
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-include-cache
+
+minimal_mistakes_skin: default
+
+markdown: kramdown
+permalink: /:categories/:title/
+
 footer:
   links:
     - label: "About"
