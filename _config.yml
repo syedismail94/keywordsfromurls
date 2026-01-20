@@ -325,3 +325,11 @@ defaults:
       comments: # true
       share: true
       related: true
+footer:
+  links:
+    - label: "About"
+      url: /about/
+    - label: "Contact"
+      url: /contact/
+    - label: "Privacy Policy"
+      url: /privacy-policy/
