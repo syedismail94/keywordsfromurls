@@ -25,3 +25,5 @@ footer:
     - label: "Disclaimer"
       url: /disclaimer/
 
+custom_css:
+  - assets/css/custom.css
