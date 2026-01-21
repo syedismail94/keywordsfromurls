@@ -1,4 +1,9 @@
 ---
-layout: home
-author_profile: false
+layout: single
+title: Welcome to Happy Home & Living
+permalink: /
 ---
+
+<div id="latest-posts" class="posts-grid"></div>
+
+<script src="/assets/home.js"></script>
