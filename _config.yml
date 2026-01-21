@@ -27,3 +27,6 @@ footer:
 
 custom_css:
   - assets/css/custom.css
+  sidebar:
+  nav: false
+
