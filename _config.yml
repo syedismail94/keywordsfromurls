@@ -1,4 +1,4 @@
-title: Keywords From URLs
+title: Happy Home & Living
 description: Home Decor, Fashion, Gardening & Parenting Blog
 
 url: "https://syedismail94.github.io"
@@ -11,9 +11,15 @@ plugins:
 minimal_mistakes_skin: default
 
 markdown: kramdown
+
+# Clean URLs (NO dates)
 permalink: /:categories/:title/
 
-# Footer links (About / Contact / Privacy)
+# Disable sidebar globally
+sidebar:
+  nav: false
+
+# Footer links
 footer:
   links:
     - label: "About Us"
@@ -25,8 +31,6 @@ footer:
     - label: "Disclaimer"
       url: /disclaimer/
 
+# Custom CSS
 custom_css:
   - assets/css/custom.css
-  sidebar:
-  nav: false
-
