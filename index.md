@@ -8,4 +8,4 @@ permalink: /
 
 <div id="latest-posts" class="posts-grid"></div>
 
-<script src="/assets/home.js"></script>
+<script src="{{ '/assets/home.js' | relative_url }}"></script>
