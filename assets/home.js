@@ -1,4 +1,4 @@
-fetch('/assets/posts.json')
+fetch('{{ "/assets/posts.json" | relative_url }}')
   .then(response => response.json())
   .then(posts => {
     const container = document.getElementById('latest-posts');
