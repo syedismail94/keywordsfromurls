@@ -13,7 +13,7 @@ Below are **15 cozy home decor ideas** that are simple, budget-friendly, and per
 
 ## 1. Add Soft Throw Blankets
 
-[![Add Soft Throw Blankets](/assets/images/home-decor/1-throw-blanket.jpg)](https://pin.it/7kKvHHpmA)
+[![Add Soft Throw Blankets]({{ site.baseurl }}/assets/images/home-decor/1-throw-blanket.jpg)](https://pin.it/7kKvHHpmA)
 
 Soft throw blankets add instant warmth to sofas, chairs, and beds. Choose plush or knitted textures in neutral tones for a cozy look.
 
@@ -21,7 +21,7 @@ Soft throw blankets add instant warmth to sofas, chairs, and beds. Choose plush 
 
 ## 2. Use Warm Lighting Instead of Bright White
 
-[![Use Warm Lighting](/assets/images/home-decor/2-warm-lighting.jpg)](https://pin.it/SUdcgILWP)
+[![Use Warm Lighting]({{ site.baseurl }}/assets/images/home-decor/2-warm-lighting.jpg)](https://pin.it/SUdcgILWP)
 
 Warm yellow lighting creates a calm and inviting atmosphere. Table lamps and soft lighting work better than harsh white bulbs.
 
@@ -29,7 +29,7 @@ Warm yellow lighting creates a calm and inviting atmosphere. Table lamps and sof
 
 ## 3. Layer Cushions and Pillows
 
-[![Layer Cushions and Pillows](/assets/images/home-decor/3-cushions.jpg)]([https://pin.it/33jZssUOX]
+[![Layer Cushions and Pillows]({{ site.baseurl }}/assets/images/home-decor/3-cushions.jpg)](https://pin.it/33jZssUOX)
 
 Mix different cushion sizes and textures to add depth and comfort to your seating area.
 
@@ -37,7 +37,7 @@ Mix different cushion sizes and textures to add depth and comfort to your seatin
 
 ## 4. Incorporate Natural Elements
 
-[![Natural Home Decor Elements](/assets/images/home-decor/4-natural-elements.jpg)](https://pin.it/Gj8zkYTRk)
+[![Natural Home Decor Elements]({{ site.baseurl }}/assets/images/home-decor/4-natural-elements.jpg)](https://pin.it/Gj8zkYTRk)
 
 Plants, woven baskets, and wooden decor bring warmth and balance to any room.
 
@@ -45,7 +45,7 @@ Plants, woven baskets, and wooden decor bring warmth and balance to any room.
 
 ## 5. Add Area Rugs
 
-[![Add Area Rugs](/assets/images/home-decor/5-area-rugs.jpg)](https://pin.it/7tAIO7jnG)
+[![Add Area Rugs]({{ site.baseurl }}/assets/images/home-decor/5-area-rugs.jpg)](https://pin.it/7tAIO7jnG)
 
 Area rugs soften floors and make spaces feel more comfortable, especially in living rooms and bedrooms.
 
@@ -53,7 +53,7 @@ Area rugs soften floors and make spaces feel more comfortable, especially in liv
 
 ## 6. Stick to Neutral Colors
 
-[![Neutral Color Palette](/assets/images/home-decor/6-neutral-colors.jpg)](https://pin.it/vY1RPZaXf)
+[![Neutral Color Palette]({{ site.baseurl }}/assets/images/home-decor/6-neutral-colors.jpg)](https://pin.it/vY1RPZaXf)
 
 Soft beige, cream, and light gray shades help create a peaceful and cozy home environment.
 
@@ -61,7 +61,7 @@ Soft beige, cream, and light gray shades help create a peaceful and cozy home en
 
 ## 7. Create a Cozy Bedroom Nook
 
-[![Cozy Bedroom Nook](/assets/images/home-decor/7-bedroom-nook.jpg)](https://pin.it/6Pcl4QYFn)
+[![Cozy Bedroom Nook]({{ site.baseurl }}/assets/images/home-decor/7-bedroom-nook.jpg)](https://pin.it/6Pcl4QYFn)
 
 Layer bedding, add soft lighting, and keep decor minimal for a relaxing bedroom retreat.
 
@@ -69,7 +69,7 @@ Layer bedding, add soft lighting, and keep decor minimal for a relaxing bedroom 
 
 ## 8. Use Candles for Warmth
 
-[![Use Candles](/assets/images/home-decor/8-candles.jpg)](https://pin.it/3Q2O5Pcgf)
+[![Use Candles]({{ site.baseurl }}/assets/images/home-decor/8-candles.jpg)](https://pin.it/3Q2O5Pcgf)
 
 Candles instantly add warmth and comfort. Use them safely in living rooms or bedrooms.
 
@@ -77,7 +77,7 @@ Candles instantly add warmth and comfort. Use them safely in living rooms or bed
 
 ## 9. Display Cozy Artwork
 
-[![Cozy Wall Art](/assets/images/home-decor/9-artwork.jpg)](https://pin.it/6l3NvHUUP)
+[![Cozy Wall Art]({{ site.baseurl }}/assets/images/home-decor/9-artwork.jpg)](https://pin.it/6l3NvHUUP)
 
 Nature-inspired artwork and soft-toned prints enhance the cozy feeling of a room.
 
@@ -85,7 +85,7 @@ Nature-inspired artwork and soft-toned prints enhance the cozy feeling of a room
 
 ## 10. Add a Cozy Throw
 
-[![Add a Cozy Throw](/assets/images/home-decor/10-throw.jpg)](https://pin.it/2IPTjCOJR)
+[![Add a Cozy Throw]({{ site.baseurl }}/assets/images/home-decor/10-throw.jpg)](https://pin.it/2IPTjCOJR)
 
 Drape throws casually over sofas or chairs for a relaxed and inviting look.
 
@@ -93,7 +93,7 @@ Drape throws casually over sofas or chairs for a relaxed and inviting look.
 
 ## 11. Keep Throw Pillows Handy
 
-[![Throw Pillows Storage](/assets/images/home-decor/11-pillows.jpg)](https://pin.it/22sbXPanS)
+[![Throw Pillows Storage]({{ site.baseurl }}/assets/images/home-decor/11-pillows.jpg)](https://pin.it/22sbXPanS)
 
 Store extra pillows in baskets to keep your space tidy and cozy.
 
@@ -101,7 +101,7 @@ Store extra pillows in baskets to keep your space tidy and cozy.
 
 ## 12. Incorporate Wood Accents
 
-[![Wood Accents Decor](/assets/images/home-decor/12-wood-accents.jpg)](https://pin.it/6uoumLbFw)
+[![Wood Accents Decor]({{ site.baseurl }}/assets/images/home-decor/12-wood-accents.jpg)](https://pin.it/6uoumLbFw)
 
 Wood furniture and accessories add natural warmth and texture.
 
@@ -109,7 +109,7 @@ Wood furniture and accessories add natural warmth and texture.
 
 ## 13. Create Cozy Lighting Accents
 
-[![Cozy Lighting Accents](/assets/images/home-decor/13-lighting.jpg)](https://pin.it/4wv231ILc)
+[![Cozy Lighting Accents]({{ site.baseurl }}/assets/images/home-decor/13-lighting.jpg)](https://pin.it/4wv231ILc)
 
 Use lanterns, fairy lights, or table lamps to enhance cozy corners.
 
@@ -117,7 +117,7 @@ Use lanterns, fairy lights, or table lamps to enhance cozy corners.
 
 ## 14. Organize with Baskets
 
-[![Organize with Baskets](/assets/images/home-decor/14-baskets.jpg)](https://pin.it/7n5ASJepH)
+[![Organize with Baskets]({{ site.baseurl }}/assets/images/home-decor/14-baskets.jpg)](https://pin.it/7n5ASJepH)
 
 Woven baskets help reduce clutter while adding a cozy decorative touch.
 
@@ -125,7 +125,7 @@ Woven baskets help reduce clutter while adding a cozy decorative touch.
 
 ## 15. Decorate with Textures
 
-[![Decorate with Textures](/assets/images/home-decor/15-textures.jpg)](https://pin.it/4gFn7cUCR)
+[![Decorate with Textures]({{ site.baseurl }}/assets/images/home-decor/15-textures.jpg)](https://pin.it/4gFn7cUCR)
 
 Mix fabrics, knits, wood, and woven materials to create visual warmth.
 
