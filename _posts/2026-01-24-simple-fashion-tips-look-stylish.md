@@ -1,4 +1,4 @@
-![7-shoes-style](https://github.com/user-attachments/assets/4163d59d-cd99-4c4d-b58b-5314f290aabd)---
+---
 title: "10 Simple Fashion Tips That Instantly Make You Look Stylish"
 categories: [fashion]
 layout: single
@@ -116,4 +116,3 @@ Confidence is what truly makes any outfit look stylish.
 Looking stylish doesn’t require a big budget. By focusing on fit, simplicity, grooming, and confidence, you can improve your fashion sense step by step.
 
 Start small, stay consistent, and remember — **style is about expressing who you are**.
-
