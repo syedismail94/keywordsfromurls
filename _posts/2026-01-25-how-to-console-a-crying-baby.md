@@ -12,7 +12,7 @@ Below is a complete guide explaining why babies cry, how to console them, and pr
 
 ---
 
-[![When Baby Crying Parenting Tips]({{ site.baseurl }}/assets/images/parenting/when-baby-crying.jpg)](https://pin.it/3BMB7PTOM)
+[![When Baby Crying Parenting Tips]({{ site.baseurl }}/assets/images/when-baby-crying.jpg)](https://pin.it/3BMB7PTOM)
 
 ---
 
