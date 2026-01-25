@@ -36,3 +36,9 @@
   font-weight: 600;
   color: #e60073;
 }
+@media (min-width: 1024px) {
+  .page__content {
+    max-width: 900px;
+    margin: 0 auto;
+  }
+}
