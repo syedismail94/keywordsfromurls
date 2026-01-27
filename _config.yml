@@ -10,7 +10,7 @@ baseurl: ""
 remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-include-cache
-
+  - jekyll-sitemap
 minimal_mistakes_skin: default
 
 markdown: kramdown
