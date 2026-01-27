@@ -1,8 +1,11 @@
 title: Happy Home & Living
 description: Home Decor, Fashion, Gardening & Parenting Blog
 
-url: "https://syedismail94.github.io"
-baseurl: "/keywordsfromurls"
+# ✅ Custom Domain URL
+url: "https://keywordsfromurls.com"
+
+# ✅ MUST be empty for custom domain
+baseurl: ""
 
 remote_theme: mmistakes/minimal-mistakes
 plugins:
@@ -12,14 +15,14 @@ minimal_mistakes_skin: default
 
 markdown: kramdown
 
-# Clean URLs (NO dates)
+# ✅ Clean SEO-friendly URLs
 permalink: /:categories/:title/
 
-# Disable sidebar globally
+# ✅ Disable sidebar globally
 sidebar:
   nav: false
 
-# Footer links
+# ✅ Footer links (use relative_url automatically)
 footer:
   links:
     - label: "About Us"
@@ -31,6 +34,6 @@ footer:
     - label: "Disclaimer"
       url: /disclaimer/
 
-# Custom CSS
+# ✅ Custom CSS (Minimal Mistakes supported way)
 custom_css:
   - assets/css/custom.css
