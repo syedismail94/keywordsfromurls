@@ -29,7 +29,6 @@ Different shades of purple are layered throughout the space—from accent lighti
 
 ## Ambient Lighting for a Premium Look
 
-[![Purple Ambient Lighting Living Room]({{ site.baseurl }}/assets/images/home-decor/luxury-purple-living-room-ideas.jpg)](https://pin.it/45NWrojeI)
 
 Ambient lighting is the highlight of this luxury setup. Recessed ceiling lights provide soft illumination, while purple LED strip lights under shelves and around the TV unit create a modern and stylish glow. This lighting combination enhances mood and adds a hotel-like luxury feel.
 
@@ -37,15 +36,12 @@ Ambient lighting is the highlight of this luxury setup. Recessed ceiling lights 
 
 ## Modern Furniture Arrangement
 
-[![Modern Luxury Living Room Furniture Layout]({{ site.baseurl }}/assets/images/home-decor/luxury-purple-living-room-ideas.jpg)](https://pin.it/45NWrojeI)
-
 The furniture layout is clean and uncluttered. A sleek sofa placed along the wall opens up the room, while a low coffee table keeps the space visually light. The purple rug anchors the seating area and ties the entire color theme together.
 
 ---
 
 ## Minimal Decor with Maximum Impact
 
-[![Minimal Luxury Living Room Decor]({{ site.baseurl }}/assets/images/home-decor/luxury-purple-living-room-ideas.jpg)](https://pin.it/45NWrojeI)
 
 Instead of over-decorating, this living room uses carefully selected decor pieces. Decorative vases, subtle floral arrangements, and indoor plants add warmth and personality without cluttering the space. Floating shelves enhance the modern aesthetic while keeping the room organized.
 
@@ -53,7 +49,6 @@ Instead of over-decorating, this living room uses carefully selected decor piece
 
 ## Curtains and Textiles That Elevate Style
 
-[![Purple Curtains Living Room Decor]({{ site.baseurl }}/assets/images/home-decor/luxury-purple-living-room-ideas.jpg)](https://pin.it/45NWrojeI)
 
 Floor-length purple curtains frame the windows beautifully and add height to the room. Soft furnishings like cushions, throws, and rugs introduce texture and comfort, making the space feel inviting as well as luxurious.
 
