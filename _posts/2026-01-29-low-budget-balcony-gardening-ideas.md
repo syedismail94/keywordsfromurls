@@ -39,6 +39,7 @@ Use vertical space smartly by adding wall-mounted planters, hanging pots, or ver
 
 Reuse household water such as leftover drinking water or RO waste water to keep your plants hydrated. This reduces water wastage and lowers maintenance cost. It is an eco-friendly way to support balcony gardening on a low budget.
 7. Choose Flowering Plants for Color
+
 Choose flowering plants for color to make your balcony look lively and attractive. Plants like marigold, portulaca, and petunia grow easily in small pots.
 8. Compost Kitchen Waste at Home
 
