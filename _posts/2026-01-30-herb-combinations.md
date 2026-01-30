@@ -11,7 +11,7 @@ Growing herbs becomes easier and more successful when you plant the **right herb
 This guide explains the **best herb combinations beginners should grow together**, whether in pots, balconies, or small gardens.
 
 ---
-[![Combination of Herbs]({{ site.baseurl }}/assets/images/gardening/CombinationofHerbs.jpg)](https://pin.it/4Zgf3pfgI)
+[![Combination of Herbs]({{ site.baseurl }}/assets/images/gardening/Combination-of-Herbs.jpg)](https://pin.it/4Zgf3pfgI)
 
 ## Basil and Parsley
 Basil and parsley grow well together because they have similar water and sunlight needs. Basil helps repel insects, while parsley grows steadily alongside it. This combination is perfect for kitchen gardens.
