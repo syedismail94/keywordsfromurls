@@ -16,6 +16,8 @@ This guide explains the **best herb combinations beginners should grow together*
 ## Basil and Parsley
 Basil and parsley grow well together because they have similar water and sunlight needs. Basil helps repel insects, while parsley grows steadily alongside it. This combination is perfect for kitchen gardens.
 
+[![Basil and Parsley Herbs]({{ site.baseurl }}/assets/images/gardening/BasilandParsley.png)](https://pin.it/7Jlxn1GOO)
+
 ## Basil and Oregano
 Both herbs love full sunlight and well-drained soil. Oregano acts as a natural pest repellent, protecting basil. They are commonly used together in cooking, making them a practical pair.
 
