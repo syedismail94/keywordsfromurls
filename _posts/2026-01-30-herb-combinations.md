@@ -21,7 +21,7 @@ Basil and parsley grow well together because they have similar water and sunligh
 ## Basil and Oregano
 Both herbs love full sunlight and well-drained soil. Oregano acts as a natural pest repellent, protecting basil. They are commonly used together in cooking, making them a practical pair.
 
-![Herb combinations for companion planting]({{ site.baseurl }}/assets/images/gardening/combinationsofherbs.jpg)
+[![Herb combinations for companion planting]({{ site.baseurl }}/assets/images/gardening/combinationsofherbs.jpg)](https://pin.it/3bsYc4TFq)
 
 ## Mint and Lemon Balm
 Mint and lemon balm belong to the same family and grow aggressively. Plant them together in a container to control spreading. Both herbs prefer partial sunlight and moist soil.
