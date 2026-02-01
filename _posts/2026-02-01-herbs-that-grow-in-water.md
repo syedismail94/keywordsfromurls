@@ -8,10 +8,7 @@ layout: single
 
 {% include toc.html %}
 
-
-::contentReference[oaicite:0]{index=0}
-
-[![30 Herbs That Grow in Water]({{ site.baseurl }}/assets/images/gardening/30herbsinwater.png)](https://pin.it/7CfEH9MG1)
+[![30 Herbs That Grow in Water]({{ site.baseurl }}/assets/images/gardening/30herbsinwataer.png)](https://pin.it/7CfEH9MG1)
 
 ## 🌿 Herbs That Grow in Water (No Soil Needed)
 
