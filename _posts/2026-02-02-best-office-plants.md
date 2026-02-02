@@ -9,7 +9,7 @@ layout: single
 Adding plants to your office environment is more than just decoration. Indoor plants help reduce stress, improve air quality, and create a calmer, more productive workspace. If you are looking for plants that are easy to maintain and suitable for office conditions, these five options are perfect.
 
 ---
-[![5 Plants for Office Environment]({{ site.baseurl }}/assets/images/gardening/5plantsforoffice.jpg)](https://pin.it/7kKvHHpmA)
+[![5 Plants for Office Environment]({{ site.baseurl }}/assets/images/gardening/5plantsforoffice.jpg)](https://pin.it/7akoTwQLg)
 
 ## 1. Snake Plant (Sansevieria)
 
