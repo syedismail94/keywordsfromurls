@@ -4,7 +4,7 @@ layout: single
 categories: [gardening, home-decor]
 description: Learn the best vertical garden layouts for small spaces, balconies, and walls. Simple, modern, and space-saving vertical gardening ideas.
 ---
-[![Multiple Vertical Garden Layouts]({{ site.baseurl }}/assets/images/gardening/multiple-vertical-garden-layouts.jpeg)]()
+[![Multiple Vertical Garden Layouts]({{ site.baseurl }}/assets/images/gardening/multiple-vertical-garden-layouts.jpeg)](https://pin.it/2rEGgdfQG)
 
 ## What Is a Vertical Garden?
 
@@ -13,7 +13,7 @@ A **vertical garden** is a smart gardening method where plants grow upward on wa
 ---
 
 ## Best Vertical Garden Layouts
-[![Wall Mounted Vertical Garden Layout]({{ site.baseurl }}/assets/images/gardening/wall-mounted-panel-layout.jpeg)]()
+[![Wall Mounted Vertical Garden Layout]({{ site.baseurl }}/assets/images/gardening/wall-mounted-panel-layout.jpeg)](https://pin.it/1jwizARB6)
 
 ### 1. Wall-Mounted Panel Layout
 This layout uses fixed panels or frames attached to a wall. Plants grow in pockets or containers.
@@ -22,7 +22,7 @@ This layout uses fixed panels or frames attached to a wall. Plants grow in pocke
 - Gives a clean and modern look  
 
 ---
-[![Hanging Pot Vertical Garden Layout]({{ site.baseurl }}/assets/images/gardening/hanging-pot-layout.jpeg)]()
+[![Hanging Pot Vertical Garden Layout]({{ site.baseurl }}/assets/images/gardening/hanging-pot-layout.jpeg)](https://pin.it/5DuBvXl3l)
 
 ### 2. Hanging Pot Layout
 Pots are suspended using ropes, chains, or metal frames.
@@ -31,7 +31,7 @@ Pots are suspended using ropes, chains, or metal frames.
 - Perfect for herbs and flowering plants  
 
 ---
-[![Shelf Based Vertical Garden Layout]({{ site.baseurl }}/assets/images/gardening/shelf-based-vertical-garden.jpeg)]()
+[![Shelf Based Vertical Garden Layout]({{ site.baseurl }}/assets/images/gardening/shelf-based-vertical-garden.jpeg)](https://pin.it/6RrAPJ49M)
 
 ### 3. Shelf-Based Vertical Garden
 Multiple horizontal shelves are stacked vertically.
@@ -40,7 +40,7 @@ Multiple horizontal shelves are stacked vertically.
 - Easy to rearrange  
 
 ---
-[![Pipe Bottle Vertical Garden Layout]({{ site.baseurl }}/assets/images/gardening/pipe-bottle-vertical-garden.jpeg)]()
+[![Pipe Bottle Vertical Garden Layout]({{ site.baseurl }}/assets/images/gardening/pipe-bottle-vertical-garden.jpeg)](https://pin.it/1r2Kt3EVP)
 
 ### 4. Pipe or Bottle Vertical Layout
 Plants grow in PVC pipes or recycled bottles fixed vertically.
