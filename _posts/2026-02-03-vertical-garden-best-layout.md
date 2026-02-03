@@ -1,5 +1,5 @@
 ---
-title: "Vertical Garden: Best Layout Ideas for Small Spaces"
+title: "Vertical Garden Best Layout Ideas for Small Spaces"
 layout: single
 categories: [gardening, home-decor]
 description: Learn the best vertical garden layouts for small spaces, balconies, and walls. Simple, modern, and space-saving vertical gardening ideas.
