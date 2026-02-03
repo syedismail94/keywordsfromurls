@@ -16,7 +16,7 @@ minimal_mistakes_skin: default
 markdown: kramdown
 
 # ✅ Clean SEO-friendly URLs
-permalink: /:categories/:title/
+permalink: /:title/
 
 # ✅ Disable sidebar globally
 sidebar:
