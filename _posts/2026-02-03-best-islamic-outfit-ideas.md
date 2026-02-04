@@ -59,7 +59,8 @@ This outfit combines tradition and modesty and is suitable for prayers, gatherin
 
 ### 4. Islamic Casual Wear
 Loose trousers with long shirts that cover the awrah are suitable for daily work and travel.
-[![Islamic Modest Outfit]({{ site.baseurl }}/assets/images/fashion/islamic.jpeg)]()
+[![Islamic Modest Outfit]({{ site.baseurl }}/assets/images/fashion/islamic.jpeg)]()<br>
+
 ---
 
 ## Choosing the Right Fabric
