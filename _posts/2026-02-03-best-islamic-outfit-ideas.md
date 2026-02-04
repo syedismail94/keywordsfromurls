@@ -27,7 +27,7 @@ These guidelines apply to both men and women, with differences in coverage.
 
 ### 1. Abaya
 Abayas are one of the most popular Islamic outfits. They are loose, elegant, and suitable for daily wear, prayer, and formal occasions.
-[![Abaya Islamic Outfit]({{ site.baseurl }}/assets/images/fashion/abaya.jpeg)]()
+[![Abaya Islamic Outfit]({{ site.baseurl }}/assets/images/fashion/abaya.jpeg)](https://pin.it/JfEkCsP7m)
 
 ### 2. Hijab with Modest Dress
 Pairing a hijab with a long dress or tunic and trousers provides both modesty and modern style.
