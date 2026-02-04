@@ -31,7 +31,7 @@ Abayas are one of the most popular Islamic outfits. They are loose, elegant, and
 
 ### 2. Hijab with Modest Dress
 Pairing a hijab with a long dress or tunic and trousers provides both modesty and modern style.
-[![Hijab Islamic Outfit]({{ site.baseurl }}/assets/images/fashion/hijab.jpeg)]()
+[![Hijab Islamic Outfit]({{ site.baseurl }}/assets/images/fashion/hijab.jpeg)](https://pin.it/2S6OXpjF6)
 
 ### 3. Jilbab
 The jilbab is a full-length outer garment that offers maximum coverage and simplicity, ideal for those who prefer a traditional approach.
