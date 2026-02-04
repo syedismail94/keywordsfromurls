@@ -35,11 +35,11 @@ Pairing a hijab with a long dress or tunic and trousers provides both modesty an
 
 ### 3. Jilbab
 The jilbab is a full-length outer garment that offers maximum coverage and simplicity, ideal for those who prefer a traditional approach.
-[![Jilbab Islamic Outfit]({{ site.baseurl }}/assets/images/fashion/jibab.jpeg)]()
+[![Jilbab Islamic Outfit]({{ site.baseurl }}/assets/images/fashion/jibab.jpeg)](https://pin.it/35lUmjOZd)
 
 ### 4. Kaftan and Maxi Dresses
 Loose maxi dresses and kaftans made from breathable fabrics are comfortable and modest for daily use.
-[![Kaftan Islamic Dress]({{ site.baseurl }}/assets/images/fashion/kaffan.jpeg)]()
+[![Kaftan Islamic Dress]({{ site.baseurl }}/assets/images/fashion/kaffan.jpeg)](https://pin.it/DfSMj0vSv)
 
 ---
 
@@ -47,19 +47,19 @@ Loose maxi dresses and kaftans made from breathable fabrics are comfortable and 
 
 ### 1. Thobe (Jubba)
 The thobe is a classic Islamic outfit worn widely across Muslim countries. It is simple, dignified, and comfortable.
-[![Thobe Islamic Outfit]({{ site.baseurl }}/assets/images/fashion/thobe.jpeg)]()
+[![Thobe Islamic Outfit]({{ site.baseurl }}/assets/images/fashion/thobe.jpeg)](https://pin.it/59SP5Tpdl)
 
 ### 2. Kurta Pajama
 A long kurta paired with loose pajama trousers is a modest and culturally popular option, especially in South Asia.
-[![Kurta Pajama Islamic Outfit]({{ site.baseurl }}/assets/images/fashion/kurtapajama.jpeg)]()
+[![Kurta Pajama Islamic Outfit]({{ site.baseurl }}/assets/images/fashion/kurtapajama.jpeg)](https://pin.it/3NjmBZ1GD)
 
 ### 3. Pathani Suit
 This outfit combines tradition and modesty and is suitable for prayers, gatherings, and Islamic events.
-[![Pathani Suit Islamic Outfit]({{ site.baseurl }}/assets/images/fashion/pathani.jpeg)]()
+[![Pathani Suit Islamic Outfit]({{ site.baseurl }}/assets/images/fashion/pathani.jpeg)](https://pin.it/5iwFOxhZx)
 
 ### 4. Islamic Casual Wear
 Loose trousers with long shirts that cover the awrah are suitable for daily work and travel.
-[![Islamic Modest Outfit]({{ site.baseurl }}/assets/images/fashion/islamic.jpeg)]()<br>
+[![Islamic Modest Outfit]({{ site.baseurl }}/assets/images/fashion/islamic.jpeg)](https://pin.it/1Qt67rA8e)<br>
 
 ---
 
