@@ -6,7 +6,7 @@ description: Learn about 15 herb species and how they may help support digestion
 tags: [herbs, medicinal herbs, health, home gardening, natural remedies]
 ---
 
-## 15 Helpful Herb Species That Support Common Health Issues Naturally
+## 15 herbs and their health benifits
 
 Herbs are more than kitchen ingredients — many species have traditionally been used to support health and wellness. Growing or using herbs at home can provide gentle, natural support for everyday issues like digestion, stress, sleep, or immunity.
 
