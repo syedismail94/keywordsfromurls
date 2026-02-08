@@ -1,7 +1,7 @@
 ---
 title: "15 Helpful Herb Species That Support Common Health Issues Naturally"
 layout: single
-categories: [gardening, health]
+categories: [gardening]
 description: Learn about 15 herb species and how they may help support digestion, sleep, immunity, and overall wellness. Perfect guide for home gardeners and natural living enthusiasts.
 tags: [herbs, medicinal herbs, health, home gardening, natural remedies]
 ---
@@ -13,7 +13,7 @@ Herbs are more than kitchen ingredients — many species have traditionally been
 > ⚠️ This content is informational only and not medical advice. Consult a healthcare professional before using herbs for treatment.
 
 ---
-[![15 Herbs and Their Health Benefits]({{ site.baseurl }}/assets/images/gardening/herbs-health-benifiets.jpg)]()
+[![15 Herbs and Their Health Benefits]({{ site.baseurl }}/assets/images/gardening/herbs-health-benifiets.jpg)](https://pin.it/3hatxAY4e)
 
 ### 1️⃣ Basil
 **Supports:** Digestion & inflammation  
