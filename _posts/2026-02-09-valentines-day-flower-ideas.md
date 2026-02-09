@@ -50,7 +50,7 @@ Lilies are known for their bold petals and symmetrical appearance. They work wel
 
 ---
 
-## Sunflowers — Bright Garden Energy
+## Sunflowers — Bright Garden Energy 
 
 ![Sunflowers]({{ site.baseurl }}/assets/images/gardening/4-sunflowers.jpg)
 
