@@ -5,11 +5,12 @@ layout: single
 description: Inspirational Valentine’s Day flower ideas featuring roses, tulips, lilies, sunflowers, and mixed arrangements. Ideal for gardening enthusiasts and Pinterest-driven traffic with future affiliate product integration.
 ---
 
+
 Valentine’s Day brings strong interest in flowers, gifting, and decorative gardening inspiration. This article highlights popular flower choices that attract visual engagement and allows room for product recommendations such as seeds, planters, and arrangement tools. The structure below is suitable for adding Amazon affiliate links once your account is active.
 
 ## Roses — Classic Love Garden Favorite
 
-![Red Roses]({{ site.baseurl }}/assets/images/gardening/1-red-roses.jpg)
+![Red Roses]({{ site.baseurl }}/assets/images/gardening/1-red-roses.jpg)(https://pin.it/kAeG43MCb)
 
 Roses remain one of the most admired flowers for romantic occasions. Gardeners often grow them for their layered petals, fragrance, and strong visual appeal. They can be planted outdoors or maintained in decorative pots.
 
@@ -23,7 +24,7 @@ Roses remain one of the most admired flowers for romantic occasions. Gardeners o
 
 ## Tulips — Elegant Seasonal Color
 
-![Tulips Bouquet]({{ site.baseurl }}/assets/images/gardening/2-tulips.jpg)
+![Tulips Bouquet]({{ site.baseurl }}/assets/images/gardening/2-tulips.jpg)(https://pin.it/377r0Bf2G)
 
 Tulips provide structured shapes and soft color tones that complement indoor and outdoor garden styling. They are suitable for beginners experimenting with seasonal planting.
 
@@ -37,7 +38,7 @@ Tulips provide structured shapes and soft color tones that complement indoor and
 
 ## Lilies — Structured Decorative Plants
 
-![Lilies Arrangement]({{ site.baseurl }}/assets/images/gardening/3-lilies.jpg)
+![Lilies Arrangement]({{ site.baseurl }}/assets/images/gardening/3-lilies.jpg)(https://pin.it/57qQVxq8a)
 
 Lilies are known for their bold petals and symmetrical appearance. They work well in decorative arrangements and inspire readers interested in ornamental gardening.
 
@@ -52,7 +53,7 @@ Lilies are known for their bold petals and symmetrical appearance. They work wel
 
 ## Sunflowers — Bright Garden Energy 
 
-![Sunflowers]({{ site.baseurl }}/assets/images/gardening/4-sunflowers.jpg)
+![Sunflowers]({{ site.baseurl }}/assets/images/gardening/4-sunflowers.jpg)(https://pin.it/61Ttc1EhM)
 
 Sunflowers bring height and vibrant color to any planting space. They encourage experimentation with sunlight-based growing and attract readers looking for lively garden visuals.
 
@@ -66,7 +67,7 @@ Sunflowers bring height and vibrant color to any planting space. They encourage 
 
 ## Mixed Flower Arrangements — Creative Gardening Style
 
-![Mixed Flower Bouquet]({{ site.baseurl }}/assets/images/gardening/5-mixed-bouquet.jpg)
+![Mixed Flower Bouquet]({{ site.baseurl }}/assets/images/gardening/5-mixed-bouquet.jpg)(https://pin.it/7v69cT2Yh)
 
 Combining different flowers allows creative exploration of color contrast and plant placement. This approach supports decorative gardening and arrangement experimentation.
 
