@@ -1,10 +1,9 @@
 ---
-title: "Valentine’s Day Flower Ideas for Gardening Inspiration"
+title: "Terrace Gardening for Beginners: Tools, Plants & Smart Growing Tips"
 categories: [gardening]
 layout: single
 description: Valentine’s Day flower inspiration guide designed for Pinterest-driven visitors, with space prepared for future Amazon affiliate recommendations.
 ---
-
 Valentine’s Day brings strong interest in flowers, gifting, and decorative gardening inspiration. This article highlights popular flower choices that attract visual engagement and allows room for product recommendations such as seeds, planters, and arrangement tools. The structure below is suitable for adding Amazon affiliate links once your account is active.
 
 ## Roses — Classic Love Garden Favorite
