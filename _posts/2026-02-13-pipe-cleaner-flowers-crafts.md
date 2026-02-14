@@ -7,7 +7,11 @@ description: Simple pipe cleaner flower craft ideas for beginners. Learn how to 
 
 Pipe cleaner flowers are one of the easiest and most enjoyable crafts for beginners. They require minimal materials, are budget-friendly, and can be made at home with kids or adults. These colorful creations are perfect for decorations, gifts, or creative DIY projects that add a handmade touch to your space.
 
+---
+
 ## Why Make Pipe Cleaner Flowers?
+
+[![Basic Pipe Cleaner Flower]({{ site.baseurl }}/assets/images/gardening/pipe-cleaner-flower-basic.jpg)]()
 
 - Affordable craft activity  
 - Suitable for all ages  
@@ -36,20 +40,40 @@ These materials are easily available online or at local stationery stores.
 ## Step-by-Step: Easy Pipe Cleaner Flower
 
 ### 1️⃣ Create Petals
+
+[![Pipe Cleaner Flower DIY Rose]({{ site.baseurl }}/assets/images/gardening/pipe-cleaner-rose-diy.jpg)]()
+
 Take one pipe cleaner and wrap it around a pencil to form loops. Slide it off and twist the ends together to secure the petal shape.
 
+---
+
 ### 2️⃣ Shape the Flower
+
+[![Pipe Cleaner Sunflower]({{ site.baseurl }}/assets/images/gardening/pipe-cleaner-sunflower.jpg)]()
+
 Make 4–6 loops depending on how full you want the flower. Spread them evenly to look like petals.
 
+---
+
 ### 3️⃣ Add the Stem
+
+[![Pipe Cleaner Flower Vase Design]({{ site.baseurl }}/assets/images/gardening/pipe-cleaner-flower-vase.jpg)]()
+
 Attach another pipe cleaner by twisting it at the base of the petals. This acts as the flower stem.
 
+---
+
 ### 4️⃣ Decorate (Optional)
+
+[![Pipe Cleaner Flower Bouquet]({{ site.baseurl }}/assets/images/gardening/pipe-cleaner-flower-bouquet.jpg)]()
+
 Add beads in the center or twist different colors together for unique designs.
 
 ---
 
 ## Creative Variations
+
+[![Pipe Cleaner Kids Craft]({{ site.baseurl }}/assets/images/gardening/pipe-cleaner-kids-craft.jpg)]()
 
 - 🌸 Multi-color layered petals  
 - 🌻 Sunflower pattern using yellow & brown  
@@ -57,6 +81,14 @@ Add beads in the center or twist different colors together for unique designs.
 - 💐 Bundle multiple flowers into a bouquet  
 
 These variations are great for Pinterest-style visual content and DIY inspiration posts.
+
+---
+
+## Bonus Idea: Vertical Garden Craft
+
+[![Pipe Bottle Vertical Garden]({{ site.baseurl }}/assets/images/gardening/pipe-bottle-vertical-garden.jpeg)]()
+
+You can also create a decorative vertical garden concept using recycled bottles and pipe cleaner flowers for an eco-friendly DIY project.
 
 ---
 
@@ -75,4 +107,3 @@ They also work well as blog or Pinterest content since colorful crafts attract v
 ## Final Thoughts
 
 Pipe cleaner flower crafts are simple, creative, and highly engaging. Whether you're making them for decoration, content creation, or relaxation, they offer a fun hands-on experience with beautiful results. This beginner-friendly craft is a perfect starting point for anyone exploring DIY floral creativity.
-
