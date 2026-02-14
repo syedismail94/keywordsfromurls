@@ -11,7 +11,7 @@ Pipe cleaner flowers are one of the easiest and most enjoyable crafts for beginn
 
 ## Why Make Pipe Cleaner Flowers?
 
-[![Basic Pipe Cleaner Flower]({{ site.baseurl }}/assets/images/gardening/pipe-cleaner-flower-basic.jpg)]()
+[![Basic Pipe Cleaner Flower]({{ site.baseurl }}/assets/images/gardening/pipe-cleaner-flower-basic.jpg)](https://pin.it/270WMNIG0)
 
 - Affordable craft activity  
 - Suitable for all ages  
@@ -41,7 +41,7 @@ These materials are easily available online or at local stationery stores.
 
 ### 1️⃣ Create Petals
 
-[![Pipe Cleaner Flower DIY Rose]({{ site.baseurl }}/assets/images/gardening/pipe-cleaner-rose-diy.jpg)]()
+[![Pipe Cleaner Flower DIY Rose]({{ site.baseurl }}/assets/images/gardening/pipe-cleaner-rose-diy.jpg)](https://pin.it/6vyz55YCq)
 
 Take one pipe cleaner and wrap it around a pencil to form loops. Slide it off and twist the ends together to secure the petal shape.
 
@@ -57,7 +57,7 @@ Make 4–6 loops depending on how full you want the flower. Spread them evenly t
 
 ### 3️⃣ Add the Stem
 
-[![Pipe Cleaner Flower Vase Design]({{ site.baseurl }}/assets/images/gardening/pipe-cleaner-flower-vase.jpg)]()
+[![Pipe Cleaner Flower Vase Design]({{ site.baseurl }}/assets/images/gardening/pipe-cleaner-flower-vase.jpg)](https://pin.it/rJf40ymqH)
 
 Attach another pipe cleaner by twisting it at the base of the petals. This acts as the flower stem.
 
@@ -65,7 +65,7 @@ Attach another pipe cleaner by twisting it at the base of the petals. This acts 
 
 ### 4️⃣ Decorate (Optional)
 
-[![Pipe Cleaner Flower Bouquet]({{ site.baseurl }}/assets/images/gardening/pipe-cleaner-flower-bouquet.jpg)]()
+[![Pipe Cleaner Flower Bouquet]({{ site.baseurl }}/assets/images/gardening/pipe-cleaner-flower-bouquet.jpg)](https://pin.it/2KYMCNrZM)
 
 Add beads in the center or twist different colors together for unique designs.
 
