@@ -13,7 +13,7 @@ Whether you prefer modern minimalism, rustic charm, or seasonal decor, here are 
 
 ## 🌸 1. Fresh Floral Arrangements
 
-![Dining Table Floral Centerpiece]({{ site.baseurl }}/assets/images/home-decor/floral-centerpiece-dining.jpg)
+[![Dining Table Floral Centerpiece]({{ site.baseurl }}/assets/images/home-decor/floral-centerpiece-dining-table.jpg)]()
 
 Fresh flowers never go out of style. A simple vase filled with seasonal blooms like tulips, roses, lilies, or eucalyptus can brighten your dining room instantly.
 
@@ -28,7 +28,7 @@ Fresh florals are perfect for everyday elegance and special occasions alike.
 
 ## 🕯 2. Candle Centerpiece Display
 
-![Candle Dining Table Decor]({{ site.baseurl }}/assets/images/home-decor/candle-centerpiece-dining.jpg)
+[![Candle Dining Table Decor]({{ site.baseurl }}/assets/images/home-decor/candle-centerpiece-dining-table.jpg)](https://pin.it/6Gi6PDdqB)
 
 Candles create warmth and ambiance, especially for evening dinners. A cluster of pillar candles in different heights adds dimension and softness to the table.
 
@@ -43,7 +43,7 @@ For safety and convenience, LED candles are also a great alternative.
 
 ## 🌿 3. Minimal Greenery Runner
 
-![Greenery Table Runner]({{ site.baseurl }}/assets/images/home-decor/greenery-runner-dining.jpg)
+[![Greenery Runner Dining Table Decor]({{ site.baseurl }}/assets/images/home-decor/greenery-runner-dining-table.jpg)]()
 
 If you love modern decor, a simple greenery runner works beautifully. Lay eucalyptus garlands or artificial vines along the center of the table for a fresh and natural aesthetic.
 
@@ -58,7 +58,7 @@ It keeps the table stylish without feeling overcrowded.
 
 ## 🪵 4. Rustic Wooden Tray Arrangement
 
-![Rustic Tray Centerpiece]({{ site.baseurl }}/assets/images/home-decor/rustic-tray-centerpiece.jpg)
+[![Rustic Wooden Tray Dining Table Centerpiece]({{ site.baseurl }}/assets/images/home-decor/rustic-tray-centerpiece-dining.jpg)]()
 
 A wooden tray helps organize decorative elements while adding texture. You can place:
 
@@ -73,7 +73,7 @@ This creates a cozy farmhouse-inspired centerpiece that’s easy to update seaso
 
 ## 🍋 5. Seasonal or Fruit Bowl Display
 
-![Fruit Bowl Centerpiece]({{ site.baseurl }}/assets/images/home-decor/fruit-bowl-centerpiece.jpg)
+[![Fruit Bowl Dining Table Centerpiece]({{ site.baseurl }}/assets/images/home-decor/fruit-bowl-centerpiece-dining.jpg)]()
 
 A stylish fruit bowl is both decorative and functional. Lemons, apples, or oranges in a ceramic or glass bowl can add color and vibrancy.
 
@@ -87,8 +87,6 @@ Simple yet eye-catching.
 ---
 
 ## 🏺 6. Statement Vase with Branches
-
-![Modern Vase with Branches]({{ site.baseurl }}/assets/images/home-decor/vase-branches-centerpiece.jpg)
 
 Tall decorative branches in a modern vase create a bold look for larger dining tables. Choose dried pampas grass, cherry blossom branches, or minimalist twigs for a sophisticated vibe.
 
