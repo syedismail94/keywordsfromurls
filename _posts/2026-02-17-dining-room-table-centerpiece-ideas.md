@@ -13,7 +13,7 @@ Whether you prefer modern minimalism, rustic charm, or seasonal decor, here are 
 
 ## 🌸 1. Fresh Floral Arrangements
 
-[![Dining Table Floral Centerpiece]({{ site.baseurl }}/assets/images/home-decor/floral-centerpiece-dining-table.jpg)]()
+[![Dining Table Floral Centerpiece]({{ site.baseurl }}/assets/images/home-decor/floral-centerpiece-dining-table.jpg)](https://pin.it/4HV0zQcOk)
 
 Fresh flowers never go out of style. A simple vase filled with seasonal blooms like tulips, roses, lilies, or eucalyptus can brighten your dining room instantly.
 
@@ -43,7 +43,7 @@ For safety and convenience, LED candles are also a great alternative.
 
 ## 🌿 3. Minimal Greenery Runner
 
-[![Greenery Runner Dining Table Decor]({{ site.baseurl }}/assets/images/home-decor/greenery-runner-dining-table.jpg)]()
+[![Greenery Runner Dining Table Decor]({{ site.baseurl }}/assets/images/home-decor/greenery-runner-dining-table.jpg)](https://pin.it/7ESTEKFYy)
 
 If you love modern decor, a simple greenery runner works beautifully. Lay eucalyptus garlands or artificial vines along the center of the table for a fresh and natural aesthetic.
 
@@ -58,7 +58,7 @@ It keeps the table stylish without feeling overcrowded.
 
 ## 🪵 4. Rustic Wooden Tray Arrangement
 
-[![Rustic Wooden Tray Dining Table Centerpiece]({{ site.baseurl }}/assets/images/home-decor/rustic-tray-centerpiece-dining.jpg)]()
+[![Rustic Wooden Tray Dining Table Centerpiece]({{ site.baseurl }}/assets/images/home-decor/rustic-tray-centerpiece-dining.jpg)](https://pin.it/44YCbKV1d)
 
 A wooden tray helps organize decorative elements while adding texture. You can place:
 
