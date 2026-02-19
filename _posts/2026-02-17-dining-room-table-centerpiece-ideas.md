@@ -73,7 +73,7 @@ This creates a cozy farmhouse-inspired centerpiece that’s easy to update seaso
 
 ## 🍋 5. Seasonal or Fruit Bowl Display
 
-[![Fruit Bowl Dining Table Centerpiece]({{ site.baseurl }}/assets/images/home-decor/fruit-bowl-centerpiece-dining.jpg)]()
+[![Fruit Bowl Dining Table Centerpiece]({{ site.baseurl }}/assets/images/home-decor/fruit-bowl-centerpiece-dining.jpg)](https://pin.it/7aT7xgAxN)
 
 A stylish fruit bowl is both decorative and functional. Lemons, apples, or oranges in a ceramic or glass bowl can add color and vibrancy.
 
