@@ -13,7 +13,7 @@ Whether you have a small balcony, a backyard, or a full garden bed, trellis idea
 
 ## 🌿 1. Wooden Garden Trellis
 
-[![Wooden Garden Trellis]({{ site.baseurl }}/assets/images/gardening/wooden-garden-trellis.jpg)]()
+[![Wooden Garden Trellis]({{ site.baseurl }}/assets/images/gardening/wooden-garden-trellis.jpg)](https://pin.it/17uvpBSpu)
 
 A wooden trellis is a timeless and versatile choice. It blends naturally with garden decor and works perfectly for climbing plants like roses, beans, and cucumbers.
 
@@ -26,7 +26,7 @@ A wooden trellis is a timeless and versatile choice. It blends naturally with ga
 
 ## 🏡 2. Wall-Mounted Trellis
 
-[![Wall Mounted Trellis]({{ site.baseurl }}/assets/images/gardening/wall-mounted-trellis.jpg)]()
+[![Wall Mounted Trellis]({{ site.baseurl }}/assets/images/gardening/wall-mounted-trellis.jpg)](https://pin.it/ZDuML2MrT)
 
 Perfect for small spaces, a wall-mounted trellis turns empty walls into a vertical garden. Ideal for indoor plants and balcony gardening.
 
@@ -39,7 +39,7 @@ Perfect for small spaces, a wall-mounted trellis turns empty walls into a vertic
 
 ## 🌸 3. Decorative Metal Trellis
 
-[![Metal Garden Trellis]({{ site.baseurl }}/assets/images/gardening/metal-garden-trellis.jpg)]()
+[![Metal Garden Trellis]({{ site.baseurl }}/assets/images/gardening/metal-garden-trellis.jpg)](https://pin.it/36kL1u71D)
 
 If you want elegance, a metal trellis adds a decorative touch while providing strong support for flowering plants.
 
