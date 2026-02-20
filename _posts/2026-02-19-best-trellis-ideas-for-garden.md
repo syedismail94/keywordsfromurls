@@ -52,7 +52,7 @@ If you want elegance, a metal trellis adds a decorative touch while providing st
 
 ## 🍅 4. Trellis for Raised Garden Beds
 
-[![Raised Garden Bed Trellis]({{ site.baseurl }}/assets/images/gardening/raised-bed-trellis.jpg)]()
+[![Raised Garden Bed Trellis]({{ site.baseurl }}/assets/images/gardening/raised-bed-trellis.jpg)](https://pin.it/4vLJaSL6e)
 
 A trellis attached to raised garden beds is perfect for growing vegetables vertically. It saves space and increases productivity.
 
@@ -65,7 +65,7 @@ A trellis attached to raised garden beds is perfect for growing vegetables verti
 
 ## 🌿 5. DIY Bamboo Trellis
 
-[![DIY Bamboo Trellis]({{ site.baseurl }}/assets/images/gardening/bamboo-trellis.jpg)]()
+[![DIY Bamboo Trellis]({{ site.baseurl }}/assets/images/gardening/bamboo-trellis.jpg)](https://pin.it/4soZazeRo)
 
 A bamboo trellis is eco-friendly and easy to build. It’s one of the best options for DIY garden lovers.
 
@@ -78,7 +78,7 @@ A bamboo trellis is eco-friendly and easy to build. It’s one of the best optio
 
 ## 🪴 6. Indoor Plant Trellis
 
-[![Indoor Plant Trellis]({{ site.baseurl }}/assets/images/gardening/indoor-plant-trellis.jpg)]()
+[![Indoor Plant Trellis]({{ site.baseurl }}/assets/images/gardening/indoor-plant-trellis.jpg)](https://pin.it/4d7EIu88n)
 
 Indoor trellises help house plants like pothos and monstera grow upward, making your plant decor look more structured and stylish.
 
