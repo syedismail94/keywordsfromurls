@@ -10,7 +10,7 @@ Watching your baby grow and reach milestones like sitting is exciting. But somet
 In this article, we’ll explain what wrong sitting positions look like, why they happen, and how you can safely help your baby sit properly.
 
 ---
-[![Fix Baby Sitting Position]({{ site.baseurl }}/assets/images/parenting/baby-sitting-wrong-position.png)](https://pin.it/your-pin-link-here)
+[![Fix Baby Sitting Position]({{ site.baseurl }}/assets/images/parenting/baby-sitting-wrong-position.png)](https://pin.it/2SqJpZvIp)
 ## What is a Wrong Sitting Position in Babies?
 
 A wrong sitting position means your baby is not sitting in a balanced, upright posture. Some common examples include:
