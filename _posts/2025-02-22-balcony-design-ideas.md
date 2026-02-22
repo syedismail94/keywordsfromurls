@@ -1,6 +1,6 @@
 ---
 title: "15 Beautiful Balcony Design Ideas That Turn Any Outdoor Space Into a Cozy Retreat"
-categories: [home-decor]
+categories: [gardening]
 layout: single
 description: Simple and stunning balcony design ideas to transform your outdoor space into a relaxing and stylish retreat.
 ---
@@ -15,7 +15,7 @@ Below are **15 balcony design ideas** that are stylish, budget-friendly, and per
 
 ## 1. Add Comfortable Outdoor Seating
 
-[![Add Comfortable Outdoor Seating]({{ site.baseurl }}/assets/images/balcony-design/1-outdoor-seating.jpg)]()
+[![Add Comfortable Outdoor Seating]({{ site.baseurl }}/assets/images/balcony-design/1-outdoor-seating.jpg)](https://pin.it/3ZD0vitZJ)
 
 The foundation of any great balcony design is comfortable seating. Without it, you will rarely use the space no matter how beautifully it is decorated.
 
@@ -27,7 +27,7 @@ When choosing seating, always opt for weather-resistant materials like powder-co
 
 ## 2. Use String Lights for Ambiance
 
-[![String Lights Balcony]({{ site.baseurl }}/assets/images/balcony-design/2-string-lights.jpg)]()
+[![String Lights Balcony]({{ site.baseurl }}/assets/images/balcony-design/2-string-lights.jpg)](https://pin.it/z6KrZxTmt)
 
 Nothing transforms a balcony faster than the warm glow of string lights. They are one of the most affordable and impactful decor upgrades you can make to any outdoor space.
 
@@ -39,7 +39,7 @@ Solar-powered string lights are a great eco-friendly option that eliminates the 
 
 ## 3. Add Potted Plants and Greenery
 
-[![Potted Plants Balcony]({{ site.baseurl }}/assets/images/balcony-design/3-potted-plants.jpg)]()
+[![Potted Plants Balcony]({{ site.baseurl }}/assets/images/balcony-design/3-potted-plants.jpg)](https://pin.it/4D5r1yq0I)
 
 Plants are the soul of a beautiful balcony. They bring life, color, freshness, and a calming natural energy that no other decor element can replicate.
 
@@ -51,7 +51,7 @@ If you enjoy cooking, consider adding a small herb garden with basil, mint, rose
 
 ## 4. Lay Down an Outdoor Rug
 
-[![Outdoor Rug Balcony]({{ site.baseurl }}/assets/images/balcony-design/4-outdoor-rug.jpg)]()
+[![Outdoor Rug Balcony]({{ site.baseurl }}/assets/images/balcony-design/4-outdoor-rug.jpg)](https://pin.it/7N1R9sl6b)
 
 An outdoor rug is one of the most underrated balcony upgrades. It instantly defines the space, adds warmth underfoot, and makes your balcony feel like a proper room rather than an afterthought.
 
@@ -63,7 +63,7 @@ Go for bold geometric patterns if you want to add visual interest, or stick to n
 
 ## 5. Create a Vertical Garden Wall
 
-[![Vertical Garden Wall Balcony]({{ site.baseurl }}/assets/images/balcony-design/5-vertical-garden.jpg)]()
+[![Vertical Garden Wall Balcony]({{ site.baseurl }}/assets/images/balcony-design/5-vertical-garden.jpg)](https://pin.it/5Ra6xbneq)
 
 When floor space is limited, the solution is simple — go vertical. A vertical garden wall is one of the most creative and visually stunning ways to add greenery to a small balcony without sacrificing precious floor space.
 
@@ -75,7 +75,7 @@ Choose a mix of trailing plants, ferns, and flowering varieties to create textur
 
 ## 6. Add a Small Balcony Dining Set
 
-[![Balcony Dining Set]({{ site.baseurl }}/assets/images/balcony-design/6-dining-set.jpg)]()
+[![Balcony Dining Set]({{ site.baseurl }}/assets/images/balcony-design/6-dining-set.jpg)](https://pin.it/1itZGo7Rm)
 
 There is something truly special about eating a meal outdoors with a view. Even the smallest balcony can accommodate a compact dining setup that makes every breakfast, lunch, or dinner feel like a special occasion.
 
@@ -87,7 +87,7 @@ Look for dining sets made from lightweight yet durable materials like aluminum o
 
 ## 7. Hang Outdoor Curtains for Privacy
 
-[![Outdoor Curtains Balcony]({{ site.baseurl }}/assets/images/balcony-design/7-outdoor-curtains.jpg)]()
+[![Outdoor Curtains Balcony]({{ site.baseurl }}/assets/images/balcony-design/7-outdoor-curtains.jpg)](https://pin.it/PVksUKl6l)
 
 Outdoor curtains are a game-changer for balconies, especially in apartment buildings where privacy can be a concern. They add softness, elegance, and a breezy resort-like feel while also creating a sense of enclosure that makes the space feel more intimate and cozy.
 
@@ -99,7 +99,7 @@ Install a simple curtain rod or tension wire along the ceiling or overhead beam 
 
 ## 8. Use a Hammock or Hanging Chair
 
-[![Hammock Hanging Chair Balcony]({{ site.baseurl }}/assets/images/balcony-design/8-hammock-chair.jpg)]()
+[![Hammock Hanging Chair Balcony]({{ site.baseurl }}/assets/images/balcony-design/8-hammock-chair.jpg)](https://pin.it/7B5gHuKKP)
 
 If there is one balcony addition that instantly elevates the relaxation factor, it is a hanging chair or compact hammock. There is simply no better way to spend a lazy afternoon than gently swaying in a hammock with a good book and a cup of tea.
 
@@ -111,7 +111,7 @@ For longer balconies, a traditional hammock strung between two fixed points crea
 
 ## 9. Add a Small Water Feature
 
-[![Water Feature Balcony]({{ site.baseurl }}/assets/images/balcony-design/9-water-feature.jpg)]()
+[![Water Feature Balcony]({{ site.baseurl }}/assets/images/balcony-design/9-water-feature.jpg)](https://pin.it/kxDe7TwsL)
 
 The gentle sound of flowing water has an incredibly calming effect on the mind and body. Adding a small water feature to your balcony instantly transforms it from a simple outdoor space into a true personal sanctuary.
 
@@ -123,7 +123,7 @@ You can also consider a decorative bowl water feature with floating flowers or p
 
 ## 10. Decorate with Lanterns and Candles
 
-[![Lanterns Candles Balcony]({{ site.baseurl }}/assets/images/balcony-design/10-lanterns-candles.jpg)]()
+[![Lanterns Candles Balcony]({{ site.baseurl }}/assets/images/balcony-design/10-lanterns-candles.jpg)](https://pin.it/1L5DGFqgW)
 
 Lanterns and candles are among the most timeless and beautiful ways to add warmth and atmosphere to a balcony. The soft, flickering glow they cast creates an instantly romantic and inviting ambiance that electric lights simply cannot replicate.
 
@@ -135,7 +135,7 @@ For safety and convenience, consider using battery-operated LED candles that mim
 
 ## 11. Install Railing Planters
 
-[![Railing Planters Balcony]({{ site.baseurl }}/assets/images/balcony-design/11-railing-planters.jpg)]()
+[![Railing Planters Balcony]({{ site.baseurl }}/assets/images/balcony-design/11-railing-planters.jpg)](https://pin.it/5EXksOPSw)
 
 Railing planters are a brilliant and space-saving solution for balcony gardening. They clip directly onto your balcony railing, allowing you to grow beautiful flowers, trailing plants, and herbs without using any floor space at all.
 
@@ -147,7 +147,7 @@ Make sure you choose railing planters that are specifically designed to fit your
 
 ## 12. Create a Cozy Reading Nook
 
-[![Balcony Reading Nook]({{ site.baseurl }}/assets/images/balcony-design/12-reading-nook.jpg)]()
+[![Balcony Reading Nook]({{ site.baseurl }}/assets/images/balcony-design/12-reading-nook.jpg)](https://pin.it/2SgnkCpP2)
 
 A balcony reading nook is the ultimate dream for book lovers and anyone who craves a quiet personal retreat away from the hustle of everyday life. Even a tiny balcony corner can be transformed into a dedicated reading sanctuary with just a few simple additions.
 
@@ -159,7 +159,7 @@ Complete the nook with soft overhead lighting or a small solar lantern for readi
 
 ## 13. Use Neutral and Earthy Tones
 
-[![Neutral Earthy Balcony Decor]({{ site.baseurl }}/assets/images/balcony-design/13-neutral-tones.jpg)]()
+[![Neutral Earthy Balcony Decor]({{ site.baseurl }}/assets/images/balcony-design/13-neutral-tones.jpg)](https://pin.it/5SXgkt2IC)
 
 Color palette plays a huge role in how a balcony feels. The right colors can make even a small space feel calm, open, and beautifully cohesive.
 
@@ -171,7 +171,7 @@ To create a cohesive look, choose two or three tones as your primary palette and
 
 ## 14. Add a Fire Pit or Tabletop Heater
 
-[![Fire Pit Balcony]({{ site.baseurl }}/assets/images/balcony-design/14-fire-pit.jpg)]()
+[![Fire Pit Balcony]({{ site.baseurl }}/assets/images/balcony-design/14-fire-pit.jpg)](https://pin.it/2yrEQqVl8)
 
 One of the biggest limitations of outdoor balcony living is the change in seasons. As temperatures drop in autumn and winter, most people abandon their balconies entirely. A tabletop fire pit or compact balcony heater solves this problem beautifully.
 
@@ -183,7 +183,7 @@ Electric patio heaters are another excellent option that provide consistent and 
 
 ## 15. Style with Outdoor Throw Pillows and Blankets
 
-[![Outdoor Throw Pillows Balcony]({{ site.baseurl }}/assets/images/balcony-design/15-throw-pillows.jpg)]()
+[![Outdoor Throw Pillows Balcony]({{ site.baseurl }}/assets/images/balcony-design/15-throw-pillows.jpg)](https://pin.it/5S7Lk5nWw)
 
 The finishing touch that ties any balcony design together is the layering of soft textiles — specifically outdoor throw pillows and blankets. These are the elements that make a balcony feel truly lived-in, comfortable, and inviting rather than just functional.
 
