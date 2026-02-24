@@ -4,7 +4,7 @@ categories: [gardening]
 layout: single
 description: Simple and stunning balcony design ideas to transform your outdoor space into a relaxing and stylish retreat.
 ---
-
+----
 Your balcony is more than just an extra square footage attached to your home — it is a personal outdoor escape waiting to be transformed. Whether you have a tiny apartment balcony or a spacious terrace, the right design choices can turn it into your favorite spot in the entire house.
 
 The good news? You do not need a massive budget or a professional interior designer to make it happen. With smart furniture choices, the right plants, cozy lighting, and a few creative touches, even the smallest balcony can feel like a luxury retreat.
