@@ -36,8 +36,7 @@ Balcony gardens face unique challenges — limited floor space, exposure to wind
 
 ### 1. Petunias
 
-[![Petunias on Balcony]({{ site.baseurl }}/assets/images/gardening/petunias-balcony.jpg)](https://pin.it/example1)
-
+[![Petunias on Balcony]({{ site.baseurl }}/assets/images/gardening/petunias-balcony.jpg)](https://pin.it/6HfUKiFDa)
 One of the most popular balcony flowers, petunias are compact, colorful, and low-maintenance. Trailing varieties look stunning in hanging baskets.
 
 **Best for:** Hanging baskets, railing pots  
@@ -48,7 +47,7 @@ One of the most popular balcony flowers, petunias are compact, colorful, and low
 
 ### 2. Geraniums
 
-[![Geraniums in Containers]({{ site.baseurl }}/assets/images/gardening/geraniums-balcony.jpg)](https://pin.it/example2)
+[![Geraniums in Containers]({{ site.baseurl }}/assets/images/gardening/geraniums-balcony.jpg)](https://pin.it/6HfUKiFDa)
 
 Geraniums are drought-tolerant and long-blooming, making them perfect for small spaces.
 
@@ -60,7 +59,7 @@ Geraniums are drought-tolerant and long-blooming, making them perfect for small 
 
 ### 3. Climbing Roses
 
-[![Climbing Rose on Trellis]({{ site.baseurl }}/assets/images/gardening/climbing-rose-trellis.jpg)](https://pin.it/example3)
+[![Climbing Rose on Trellis]({{ site.baseurl }}/assets/images/gardening/climbing-rose-trellis.jpg)](https://pin.it/1xlcQ41mF)
 
 Perfect for vertical gardening with a romantic look.
 
@@ -72,7 +71,7 @@ Perfect for vertical gardening with a romantic look.
 
 ### 4. Lavender
 
-[![Lavender in Pots]({{ site.baseurl }}/assets/images/gardening/lavender-pots.jpg)](https://pin.it/example4)
+[![Lavender in Pots]({{ site.baseurl }}/assets/images/gardening/lavender-pots.jpg)](https://pin.it/7C7Yv24O8)
 
 Adds fragrance and repels mosquitoes.
 
@@ -84,7 +83,7 @@ Adds fragrance and repels mosquitoes.
 
 ### 5. Bougainvillea
 
-[![Bougainvillea on Balcony Trellis]({{ site.baseurl }}/assets/images/gardening/bougainvillea-trellis.jpg)](https://pin.it/example5)
+[![Bougainvillea on Balcony Trellis]({{ site.baseurl }}/assets/images/gardening/bougainvillea-trellis.jpg)](https://pin.it/6RFMQ91or)
 
 Bright and vibrant climber for sunny balconies.
 
@@ -96,7 +95,7 @@ Bright and vibrant climber for sunny balconies.
 
 ### 6. Marigolds
 
-[![Marigolds in Balcony Pots]({{ site.baseurl }}/assets/images/gardening/marigolds-balcony.jpg)](https://pin.it/example6)
+[![Marigolds in Balcony Pots]({{ site.baseurl }}/assets/images/gardening/marigolds-balcony.jpg)](https://pin.it/4uAmScMf0)
 
 Easy to grow and pest-repelling flowers.
 
@@ -108,7 +107,7 @@ Easy to grow and pest-repelling flowers.
 
 ### 7. Jasmine
 
-[![Jasmine on Trellis]({{ site.baseurl }}/assets/images/gardening/jasmine-trellis.jpg)](https://pin.it/example7)
+[![Jasmine on Trellis]({{ site.baseurl }}/assets/images/gardening/jasmine-trellis.jpg)](https://pin.it/75NSPXmax)
 
 Fragrant climber ideal for evenings.
 
@@ -120,7 +119,7 @@ Fragrant climber ideal for evenings.
 
 ### 8. Pansies & Violas
 
-[![Pansies in Balcony Window Box]({{ site.baseurl }}/assets/images/gardening/pansies-window-box.jpg)](https://pin.it/example8)
+[![Pansies in Balcony Window Box]({{ site.baseurl }}/assets/images/gardening/pansies-window-box.jpg)](https://pin.it/4jvdcbuCE)
 
 Great for cool-season color.
 
@@ -132,7 +131,7 @@ Great for cool-season color.
 
 ### 9. Calibrachoa
 
-[![Calibrachoa in Hanging Basket]({{ site.baseurl }}/assets/images/gardening/calibrachoa-basket.jpg)](https://pin.it/example9)
+[![Calibrachoa in Hanging Basket]({{ site.baseurl }}/assets/images/gardening/calibrachoa-basket.jpg)](https://pin.it/59bchGrMI)
 
 Mini petunia-like flowers that bloom heavily.
 
@@ -144,7 +143,7 @@ Mini petunia-like flowers that bloom heavily.
 
 ### 10. Passionflower
 
-[![Passionflower Climbing Trellis]({{ site.baseurl }}/assets/images/gardening/passionflower-trellis.jpg)](https://pin.it/example10)
+[![Passionflower Climbing Trellis]({{ site.baseurl }}/assets/images/gardening/passionflower-trellis.jpg)](https://pin.it/2jjr6b7I7)
 
 Exotic climber with unique flowers.
 
