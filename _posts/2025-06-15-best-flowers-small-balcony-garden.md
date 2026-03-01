@@ -1,4 +1,4 @@
-Best Flowers for Small Balcony Garden write article on it with  ---
+----
 title: "Vertical Garden Trellis for Small Spaces"
 layout: single
 categories: [gardening]
