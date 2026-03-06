@@ -14,7 +14,7 @@ Here are the **best shade garden ideas for 2026** to help you transform any dark
 
 ## 1. Classic Hostas Shade Garden
 
-[![Classic Hostas Shade Garden Ideas]({{ site.baseurl }}/assets/images/garden/shade-garden-hostas.jpg)]()
+[![Classic Hostas Shade Garden Ideas]({{ site.baseurl }}/assets/images/garden/shade-garden-hostas.png)](https://pin.it/2hhXzEU70)
 
 Hostas are the most popular shade garden plant for good reason. Their large bold leaves in green, blue and variegated patterns create a dramatic low maintenance ground cover.
 
@@ -24,7 +24,7 @@ Mix different hosta sizes and colors together for a layered, professional garden
 
 ## 2. Fern and Moss Garden
 
-[![Fern and Moss Shade Garden]({{ site.baseurl }}/assets/images/garden/shade-garden-fern-moss.jpg)]()
+[![Fern and Moss Shade Garden]({{ site.baseurl }}/assets/images/garden/shade-garden-fern-moss.png)](https://pin.it/2M93U5PRJ)
 
 Ferns and moss together create the most naturally beautiful shade garden aesthetic. This combination gives a forest floor feel that looks effortlessly wild and lush.
 
@@ -34,7 +34,7 @@ Perfect for dark corners under trees where nothing else seems to grow.
 
 ## 3. Flowering Shade Garden with Astilbe
 
-[![Astilbe Flowering Shade Garden]({{ site.baseurl }}/assets/images/garden/shade-garden-astilbe.jpg)]()
+[![Astilbe Flowering Shade Garden]({{ site.baseurl }}/assets/images/garden/shade-garden-astilbe.png)](https://pin.it/3ngylPvRE)
 
 Astilbe brings stunning feathery plumes of pink, red, purple and white color to shady spots. They bloom beautifully in partial to full shade making them a must-have for any shade garden.
 
@@ -44,7 +44,7 @@ Combine with hostas and ferns for a full layered shade garden bed.
 
 ## 4. Japanese Shade Garden Style
 
-[![Japanese Style Shade Garden Ideas]({{ site.baseurl }}/assets/images/garden/shade-garden-japanese.jpg)]()
+[![Japanese Style Shade Garden Ideas]({{ site.baseurl }}/assets/images/garden/shade-garden-japanese.png)](https://pin.it/3ngylPvRE)
 
 A Japanese inspired shade garden uses moss, rocks, bamboo and maples to create a serene and meditative outdoor space. Minimal planting with maximum peaceful impact.
 
@@ -54,7 +54,7 @@ Add a small stone lantern or water feature to complete the zen atmosphere.
 
 ## 5. Shade Garden Under Trees
 
-[![Shade Garden Under Trees Ideas]({{ site.baseurl }}/assets/images/garden/shade-garden-under-trees.jpg)]()
+[![Shade Garden Under Trees Ideas]({{ site.baseurl }}/assets/images/garden/shade-garden-under-trees.png)](https://pin.it/3tIDemgC6)
 
 The space under large trees is often wasted but it is actually perfect for a shade garden. Use ground covers like pachysandra, ajuga and sweet woodruff to create a beautiful carpet of green.
 
@@ -64,7 +64,7 @@ Add spring bulbs like bluebells for seasonal color bursts throughout the year.
 
 ## 6. Colorful Impatiens Shade Bed
 
-[![Impatiens Colorful Shade Garden Bed]({{ site.baseurl }}/assets/images/garden/shade-garden-impatiens.jpg)]()
+[![Impatiens Colorful Shade Garden Bed]({{ site.baseurl }}/assets/images/garden/shade-garden-impatiens.png)](https://pin.it/v3DwCYWvz)
 
 Impatiens are the ultimate colorful flowering plant for shade gardens. Available in pink, red, orange, white and purple they bring vibrant color to the darkest garden spots.
 
@@ -74,7 +74,7 @@ Plant in masses for the most striking visual impact along pathways and borders.
 
 ## 7. Shade Garden with Stone Pathway
 
-[![Shade Garden Stone Pathway Design]({{ site.baseurl }}/assets/images/garden/shade-garden-stone-pathway.jpg)]()
+[![Shade Garden Stone Pathway Design]({{ site.baseurl }}/assets/images/garden/shade-garden-stone-pathway.png)](https://pin.it/v3DwCYWvz)
 
 A winding stone pathway through a shade garden creates a magical woodland feel. Line the path with ferns, hostas and low growing flowers for a truly enchanting walkway.
 
@@ -84,7 +84,7 @@ Use irregular stepping stones for a natural organic look that blends perfectly w
 
 ## 8. Woodland Shade Garden Design
 
-[![Woodland Shade Garden Design Ideas]({{ site.baseurl }}/assets/images/garden/shade-garden-woodland.jpg)]()
+[![Woodland Shade Garden Design Ideas]({{ site.baseurl }}/assets/images/garden/shade-garden-woodland.png)](https://pin.it/2ycXHqt5v)
 
 A woodland shade garden mimics the beauty of a natural forest floor. Use native plants like trillium, bleeding heart, wild ginger and Solomon's seal for an authentic woodland feel.
 
@@ -94,7 +94,7 @@ This style is low maintenance once established and attracts beautiful wildlife l
 
 ## 9. Shade Garden with Water Feature
 
-[![Shade Garden Water Feature Ideas]({{ site.baseurl }}/assets/images/garden/shade-garden-water-feature.jpg)]()
+[![Shade Garden Water Feature Ideas]({{ site.baseurl }}/assets/images/garden/shade-garden-water-feature.png)](https://pin.it/4Yjxx139w)
 
 Adding a small pond, birdbath or trickling water feature to a shade garden creates an incredibly peaceful atmosphere. The sound of water combined with lush green shade planting is deeply relaxing.
 
@@ -104,7 +104,7 @@ Surround the water feature with moisture loving plants like ligularia, rodgersia
 
 ## 10. Container Shade Garden for Small Spaces
 
-[![Container Shade Garden Small Space Ideas]({{ site.baseurl }}/assets/images/garden/shade-garden-containers.jpg)]()
+[![Container Shade Garden Small Space Ideas]({{ site.baseurl }}/assets/images/garden/shade-garden-containers.png)](https://pin.it/5ymlVKTU8)
 
 No ground space? No problem. Container shade gardens are perfect for shady patios, balconies and small yards. Use large pots with begonias, caladiums and ferns for a stunning portable shade garden.
 
