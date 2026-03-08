@@ -145,6 +145,145 @@ This is perfect for gardeners who want to grow a variety of vegetables alongside
 
 ---
 
+## 11. How to Choose and Prepare Seed Potatoes
+
+[![How to Choose and Prepare Seed Potatoes]({{ site.baseurl }}/assets/images/gardening/potato-seed-selection-cutting.png)](https://pin.it/placeholder)
+
+Choosing the right seed potatoes is the **single most important step** in growing a successful crop. Always buy **certified disease-free seed potatoes** from a reputable garden center or supplier — never use supermarket potatoes as they are often treated with sprout inhibitors and may carry disease.
+
+### What to Look for When Selecting Seed Potatoes
+
+- Choose firm, healthy tubers with **no soft spots, mold or rot**
+- Look for potatoes that already have visible **eyes (buds)** — small indentations on the surface from which sprouts will emerge
+- Larger seed potatoes with multiple eyes will need to be **cut into pieces** before planting
+- Smaller seed potatoes the size of a golf ball can be **planted whole**
+
+### How to Cut Seed Potatoes Correctly
+
+Cutting larger seed potatoes into pieces is a simple process but must be done carefully to avoid rot and disease. Here is the step by step method:
+
+1. **Use a clean sharp knife** — sterilize the blade with rubbing alcohol between cuts to avoid spreading disease
+2. Cut each potato so that **every piece has at least 2–3 eyes**
+3. Each cut piece should weigh at least **1.5 to 2 ounces** — roughly the size of a large egg
+4. After cutting, **lay the pieces out in a single layer** in a cool dry place
+5. Allow the cut surfaces to **cure and callous over for 24–48 hours** before planting — this forms a protective skin that dramatically reduces the risk of rot in the soil
+6. Once calloused, the cut pieces are ready to plant **eye side facing up**
+
+**Pro tip:** Dust cut surfaces lightly with **agricultural sulfur powder** after cutting to further protect against fungal infection before planting
+
+---
+
+## 12. Understanding Potato Eyes and Sprouting
+
+[![Potato Eyes and Sprouting Guide]({{ site.baseurl }}/assets/images/gardening/potato-eyes-sprouting.png)](https://pin.it/placeholder)
+
+The **eyes of a potato** are the small dimpled growing points scattered across the surface of every tuber. Each eye contains one or more buds that will develop into sprouts and eventually grow into a full potato plant.
+
+### How to Identify Potato Eyes
+
+- Eyes appear as small **circular indentations** with a slightly rougher texture than the surrounding skin
+- They are often clustered more heavily toward the **rose end** (the end opposite the point where it attached to the mother plant)
+- A healthy seed potato will have **5–10 or more eyes** distributed across its surface
+
+### How Sprouting Works
+
+When a potato is exposed to warmth and light, the eyes begin to **break dormancy and produce sprouts**. This is the beginning of the growing cycle:
+
+1. The eye bud swells and pushes out a **small green or purple shoot**
+2. The shoot develops small scale-like leaves and begins reaching toward light
+3. Once planted, the sprout extends downward to form **roots** and upward to become the **main stem** of the plant
+4. Underground, new tubers begin forming along **stolons** — horizontal underground stems that extend from the main plant stem
+
+**The more stem you bury when planting, the more stolons form — and the more potatoes you will harvest**
+
+---
+
+## 13. Full Potato Plant Growth Stages (What Happens Underground)
+
+[![Potato Plant Growth Stages Underground]({{ site.baseurl }}/assets/images/gardening/potato-growth-stages.png)](https://pin.it/placeholder)
+
+Understanding what is happening beneath the soil at each stage of growth helps you **water, feed and hill at exactly the right times** for maximum yield.
+
+### Stage 1 — Sprouting (Weeks 1–3)
+
+After planting, the seed potato sits in the soil and begins sending out **white hair-like roots** in all directions. The sprout pushes upward through the soil. The seed potato itself is being consumed as energy for this early growth phase.
+
+### Stage 2 — Vegetative Growth (Weeks 3–7)
+
+The plant emerges above soil and begins **rapid leafy green growth**. This is the time to start hilling soil up around the stems. Underground, stolons are beginning to extend horizontally from the buried stem.
+
+### Stage 3 — Tuber Initiation (Weeks 7–10)
+
+This is the **most critical stage**. Small baby potatoes begin forming at the tips of the stolons underground. This is triggered by longer days and the plant reaching maturity. Keep watering consistently and do not let the soil dry out — drought stress at this stage dramatically reduces yield.
+
+### Stage 4 — Tuber Bulking (Weeks 10–14)
+
+The baby potatoes grow rapidly, **swelling with starch and water**. The above-ground foliage begins to slow its growth as the plant redirects all energy underground. Continue hilling and maintain even soil moisture.
+
+### Stage 5 — Maturation (Weeks 14–20 depending on variety)
+
+The foliage begins to **yellow and die back** — this is completely normal and signals that the tubers are fully mature. The potato skins are hardening and setting. Stop watering about **2 weeks before harvest** to allow skins to firm up fully.
+
+---
+
+## 14. Hilling Potatoes — Why It Matters and How to Do It
+
+[![Hilling Potatoes Garden Technique]({{ site.baseurl }}/assets/images/gardening/potato-hilling-technique.png)](https://pin.it/placeholder)
+
+Hilling is the practice of **mounding soil up around the base of potato plants** as they grow. It is one of the most important techniques in potato growing and directly impacts your harvest size.
+
+### Why Hilling Is So Important
+
+- **Prevents greening** — potatoes exposed to light turn green and produce solanine, a bitter toxic compound. Hilling keeps tubers buried in darkness
+- **Creates more tuber sites** — the buried stem produces new stolons at every buried node, dramatically increasing the number of potatoes that form
+- **Protects from frost** — a thick soil mound insulates developing tubers from late spring frosts
+- **Improves drainage** — raised hills shed excess water away from the root zone
+
+### How to Hill Potatoes Step by Step
+
+1. Wait until your potato plants are **6–8 inches tall** above the soil surface
+2. Using a hoe or your hands, pull soil from between the rows and **mound it up around the base of each plant**, leaving only the top 3–4 inches of foliage exposed
+3. Repeat every **2–3 weeks** as the plant continues to grow upward
+4. By the end of the hilling process, your plants should sit on top of a **mound 10–12 inches high**
+5. Stop hilling once the plants begin to flower — at this point tuber formation is well underway and disturbing the soil can damage developing potatoes
+
+---
+
+## 15. Harvesting Potatoes — New Potatoes vs Full Crop
+
+[![Harvesting Potatoes New and Full Crop]({{ site.baseurl }}/assets/images/gardening/potato-harvesting-guide.png)](https://pin.it/placeholder)
+
+Knowing **when and how to harvest** your potatoes makes the difference between a good harvest and a great one. There are two distinct harvest approaches depending on what you want.
+
+### Harvesting New Potatoes (Early Harvest)
+
+New potatoes are **small, tender, thin-skinned baby potatoes** harvested before the plant has fully matured. They have a delicate creamy flavor that is completely different from fully mature potatoes.
+
+- Harvest new potatoes **2–3 weeks after the plant flowers**
+- Gently dig around the base of the plant with your hands or a small trowel — **do not disturb the main plant**
+- Take only the largest potatoes and leave smaller ones to keep growing
+- New potatoes have very **thin delicate skins** and do not store well — eat within a few days of harvest
+
+### Harvesting the Full Crop (Main Harvest)
+
+- Wait until the **foliage has fully yellowed and died back** — usually 2–3 weeks after dieback begins
+- Stop watering **10–14 days before planned harvest** to allow skins to set firm
+- Choose a **dry day** to harvest — wet soil makes it harder to find all your potatoes and increases bruising
+- Use a **garden fork** rather than a spade — insert it at least 12 inches away from the plant stem and lever upward gently to avoid spearing potatoes
+- Work your way carefully through the soil with your hands to find every potato — missing even one can lead to **volunteer plants next year**
+- Lay harvested potatoes out in a single layer to **dry in the air for 1–2 hours** before storing
+
+### Curing Potatoes for Long Term Storage
+
+Curing hardens the skin and **extends storage life dramatically**:
+
+1. Place harvested potatoes in a **dark, humid space at 50–60°F** (a basement or garage works well)
+2. Leave undisturbed for **10–14 days**
+3. After curing, store in **paper bags, wooden crates or hessian sacks** — never plastic as this traps moisture and causes rot
+4. Properly cured potatoes can store for **4–6 months** in ideal conditions
+
+---
+
 ### How to Chit (Pre-Sprout) Seed Potatoes for Best Results
 
 Before planting, **chitting your seed potatoes** gives them a head start and leads to earlier, heavier harvests. Here is how to do it:
@@ -192,18 +331,6 @@ Chitting is especially valuable for **early varieties** and in short growing sea
 
 ---
 
-### Essential Potato Growing Tips for 2026
-
-- 🌱 **Always use certified seed potatoes** — never plant supermarket potatoes as they may carry disease
-- 💧 **Water deeply and consistently** — potatoes need even moisture especially when tubers are forming
-- 🌞 **Choose a sunny spot** — potatoes need at least 6–8 hours of direct sunlight per day
-- 🌿 **Hill up regularly** — mounding soil around the stems every 2–3 weeks dramatically increases yield
-- 🐛 **Watch for Colorado potato beetle** — hand pick or use row covers for organic control
-- 🍂 **Harvest after the foliage dies back** — this signals the tubers are fully mature and skins are set
-- 📦 **Cure before storing** — leave harvested potatoes in a cool dark place for 2 weeks before long-term storage
-
----
-
 ### When to Plant Potatoes by Zone
 
 | USDA Zone | Spring Planting | Fall Planting |
@@ -213,6 +340,18 @@ Chitting is especially valuable for **early varieties** and in short growing sea
 | Zone 7 | March–April | October |
 | Zone 8 | February–March | October–November |
 | Zone 9–10 | January–February | November–December |
+
+---
+
+### Essential Potato Growing Tips for 2026
+
+- 🌱 **Always use certified seed potatoes** — never plant supermarket potatoes as they may carry disease
+- 💧 **Water deeply and consistently** — potatoes need even moisture especially when tubers are forming
+- 🌞 **Choose a sunny spot** — potatoes need at least 6–8 hours of direct sunlight per day
+- 🌿 **Hill up regularly** — mounding soil around the stems every 2–3 weeks dramatically increases yield
+- 🐛 **Watch for Colorado potato beetle** — hand pick or use row covers for organic control
+- 🍂 **Harvest after the foliage dies back** — this signals the tubers are fully mature and skins are set
+- 📦 **Cure before storing** — leave harvested potatoes in a cool dark place for 2 weeks before long-term storage
 
 ---
 
