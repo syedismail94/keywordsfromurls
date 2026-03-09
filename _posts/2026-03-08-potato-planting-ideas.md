@@ -14,7 +14,7 @@ Here are the **best potato planting ideas for 2026** to help you grow a bumper c
 
 ## 1. Classic In-Ground Row Planting
 
-[![Classic In-Ground Potato Row Planting]({{ site.baseurl }}/assets/images/gardening/potato-planting-in-ground-rows.png)](https://pin.it/placeholder)
+[![Classic In-Ground Potato Row Planting]({{ site.baseurl }}/assets/images/gardening/potato-planting-in-ground-rows.jpg)](https://pin.it/3cH526PJu)
 
 The traditional way to grow potatoes is in long rows directly in the ground. Dig trenches about **6 inches deep and 12 inches apart**, place your seed potatoes with the eyes facing up, and cover with soil.
 
@@ -27,7 +27,7 @@ As the plants grow, **hill up the soil** around the stems every few weeks to enc
 
 ## 2. Raised Bed Potato Garden
 
-[![Raised Bed Potato Planting Ideas]({{ site.baseurl }}/assets/images/gardening/potato-planting-raised-bed.png)](https://pin.it/placeholder)
+[![Raised Bed Potato Planting Ideas]({{ site.baseurl }}/assets/images/gardening/potato-planting-raised-bed.jpg)](https://pin.it/6C6sKZyU7)
 
 Raised beds are one of the **best ways to grow potatoes** because you have total control over your soil quality. Fill your raised bed with a rich mix of compost, topsoil and a little sand for excellent drainage.
 
@@ -40,7 +40,7 @@ Plant seed potatoes **12 inches apart** in a grid pattern. Raised beds also warm
 
 ## 3. Potato Tower or Bag Method
 
-[![Potato Tower Planting Method]({{ site.baseurl }}/assets/images/gardening/potato-planting-tower-bag.png)](https://pin.it/placeholder)
+[![Potato Tower Planting Method]({{ site.baseurl }}/assets/images/gardening/potato-planting-tower-bag.jpg)](https://pin.it/vqryPQ6gr)
 
 The potato tower is a fantastic space-saving method that is perfect for small yards and urban gardens. Start with a few seed potatoes at the bottom of a tall container or wire cage, then keep adding soil as the plant grows upward.
 
@@ -57,7 +57,7 @@ This method is said to dramatically **increase your yield** by encouraging the p
 
 ## 4. Growing Potatoes in Containers and Pots
 
-[![Container Pot Potato Planting Ideas]({{ site.baseurl }}/assets/images/gardening/potato-planting-containers.png)](https://pin.it/placeholder)
+[![Container Pot Potato Planting Ideas]({{ site.baseurl }}/assets/images/gardening/potato-planting-containers.jpg)](https://pin.it/2bMGmPNXd)
 
 No garden? No problem. Potatoes grow beautifully in large containers on patios, balconies and doorsteps. Use a pot that is **at least 15 gallons** in size for best results.
 
@@ -70,7 +70,7 @@ Add a layer of gravel at the bottom for drainage, then fill with potting mix. Pl
 
 ## 5. Straw Mulch Potato Planting
 
-[![Straw Mulch Potato Planting Method]({{ site.baseurl }}/assets/images/gardening/potato-planting-straw-mulch.png)](https://pin.it/placeholder)
+[![Straw Mulch Potato Planting Method]({{ site.baseurl }}/assets/images/gardening/potato-planting-straw-mulch.jpg)](https://pin.it/2yu1Ch59d)
 
 The straw mulch method is the **laziest and most satisfying** way to grow potatoes. Simply lay your seed potatoes on top of the soil and cover them with a thick layer of straw — around **8–12 inches deep**.
 
@@ -83,7 +83,7 @@ As the plants grow, continue adding more straw. At harvest time, simply pull bac
 
 ## 6. Hügelkultur Potato Bed
 
-[![Hugelkultur Raised Bed Potato Planting]({{ site.baseurl }}/assets/images/gardening/potato-planting-hugelkultur.png)](https://pin.it/placeholder)
+[![Hugelkultur Raised Bed Potato Planting]({{ site.baseurl }}/assets/images/gardening/potato-planting-hugelkultur.jpg)](https://pin.it/1FgfptG3D)
 
 Hügelkultur is a traditional European permaculture technique that creates incredibly fertile, self-watering garden beds from buried wood and organic matter. Build a mound from logs, branches, leaves and compost then plant your potatoes on top.
 
@@ -95,7 +95,7 @@ As the buried wood decomposes it **creates heat, retains moisture and feeds your
 
 ## 7. Potato Planting Under Black Plastic Mulch
 
-[![Black Plastic Mulch Potato Planting]({{ site.baseurl }}/assets/images/gardening/potato-planting-black-plastic.png)](https://pin.it/placeholder)
+[![Black Plastic Mulch Potato Planting]({{ site.baseurl }}/assets/images/gardening/potato-planting-black-plastic.jpg)](https://pin.it/7AV4fzdol)
 
 Professional potato growers often use black plastic sheeting to warm the soil, suppress weeds and retain moisture. Lay the plastic over your prepared bed, cut X-shaped slits and plant your seed potatoes through the openings.
 
@@ -107,7 +107,7 @@ This method is particularly effective in **cooler climates** where soil warmth i
 
 ## 8. Companion Planting with Potatoes
 
-[![Companion Planting Potato Garden Ideas]({{ site.baseurl }}/assets/images/gardening/potato-planting-companion.png)](https://pin.it/placeholder)
+[![Companion Planting Potato Garden Ideas]({{ site.baseurl }}/assets/images/gardening/potato-planting-companion.jpg)](https://pin.it/10TA0Df2k)
 
 Planting the right companions alongside your potatoes can **improve yield, deter pests and maximize your garden space**. Some of the best companion plants for potatoes include:
 
@@ -122,7 +122,7 @@ Planting the right companions alongside your potatoes can **improve yield, deter
 
 ## 9. Fall and Winter Potato Planting (Warm Climates)
 
-[![Fall Winter Potato Planting Ideas]({{ site.baseurl }}/assets/images/gardening/potato-planting-fall-winter.png)](https://pin.it/placeholder)
+[![Fall Winter Potato Planting Ideas]({{ site.baseurl }}/assets/images/gardening/potato-planting-fall-winter.jpg)](https://pin.it/4GVCQuQsm)
 
 In USDA zones 8 and above, potatoes can be planted in **fall for a winter harvest** — often called second cropping. This allows gardeners in warmer climates to enjoy fresh homegrown potatoes in the cooler months when northern gardeners cannot grow anything.
 
@@ -134,7 +134,7 @@ Plant certified seed potatoes in October or November and harvest in January thro
 
 ## 10. Square Foot Potato Garden Method
 
-[![Square Foot Gardening Potato Planting]({{ site.baseurl }}/assets/images/gardening/potato-planting-square-foot.png)](https://pin.it/placeholder)
+[![Square Foot Gardening Potato Planting]({{ site.baseurl }}/assets/images/gardening/potato-planting-square-foot.jpg)](https://pin.it/3fkhzwtCZ)
 
 The **square foot gardening method** divides your growing space into a precise grid to maximize productivity in a small footprint. For potatoes, plant **1 seed potato per square foot** in a raised bed grid system.
 
@@ -147,7 +147,7 @@ This is perfect for gardeners who want to grow a variety of vegetables alongside
 
 ## 11. How to Choose and Prepare Seed Potatoes
 
-[![How to Choose and Prepare Seed Potatoes]({{ site.baseurl }}/assets/images/gardening/potato-seed-selection-cutting.png)](https://pin.it/placeholder)
+[![How to Choose and Prepare Seed Potatoes]({{ site.baseurl }}/assets/images/gardening/potato-seed-selection-cutting.jpg)](https://pin.it/U6jKG2M3n)
 
 Choosing the right seed potatoes is the **single most important step** in growing a successful crop. Always buy **certified disease-free seed potatoes** from a reputable garden center or supplier — never use supermarket potatoes as they are often treated with sprout inhibitors and may carry disease.
 
@@ -175,7 +175,7 @@ Cutting larger seed potatoes into pieces is a simple process but must be done ca
 
 ## 12. Understanding Potato Eyes and Sprouting
 
-[![Potato Eyes and Sprouting Guide]({{ site.baseurl }}/assets/images/gardening/potato-eyes-sprouting.png)](https://pin.it/placeholder)
+[![Potato Eyes and Sprouting Guide]({{ site.baseurl }}/assets/images/gardening/potato-eyes-sprouting.jpg)](https://pin.it/cFmmOdXhK)
 
 The **eyes of a potato** are the small dimpled growing points scattered across the surface of every tuber. Each eye contains one or more buds that will develop into sprouts and eventually grow into a full potato plant.
 
@@ -200,7 +200,7 @@ When a potato is exposed to warmth and light, the eyes begin to **break dormancy
 
 ## 13. Full Potato Plant Growth Stages (What Happens Underground)
 
-[![Potato Plant Growth Stages Underground]({{ site.baseurl }}/assets/images/gardening/potato-growth-stages.png)](https://pin.it/placeholder)
+[![Potato Plant Growth Stages Underground]({{ site.baseurl }}/assets/images/gardening/potato-growth-stages.jpg)](https://pin.it/7Da1PeZkM)
 
 Understanding what is happening beneath the soil at each stage of growth helps you **water, feed and hill at exactly the right times** for maximum yield.
 
@@ -228,7 +228,7 @@ The foliage begins to **yellow and die back** — this is completely normal and 
 
 ## 14. Hilling Potatoes — Why It Matters and How to Do It
 
-[![Hilling Potatoes Garden Technique]({{ site.baseurl }}/assets/images/gardening/potato-hilling-technique.png)](https://pin.it/placeholder)
+[![Hilling Potatoes Garden Technique]({{ site.baseurl }}/assets/images/gardening/potato-hilling-technique.jpg)](https://pin.it/7Da1PeZkM)
 
 Hilling is the practice of **mounding soil up around the base of potato plants** as they grow. It is one of the most important techniques in potato growing and directly impacts your harvest size.
 
@@ -251,7 +251,7 @@ Hilling is the practice of **mounding soil up around the base of potato plants**
 
 ## 15. Harvesting Potatoes — New Potatoes vs Full Crop
 
-[![Harvesting Potatoes New and Full Crop]({{ site.baseurl }}/assets/images/gardening/potato-harvesting-guide.png)](https://pin.it/placeholder)
+[![Harvesting Potatoes New and Full Crop]({{ site.baseurl }}/assets/images/gardening/potato-harvesting-guide.jpg)](https://pin.it/7Da1PeZkM)
 
 Knowing **when and how to harvest** your potatoes makes the difference between a good harvest and a great one. There are two distinct harvest approaches depending on what you want.
 
