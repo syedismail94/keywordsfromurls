@@ -1,3 +1,4 @@
+/* ✅ EXISTING - Post Grid Layout */
 .posts-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
@@ -26,19 +27,90 @@
   font-size: 14px;
   margin: 10px 0;
 }
-.page__content {
-  max-width: 1200px;
-  margin: 0 auto;
-}
 
 .post-card a {
   text-decoration: none;
   font-weight: 600;
   color: #e60073;
 }
+
+/* ✅ EXISTING - Content Width */
+.page__content {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
 @media (min-width: 1024px) {
   .page__content {
     max-width: 900px;
     margin: 0 auto;
+  }
+}
+
+/* ✅ NEW - Fix images centered in all articles */
+.page__content img {
+  display: block;
+  margin: 20px auto;
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.12);
+}
+
+/* ✅ NEW - Fix full width layout */
+.page {
+  float: none !important;
+  width: 100% !important;
+}
+
+/* ✅ NEW - Better reading experience */
+.page__content p {
+  line-height: 1.8;
+  font-size: 1.05em;
+}
+
+/* ✅ NEW - Responsive tables */
+.page__content table {
+  width: 100%;
+  display: block;
+  overflow-x: auto;
+  border-collapse: collapse;
+}
+
+.page__content table th {
+  background-color: #2D6A4F;
+  color: #ffffff;
+  padding: 10px 14px;
+  text-align: left;
+}
+
+.page__content table td {
+  padding: 8px 14px;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.page__content table tr:nth-child(even) {
+  background-color: #f7fff9;
+}
+
+/* ✅ NEW - Blockquote tip boxes */
+.page__content blockquote {
+  background: #D8F3DC;
+  border-left: 5px solid #2D6A4F;
+  padding: 14px 20px;
+  border-radius: 6px;
+  color: #1B2B1E;
+  font-size: 0.98em;
+}
+
+/* ✅ NEW - Mobile responsive images */
+@media (max-width: 768px) {
+  .page__content img {
+    border-radius: 6px;
+    margin: 14px auto;
+  }
+
+  .page__content table {
+    font-size: 0.85em;
   }
 }
