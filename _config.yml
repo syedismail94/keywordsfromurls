@@ -3,14 +3,14 @@ description: Home Decor, Fashion, Gardening & Parenting Blog
 
 # ✅ Custom Domain URL
 url: "https://keywordsfromurls.com"
-
-# ✅ MUST be empty for custom domain
 baseurl: ""
 
 remote_theme: mmistakes/minimal-mistakes
+
 plugins:
   - jekyll-include-cache
   - jekyll-sitemap
+
 minimal_mistakes_skin: default
 
 markdown: kramdown
@@ -22,7 +22,25 @@ permalink: /:title/
 sidebar:
   nav: false
 
-# ✅ Footer links (use relative_url automatically)
+# ✅ THIS IS THE FIX — Add defaults section
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      classes: wide
+      toc: true
+      toc_sticky: true
+      toc_label: "In This Article"
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      classes: wide
+
+# ✅ Footer links
 footer:
   links:
     - label: "About Us"
@@ -34,6 +52,6 @@ footer:
     - label: "Disclaimer"
       url: /disclaimer/
 
-# ✅ Custom CSS (Minimal Mistakes supported way)
+# ✅ Custom CSS
 custom_css:
   - assets/css/custom.css
