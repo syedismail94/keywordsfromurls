@@ -21,12 +21,20 @@ Before choosing your design, consider these three factors:
 - **Renter rules:** If renting, avoid drilling. All five designs below can be built without a single drill hole using zip ties, railing clamps or freestanding planter bases.
 
 ---
+---
 
+> 🛒 **Prefer a ready-made trellis?** If you'd rather skip the build and get straight to growing, these are two of our top picks on Amazon:
+> [**→ View Trellis Option 1 on Amazon**](https://amzn.to/4rwpFQD) · [**→ View Trellis Option 2 on Amazon**](https://amzn.to/3Phf3HR)
+> *(These are affiliate links — we may earn a small commission at no extra cost to you.)*
+
+
+---
 ## 1. Classic Bamboo Grid Trellis
 
 [![Classic Bamboo Grid Trellis]({{ site.baseurl }}/assets/images/garden/trellis-bamboo-grid-balcony.jpg)]({{ site.baseurl }}/assets/images/garden/trellis-bamboo-grid-balcony.jpg)
 
 The classic bamboo grid is the **most versatile, most popular and most beginner-friendly trellis design in existence**. Five vertical poles lashed together with horizontal rows of jute twine create a clean, attractive grid that suits any balcony style — from modern minimalist to bohemian cottage.
+
 
 ### How to Build a Bamboo Grid Trellis
 
@@ -141,6 +149,10 @@ Edible crops on teepee structures are thirsty — check daily in summer and wate
 🪴 **Corner positions on small balconies, or as a freestanding focal point in the centre of a larger balcony.** The teepee shape takes up minimal floor space at the base while providing excellent vertical coverage. Ideal for balconies where every centimetre of floor space counts.
 
 **Best climbing plants:** Pole beans · Sweet peas · Cucumbers · Climbing nasturtiums · Scarlet runner beans
+> 🛒 **Not a DIY person? No problem!** Browse ready-made balcony trellises on Amazon and skip straight to the planting:
+> [**→ Shop Ready-Made Trellis – Option 1**](https://amzn.to/4rwpFQD) · [**→ Shop Ready-Made Trellis – Option 2**](https://amzn.to/3Phf3HR)
+> *(Affiliate links — we earn a small commission at no extra cost to you.)*
+
 
 > 💡 **Pro Tip:** Scarlet runner beans are extraordinarily beautiful climbing plants — their brilliant crimson flowers are as ornamental as any flowering climber, and they produce a prolific crop of beans throughout summer. An ideal choice for the teepee structure.
 
