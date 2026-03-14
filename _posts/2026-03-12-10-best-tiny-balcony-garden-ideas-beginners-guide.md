@@ -98,6 +98,14 @@ Tomatoes in containers are thirsty — **check daily and water whenever the top 
 ### Bloom Season / Harvest
 
 **June – October** (continuous fruit production once established)
+> 🛒 **Not a DIY person? No problem!** Browse ready-made balcony trellises on Amazon and skip straight to the planting:
+> [**→ Shop Ready-Made Trellis – Option 1**](https://amzn.to/4rwpFQD) · [**→ Shop Ready-Made Trellis – Option 2**](https://amzn.to/3Phf3HR)
+> *(Affiliate links — we earn a small commission at no extra cost to you.)*
+
+> 🛒 **Prefer a ready-made trellis?** If you'd rather skip the build and get straight to growing, these are two of our top picks on Amazon:
+> [**→ View Trellis Option 1 on Amazon**](https://amzn.to/4rwpFQD) · [**→ View Trellis Option 2 on Amazon**](https://amzn.to/3Phf3HR)
+> *(These are affiliate links — we may earn a small commission at no extra cost to you.)*
+
 
 ### Budget Breakdown
 
