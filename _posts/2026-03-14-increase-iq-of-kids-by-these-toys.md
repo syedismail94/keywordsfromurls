@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: single
 title: "Increase IQ of Kids by These Toys: 5 Science-Backed Learning Tools Every Parent Should Know"
 date: 2026-03-14
 categories: [parenting, child-development, educational-toys]
 tags: [kids toys, IQ development, STEM, cognitive development, brain development, educational gifts]
 description: "Discover 5 research-backed educational toys that help develop problem-solving, math skills, spatial reasoning, and critical thinking in children — from toddlers to tweens."
-image: /assets/images/increase-iq-kids-toys-cover.jpg
+header:
+  image: /assets/images/parenting/increase-iq-kids-toys-cover.jpg
+  teaser: /assets/images/parenting/increase-iq-kids-toys-cover.jpg
 ---
 
 Every parent wants to give their child the best possible start in life. While genetics play a role in intelligence, research in developmental psychology consistently shows that **the right play experiences during childhood can meaningfully strengthen cognitive skills** — including problem-solving, memory, spatial reasoning, and mathematical thinking.
@@ -36,7 +38,7 @@ Toys that involve:
 
 **Best for:** Ages 3–8 | **Skill focus:** Spatial reasoning, pattern recognition, problem-solving
 
-{% include image.html src="/assets/images/coogam-wooden-blocks-puzzle.jpg" alt="Coogam Wooden Blocks Puzzle Brain Teasers Toy Tangram" %}
+[![Coogam Wooden Blocks Puzzle Brain Teasers Toy Tangram]({{ site.baseurl }}/assets/images/parenting/coogam-wooden-blocks-puzzle.jpg)]({{ site.baseurl }}/assets/images/parenting/coogam-wooden-blocks-puzzle.jpg)
 
 Tangrams are one of the oldest and most studied tools for building spatial intelligence in children. Originating in ancient China, these geometric puzzles require children to mentally rotate, flip, and combine shapes to form target images — a process that directly exercises the brain's visuospatial processing centers.
 
@@ -60,7 +62,7 @@ The wooden construction adds a sensory layer that digital alternatives simply ca
 
 **Best for:** Ages 8+ | **Skill focus:** Mental math, arithmetic fluency, strategic thinking
 
-{% include image.html src="/assets/images/target-math-game.jpg" alt="Target Math Game mental arithmetic card game" %}
+[![Target Math Game mental arithmetic card game for kids]({{ site.baseurl }}/assets/images/parenting/target-math-game.jpg)]({{ site.baseurl }}/assets/images/parenting/target-math-game.jpg)
 
 Mathematical fluency — the ability to work with numbers quickly and accurately — is one of the clearest markers of academic readiness. Yet many children struggle with arithmetic not because they lack intelligence, but because they haven't had enough *enjoyable* practice with numbers.
 
@@ -84,7 +86,7 @@ The competitive, game-based format also means children *want* to practice. Unlik
 
 **Best for:** Ages 7–Adult | **Skill focus:** Logic, deductive reasoning, strategic planning
 
-{% include image.html src="/assets/images/smartgames-iq-love.jpg" alt="SmartGames IQ Love Travel Puzzle Game" %}
+[![SmartGames IQ Love Travel Puzzle Game with 120 challenges]({{ site.baseurl }}/assets/images/parenting/smartgames-iq-love.jpg)]({{ site.baseurl }}/assets/images/parenting/smartgames-iq-love.jpg)
 
 The SmartGames brand has built a strong reputation among educators and cognitive development researchers for creating single-player puzzle games that are genuinely challenging — and genuinely effective.
 
@@ -108,7 +110,7 @@ The compact format also makes it ideal for travel, waiting rooms, and any situat
 
 **Best for:** Ages 3–8 | **Skill focus:** Fine motor development, creativity, early literacy
 
-{% include image.html src="/assets/images/tecjoe-lcd-writing-tablet.jpg" alt="TECJOE LCD Writing Tablet colorful drawing board for kids" %}
+[![TECJOE LCD Writing Tablet colorful drawing board for kids ages 3 to 8]({{ site.baseurl }}/assets/images/parenting/tecjoe-lcd-writing-tablet.jpg)]({{ site.baseurl }}/assets/images/parenting/tecjoe-lcd-writing-tablet.jpg)
 
 While puzzle-based toys build analytical thinking, creative and expressive tools develop a different but equally important set of cognitive capacities. Drawing, writing, and visual expression are among the earliest ways children process and communicate ideas.
 
@@ -134,7 +136,7 @@ The colorful screens and the satisfying erase button make this toy genuinely app
 
 **Best for:** Ages 2–5 | **Skill focus:** Vocabulary, early literacy, letters, music, interactive learning
 
-{% include image.html src="/assets/images/leapfrog-leaptop-touch.jpg" alt="LeapFrog 2-in-1 LeapTop Touch green educational laptop for toddlers" %}
+[![LeapFrog 2-in-1 LeapTop Touch green educational laptop for toddlers]({{ site.baseurl }}/assets/images/parenting/leapfrog-leaptop-touch.jpg)]({{ site.baseurl }}/assets/images/parenting/leapfrog-leaptop-touch.jpg)
 
 For very young children, the bridge between play and learning is at its most porous. Toddlers and preschoolers absorb language, concepts, and patterns at an extraordinary rate — and the quality of their learning environment matters enormously during these years.
 
