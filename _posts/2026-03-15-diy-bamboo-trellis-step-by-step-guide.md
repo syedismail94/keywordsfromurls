@@ -5,9 +5,6 @@ date: 2026-03-15
 categories: [gardening]
 tags: [bamboo trellis, DIY garden, balcony garden, climbing plants, budget garden, trellis ideas]
 description: "Learn how to build a bamboo grid trellis for just $14 with this complete step-by-step guide. Includes materials list, planting tips, and a ready-made option for non-DIYers."
-header:
-  image: /assets/images/garden/diy-bamboo-trellis-hero.jpg
-  teaser: /assets/images/garden/diy-bamboo-trellis-hero.jpg
 ---
 
 A bamboo trellis is one of the most satisfying things you can build for a garden. It takes under an hour, costs almost nothing, and the moment climbing plants start weaving through the grid, your wall or balcony is transformed completely.
