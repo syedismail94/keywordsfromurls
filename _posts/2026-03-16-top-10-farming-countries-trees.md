@@ -328,11 +328,3 @@ Indonesia's tropical geography — spanning 17,000+ islands across the equator �
 - [World Agroforestry Centre (ICRAF)](https://www.worldagroforestry.org)
 
 ---
-
-*Did you find this useful? Save it to your **Farming** or **Gardening** board on Pinterest! 📌*
-
-*Have a tree crop story from your country? Drop it in the comments below — we read every one.*
-
----
-
-**Tags:** #farming #agriculture #farmtrees #worldfarming #agroforestry #orchardfarming #tropicaltrees #sustainablefarming #horticulture #teaplant #coffeefarm #mango #palmoil #rubbertree #moringa
