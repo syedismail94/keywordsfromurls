@@ -316,7 +316,7 @@ Indonesia's tropical geography â€” spanning 17,000+ islands across the equator â
 ---
 
 ## Infographic Preview
-
+[![Top 10 Farming Countries and Their Farm Trees Infographic]({{ site.baseurl }}/assets/images/gardening/top-10-farming-countries-trees-infographic.jpg)]({{ site.baseurl }}/assets/images/gardening/top-10-farming-countries-trees-infographic.jpg)
 
 ---
 
