@@ -7,7 +7,7 @@ tags: [balcony garden, urban gardening, container gardening, small space garden,
 excerpt: "Discover creative and practical urban balcony garden ideas to turn even the smallest outdoor space into a lush, thriving green retreat."
 ---
 
-[![Urban Balcony Garden Ideas]({{ site.baseurl }}/assets/images/gardening/Urban-Balcony-Garden-Ideas.jpg)]()
+[![Urban Balcony Garden Ideas]({{ site.baseurl }}/assets/images/gardening/Urban-Balcony-Garden-Ideas.jpg)](https://pin.it/3uOKZ5Djg)
 
 Living in the city doesn't mean giving up on your dream of a green, flourishing garden. Your balcony — no matter how compact — holds incredible potential. With the right ideas, a little creativity, and some planning, you can transform that overlooked outdoor slab into a beautiful, productive garden sanctuary. Whether you're dreaming of fresh herbs for your kitchen, a riot of colourful blooms, or a private leafy retreat, this guide has everything you need.
 
@@ -43,7 +43,7 @@ Before buying a single pot, take stock of your space:
 
 Containers are the backbone of any balcony garden. The good news? Almost anything can become a planter.
 
-[![Balcony Container Gardening Ideas]({{ site.baseurl }}/assets/images/gardening/Balcony-Container-Gardening.jpg)]()
+[![Balcony Container Gardening Ideas]({{ site.baseurl }}/assets/images/gardening/Balcony-Container-Gardening.jpg)](https://pin.it/7FGnlHbXR)
 
 **Best container options:**
 
@@ -69,7 +69,7 @@ Space is precious on a balcony. Think upward, not just outward. Vertical gardeni
 - **Trellis and climbing plants** — Fix a trellis to a wall and train cucumbers, beans, jasmine, or passion fruit to climb.
 - **Hanging baskets** — Suspend from the ceiling or railings for trailing plants like petunias, lobelia, or ferns.
 
-[![Vertical Balcony Garden Design]({{ site.baseurl }}/assets/images/gardening/Vertical-Balcony-Garden.jpg)]()
+[![Vertical Balcony Garden Design]({{ site.baseurl }}/assets/images/gardening/Vertical-Balcony-Garden.jpg)](https://pin.it/gsWlXbk49)
 
 ---
 
@@ -230,7 +230,7 @@ A balcony garden isn't just about plants — it's about creating a space you lov
 - **Privacy screens** — Bamboo rolls, wooden lattice, or tall planters create a sense of seclusion.
 - **Scented plants** — Jasmine, lavender, gardenias, and lemon-scented verbena make the air divine.
 
-[![Cosy Balcony Garden Seating Area]({{ site.baseurl }}/assets/images/gardening/Cosy-Balcony-Garden-Seating.jpg)]()
+[![Cosy Balcony Garden Seating Area]({{ site.baseurl }}/assets/images/gardening/Cosy-Balcony-Garden-Seating.jpg)](https://pin.it/5SsC2VFfZ)
 
 ---
 
