@@ -7,7 +7,7 @@ tags: [terrace garden, vegetable garden, terrace layout, beginner gardening, roo
 excerpt: "Discover smart and beautiful terrace vegetable garden layout ideas for beginners. Learn how to plan, arrange, and grow a thriving vegetable garden on your terrace from scratch."
 ---
 
-[![Terrace Vegetable Garden Layout Ideas for Beginners]({{ site.baseurl }}/assets/images/gardening/Terrace-Vegetable-Garden-Layout.jpg)]()
+[![Terrace Vegetable Garden Layout Ideas for Beginners]({{ site.baseurl }}/assets/images/gardening/Terrace-Vegetable-Garden-Layout.jpg)](https://pin.it/1AEQSESd8)
 
 You have a terrace. You have a dream of growing your own vegetables. But where do you begin? What goes where? How do you make the most of your space without it looking cluttered or feeling overwhelming?
 
@@ -79,7 +79,7 @@ This is critical and often overlooked. Wet soil and large containers are very he
 
 Your layout style sets the character of your entire garden. Here are the most practical and popular options for terrace vegetable gardens:
 
-[![Terrace Garden Layout Styles]({{ site.baseurl }}/assets/images/gardening/Terrace-Garden-Layout-Styles.jpg)]()
+[![Terrace Garden Layout Styles]({{ site.baseurl }}/assets/images/gardening/Terrace-Garden-Layout-Styles.jpg)](https://pin.it/1AEQSESd8)
 
 ### Layout 1 — The Border Layout (Best for Beginners)
 
@@ -149,7 +149,7 @@ Build or place rectangular raised beds in a structured pattern, with defined pat
 
 **Ideal for:** Large terraces (600 sq ft+), permanent homes, those wanting a show-garden aesthetic
 
-[![Raised Bed Terrace Vegetable Garden]({{ site.baseurl }}/assets/images/gardening/Raised-Bed-Terrace-Garden.jpg)]()
+[![Raised Bed Terrace Vegetable Garden]({{ site.baseurl }}/assets/images/gardening/Raised-Bed-Terrace-Garden.jpg)](https://pin.it/2GdQrGLNS)
 
 ---
 
@@ -240,7 +240,7 @@ Pathways are as important as the planting areas. Never skip them.
 - Keep pathways clear at all times — no trailing plants, no obstacles
 - Consider a **central wider pathway (90 cm)** if you'll be using a watering can frequently
 
-[![Terrace Garden Pathway Design]({{ site.baseurl }}/assets/images/gardening/Terrace-Garden-Pathway.jpg)]()
+[![Terrace Garden Pathway Design]({{ site.baseurl }}/assets/images/gardening/Terrace-Garden-Pathway.jpg)](https://pin.it/3yMxHVJ4q)
 
 ---
 
