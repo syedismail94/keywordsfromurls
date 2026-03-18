@@ -54,6 +54,62 @@ Containers are the backbone of any balcony garden. The good news? Almost anythin
 - **Recycled containers** — Wooden crates, metal tins, colanders, and even old boots can become quirky planters.
 
 **Pro tip:** Always ensure containers have drainage holes to prevent root rot.
+**Pro tip:** Always ensure containers have drainage holes to prevent root rot.
+
+<div class="affiliate-box">
+  <div class="affiliate-img">
+    <a href="https://amzn.to/4bjNK8E" target="_blank" rel="nofollow noopener">
+      <img src="{{ site.baseurl }}/assets/images/affiliates/anyumocz-nursery-pots.jpg" 
+           alt="Anyumocz 60 Pcs 1 Gallon Flexible Plant Nursery Pots" />
+    </a>
+  </div>
+  <div class="affiliate-content">
+    <h3>
+      <a href="https://amzn.to/4bjNK8E" target="_blank" rel="nofollow noopener">
+        Anyumocz 60 Pcs 1 Gallon Flexible Plant Nursery Pots
+      </a>
+    </h3>
+    <p>Perfect starter pots for your balcony garden! These thickened soft plastic 
+    seedling pots come with drainage holes — ideal for succulents, herbs, cuttings 
+    and transplanting. Pack of 60 means you are fully stocked for the whole season.</p>
+    <ul>
+      <li>✅ Pack of 60 pots — outstanding value</li>
+      <li>✅ 1 Gallon size — perfect for seedlings & cuttings</li>
+      <li>✅ Thickened flexible soft plastic — durable & reusable</li>
+      <li>✅ Pre-made drainage holes — prevents root rot</li>
+      <li>✅ Great for herbs, succulents & balcony plants</li>
+    </ul>
+    <a href="https://amzn.to/4bjNK8E" 
+       target="_blank" 
+       rel="nofollow noopener" 
+       class="affiliate-btn">Check Price on Amazon →</a>
+    <p class="affiliate-disclaimer">
+      <em>*This post contains affiliate links. We may earn a small commission 
+      if you purchase through our link, at no extra cost to you.</em>
+    </p>
+  </div>
+</div>
+
+---
+```
+
+---
+
+### 📄 So Your Article Flow Looks Like This
+```
+## 2. Choose the Right Containers
+    ↓
+[container image]
+    ↓
+Best container options list
+    ↓
+**Pro tip:** Always ensure containers have drainage holes...
+    ↓
+👉 AFFILIATE BOX HERE  ← paste here
+    ↓
+---
+    ↓
+## 3. Go Vertical — Maximise Every Inch
 
 ---
 
