@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Stunning Tulip Arrangement Ideas to Transform Any Space"
 description: "Discover beautiful tulip arrangement ideas for your home, wedding, and spring décor. From classic vase displays to creative DIY bouquets — get inspired!"
 date: 2026-03-20
