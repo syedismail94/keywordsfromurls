@@ -31,7 +31,7 @@ The key is understanding how to match the *character* of your tulip variety to t
 
 ## Part 1: Choosing the Right Vase for Tulips
 
-[![Best vase types for tulip arrangements cylinder flared bowl bud vase]({{ site.baseurl }}/assets/images/home-decor/tulip-vase-types.jpg)]({{ site.baseurl }}/assets/images/home-decor/tulip-vase-types.jpg)
+[![Best vase types for tulip arrangements cylinder flared bowl bud vase]({{ site.baseurl }}/assets/images/home-decor/tulip-vase-types.jpg)]({{ site.baseurl }}/assets/images/home-decor/tulip-vase-types.jpg)(https://pin.it/3PqJ75JfJ)
 
 The vase is not a neutral container. It shapes the silhouette of the entire arrangement and sets the visual tone before a single flower is noticed.
 
@@ -63,7 +63,7 @@ Don't overlook the simplicity of a single tulip in a slender bud vase. Grouping 
 
 ## Part 2: Best Colour Combinations
 
-[![Best tulip colour combinations for vase arrangements white coral purple red]({{ site.baseurl }}/assets/images/home-decor/tulip-colour-combinations.jpg)]({{ site.baseurl }}/assets/images/home-decor/tulip-colour-combinations.jpg)
+[![Best tulip colour combinations for vase arrangements white coral purple red]({{ site.baseurl }}/assets/images/home-decor/tulip-colour-combinations.jpg)]({{ site.baseurl }}/assets/images/home-decor/tulip-colour-combinations.jpg)(https://pin.it/1xmK74ZQS)
 
 Colour is where most people either get tulip arrangements exactly right — or completely wrong. Here are the combinations that work consistently well.
 
@@ -101,7 +101,7 @@ A dozen red tulips in a sleek black or dark green vase is romantic and impactful
 
 ## Part 3: Best Display Positions in Your Home
 
-[![Tulip arrangement display positions entryway kitchen windowsill living room]({{ site.baseurl }}/assets/images/home-decor/tulip-display-positions-home.jpg)]({{ site.baseurl }}/assets/images/home-decor/tulip-display-positions-home.jpg)
+[![Tulip arrangement display positions entryway kitchen windowsill living room]({{ site.baseurl }}/assets/images/home-decor/tulip-display-positions-home.jpg)]({{ site.baseurl }}/assets/images/home-decor/tulip-display-positions-home.jpg)(https://pin.it/4bZseaIia)
 
 Where you place an arrangement affects how it's perceived — and how long it lasts (for fresh flowers) or how often it's noticed (for artificial).
 
@@ -135,7 +135,7 @@ A centrepiece arrangement on a coffee table or a single statement vase on a book
 
 ## Part 4: Fresh vs. Artificial Tulips — An Honest Comparison
 
-[![Fresh tulips vs artificial real touch PU tulips comparison side by side]({{ site.baseurl }}/assets/images/home-decor/fresh-vs-artificial-tulips.jpg)]({{ site.baseurl }}/assets/images/home-decor/fresh-vs-artificial-tulips.jpg)
+[![Fresh tulips vs artificial real touch PU tulips comparison side by side]({{ site.baseurl }}/assets/images/home-decor/fresh-vs-artificial-tulips.jpg)]({{ site.baseurl }}/assets/images/home-decor/fresh-vs-artificial-tulips.jpg)(https://pin.it/4Ws3dKtk9)
 
 Fresh tulips are beautiful, seasonal, and biodegradable. But they last only 7–14 days, require water changes, and are simply not available year-round in all regions.
 
@@ -186,7 +186,7 @@ If you want the look of fresh tulips without the upkeep — or you want a displa
 
 ## Part 5: Budget Tulip Arrangement — How to Get the Most for Your Money
 
-[![Budget tulip arrangement tips cheap affordable vase ideas spring decor]({{ site.baseurl }}/assets/images/home-decor/budget-tulip-arrangement-tips.jpg)]({{ site.baseurl }}/assets/images/home-decor/budget-tulip-arrangement-tips.jpg)
+[![Budget tulip arrangement tips cheap affordable vase ideas spring decor]({{ site.baseurl }}/assets/images/home-decor/budget-tulip-arrangement-tips.jpg)]({{ site.baseurl }}/assets/images/home-decor/budget-tulip-arrangement-tips.jpg)(https://pin.it/6YbHxIYHc)
 
 You don't need to spend a lot to create a stunning tulip display. Here's how to keep costs low while keeping quality high.
 
