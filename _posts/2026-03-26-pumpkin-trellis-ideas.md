@@ -8,7 +8,7 @@ description: Discover the best pumpkin trellis ideas for vertical gardening. Lea
 Growing pumpkins vertically on a trellis is one of the smartest ways to save space, improve air circulation, and get a healthy harvest. Whether you have a small terrace, backyard, or garden bed, a trellis helps pumpkin vines grow upward instead of sprawling across the ground.
 Below is a complete guide to pumpkin trellis ideas, covering types of trellises, how to build them, vine training tips, fruit support methods, and care advice for vertical pumpkin growing.
 ---
-[![Pumpkin Trellis Ideas]({{ site.baseurl }}/assets/images/gardening/Pumpkin-Trellis-Ideas.jpg)](https://pin.it/PumpkinTrellisIdeas)
+[![Pumpkin Trellis Ideas]({{ site.baseurl }}/assets/images/gardening/Pumpkin-Trellis-Ideas.jpg)](https://pin.it/3lZHNaf5K)
 ---
 ## 1. Why Use a Trellis for Pumpkins
 
@@ -19,7 +19,7 @@ Vertical growing saves significant garden space, making it ideal for small terra
 A trellis also makes harvesting and maintenance much more convenient.
 
 ---
-[![Why Use a Trellis for Pumpkins]({{ site.baseurl }}/assets/images/gardening/Why-Use-a-Trellis-for-Pumpkins.jpg)](https://pin.it/WhyPumpkinTrellis)
+[![Why Use a Trellis for Pumpkins]({{ site.baseurl }}/assets/images/gardening/Why-Use-a-Trellis-for-Pumpkins.jpg)](https://pin.it/18J5b1NvB)
 ---
 ## 2. Best Types of Pumpkin Trellis Structures
 
@@ -30,7 +30,7 @@ A **wooden A-frame trellis** is one of the most popular choices for home gardens
 For terrace and balcony gardens, a **bamboo pole trellis** or **wire mesh trellis** fixed to a wall is a practical and affordable option. Repurposed materials like old ladders, wooden pallets, or metal fence panels also work well as creative trellis solutions.
 
 ---
-[![Best Types of Pumpkin Trellis Structures]({{ site.baseurl }}/assets/images/gardening/Best-Types-of-Pumpkin-Trellis-Structures.jpg)](https://pin.it/PumpkinTrellisTypes)
+[![Best Types of Pumpkin Trellis Structures]({{ site.baseurl }}/assets/images/gardening/Best-Types-of-Pumpkin-Trellis-Structures.jpg)](https://pin.it/3XVl1I9nV)
 ---
 ## 3. How to Build a Simple Pumpkin Trellis at Home
 
@@ -41,7 +41,7 @@ Use two strong wooden or metal poles of at least five to six feet height. Drive 
 For wall-mounted trellises on terraces, fix a strong wire mesh or jute net directly onto the wall using hooks and secure it well before training vines onto it.
 
 ---
-[![How to Build a Pumpkin Trellis]({{ site.baseurl }}/assets/images/gardening/How-to-Build-a-Pumpkin-Trellis.jpg)](https://pin.it/BuildPumpkinTrellis)
+[![How to Build a Pumpkin Trellis]({{ site.baseurl }}/assets/images/gardening/How-to-Build-a-Pumpkin-Trellis.jpg)](https://pin.it/6cqJEV81M)
 ---
 ## 4. Training Pumpkin Vines onto the Trellis
 
@@ -61,7 +61,7 @@ Use cloth slings, old T-shirt fabric, or mesh net bags tied securely to the trel
 Check and adjust the slings as the pumpkins grow larger. For very large pumpkin varieties, consider growing compact or miniature types like Sugar Pumpkin or Baby Boo on trellises, as they are much easier to support vertically.
 
 ---
-[![Supporting Pumpkin Fruits on Trellis]({{ site.baseurl }}/assets/images/gardening/Supporting-Pumpkin-Fruits-on-Trellis.jpg)](https://pin.it/PumpkinFruitSupport)
+[![Supporting Pumpkin Fruits on Trellis]({{ site.baseurl }}/assets/images/gardening/Supporting-Pumpkin-Fruits-on-Trellis.jpg)](https://pin.it/1IcRA9cyP)
 ---
 ## 6. Best Pumpkin Varieties for Trellis Growing
 
@@ -72,7 +72,7 @@ Small varieties like Sugar Pumpkin, Baby Boo, Jack-Be-Little, and Munchkin are w
 Avoid giant pumpkin varieties for trellis growing as their heavy fruits put too much stress on the vines and support structures.
 
 ---
-[![Best Pumpkin Varieties for Trellis]({{ site.baseurl }}/assets/images/gardening/Best-Pumpkin-Varieties-for-Trellis.jpg)](https://pin.it/PumpkinVarietiesTrellis)
+[![Best Pumpkin Varieties for Trellis]({{ site.baseurl }}/assets/images/gardening/Best-Pumpkin-Varieties-for-Trellis.jpg)](https://pin.it/65ljFFzCs)
 ---
 ## 7. Care and Maintenance of Trellised Pumpkins
 
@@ -92,7 +92,7 @@ Use large containers of at least fifteen to twenty litres to give pumpkin roots 
 Miniature pumpkin varieties are especially well-suited to terrace containers and produce a colourful, attractive display in addition to a useful harvest.
 
 ---
-[![Space Saving Pumpkin Terrace Garden]({{ site.baseurl }}/assets/images/gardening/Space-Saving-Pumpkin-Terrace-Garden.jpg)](https://pin.it/PumpkinTerraceSpace)
+[![Space Saving Pumpkin Terrace Garden]({{ site.baseurl }}/assets/images/gardening/Space-Saving-Pumpkin-Terrace-Garden.jpg)](https://pin.it/54H6YyPYw)
 ---
 ### Final Thoughts
 
