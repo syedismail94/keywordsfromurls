@@ -19,7 +19,7 @@ Vertical growing saves significant garden space, making it ideal for small terra
 A trellis also makes watering, pruning, and pest inspection much more convenient.
 
 ---
-[![Why Use a Trellis for Cucumbers]({{ site.baseurl }}/assets/images/gardening/Why-Use-a-Trellis-for-Cucumbers.jpg)](https://pin.it/WhyCucumberTrellis)
+[![Why Use a Trellis for Cucumbers]({{ site.baseurl }}/assets/images/gardening/Why-Use-a-Trellis-for-Cucumbers.jpg)](https://pin.it/5b5Yn3AEk)
 ---
 ## 2. Best Types of Cucumber Trellis Structures
 
@@ -30,7 +30,7 @@ A **wooden A-frame trellis** is one of the most popular choices for home gardens
 For terrace and balcony gardens, a **bamboo pole trellis** or **wire mesh trellis** fixed to a wall is a practical and affordable option. A **rope or jute net trellis** is another lightweight and inexpensive choice that works well for container gardens on terraces.
 
 ---
-[![Best Types of Cucumber Trellis Structures]({{ site.baseurl }}/assets/images/gardening/Best-Types-of-Cucumber-Trellis-Structures.jpg)](https://pin.it/CucumberTrellisTypes)
+[![Best Types of Cucumber Trellis Structures]({{ site.baseurl }}/assets/images/gardening/Best-Types-of-Cucumber-Trellis-Structures.jpg)]()
 ---
 ## 3. How to Build a Simple Cucumber Trellis at Home
 
@@ -41,7 +41,7 @@ Use two strong wooden or metal poles of at least five to six feet height. Drive 
 For wall-mounted trellises on terraces, fix a strong wire mesh or jute net directly onto the wall using hooks and secure it well before training vines onto it.
 
 ---
-[![How to Build a Cucumber Trellis]({{ site.baseurl }}/assets/images/gardening/How-to-Build-a-Cucumber-Trellis.jpg)](https://pin.it/BuildCucumberTrellis)
+[![How to Build a Cucumber Trellis]({{ site.baseurl }}/assets/images/gardening/How-to-Build-a-Cucumber-Trellis.jpg)]()
 ---
 ## 4. Training Cucumber Vines onto the Trellis
 
@@ -61,7 +61,7 @@ As cucumbers develop, ensure the fruit hangs freely without being pressed agains
 Harvest cucumbers regularly once they reach the right size to encourage the plant to produce more fruits continuously.
 
 ---
-[![Supporting Cucumber Fruits on Trellis]({{ site.baseurl }}/assets/images/gardening/Supporting-Cucumber-Fruits-on-Trellis.jpg)](https://pin.it/CucumberFruitSupport)
+[![Supporting Cucumber Fruits on Trellis]({{ site.baseurl }}/assets/images/gardening/Supporting-Cucumber-Fruits-on-Trellis.jpg)]()
 ---
 ## 6. Best Cucumber Varieties for Trellis Growing
 
@@ -72,7 +72,7 @@ Climbing varieties like Straight Eight, Marketer, and English Telegraph are exce
 Choose a variety based on your climate, available space, and whether you prefer slicing or pickling cucumbers.
 
 ---
-[![Best Cucumber Varieties for Trellis]({{ site.baseurl }}/assets/images/gardening/Best-Cucumber-Varieties-for-Trellis.jpg)](https://pin.it/CucumberVarietiesTrellis)
+[![Best Cucumber Varieties for Trellis]({{ site.baseurl }}/assets/images/gardening/Best-Cucumber-Varieties-for-Trellis.jpg)]()
 ---
 ## 7. Care and Maintenance of Trellised Cucumbers
 
@@ -92,7 +92,7 @@ Use large containers of at least twelve to fifteen litres to give cucumber roots
 Climbing cucumber varieties are especially well-suited to terrace containers and produce a fresh and continuous harvest throughout the growing season.
 
 ---
-[![Space Saving Cucumber Terrace Garden]({{ site.baseurl }}/assets/images/gardening/Space-Saving-Cucumber-Terrace-Garden.jpg)](https://pin.it/CucumberTerraceSpace)
+[![Space Saving Cucumber Terrace Garden]({{ site.baseurl }}/assets/images/gardening/Space-Saving-Cucumber-Terrace-Garden.jpg)]()
 ---
 ### Final Thoughts
 
