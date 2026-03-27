@@ -12,7 +12,7 @@ Whether you are growing blackberries, raspberries, blueberries, or gooseberries,
 
 ---
 
-[![Berry Trellis Ideas Guide]({{ site.baseurl }}/assets/images/gardening/Berry Trellis Ideas.jpg)](https://pin.it/XXXXXXX)
+[![Berry Trellis Ideas Guide]({{ site.baseurl }}/assets/images/gardening/Berry Trellis Ideas.jpg)](https://pin.it/2VSxSdf65)
 
 ---
 
