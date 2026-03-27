@@ -12,7 +12,7 @@ If you are curious about hydroponics and want to know where to begin, this guide
 
 ---
 
-[![Hydroponic Gardening Complete Guide]({{ site.baseurl }}/assets/images/gardening/Hydroponic Gardening.jpg)]({{ site.baseurl }}/gardening/what-is-hydroponic-gardening/)
+[![Hydroponic Gardening Complete Guide]({{ site.baseurl }}/assets/images/gardening/Hydroponic Gardening.jpg)]({{ site.baseurl }}/gardening/what-is-hydroponic-gardening/)(https://pin.it/7lUjMvDT6)
 
 ---
 
