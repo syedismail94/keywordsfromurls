@@ -10,8 +10,6 @@ tags:
   - container gardening
   - vertical garden
 description: "Discover the best flowers for a small balcony garden. Learn how to grow beautiful blooms in containers, vertical trellis setups, and tight outdoor spaces."
-header:
-  teaser: /assets/images/gardening/balcony-flowers-banner.jpg
 ---
 
 A small balcony doesn't mean you have to give up on a beautiful flower garden. With the right plant choices and smart use of vertical space, you can turn even the tiniest balcony into a colorful, fragrant retreat.
