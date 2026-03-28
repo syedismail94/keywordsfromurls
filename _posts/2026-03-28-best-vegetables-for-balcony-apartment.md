@@ -209,7 +209,6 @@ This is lightweight, drains well, and holds enough moisture. You can buy ready-m
 
 ## 6. Watering and Fertilising
 
-[![Watering Balcony Vegetable Plants]({{ site.baseurl }}/assets/images/gardening/watering-fertilising-balcony-plants.jpg)](https://pin.it/XXXXXXX)
 
 ### 6.1 How Often to Water
 
@@ -229,7 +228,6 @@ Potted plants exhaust nutrients quickly. Feed every 2–3 weeks with:
 
 ## 7. Common Problems and Simple Fixes
 
-[![Common Balcony Plant Problems and Solutions]({{ site.baseurl }}/assets/images/gardening/balcony-plant-problems-and-fixes.jpg)](https://pin.it/XXXXXXX)
 
 | Problem | Likely Cause | Fix |
 |---------|-------------|-----|
@@ -243,7 +241,6 @@ Potted plants exhaust nutrients quickly. Feed every 2–3 weeks with:
 
 ## 8. Season-Wise Planting Guide for India
 
-[![Season Wise Vegetable Planting Guide India]({{ site.baseurl }}/assets/images/gardening/season-wise-planting-guide-india-balcony.jpg)](https://pin.it/XXXXXXX)
 
 | Season | Best Vegetables to Plant |
 |--------|--------------------------|
