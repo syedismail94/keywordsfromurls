@@ -6,7 +6,7 @@ categories: [gardening]
 description: "Grow fresh veggies on your apartment balcony! Easy beginner tips, Indian varieties, pot sizes, costs in ₹, and what actually works in small spaces."
 ---
 
-[![Best Vegetables for Balcony Apartment]({{ site.baseurl }}/assets/images/gardening/best-vegetables-balcony-apartment.jpg)](https://pin.it/XXXXXXX)
+[![Best Vegetables for Balcony Apartment]({{ site.baseurl }}/assets/images/gardening/best-vegetables-balcony-apartment.jpg)](https://pin.it/lHi53mji3)
 
 You have a balcony. You want fresh vegetables. But you're not sure where to start.
 
@@ -18,7 +18,7 @@ This guide covers the best vegetables for balcony gardening, especially if you'r
 
 ## 1. Why Balcony Vegetable Gardening Works
 
-[![Why Balcony Gardening Works]({{ site.baseurl }}/assets/images/gardening/balcony-vegetable-gardening-why-it-works.jpg)](https://pin.it/XXXXXXX)
+[![Why Balcony Gardening Works]({{ site.baseurl }}/assets/images/gardening/balcony-vegetable-gardening-why-it-works.jpg)](https://pin.it/1CcUb7dyx)
 
 Most people think vegetable gardening needs a big yard. That's simply not true.
 
@@ -40,7 +40,7 @@ Here are the top vegetables that actually work well in pots on a balcony. These 
 
 ### 2.1 Methi (Fenugreek Leaves)
 
-[![Methi Growing in Balcony Pot]({{ site.baseurl }}/assets/images/gardening/methi-fenugreek-balcony-pot.jpg)](https://pin.it/XXXXXXX)
+[![Methi Growing in Balcony Pot]({{ site.baseurl }}/assets/images/gardening/methi-fenugreek-balcony-pot.jpg)](https://pin.it/qbhS57qv0)
 
 Methi is one of the easiest vegetables to grow in India. Seeds germinate in 3–4 days. You can harvest leaves in about 3 weeks.
 
@@ -55,7 +55,7 @@ Just scatter seeds densely, water daily, and snip leaves when they're 4–5 inch
 
 ### 2.2 Chillies (Mirchi)
 
-[![Chillies Growing on Apartment Balcony]({{ site.baseurl }}/assets/images/gardening/chillies-mirchi-balcony-apartment.jpg)](https://pin.it/XXXXXXX)
+[![Chillies Growing on Apartment Balcony]({{ site.baseurl }}/assets/images/gardening/chillies-mirchi-balcony-apartment.jpg)](https://pin.it/2dElh8dYu)
 
 Chillies are made for Indian balconies. They love heat, don't need much water once established, and produce for months. Green chillies, bird's eye chillies, and Kashmiri varieties all grow well in pots.
 
@@ -70,7 +70,7 @@ Buy a seedling from a nursery (₹20–50) rather than starting from seed if you
 
 ### 2.3 Tomatoes
 
-[![Cherry Tomatoes in Balcony Container]({{ site.baseurl }}/assets/images/gardening/cherry-tomatoes-balcony-container.jpg)](https://pin.it/XXXXXXX)
+[![Cherry Tomatoes in Balcony Container]({{ site.baseurl }}/assets/images/gardening/cherry-tomatoes-balcony-container.jpg)](https://pin.it/1DQKxWsi9)
 
 Cherry tomatoes are ideal for balconies. They're smaller plants, fruit heavily, and taste incredible freshly picked. Regular tomatoes work too but need bigger pots.
 
@@ -85,7 +85,7 @@ Add a small stake or bamboo stick to support the plant as it grows. Water consis
 
 ### 2.4 Palak (Spinach)
 
-[![Palak Spinach Growing in Shallow Container]({{ site.baseurl }}/assets/images/gardening/palak-spinach-balcony-container.jpg)](https://pin.it/XXXXXXX)
+[![Palak Spinach Growing in Shallow Container]({{ site.baseurl }}/assets/images/gardening/palak-spinach-balcony-container.jpg)](https://pin.it/1Mf1CfTbK)
 
 Palak is fast-growing, nutrition-packed, and doesn't need deep soil. It's perfect for shallow containers or grow bags.
 
@@ -100,7 +100,7 @@ Cut leaves from the outside and the plant keeps growing from the centre. One pot
 
 ### 2.5 Coriander (Dhaniya)
 
-[![Coriander Dhaniya in Balcony Tray]({{ site.baseurl }}/assets/images/gardening/coriander-dhaniya-balcony-tray.jpg)](https://pin.it/XXXXXXX)
+[![Coriander Dhaniya in Balcony Tray]({{ site.baseurl }}/assets/images/gardening/coriander-dhaniya-balcony-tray.jpg)](https://pin.it/75j0KAj1S)
 
 Every Indian kitchen needs coriander. Growing your own means you always have fresh leaves. It's cheap, fast, and very rewarding.
 
@@ -115,7 +115,7 @@ Crush seeds lightly before sowing so they split and germinate faster. Sow new se
 
 ### 2.6 Brinjal / Eggplant (Baingan)
 
-[![Brinjal Eggplant in Large Balcony Pot]({{ site.baseurl }}/assets/images/gardening/brinjal-eggplant-balcony-pot.jpg)](https://pin.it/XXXXXXX)
+[![Brinjal Eggplant in Large Balcony Pot]({{ site.baseurl }}/assets/images/gardening/brinjal-eggplant-balcony-pot.jpg)](https://pin.it/5x0RmU9yH)
 
 Brinjal is a heat-loving plant that thrives in Indian summers. The small-fruited varieties like the round or long brinjal work best in containers.
 
@@ -130,7 +130,7 @@ It's a larger plant, so give it room. One healthy plant can produce 10–15 brin
 
 ### 2.7 Beans (Cluster Beans / French Beans)
 
-[![Climbing Beans on Balcony Railing]({{ site.baseurl }}/assets/images/gardening/cluster-beans-balcony-railing.jpg)](https://pin.it/XXXXXXX)
+[![Climbing Beans on Balcony Railing]({{ site.baseurl }}/assets/images/gardening/cluster-beans-balcony-railing.jpg)](https://pin.it/4d658J5VH)
 
 Climbing beans like cluster beans (gavar) or French beans are great for balconies because they grow vertically. Tie them to a railing or a small trellis and they won't take up floor space.
 
@@ -145,7 +145,7 @@ Direct sow seeds into the pot — they don't like being transplanted. Soak seeds
 
 ### 2.8 Curry Leaves (Kadi Patta)
 
-[![Curry Leaf Plant in Apartment Balcony]({{ site.baseurl }}/assets/images/gardening/curry-leaves-kadi-patta-balcony-pot.jpg)](https://pin.it/XXXXXXX)
+[![Curry Leaf Plant in Apartment Balcony]({{ site.baseurl }}/assets/images/gardening/curry-leaves-kadi-patta-balcony-pot.jpg)](https://pin.it/4d658J5VH)
 
 Technically a shrub, curry leaves are a must-have for South Indian cooking. Once established, a single plant gives you leaves for years.
 
@@ -175,7 +175,7 @@ This is a long-term investment. Buy a healthy sapling from a nursery. Water regu
 
 ## 4. What Pots and Containers Work Best
 
-[![Types of Pots for Balcony Vegetable Garden]({{ site.baseurl }}/assets/images/gardening/pots-containers-balcony-vegetable-garden.jpg)](https://pin.it/XXXXXXX)
+[![Types of Pots for Balcony Vegetable Garden]({{ site.baseurl }}/assets/images/gardening/pots-containers-balcony-vegetable-garden.jpg)](https://pin.it/7IOMmvVgL)
 
 You don't need to buy fancy pots. Here's what works:
 
@@ -194,7 +194,7 @@ Every container must have holes at the bottom. Waterlogged soil kills roots. Pla
 
 ## 5. Soil Mix for Balcony Pots
 
-[![Soil Mix for Balcony Pots India]({{ site.baseurl }}/assets/images/gardening/soil-mix-balcony-pots-india.jpg)](https://pin.it/XXXXXXX)
+[![Soil Mix for Balcony Pots India]({{ site.baseurl }}/assets/images/gardening/soil-mix-balcony-pots-india.jpg)](https://pin.it/lHi53mji3)
 
 Don't use regular garden soil in pots — it compacts and drains poorly.
 
