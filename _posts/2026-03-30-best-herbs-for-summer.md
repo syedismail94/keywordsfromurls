@@ -6,7 +6,7 @@ permalink: /gardening/best-herbs-for-summer/
 description: Discover the best herbs for summer in India. Easy growing tips, care guide, and cost breakdown for beginners.
 ---
 
-[![Summer herb garden with basil mint coriander pots]({{ site.baseurl }}/assets/images/gardening/summer-herb-garden-hero.jpg)]() 
+[![Summer herb garden with basil mint coriander pots]({{ site.baseurl }}/assets/images/gardening/summer-herb-garden-hero.jpg)](https://pin.it/631Pez4LW) 
 
 Summer is the perfect time to grow fresh herbs at home. Many herbs love heat, grow fast, and need very little care. Whether you have a balcony, terrace, or small garden, these herbs will thrive in Indian summers.
 
@@ -97,7 +97,6 @@ Growing herbs in summer has many benefits:
 
 ## 3. Quick Comparison Table
 
-[![Herbs comparison table gardening setup]({{ site.baseurl }}/assets/images/gardening/herbs-comparison.jpg)](https://pin.it/XXXXXXX)
 
 | Herb        | Sunlight | Water Needs | Growth Time | Difficulty |
 |------------|----------|-------------|-------------|------------|
