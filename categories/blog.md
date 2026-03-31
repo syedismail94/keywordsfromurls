@@ -1,8 +1,18 @@
 ---
-title: Blog
-layout: single
+title: "Blog"
+layout: category
 permalink: /category/blog/
 ---
+{% assign posts = site.categories['blog'] %}
 
-<div id="latest-posts"></div>
-<script src="/assets/js/home.js"></script>
+{% if posts and posts.size > 0 %}
+  <ul>
+    {% for post in posts %}
+      <li>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+{% else %}
+  <p>No posts found.</p>
+{% endif %}
