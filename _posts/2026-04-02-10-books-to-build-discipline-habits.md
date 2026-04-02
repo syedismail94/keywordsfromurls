@@ -6,10 +6,9 @@ description: "Discover 10 powerful books that build real discipline habits for l
 categories: [Blog]
 tags: [discipline, habits, self-improvement, books, mindset]
 date: 2026-04-02
-author_profile: true
 ---
 
-[![10 Books to Build Discipline Habits]({{ site.baseurl }}/assets/images/blog/10-books-discipline-habits-hero.jpg)](https://pin.it/XXXXXXX)
+[![10 Books to Build Discipline Habits]({{ site.baseurl }}/assets/images/blog/10-books-discipline-habits-hero.jpg)](https://pin.it/60tiIUG3T)
 
 The secret to a thriving garden — and a thriving life — is not talent or motivation. It is **discipline habits**. Small, consistent actions repeated daily. That is what makes the difference.
 
@@ -58,5 +57,3 @@ You do not need to read all 10 at once. Start with one. Build the habit of readi
 Discipline is not something you are born with. It is something you build — one small action, one good book, one consistent day at a time.
 
 ---
-
-*Images and Pinterest pin links will be added once visuals are ready.*
