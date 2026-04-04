@@ -24,8 +24,6 @@ You do not need to read all 20 at once. Pick the ones that match where you are r
 
 ## 2. Books on Business Strategy and Growth
 
-[![Business strategy books laid open on a wooden table with a notebook and pen]({{ site.baseurl }}/assets/images/blog/business-strategy-books-for-owners.jpg)](https://pin.it/XXXXXXX)
-
 These books help you think bigger, plan smarter, and build something that lasts.
 
 ### 2.1 The E-Myth Revisited — Michael E. Gerber
@@ -70,7 +68,6 @@ A companion to *Good to Great*, this book looks at what makes companies last for
 
 ## 3. Books on Money and Finance
 
-[![Financial books for entrepreneurs including Rich Dad Poor Dad on a clean desk]({{ site.baseurl }}/assets/images/blog/finance-books-for-business-owners.jpg)](https://pin.it/XXXXXXX)
 
 Understanding money is non-negotiable for any business owner. These books make finance clear and practical.
 
@@ -111,7 +108,6 @@ This is Warren Buffett's favourite book. It teaches you to invest wisely, not sp
 
 ## 4. Books on Marketing and Sales
 
-[![Marketing and sales books for entrepreneurs displayed on a bright white shelf]({{ site.baseurl }}/assets/images/blog/marketing-books-for-entrepreneurs.jpg)](https://pin.it/XXXXXXX)
 
 No customers, no business. These books will help you attract the right people and convert them into loyal buyers.
 
@@ -153,7 +149,6 @@ One of the most practical marketing books in recent years. Hormozi explains how 
 
 ## 5. Books on Leadership and Team Building
 
-[![Leadership books for managers and business owners on an office bookshelf]({{ site.baseurl }}/assets/images/blog/leadership-books-for-managers.jpg)](https://pin.it/XXXXXXX)
 
 Growing a team is one of the hardest parts of running a business. These books make you a better leader.
 
@@ -183,7 +178,6 @@ Two former Navy SEAL commanders bring military leadership lessons to the boardro
 
 ## 6. Books on Mindset and Productivity
 
-[![Mindset and productivity books with a journal and cup of tea on a wooden surface]({{ site.baseurl }}/assets/images/blog/mindset-productivity-books-entrepreneurs.jpg)](https://pin.it/XXXXXXX)
 
 Your business grows as fast as you do. These books help you think better, work smarter, and stay resilient.
 
@@ -230,7 +224,6 @@ Keller's core question: What is the ONE thing I can do right now that will make 
 
 ## 7. Books on Innovation and Thinking Differently
 
-[![Innovative thinking books for entrepreneurs on a modern minimalist desk setup]({{ site.baseurl }}/assets/images/blog/innovation-books-for-business-owners.jpg)](https://pin.it/XXXXXXX)
 
 ### 7.1 The Lean Startup — Eric Ries
 
