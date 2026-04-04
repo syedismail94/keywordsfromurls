@@ -6,7 +6,7 @@ categories: [blog]
 description: "Discover 20 must-read books for business owners in 2026. From strategy to mindset, these picks will sharpen your skills and grow your business."
 ---
 
-[![20 Best Books for Business Owners stacked on a wooden desk with a cup of chai]({{ site.baseurl }}/assets/images/blog/best-books-for-business-owners-hero.jpg)](https://pin.it/XXXXXXX)
+[![20 Best Books for Business Owners stacked on a wooden desk with a cup of chai]({{ site.baseurl }}/assets/images/blog/best-books-for-business-owners-hero.jpg)](https://pin.it/3WlZWkpAE)
 
 Running a business is one of the hardest — and most rewarding — things you can do. But no one figures it all out alone. The smartest business owners read constantly. They learn from people who have already built, failed, scaled, and succeeded.
 
