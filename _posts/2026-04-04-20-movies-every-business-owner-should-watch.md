@@ -6,8 +6,7 @@ categories: [blog]
 description: "Discover 20 must-watch movies for entrepreneurs in 2026. From Steve Jobs to The Pursuit of Happyness — learn business lessons through cinema."
 ---
 
-![20 Business Classic Movies Every Entrepreneur Should Watch — Pinterest style poster with movie posters grid]({{ site.baseurl }}/assets/images/blog/business-classic-movies-entrepreneurs-hero.jpg)(https://pin.it/54Dm5bm1M)
-
+[![20 Business Classic Movies Every Entrepreneur Should Watch — Pinterest style poster with movie posters grid]({{ site.baseurl }}/assets/images/blog/business-classic-movies-entrepreneurs-hero.jpg)](https://pin.it/54Dm5bm1M)
 Some of the best business lessons do not come from textbooks. They come from watching someone build, fight, fail, and rise — on screen.
 
 These **20 movies for business owners** cover everything from startup hustle and marketing genius to leadership failures and ethical traps. Whether you watch one on a Friday night or binge a few over the weekend, each one will give you something to think about the next time you sit at your desk.
@@ -26,7 +25,6 @@ The best business films are not just entertainment. They are compressed MBA less
 
 ## 2. Movies About Startups and Tech Entrepreneurship
 
-![Movie posters of The Social Network, Steve Jobs, and Silicon Valley displayed on a dark cinematic background]({{ site.baseurl }}/assets/images/blog/startup-tech-entrepreneur-movies-poster.jpg)
 
 These films follow founders who changed entire industries — and the cost they paid to do it.
 
@@ -68,7 +66,6 @@ A young college dropout joins a shady brokerage firm chasing fast money. What un
 
 ## 3. Movies About Building an Empire
 
-![The Founder and Tucker movie posters displayed on a cinematic film reel background with warm amber tones]({{ site.baseurl }}/assets/images/blog/building-business-empire-movies-poster.jpg)
 
 These films follow entrepreneurs who started small and built something that outlasted them — for better or worse.
 
@@ -111,7 +108,6 @@ Howard Hughes built an aviation empire and a film studio while battling obsessiv
 
 ## 4. Movies About Sales, Marketing, and Persuasion
 
-![Wolf of Wall Street and Mad Men inspired movie poster flat lay on a dark leather desk with gold accents]({{ site.baseurl }}/assets/images/blog/sales-marketing-business-movies-poster.jpg)
 
 These films show the dark and brilliant sides of selling — and what happens when persuasion crosses into manipulation.
 
@@ -143,7 +139,6 @@ A brutal, brilliant film about real estate salespeople fighting for leads. Al Pa
 
 ## 5. Movies About Resilience and Overcoming Failure
 
-![The Pursuit of Happyness movie inspired lifestyle flat lay with a briefcase, notebook, and motivational text on a warm wooden surface]({{ site.baseurl }}/assets/images/blog/resilience-entrepreneur-movies-poster.jpg)
 
 Every business owner faces failure. These films remind you that most great stories go through a dark chapter first.
 
@@ -175,7 +170,6 @@ A Michigan professor invents the intermittent windshield wiper — and Ford stea
 
 ## 6. Movies About Leadership and Ethics
 
-![Itaewon Class and The Social Dilemma inspired dark moody business leadership movie poster collage]({{ site.baseurl }}/assets/images/blog/leadership-ethics-business-movies-poster.jpg)
 
 What kind of leader do you want to be? These films make you think hard about that question.
 
@@ -207,7 +201,6 @@ The origin story of Apple and Microsoft told as a thriller. Young Steve Jobs and
 
 ## 7. More Essential Business Films You Should Not Miss
 
-![Collage of various business movie DVD covers arranged on a warm wooden floor with film reel and popcorn]({{ site.baseurl }}/assets/images/blog/essential-business-movies-collage-poster.jpg)
 
 ### 7.1 Moneyball (2011)
 
@@ -300,5 +293,3 @@ These 20 films will not run your business for you. But they will remind you why 
 Pick one this weekend. Make some chai, sit down, and let someone else's story teach you something about your own.
 
 ---
-
-*Save this list to your Pinterest board so you always have it handy on movie night!*
