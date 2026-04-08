@@ -6,7 +6,7 @@ categories: [blog]
 description: "Discover 20 powerful books to improve focus, beat distraction, and boost deep concentration. Expert picks for students, professionals & mindful readers."
 ---
 
-[![A serene reading nook with stacked books, a warm lamp, and a cup of tea on a wooden table]({{ site.baseurl }}/assets/images/blog/books-to-improve-focus-hero.jpg)](https://pin.it/XXXXXXX)
+[![A serene reading nook with stacked books, a warm lamp, and a cup of tea on a wooden table]({{ site.baseurl }}/assets/images/blog/books-to-improve-focus-hero.jpg)](https://pin.it/2nEosXkuq)
 
 Struggling to stay focused? You're not alone. In a world buzzing with notifications, social media scrolls, and endless to-do lists, keeping your attention on one thing feels harder than ever.
 
