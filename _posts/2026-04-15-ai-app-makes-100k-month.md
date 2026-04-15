@@ -101,4 +101,4 @@ The risk of not starting is always higher than the risk of starting. LeadFlow is
 
 ---
 
-*Want to try LeadFlow for yourself? Visit [tryleadflow.ai](https://tryleadflow.ai){:target="_blank" rel="noopener"} and go from zero to booked meetings in hours.* https://pin.it/1TZT2V4Gt
+*Want to try LeadFlow for yourself? Visit [tryleadflow.ai](https://tryleadflow.ai){:target="_blank" rel="noopener"} and go from zero to booked meetings in hours.* [View on Pinterest](https://pin.it/1TZT2V4Gt){:target="_blank" rel="noopener"}
