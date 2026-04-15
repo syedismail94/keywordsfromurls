@@ -2,7 +2,6 @@
 layout: single
 title: "This 21-Year-Old Dropped Out of College and Built an AI Tool Doing $100K/Month"
 description: "Adrian Berisha had no investors, no safety net, and no finished degree. Here's how he built LeadFlow — an AI-powered cold email tool — to $100K/month before most of his peers finished their first internship."
-date: 2025-04-15 09:00:00 +0000
 categories: blog
 image: /assets/images/blog/leadflow-100k-month.jpg
 permalink: /blog/ai-app-makes-100k-month/
