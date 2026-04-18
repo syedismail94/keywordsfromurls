@@ -18,9 +18,8 @@ Let's dig in.
 
 ## 1. Why Balcony Gardening Works (Even in Indian Cities)
 
-[![A sunny Indian apartment balcony with colourful planters and vegetable seedlings]({{ site.baseurl }}/assets/images/gardening/indian-apartment-balcony-sunny.jpg)](https://pin.it/XXXXXXX)
 
-Most Indian city apartments get 4–6 hours of sunlight daily — enough for many vegetables. Balconies also tend to be warmer than open ground, which actually helps tropical vegetables like tomatoes and brinjal thrive.
+Most  city apartments get 4–6 hours of sunlight daily — enough for many vegetables. Balconies also tend to be warmer than open ground, which actually helps tropical vegetables like tomatoes and brinjal thrive.
 
 Here's what makes balcony gardening ideal for beginners:
 
@@ -35,7 +34,6 @@ The main challenges are limited space and daily watering — but once you get in
 
 ## 2. What You Need Before You Start
 
-[![Gardening supplies laid out on a balcony — pots, soil bags, seeds, and trowel]({{ site.baseurl }}/assets/images/gardening/balcony-gardening-supplies-india.jpg)](https://pin.it/XXXXXXX)
 
 Before picking your plants, sort out the basics. Here's a simple checklist:
 
@@ -56,7 +54,6 @@ Before picking your plants, sort out the basics. Here's a simple checklist:
 
 ## 3. The 15 Best Vegetables for Your Balcony
 
-[![Flat lay of fresh vegetables grown on a balcony — tomatoes, greens, chillies]({{ site.baseurl }}/assets/images/gardening/fresh-balcony-vegetables-flatlay.jpg)](https://pin.it/XXXXXXX)
 
 These vegetables were chosen because they:
 - Grow well in containers
@@ -68,7 +65,6 @@ These vegetables were chosen because they:
 
 ### 3.1 Tomatoes (Tamatar)
 
-[![A healthy tomato plant growing in a large pot on a sunlit balcony]({{ site.baseurl }}/assets/images/gardening/tomato-plant-balcony-pot.jpg)](https://pin.it/XXXXXXX)
 
 **Pot size needed:** 12–14 inch  
 **Sunlight:** 6+ hours  
@@ -85,7 +81,6 @@ Stake your tomato plant with a bamboo stick once it starts climbing. Water daily
 
 ### 3.2 Spinach (Palak)
 
-[![Fresh green spinach growing densely in a rectangular balcony planter]({{ site.baseurl }}/assets/images/gardening/spinach-palak-balcony-planter.jpg)](https://pin.it/XXXXXXX)
 
 **Pot size needed:** 6–8 inch (or long rectangular tray)  
 **Sunlight:** 3–4 hours  
@@ -100,7 +95,6 @@ Best grown in winter (October to February) in most Indian cities. In the south, 
 
 ### 3.3 Chillies (Mirchi)
 
-[![Red and green chilli peppers growing on a compact plant in a terracotta pot]({{ site.baseurl }}/assets/images/gardening/chilli-mirchi-terracotta-pot.jpg)](https://pin.it/XXXXXXX)
 
 **Pot size needed:** 8–10 inch  
 **Sunlight:** 5–6 hours  
@@ -115,7 +109,6 @@ Varieties like *Jwala*, *Guntur Sannam*, or *Bird's Eye* all do well in pots. Th
 
 ### 3.4 Methi (Fenugreek)
 
-[![A lush tray of methi fenugreek microgreens growing on an apartment balcony]({{ site.baseurl }}/assets/images/gardening/methi-fenugreek-microgreens-balcony.jpg)](https://pin.it/XXXXXXX)
 
 **Pot size needed:** Any shallow tray  
 **Sunlight:** 3–4 hours  
@@ -130,7 +123,6 @@ Harvest young for methi sabzi or let them grow taller for parathas.
 
 ### 3.5 Coriander (Dhaniya)
 
-[![Fresh coriander growing in a small pot on a kitchen balcony]({{ site.baseurl }}/assets/images/gardening/coriander-dhaniya-small-pot.jpg)](https://pin.it/XXXXXXX)
 
 **Pot size needed:** 6–8 inch  
 **Sunlight:** 3–4 hours  
@@ -145,7 +137,6 @@ Dhaniya is a non-negotiable in Indian cooking. Growing it yourself means you alw
 
 ### 3.6 Brinjal / Eggplant (Baingan)
 
-[![A purple brinjal eggplant hanging from a thriving plant in a large balcony pot]({{ site.baseurl }}/assets/images/gardening/brinjal-baingan-balcony-large-pot.jpg)](https://pin.it/XXXXXXX)
 
 **Pot size needed:** 12–14 inch  
 **Sunlight:** 6+ hours  
@@ -160,7 +151,6 @@ One plant can give you 8–12 brinjals easily. Feed with compost every month and
 
 ### 3.7 Bhindi / Okra (Lady's Finger)
 
-[![Tall okra plant with bright yellow flowers growing in a deep balcony pot]({{ site.baseurl }}/assets/images/gardening/bhindi-okra-tall-pot-balcony.jpg)](https://pin.it/XXXXXXX)
 
 **Pot size needed:** 12 inch, deep (30 cm+)  
 **Sunlight:** 6–8 hours  
@@ -175,7 +165,6 @@ Soak seeds overnight before planting. You'll see bright yellow flowers before th
 
 ### 3.8 Mint (Pudina)
 
-[![Fresh pudina mint spilling out of a small terracotta pot on a balcony railing]({{ site.baseurl }}/assets/images/gardening/pudina-mint-terracotta-railing.jpg)](https://pin.it/XXXXXXX)
 
 **Pot size needed:** 6–8 inch  
 **Sunlight:** 3–4 hours  
@@ -190,7 +179,6 @@ Keep it in its own pot because mint spreads aggressively and will take over othe
 
 ### 3.9 Radish (Mooli)
 
-[![Small round radishes being pulled from a container garden on a balcony]({{ site.baseurl }}/assets/images/gardening/radish-mooli-container-harvest.jpg)](https://pin.it/XXXXXXX)
 
 **Pot size needed:** 8–10 inch, deep  
 **Sunlight:** 4–5 hours  
@@ -205,7 +193,6 @@ In India, grow mooli between October and February for best results. In hot weath
 
 ### 3.10 Beans (Sem / French Beans)
 
-[![Green french beans climbing a bamboo trellis on a balcony in an apartment]({{ site.baseurl }}/assets/images/gardening/french-beans-trellis-balcony.jpg)](https://pin.it/XXXXXXX)
 
 **Pot size needed:** 10–12 inch  
 **Sunlight:** 5–6 hours  
@@ -220,7 +207,6 @@ Beans also fix nitrogen in the soil, which improves the soil quality for future 
 
 ### 3.11 Curry Leaf Plant (Kadipatta)
 
-[![A lush curry leaf kadipatta plant in a medium pot on a South Indian balcony]({{ site.baseurl }}/assets/images/gardening/curry-leaf-kadipatta-balcony-pot.jpg)](https://pin.it/XXXXXXX)
 
 **Pot size needed:** 10–12 inch  
 **Sunlight:** 4–6 hours  
@@ -235,7 +221,6 @@ Buy a small plant from a local nursery (₹50–₹100). It grows slowly at firs
 
 ### 3.12 Bottle Gourd (Lauki / Dudhi)
 
-[![A bottle gourd lauki hanging from a vine trained along a balcony railing]({{ site.baseurl }}/assets/images/gardening/bottle-gourd-lauki-balcony-vine.jpg)](https://pin.it/XXXXXXX)
 
 **Pot size needed:** 14–16 inch, very deep  
 **Sunlight:** 6–8 hours  
@@ -250,7 +235,6 @@ Use a large, deep container and add a strong trellis. One vine can produce 6–1
 
 ### 3.13 Amaranth (Chaulai / Rajgira)
 
-[![Red and green amaranth chaulai growing vibrantly in a pot on a balcony]({{ site.baseurl }}/assets/images/gardening/amaranth-chaulai-colourful-pot.jpg)](https://pin.it/XXXXXXX)
 
 **Pot size needed:** 8–10 inch  
 **Sunlight:** 4–6 hours  
@@ -265,7 +249,6 @@ Direct-sow seeds and thin seedlings to 6 inches apart. Harvest the outer leaves 
 
 ### 3.14 Capsicum / Bell Pepper (Shimla Mirch)
 
-[![Yellow and red capsicum bell peppers ripening on a plant in a balcony container]({{ site.baseurl }}/assets/images/gardening/capsicum-shimla-mirch-balcony-container.jpg)](https://pin.it/XXXXXXX)
 
 **Pot size needed:** 10–12 inch  
 **Sunlight:** 6+ hours  
@@ -280,7 +263,6 @@ Start seeds indoors, then move to the balcony after 4–5 weeks. They prefer war
 
 ### 3.15 Microgreens (Mixed)
 
-[![Vibrant trays of mixed microgreens sunflower peas and radish on a balcony table]({{ site.baseurl }}/assets/images/gardening/microgreens-mixed-trays-balcony.jpg)](https://pin.it/XXXXXXX)
 
 **Pot size needed:** Any shallow tray (2–3 inches deep)  
 **Sunlight:** 3–4 hours  
@@ -295,7 +277,6 @@ Good varieties for Indian kitchens: sunflower, radish, peas, mustard (*sarson*),
 
 ## 4. Quick Reference: All 15 Vegetables at a Glance
 
-[![An overhead shot of a balcony garden grid layout with labelled pots of different vegetables]({{ site.baseurl }}/assets/images/gardening/balcony-garden-overview-grid.jpg)](https://pin.it/XXXXXXX)
 
 | Vegetable | Pot Size | Sunlight | Harvest Time | Difficulty |
 |---|---|---|---|---|
@@ -319,13 +300,11 @@ Good varieties for Indian kitchens: sunflower, radish, peas, mustard (*sarson*),
 
 ## 5. Best Combinations for a Small Balcony
 
-[![A small balcony with 6 pots arranged in a space-saving layout — tomatoes, herbs, greens]({{ site.baseurl }}/assets/images/gardening/small-balcony-pot-arrangement-6-pots.jpg)](https://pin.it/XXXXXXX)
 
 If you're just starting out, don't try to grow everything at once. Here are two starter combinations:
 
 ### 5.1 The Absolute Beginner Set (4 pots, ₹500–₹800 total)
 
-[![Four starter pots with methi spinach mint and coriander on a balcony]({{ site.baseurl }}/assets/images/gardening/beginner-4-pot-starter-set.jpg)](https://pin.it/XXXXXXX)
 
 1. Methi (any shallow tray)
 2. Spinach (rectangular tray)
@@ -336,7 +315,6 @@ These four need minimal sunlight, grow quickly, and you'll use them daily in you
 
 ### 5.2 The Kitchen Garden Set (6–8 pots, ₹1,500–₹2,500 total)
 
-[![Six to eight pots on a sunny balcony with tomatoes chillies brinjal and herbs]({{ site.baseurl }}/assets/images/gardening/kitchen-garden-6-8-pots-sunny.jpg)](https://pin.it/XXXXXXX)
 
 1. Tomatoes (large pot)
 2. Chillies (medium pot)
@@ -351,11 +329,9 @@ This gives you a genuinely functional kitchen garden that covers most everyday c
 
 ## 6. Watering, Feeding, and Common Problems
 
-[![A person gently watering a row of vegetable pots on a balcony in the morning]({{ site.baseurl }}/assets/images/gardening/watering-balcony-pots-morning.jpg)](https://pin.it/XXXXXXX)
 
 ### 6.1 Watering Tips
 
-[![Close-up of a hand testing soil moisture in a pot before watering]({{ site.baseurl }}/assets/images/gardening/testing-soil-moisture-finger-pot.jpg)](https://pin.it/XXXXXXX)
 
 - Water in the **morning**, not midday. Evening watering can lead to fungal problems.
 - Stick your finger 1 inch into the soil. If it's dry, water thoroughly.
@@ -364,7 +340,6 @@ This gives you a genuinely functional kitchen garden that covers most everyday c
 
 ### 6.2 Feeding Your Plants
 
-[![Organic compost vermicompost being added to a pot of vegetable plants]({{ site.baseurl }}/assets/images/gardening/vermicompost-feeding-vegetable-pot.jpg)](https://pin.it/XXXXXXX)
 
 Container plants need regular feeding because nutrients wash out with every watering.
 
@@ -374,7 +349,6 @@ Container plants need regular feeding because nutrients wash out with every wate
 
 ### 6.3 Common Problems and Fixes
 
-[![Yellowing leaves on a balcony vegetable plant indicating nutrient deficiency]({{ site.baseurl }}/assets/images/gardening/yellowing-leaves-vegetable-plant.jpg)](https://pin.it/XXXXXXX)
 
 | Problem | Likely Cause | Fix |
 |---|---|---|
@@ -389,7 +363,6 @@ Container plants need regular feeding because nutrients wash out with every wate
 
 ## 7. Seasonal Planting Calendar for India
 
-[![A seasonal planting calendar chart for Indian balcony gardens with colourful icons]({{ site.baseurl }}/assets/images/gardening/india-seasonal-planting-calendar.jpg)](https://pin.it/XXXXXXX)
 
 | Vegetable | Best Sowing Months |
 |---|---|
@@ -412,7 +385,6 @@ Container plants need regular feeding because nutrients wash out with every wate
 
 ## 8. Where to Buy Seeds and Supplies in India
 
-[![An online seed shopping page on a laptop beside a small balcony garden setup]({{ site.baseurl }}/assets/images/gardening/india-online-seed-shopping-balcony.jpg)](https://pin.it/XXXXXXX)
 
 **Online:**
 - **Ugaoo.com** — Wide range of seeds, pots, and soil. Ships across India.
@@ -429,7 +401,6 @@ Container plants need regular feeding because nutrients wash out with every wate
 
 ## 9. Final Thoughts
 
-[![A happy gardener harvesting fresh tomatoes from a thriving balcony container garden]({{ site.baseurl }}/assets/images/gardening/happy-gardener-harvesting-balcony-tomatoes.jpg)](https://pin.it/XXXXXXX)
 
 Balcony gardening is one of the most rewarding hobbies you can pick up — especially in India, where fresh produce matters so much in everyday cooking. You don't need to start with all 15 vegetables. Pick two or three that you cook with regularly, get them growing well, and then expand from there.
 
@@ -439,4 +410,3 @@ If this guide helped you, bookmark it for reference and share it with someone wh
 
 ---
 
-*Images and Pinterest pin links will be added once visuals are ready.*
