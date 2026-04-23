@@ -6,7 +6,7 @@ categories: [gardening]
 description: "Discover 15 easy balcony flowers perfect for apartment living. Low-maintenance, colorful blooms that thrive in containers with minimal effort."
 ---
 
-[![Colorful flower-filled apartment balcony with hanging baskets and container plants]({{ site.baseurl }}/assets/images/gardening/apartment-balcony-flowers-hero.jpg)](https://pin.it/XXXXXXX)
+[![Colorful flower-filled apartment balcony with hanging baskets and container plants]({{ site.baseurl }}/assets/images/gardening/apartment-balcony-flowers-hero.jpg)](https://pin.it/54lq2ZvwO)
 
 If you have a small apartment balcony and a big dream of turning it into a flower paradise — you are in the right place.
 
@@ -62,7 +62,7 @@ If your balcony gets 5–6+ hours of sun, you've hit the jackpot. These flowers 
 
 ### 3.1 Petunias
 
-[![Trailing pink and purple petunias spilling over a balcony railing planter]({{ site.baseurl }}/assets/images/gardening/petunias-balcony-planter.jpg)](https://pin.it/XXXXXXX)
+[![Trailing pink and purple petunias spilling over a balcony railing planter]({{ site.baseurl }}/assets/images/gardening/petunias-balcony-planter.jpg)](https://pin.it/592uVAcIb)
 
 Petunias are the classic balcony flower — and for good reason. They bloom from spring all the way through fall, come in hundreds of colors, and look incredible trailing over the edge of a railing box.
 
@@ -78,7 +78,7 @@ Petunias are the classic balcony flower — and for good reason. They bloom from
 
 ### 3.2 Marigolds
 
-[![Bright orange and yellow marigolds in terracotta pots on a sunny balcony]({{ site.baseurl }}/assets/images/gardening/marigolds-terracotta-balcony.jpg)](https://pin.it/XXXXXXX)
+[![Bright orange and yellow marigolds in terracotta pots on a sunny balcony]({{ site.baseurl }}/assets/images/gardening/marigolds-terracotta-balcony.jpg)](https://pin.it/77dvReMWt)
 
 Marigolds are practically indestructible. They love heat, they repel mosquitoes (bonus for balcony sitting!), and they bloom for months. If you're a total beginner, start here.
 
@@ -94,7 +94,7 @@ Marigolds are practically indestructible. They love heat, they repel mosquitoes 
 
 ### 3.3 Lantana
 
-[![Colorful lantana flowers in shades of orange yellow and pink in a balcony pot]({{ site.baseurl }}/assets/images/gardening/lantana-colorful-balcony-pot.jpg)](https://pin.it/XXXXXXX)
+[![Colorful lantana flowers in shades of orange yellow and pink in a balcony pot]({{ site.baseurl }}/assets/images/gardening/lantana-colorful-balcony-pot.jpg)](https://pin.it/2fCpENZmx)
 
 Lantana is a heat and drought champion. The flowers change color as they age (usually yellow fading to orange to pink), which gives each cluster a multicolored look that's truly eye-catching.
 
@@ -108,7 +108,7 @@ Lantana is a heat and drought champion. The flowers change color as they age (us
 
 ### 3.4 Portulaca (Moss Rose)
 
-[![Bright portulaca moss rose flowers in pink red and yellow in a shallow balcony planter]({{ site.baseurl }}/assets/images/gardening/portulaca-moss-rose-balcony.jpg)](https://pin.it/XXXXXXX)
+[![Bright portulaca moss rose flowers in pink red and yellow in a shallow balcony planter]({{ site.baseurl }}/assets/images/gardening/portulaca-moss-rose-balcony.jpg)](https://pin.it/EhGyn1WTi)
 
 If you forget to water regularly, portulaca was made for you. It's a succulent-like flowering plant that stores water in its leaves, blooms in neon-bright colors, and actually **prefers neglect** over fussing.
 
@@ -122,7 +122,7 @@ If you forget to water regularly, portulaca was made for you. It's a succulent-l
 
 ### 3.5 Calibrachoa (Million Bells)
 
-[![Trailing million bells calibrachoa flowers in a hanging basket on apartment balcony]({{ site.baseurl }}/assets/images/gardening/calibrachoa-million-bells-hanging-basket.jpg)](https://pin.it/XXXXXXX)
+[![Trailing million bells calibrachoa flowers in a hanging basket on apartment balcony]({{ site.baseurl }}/assets/images/gardening/calibrachoa-million-bells-hanging-basket.jpg)](https://pin.it/3dcmhxtFh)
 
 Think of calibrachoa as a smaller, lower-maintenance petunia. The flowers are about the size of a dime, but there are *hundreds* of them per plant. They're perfect in hanging baskets, where they cascade like a waterfall of color.
 
@@ -140,7 +140,7 @@ Not much direct sun? These flowers are made for shadier spots.
 
 ### 4.1 Impatiens
 
-[![Hot pink and coral impatiens in a shaded balcony planter box]({{ site.baseurl }}/assets/images/gardening/impatiens-shaded-balcony-planter.jpg)](https://pin.it/XXXXXXX)
+[![Hot pink and coral impatiens in a shaded balcony planter box]({{ site.baseurl }}/assets/images/gardening/impatiens-shaded-balcony-planter.jpg)](https://pin.it/7JDVdYqwa)
 
 Impatiens are the undisputed king of shade flowers. They pump out blooms all season long even in spots that barely see the sun. They come in cheerful pinks, reds, oranges, whites, and purples.
 
@@ -154,7 +154,7 @@ Impatiens are the undisputed king of shade flowers. They pump out blooms all sea
 
 ### 4.2 Begonias
 
-[![Lush wax begonias with pink flowers and dark green leaves in a balcony container]({{ site.baseurl }}/assets/images/gardening/begonias-balcony-container.jpg)](https://pin.it/XXXXXXX)
+[![Lush wax begonias with pink flowers and dark green leaves in a balcony container]({{ site.baseurl }}/assets/images/gardening/begonias-balcony-container.jpg)](https://pin.it/7JDVdYqwa)
 
 Begonias are low-drama flowers that quietly bloom all summer without demanding anything from you. Wax begonias especially are nearly indestructible — they handle heat, shade, and inconsistent watering better than most.
 
@@ -168,7 +168,7 @@ Begonias are low-drama flowers that quietly bloom all summer without demanding a
 
 ### 4.3 Fuchsia
 
-[![Hanging fuchsia flowers in pink and purple in a balcony hanging basket against a wall]({{ site.baseurl }}/assets/images/gardening/fuchsia-hanging-basket-balcony.jpg)](https://pin.it/XXXXXXX)
+[![Hanging fuchsia flowers in pink and purple in a balcony hanging basket against a wall]({{ site.baseurl }}/assets/images/gardening/fuchsia-hanging-basket-balcony.jpg)](https://pin.it/FSnsVVal9)
 
 Fuchsia flowers look almost unreal — like little dancing ballerinas in pink, purple, red, and white. They're ideal for hanging baskets on shaded or north-facing balconies.
 
@@ -184,7 +184,7 @@ Fuchsia flowers look almost unreal — like little dancing ballerinas in pink, p
 
 ### 5.1 Geraniums (Pelargoniums)
 
-[![Classic red geraniums in terracotta pots arranged on a European-style apartment balcony]({{ site.baseurl }}/assets/images/gardening/geraniums-terracotta-apartment-balcony.jpg)](https://pin.it/XXXXXXX)
+[![Classic red geraniums in terracotta pots arranged on a European-style apartment balcony]({{ site.baseurl }}/assets/images/gardening/geraniums-terracotta-apartment-balcony.jpg)](https://pin.it/4Jr3D8nFk)
 
 Geraniums are the most forgiving balcony flower there is. They tolerate heat, forgive missed waterings (they actually prefer it a bit dry), and bloom for months. The classic red geranium in a terracotta pot is a look that never goes out of style.
 
@@ -240,4 +240,3 @@ The best balcony garden isn't the most complicated one. It's the one you actuall
 Happy growing. 🌸
 
 ---
-*Found this helpful? Save it to your gardening board on Pinterest for later!*
