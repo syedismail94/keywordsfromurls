@@ -7,7 +7,7 @@ description: "Transform your tiny balcony into a lush vertical garden in 2026. B
 date: 2026-04-24
 ---
 
-[![Hero image of a lush vertical balcony garden with climbing plants and wall planters in a modern apartment]({{ site.baseurl }}/assets/images/gardening/vertical-balcony-garden-hero-2026.jpg)](https://pin.it/XXXXXXX)
+[![Hero image of a lush vertical balcony garden with climbing plants and wall planters in a modern apartment]({{ site.baseurl }}/assets/images/gardening/vertical-balcony-garden-hero-2026.jpg)](https://pin.it/2HUmb53Ad)
 
 Got a tiny balcony and a big dream to grow things? You're not alone. Millions of apartment renters and condo owners are turning bare concrete railings and blank walls into jaw-dropping vertical gardens — even in just 30 square feet of space.
 
@@ -74,7 +74,7 @@ If you're renting, avoid drilling into walls or railings without written permiss
 
 ## 3. Best Vertical Garden Structures for Balconies
 
-[![Wall-mounted vertical planter grid with succulents and herbs on a sunny apartment balcony]({{ site.baseurl }}/assets/images/gardening/vertical-balcony-wall-planter-grid.jpg)](https://pin.it/XXXXXXX)
+[![Wall-mounted vertical planter grid with succulents and herbs on a sunny apartment balcony]({{ site.baseurl }}/assets/images/gardening/vertical-balcony-wall-planter-grid.jpg)](https://pin.it/3Ovn63OUW)
 
 ### 3.1 Wall Pocket Planters
 
@@ -129,7 +129,7 @@ These plants have been proven winners for vertical setups in apartments — chos
 
 ### 4.1 Herbs
 
-[![Fresh basil, mint, and parsley growing in fabric wall pockets on a sunny apartment balcony]({{ site.baseurl }}/assets/images/gardening/balcony-herb-wall-pocket-garden.jpg)](https://pin.it/XXXXXXX)
+[![Fresh basil, mint, and parsley growing in fabric wall pockets on a sunny apartment balcony]({{ site.baseurl }}/assets/images/gardening/balcony-herb-wall-pocket-garden.jpg)](https://pin.it/zXWYNPvYg)
 
 The easiest and most rewarding category for beginners. Most herbs:
 - Thrive in small containers
@@ -148,7 +148,7 @@ The easiest and most rewarding category for beginners. Most herbs:
 
 ### 4.2 Strawberries
 
-[![Red ripe strawberries cascading from a vertical tower planter on a balcony railing]({{ site.baseurl }}/assets/images/gardening/strawberry-tower-planter-balcony.jpg)](https://pin.it/XXXXXXX)
+[![Red ripe strawberries cascading from a vertical tower planter on a balcony railing]({{ site.baseurl }}/assets/images/gardening/strawberry-tower-planter-balcony.jpg)](https://pin.it/zXWYNPvYg)
 
 Strawberries (*Fragaria × ananassa*) are made for vertical towers. The runners naturally cascade downward and look beautiful.
 
@@ -159,7 +159,7 @@ Strawberries (*Fragaria × ananassa*) are made for vertical towers. The runners 
 
 ### 4.3 Lettuce and Salad Greens
 
-[![Mixed salad greens and lettuce growing in a vertical wall planter with vibrant green colors]({{ site.baseurl }}/assets/images/gardening/vertical-lettuce-salad-green-planter.jpg)](https://pin.it/XXXXXXX)
+[![Mixed salad greens and lettuce growing in a vertical wall planter with vibrant green colors]({{ site.baseurl }}/assets/images/gardening/vertical-lettuce-salad-green-planter.jpg)](https://pin.it/2B3k9csm7)
 
 Lettuce (*Lactuca sativa*) is a vertical garden superstar. Shallow roots, fast-growing, and you can harvest outer leaves without killing the plant.
 
@@ -182,7 +182,7 @@ If you have a south or west-facing balcony with a trellis, these give incredible
 
 ### 4.5 Flowers for Pollination and Beauty
 
-[![Bright purple petunias and trailing nasturtiums in railing planters on an apartment balcony]({{ site.baseurl }}/assets/images/gardening/balcony-railing-flowers-petunias-nasturtiums.jpg)](https://pin.it/XXXXXXX)
+[![Bright purple petunias and trailing nasturtiums in railing planters on an apartment balcony]({{ site.baseurl }}/assets/images/gardening/balcony-railing-flowers-petunias-nasturtiums.jpg)](https://pin.it/1SRb80kNg)
 
 Don't underestimate flowers. They attract pollinators (which boost your vegetable yields), act as natural pest deterrents, and make the whole setup look intentional.
 
@@ -193,7 +193,7 @@ Don't underestimate flowers. They attract pollinators (which boost your vegetabl
 
 ### 4.6 Succulents and Low-Water Plants
 
-[![Assorted succulents in a pallet-style wooden vertical planter on a balcony in warm afternoon light]({{ site.baseurl }}/assets/images/gardening/balcony-succulent-pallet-planter.jpg)](https://pin.it/XXXXXXX)
+[![Assorted succulents in a pallet-style wooden vertical planter on a balcony in warm afternoon light]({{ site.baseurl }}/assets/images/gardening/balcony-succulent-pallet-planter.jpg)](https://pin.it/1SRb80kNg)
 
 Perfect for hot, south-facing balconies or anyone who travels often. These survive on very little water.
 
@@ -244,7 +244,7 @@ Containers need more frequent feeding because nutrients wash out with each water
 
 ## 6. Budget Breakdown: Starting a Vertical Balcony Garden
 
-[![Budget-friendly vertical balcony garden setup with fabric pockets and rail planters in a small apartment]({{ site.baseurl }}/assets/images/gardening/budget-vertical-balcony-garden-setup.jpg)](https://pin.it/XXXXXXX)
+[![Budget-friendly vertical balcony garden setup with fabric pockets and rail planters in a small apartment]({{ site.baseurl }}/assets/images/gardening/budget-vertical-balcony-garden-setup.jpg)](https://pin.it/1y8QHPEXf)
 
 Here's what a realistic starter setup costs in 2026:
 
