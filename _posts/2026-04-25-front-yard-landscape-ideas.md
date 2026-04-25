@@ -9,7 +9,7 @@ date: 2026-04-25
 author_profile: true
 ---
 
-[![Beautiful front yard landscape with colorful flower beds and lush green lawn]({{ site.baseurl }}/assets/images/gardening/front-yard-landscape-hero.jpg)](https://pin.it/XXXXXXX)
+[![Beautiful front yard landscape with colorful flower beds and lush green lawn]({{ site.baseurl }}/assets/images/gardening/front-yard-landscape-hero.jpg)](https://pin.it/18PJHk9Hq)
 
 Your front yard is the first thing people see when they drive by your home. A well-designed front yard doesn't just look beautiful — it adds real value to your property and makes you proud to pull into your driveway every day.
 
@@ -52,7 +52,7 @@ You don't need professional software. A pencil and graph paper work fine. Draw y
 
 ## 2. Create a Welcoming Front Walkway
 
-[![Charming front walkway lined with flowers and stone pavers leading to a front door]({{ site.baseurl }}/assets/images/gardening/front-yard-walkway-design.jpg)](https://pin.it/XXXXXXX)
+[![Charming front walkway lined with flowers and stone pavers leading to a front door]({{ site.baseurl }}/assets/images/gardening/front-yard-walkway-design.jpg)](https://pin.it/18PJHk9Hq)
 
 The path from your driveway or street to your front door sets the tone for your entire yard. A well-designed walkway says "come on in" before your guests even knock.
 
@@ -81,7 +81,7 @@ Planting along both sides of a walkway creates a natural "frame" that draws the 
 
 ## 3. Add Curb-Appeal With a Defined Garden Bed
 
-[![Colorful raised garden bed with mulch border along a house foundation]({{ site.baseurl }}/assets/images/gardening/front-yard-garden-bed-curb-appeal.jpg)](https://pin.it/XXXXXXX)
+[![Colorful raised garden bed with mulch border along a house foundation]({{ site.baseurl }}/assets/images/gardening/front-yard-garden-bed-curb-appeal.jpg)](https://pin.it/5vN1kveHf)
 
 A neatly edged garden bed along your house foundation instantly upgrades the look of any yard. It hides the foundation, softens the hard lines of the building, and gives you a canvas for color.
 
@@ -107,7 +107,7 @@ Layer your plants by height — taller in the back near the house, shorter towar
 
 ## 4. Go Low-Maintenance With Mulch and Ground Cover
 
-[![Neat garden beds with dark mulch and ground cover plants replacing grass]({{ site.baseurl }}/assets/images/gardening/low-maintenance-mulch-ground-cover-yard.jpg)](https://pin.it/XXXXXXX)
+[![Neat garden beds with dark mulch and ground cover plants replacing grass]({{ site.baseurl }}/assets/images/gardening/low-maintenance-mulch-ground-cover-yard.jpg)](https://pin.it/3HPK3mUM2)
 
 Not everyone wants to mow every week. Replacing grass with mulch beds and ground covers is one of the most popular low-maintenance landscaping trends — and it looks great.
 
@@ -137,7 +137,7 @@ Apply mulch 2–3 inches deep to suppress weeds and hold moisture. Keep it a few
 
 ## 5. Plant a Colorful Flower Border
 
-[![Vibrant cottage-style flower border with purple salvia, yellow coreopsis, and pink coneflowers]({{ site.baseurl }}/assets/images/gardening/colorful-flower-border-front-yard.jpg)](https://pin.it/XXXXXXX)
+[![Vibrant cottage-style flower border with purple salvia, yellow coreopsis, and pink coneflowers]({{ site.baseurl }}/assets/images/gardening/colorful-flower-border-front-yard.jpg)](https://pin.it/6qSADE0Ey)
 
 A flower border running along your fence, driveway, or property edge brings big color for a modest investment. The trick is choosing plants that bloom at different times so you have something colorful from spring through fall.
 
@@ -158,7 +158,7 @@ Plant tulip bulbs in fall for spring blooms. Everything else goes in after your 
 
 ## 6. Add a Focal Point: Trees and Shrubs
 
-[![Small ornamental tree as focal point in front yard with flowering shrubs around base]({{ site.baseurl }}/assets/images/gardening/ornamental-tree-focal-point-front-yard.jpg)](https://pin.it/XXXXXXX)
+[![Small ornamental tree as focal point in front yard with flowering shrubs around base]({{ site.baseurl }}/assets/images/gardening/ornamental-tree-focal-point-front-yard.jpg)](https://pin.it/6yNlducJk)
 
 Every great front yard has at least one "anchor" — a tree or large shrub that gives the eye somewhere to land. This creates structure and makes the whole design feel intentional.
 
@@ -227,7 +227,7 @@ Even if the rest of your yard is informal and loose, adding one symmetrical elem
 
 ## 9. Use Edging to Make Everything Look Intentional
 
-[![Clean metal lawn edging separating grass from mulch bed in a front yard]({{ site.baseurl }}/assets/images/gardening/lawn-edging-front-yard-clean-lines.jpg)](https://pin.it/XXXXXXX)
+[![Clean metal lawn edging separating grass from mulch bed in a front yard]({{ site.baseurl }}/assets/images/gardening/lawn-edging-front-yard-clean-lines.jpg)](https://pin.it/74wquqScI)
 
 Here's a secret most gardeners know: clean edging makes everything look 10x better. Even an overgrown or plain garden looks intentional once the edges are sharp.
 
