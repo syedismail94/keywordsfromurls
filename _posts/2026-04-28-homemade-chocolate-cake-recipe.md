@@ -60,7 +60,6 @@ No fancy equipment. No hard-to-find ingredients. Just a really, truly great choc
 
 ## 1. Prepare Your Pans and Oven
 
-[![Greasing and lining two round cake pans with parchment paper on a kitchen counter]({{ site.baseurl }}/assets/images/blog/chocolate-cake-prepare-pans.jpg)](https://pin.it/wlhCK0kmH)
 
 Preheat your oven to **350°F (175°C)**. This matters — an oven that is not fully preheated will cause uneven rising.
 
@@ -72,7 +71,6 @@ Set the pans aside while you mix the batter.
 
 ## 2. Mix the Dry Ingredients
 
-[![Sifting cocoa powder and flour together into a large mixing bowl]({{ site.baseurl }}/assets/images/blog/chocolate-cake-dry-ingredients.jpg)](https://pin.it/wlhCK0kmH)
 
 In a large mixing bowl, sift together:
 
@@ -89,7 +87,6 @@ Whisk everything together until combined. Sifting the cocoa powder is important 
 
 ## 3. Mix the Wet Ingredients
 
-[![Whisking eggs, buttermilk, oil, and vanilla together in a separate bowl]({{ site.baseurl }}/assets/images/blog/chocolate-cake-wet-ingredients.jpg)](https://pin.it/wlhCK0kmH)
 
 In a separate medium bowl (or a large measuring jug), whisk together:
 
@@ -106,7 +103,6 @@ Whisk until the eggs are fully incorporated and the mixture looks uniform. The o
 
 ## 4. Combine the Batter
 
-[![Pouring the wet ingredients into the dry ingredients and stirring until just combined]({{ site.baseurl }}/assets/images/blog/chocolate-cake-combine-batter.jpg)](https://pin.it/wlhCK0kmH)
 
 Pour the wet ingredients into the dry ingredients. Stir with a rubber spatula or whisk until just combined — a few streaks of flour are fine at this point.
 
@@ -118,7 +114,6 @@ Mix until smooth and no dry patches remain, but do not overmix.
 
 ## 5. Pour and Bake
 
-[![Dividing the thin chocolate cake batter evenly between two lined cake pans]({{ site.baseurl }}/assets/images/blog/chocolate-cake-pour-batter.jpg)](https://pin.it/wlhCK0kmH)
 
 Divide the batter evenly between your two prepared cake pans. Each pan should be about half full.
 
@@ -142,7 +137,6 @@ Let the layers cool **completely** before frosting — at least 1 hour at room t
 
 ## 7. Make the Chocolate Frosting
 
-[![Beating butter and cocoa powder together in a stand mixer bowl until fluffy and smooth]({{ site.baseurl }}/assets/images/blog/chocolate-cake-frosting.jpg)](https://pin.it/wlhCK0kmH)
 
 In a large bowl, beat the **softened butter** with an electric hand mixer on medium speed for about 2 minutes until pale and fluffy.
 
@@ -157,7 +151,6 @@ Add the **vanilla extract** and a **pinch of salt**, then beat for 2 to 3 minute
 
 ## 8. Assemble and Frost the Cake
 
-[![Spreading a thick layer of chocolate frosting between two cake layers with an offset spatula]({{ site.baseurl }}/assets/images/blog/chocolate-cake-assemble.jpg)](https://pin.it/wlhCK0kmH)
 
 Place one cake layer on your serving plate or cake stand, flat side up. Spoon a generous amount of frosting onto the centre (about ¾ cup) and spread it evenly to the edges with an offset spatula or butter knife.
 
@@ -171,7 +164,6 @@ Then apply the remaining frosting generously over the top and sides. Smooth it o
 
 ## 9. Slice and Serve
 
-[![A perfect slice of homemade chocolate cake on a white plate showing moist dark layers and thick frosting]({{ site.baseurl }}/assets/images/blog/chocolate-cake-slice.jpg)](https://pin.it/wlhCK0kmH)
 
 Your cake is ready to slice. Use a sharp knife wiped clean between cuts for neat slices.
 
