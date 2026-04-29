@@ -6,7 +6,7 @@ categories: [blog]
 description: "Discover 15 easy homemade summer drinks packed with health benefits. Stay cool, hydrated & healthy all summer with these refreshing DIY recipes."
 ---
 
-[![Hero image showing a vibrant flat-lay of colorful homemade summer drinks with fresh fruits and herbs on a wooden table]({{ site.baseurl }}/assets/images/blog/homemade-summer-drinks-hero.jpg)](https://pin.it/XXXXXXX)
+[![Hero image showing a vibrant flat-lay of colorful homemade summer drinks with fresh fruits and herbs on a wooden table]({{ site.baseurl }}/assets/images/blog/homemade-summer-drinks-hero.jpg)](https://pin.it/SS8y0FEre)
 
 # 15 Homemade Summer Drinks and Their Surprising Health Benefits (Easy Recipes)
 
