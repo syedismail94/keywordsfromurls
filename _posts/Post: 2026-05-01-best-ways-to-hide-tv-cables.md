@@ -7,7 +7,7 @@ description: "Hide TV cables the right way with these 9 easy, budget-friendly me
 date: 2026-05-01
 ---
 
-[![A clean modern living room with a wall-mounted TV and zero visible cables, styled with warm neutral tones and minimalist decor]({{ site.baseurl }}/assets/images/home-decor/hide-tv-cables-hero.jpg)](https://pin.it/XXXXXXX)
+[![A clean modern living room with a wall-mounted TV and zero visible cables, styled with warm neutral tones and minimalist decor]({{ site.baseurl }}/assets/images/home-decor/hide-tv-cables-hero.jpg)](https://pin.it/1hho0VEJJ)
 
 Nothing kills a beautiful living room faster than a tangle of cables hanging below your TV. You spend money on a sleek flat-screen, mount it perfectly on the wall — and then five ugly black cords dangle down like spaghetti. We've all been there.
 
@@ -39,7 +39,6 @@ Most raceways come in 5-foot sections. Use scissors (for lightweight plastic) or
 **Step 3 — Stick it to the wall.**
 Peel the adhesive backing and press the raceway firmly against the wall in a straight vertical line. Hold for 30 seconds. If your wall is textured, use the included screws instead — adhesive won't hold on bumpy surfaces.
 
-[![Hands pressing a white cable raceway channel onto a smooth painted wall beside a mounted TV]({{ site.baseurl }}/assets/images/home-decor/cable-raceway-installation.jpg)](https://pin.it/XXXXXXX)
 
 **Step 4 — Feed your cables inside.**
 Snap open the raceway lid, lay all your cables inside the channel, and snap the lid closed. Start from the top and work downward.
@@ -57,7 +56,6 @@ This is the gold-standard solution. Your cables literally disappear inside the d
 
 **Best for:** Homeowners, anyone who wants a truly professional finish.
 
-[![An in-wall cable management kit with two wall plates and a flexible conduit tube laid out on a white surface before installation]({{ site.baseurl }}/assets/images/home-decor/in-wall-cable-kit.jpg)](https://pin.it/XXXXXXX)
 
 ### What You Need
 - In-wall cable management kit (Datacomm 50-3323-WH — around $25 on Amazon)
@@ -114,7 +112,6 @@ Most kits include 90-degree corner connectors so you can turn a corner cleanly w
 
 Sometimes the simplest solution is the best one. A media console with a closed back panel or cable management holes hides everything automatically.
 
-[![A styled wood media console with a TV above it and all cables tucked neatly through a cable management hole in the back panel]({{ site.baseurl }}/assets/images/home-decor/media-console-cable-management.jpg)](https://pin.it/XXXXXXX)
 
 ### Step-by-Step
 
@@ -154,7 +151,6 @@ Guide your bundled cable into each clip going downward. The clips hold the bundl
 
 A cable sleeve (also called a cable sock) is a flexible braided tube that wraps around all your cables and turns them into one single, tidy cord. It's not as invisible as a raceway, but it looks much cleaner — especially in cable-heavy setups.
 
-[![Multiple TV cables bundled neatly inside a black braided cable sleeve hanging behind a wall-mounted TV in a dark-themed living room]({{ site.baseurl }}/assets/images/home-decor/cable-sleeve-bundle.jpg)](https://pin.it/XXXXXXX)
 
 ### Step-by-Step
 
@@ -175,7 +171,6 @@ Use small velcro wraps at each end to prevent the sleeve from unraveling.
 
 A floating shelf mounted directly below your TV does two things at once: gives you a place to put your streaming device, remotes, and small decor — and hides your cables behind it.
 
-[![A light oak floating shelf mounted directly below a wall-hung TV holding a sound bar and small plant with cables hidden behind the shelf bracket]({{ site.baseurl }}/assets/images/home-decor/floating-shelf-cable-hide.jpg)](https://pin.it/XXXXXXX)
 
 ### Step-by-Step
 
