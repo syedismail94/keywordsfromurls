@@ -7,7 +7,7 @@ description: "Find the cutest bedroom rugs in 2026 — from fluffy shag to shape
 date: 2026-05-04
 ---
 
-[![Collage of the cutest bedroom rugs in 2026 — pink scalloped, white shag, bunny-shaped, botanical and bordered styles in dreamy bedroom setups]({{ site.baseurl }}/assets/images/home-decor/cute-rugs-for-bedroom-hero.jpg)](https://pin.it/XXXXXXX)
+[![Collage of the cutest bedroom rugs in 2026 — pink scalloped, white shag, bunny-shaped, botanical and bordered styles in dreamy bedroom setups]({{ site.baseurl }}/assets/images/home-decor/cute-rugs-for-bedroom-hero.jpg)](https://pin.it/pWunqsQ2Y)
 
 ## Introduction
 
@@ -23,7 +23,7 @@ Shaped rugs are having a major moment. Instead of a plain rectangle, these rugs 
 
 ### 1.1 Botanical Shaped Rugs — Cottagecore & Nature-Inspired
 
-[![Teal lily-of-the-valley shaped botanical rug with scalloped edges on a warm wooden bedroom floor beside a bed with sage green bedding]({{ site.baseurl }}/assets/images/home-decor/botanical-shaped-bedroom-rug.jpg)](https://pin.it/XXXXXXX)
+[![Teal lily-of-the-valley shaped botanical rug with scalloped edges on a warm wooden bedroom floor beside a bed with sage green bedding]({{ site.baseurl }}/assets/images/home-decor/botanical-shaped-bedroom-rug.jpg)](https://pin.it/246qoFVkw)
 
 These are rugs that look like flowers, leaves, or plants — shaped and tufted in soft, muted colors. Think lily of the valley, mushroom shapes, daisy clusters, and floral silhouettes with scalloped or organic edges.
 
@@ -47,7 +47,7 @@ These are rugs that look like flowers, leaves, or plants — shaped and tufted i
 
 ### 1.2 Scalloped Flower Rugs — Soft & Feminine
 
-[![Blush pink large round scalloped flower-shaped rug in the center of a soft feminine bedroom with a pink velvet chair and cream walls]({{ site.baseurl }}/assets/images/home-decor/scalloped-flower-round-rug-bedroom.jpg)](https://pin.it/XXXXXXX)
+[![Blush pink large round scalloped flower-shaped rug in the center of a soft feminine bedroom with a pink velvet chair and cream walls]({{ site.baseurl }}/assets/images/home-decor/scalloped-flower-round-rug-bedroom.jpg)](https://pin.it/4SOCC6aQU)
 
 The scalloped flower rug is one of the most-pinned bedroom rugs on Pinterest right now. It is a large round rug with a layered petal edge that looks like a giant blooming flower on your floor.
 
@@ -74,7 +74,7 @@ The scalloped flower rug is one of the most-pinned bedroom rugs on Pinterest rig
 
 ### 1.3 Kawaii & Character Shaped Rugs — For Teen & Kids' Bedrooms
 
-[![Purple and pink kawaii bunny-face shaped plush rug on a pastel pink wooden floor in a teen bedroom with cute stuffed animals and pastel decor]({{ site.baseurl }}/assets/images/home-decor/kawaii-bunny-shaped-bedroom-rug.jpg)](https://pin.it/XXXXXXX)
+[![Purple and pink kawaii bunny-face shaped plush rug on a pastel pink wooden floor in a teen bedroom with cute stuffed animals and pastel decor]({{ site.baseurl }}/assets/images/home-decor/kawaii-bunny-shaped-bedroom-rug.jpg)](https://pin.it/3dSBAZlFo)
 
 If your bedroom leans kawaii, pastel, or Y2K aesthetic — a character-shaped rug is a must. These are shaped like animals, faces, clouds, or cute characters in ultra-plush pile with soft pastel color palettes.
 
@@ -107,7 +107,7 @@ If your bedroom leans kawaii, pastel, or Y2K aesthetic — a character-shaped ru
 
 ### 2.1 Large Pink Bordered Bedroom Rugs — Elegant & Timeless
 
-[![Large 9x12 pink and cream bordered area rug under a tufted bed in a glam white and gold bedroom with chandelier]({{ site.baseurl }}/assets/images/home-decor/large-pink-bordered-bedroom-rug.jpg)](https://pin.it/XXXXXXX)
+[![Large 9x12 pink and cream bordered area rug under a tufted bed in a glam white and gold bedroom with chandelier]({{ site.baseurl }}/assets/images/home-decor/large-pink-bordered-bedroom-rug.jpg)](https://pin.it/3T6B5Bn86)
 
 Not every cute rug needs to be shaped like a flower or an animal. A large bordered rug in blush pink and cream is one of the most elegant, timeless choices for a feminine bedroom — and it makes the entire room feel more expensive.
 
@@ -134,7 +134,7 @@ Your rug should extend **at least 18 inches beyond each side of the bed**. For a
 
 ### 2.2 Fluffy White Shag Rugs — The Ultimate Cozy Bedroom Rug
 
-[![Ultra-fluffy white shag rug in a romantic pink and white bedroom with crystal chandelier, tufted velvet bench at foot of bed, and gold accents]({{ site.baseurl }}/assets/images/home-decor/fluffy-white-shag-bedroom-rug.jpg)](https://pin.it/XXXXXXX)
+[![Ultra-fluffy white shag rug in a romantic pink and white bedroom with crystal chandelier, tufted velvet bench at foot of bed, and gold accents]({{ site.baseurl }}/assets/images/home-decor/fluffy-white-shag-bedroom-rug.jpg)](https://pin.it/37vgEalSz)
 
 A thick, fluffy white shag rug is the closest thing to walking on a cloud. It is the single most transformative rug upgrade you can make in a bedroom — it immediately adds softness, warmth, and that dreamy, luxurious feel that makes a room look like a five-star hotel suite.
 
