@@ -101,7 +101,7 @@ In a bedroom, the rug should extend **at least 18 inches** beyond each side of t
 
 Mirrors are the oldest trick in interior design for a reason — they genuinely double the visual space in a room by reflecting light and creating the illusion of depth.
 
-[![Large round mirror leaning against a bedroom wall beside a dresser, reflecting natural light across the room]({{ site.baseurl }}/assets/images/home-decor/small-room-large-wall-mirror.jpg)](https://pin.it/XXXXXXX)
+[![Large round mirror leaning against a bedroom wall beside a dresser, reflecting natural light across the room]({{ site.baseurl }}/assets/images/home-decor/small-room-large-wall-mirror.jpg)](https://pin.it/6vGApfIS5)
 
 **Best mirror placements:**
 - Opposite a window (reflects natural light back into the room)
@@ -119,7 +119,7 @@ Mirrors are the oldest trick in interior design for a reason — they genuinely 
 
 When floor space is limited, think **up**. Most rooms have 8–9 feet of wall space, but furniture rarely goes above 6 feet. That top section is wasted space.
 
-[![Floor-to-ceiling shelving unit in a small living room filled with books, plants, and decorative objects]({{ site.baseurl }}/assets/images/home-decor/small-room-vertical-shelving.jpg)](https://pin.it/XXXXXXX)
+[![Floor-to-ceiling shelving unit in a small living room filled with books, plants, and decorative objects]({{ site.baseurl }}/assets/images/home-decor/small-room-vertical-shelving.jpg)](https://pin.it/1bEGS6eJS)
 
 **Vertical storage ideas:**
 - Floor-to-ceiling bookshelves (IKEA Billy bookcase + extension unit = ~$120–$200 total)
@@ -164,7 +164,7 @@ A clean, half-empty room always looks bigger than a full, beautifully decorated 
 
 Small rooms with only one overhead light look flat and gloomy. **Layered lighting** makes any room feel more spacious and inviting.
 
-[![Small bedroom corner with a floor lamp, wall sconce, and string lights creating warm layered lighting]({{ site.baseurl }}/assets/images/home-decor/small-room-layered-lighting.jpg)](https://pin.it/XXXXXXX)
+[![Small bedroom corner with a floor lamp, wall sconce, and string lights creating warm layered lighting]({{ site.baseurl }}/assets/images/home-decor/small-room-layered-lighting.jpg)](https://pin.it/4BBAOdCmU)
 
 **3-layer lighting formula:**
 
@@ -200,7 +200,7 @@ Hang curtain rods **as close to the ceiling as possible** and let curtains fall 
 
 Multiple small frames scattered on different walls look messy. Instead, group your art together on **one wall** in a tight gallery arrangement.
 
-[![Curated gallery wall with coordinating frames in different sizes above a small bedroom headboard]({{ site.baseurl }}/assets/images/home-decor/small-room-gallery-wall.jpg)](https://pin.it/XXXXXXX)
+[![Curated gallery wall with coordinating frames in different sizes above a small bedroom headboard]({{ site.baseurl }}/assets/images/home-decor/small-room-gallery-wall.jpg)](https://pin.it/5P7xLXkld)
 
 **How to do a gallery wall the right way:**
 1. Pick a consistent frame color (all black, all white, or all natural wood)
