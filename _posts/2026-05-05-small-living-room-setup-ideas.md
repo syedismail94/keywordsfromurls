@@ -7,7 +7,7 @@ permalink: /home-decor/small-living-room-setup-ideas/
 date: 2026-05-05
 ---
 
-[![A bright and stylish small living room setup with grey sofa, yellow and teal accent pillows, geometric rug, and light blue accent wall]({{ site.baseurl }}/assets/images/home-decor/small-living-room-hero.jpg)](https://pin.it/XXXXXXX)
+[![A bright and stylish small living room setup with grey sofa, yellow and teal accent pillows, geometric rug, and light blue accent wall]({{ site.baseurl }}/assets/images/home-decor/small-living-room-hero.jpg)](https://pin.it/5GD5NkxSK)
 
 ## Introduction
 
@@ -27,7 +27,7 @@ The sofa is the biggest piece in any living room. Get this wrong and nothing els
 
 Most small living rooms do best with a **2-seater or a compact 3-seater** sofa. Sectionals are usually too large unless your room is an L-shape.
 
-[![Compact grey sofa with colorful accent cushions placed against a wall in a small living room with floating shelves]({{ site.baseurl }}/assets/images/home-decor/small-living-room-sofa-size.jpg)](https://pin.it/XXXXXXX)
+[![Compact grey sofa with colorful accent cushions placed against a wall in a small living room with floating shelves]({{ site.baseurl }}/assets/images/home-decor/small-living-room-sofa-size.jpg)](https://pin.it/6wNjC6s7C)
 
 ### What Size Sofa Works in a Small Living Room?
 
@@ -50,7 +50,7 @@ Most small living rooms do best with a **2-seater or a compact 3-seater** sofa. 
 
 Dark walls make small rooms feel like caves. Light, cool, or warm-neutral walls bounce natural light around the room and visually push the walls back.
 
-[![Light blue accent wall in a small living room with white furniture and botanical gallery frames making the space look larger]({{ site.baseurl }}/assets/images/home-decor/small-living-room-light-walls.jpg)](https://pin.it/XXXXXXX)
+[![Light blue accent wall in a small living room with white furniture and botanical gallery frames making the space look larger]({{ site.baseurl }}/assets/images/home-decor/small-living-room-light-walls.jpg)](https://pin.it/7gFFCL30n)
 
 ### Best Wall Colors for Small Living Rooms (USA Brands)
 
@@ -72,7 +72,7 @@ In a small living room, every piece of furniture should do at least two jobs.
 
 This is the single biggest upgrade most people skip. A coffee table with storage, an ottoman that opens up, a sofa with a pull-out bed — all of these save floor space and reduce clutter.
 
-[![White lift-top coffee table with hidden storage open in a small living room showing smart dual-purpose furniture design]({{ site.baseurl }}/assets/images/home-decor/small-living-room-multifunctional-furniture.jpg)](https://pin.it/XXXXXXX)
+[![White lift-top coffee table with hidden storage open in a small living room showing smart dual-purpose furniture design]({{ site.baseurl }}/assets/images/home-decor/small-living-room-multifunctional-furniture.jpg)](https://pin.it/3AAwNkW9m)
 
 ### Best Multi-Function Furniture for Small Living Rooms
 
@@ -111,7 +111,7 @@ Most small apartments and homes come with one overhead light. This single source
 
 The fix: layer three types of light.
 
-[![Cozy small living room with warm ambient lighting from floor lamp, shelf LED strip lights, and candles creating a layered lighting effect]({{ site.baseurl }}/assets/images/home-decor/small-living-room-layered-lighting.jpg)](https://pin.it/XXXXXXX)
+[![Cozy small living room with warm ambient lighting from floor lamp, shelf LED strip lights, and candles creating a layered lighting effect]({{ site.baseurl }}/assets/images/home-decor/small-living-room-layered-lighting.jpg)](https://pin.it/5yqPenxwJ)
 
 ### The 3-Layer Lighting Method for Small Living Rooms
 
@@ -136,7 +136,7 @@ When floor space is limited, look up.
 
 Floating shelves take zero floor space and give you room to display plants, books, baskets, and decor. Mounted high on the wall, they draw the eye upward and make ceilings feel taller.
 
-[![Neutral small living room with two white floating shelves mounted high on the wall holding plants, books and baskets above a grey sofa]({{ site.baseurl }}/assets/images/home-decor/small-living-room-floating-shelves.jpg)](https://pin.it/XXXXXXX)
+[![Neutral small living room with two white floating shelves mounted high on the wall holding plants, books and baskets above a grey sofa]({{ site.baseurl }}/assets/images/home-decor/small-living-room-floating-shelves.jpg)](https://pin.it/7Eywnm9SP)
 
 ### Floating Shelf Ideas for Small Living Rooms
 
@@ -182,7 +182,7 @@ Too small, and the furniture looks like it's floating on an island. Too big, and
 
 Plants make a room feel alive without cost much. But in a small living room, you need to place them thoughtfully — not just scatter them everywhere.
 
-[![Boho small living room with strategic placement of large monstera plant in corner, trailing ivy on shelves and small potted plants on windowsill]({{ site.baseurl }}/assets/images/home-decor/small-living-room-plants.jpg)](https://pin.it/XXXXXXX)
+[![Boho small living room with strategic placement of large monstera plant in corner, trailing ivy on shelves and small potted plants on windowsill]({{ site.baseurl }}/assets/images/home-decor/small-living-room-plants.jpg)](https://pin.it/2ICQiTPk1)
 
 ### Where to Place Plants in a Small Living Room
 
@@ -228,7 +228,7 @@ Pick a **3-color accent palette** and stick to it. For example:
 
 A small room can feel warm and inviting when you layer textures. This doesn't mean spending a lot — it means mixing soft materials so the eye (and hand) has something interesting to land on.
 
-[![Bohemian cozy small living room with rattan coffee table, macrame wall hanging, woven pendant lights, chunky knit throw and layered cushions creating rich texture]({{ site.baseurl }}/assets/images/home-decor/small-living-room-texture-layers.jpg)](https://pin.it/XXXXXXX)
+[![Bohemian cozy small living room with rattan coffee table, macrame wall hanging, woven pendant lights, chunky knit throw and layered cushions creating rich texture]({{ site.baseurl }}/assets/images/home-decor/small-living-room-texture-layers.jpg)](https://pin.it/2oN8uVsSJ)
 
 ### Texture Layering Checklist for Small Living Rooms
 
