@@ -8,7 +8,7 @@ tags: [shade garden, garden design, low light plants, backyard ideas, landscapin
 date: 2026-05-07
 ---
 
-[![A lush layered shade garden with hostas, ferns, and astilbe along a curved stone path under tall oak trees]({{ site.baseurl }}/assets/images/home-decor/shade-garden-layout-hero.jpg)](https://pin.it/XXXXXXX)
+[![A lush layered shade garden with hostas, ferns, and astilbe along a curved stone path under tall oak trees]({{ site.baseurl }}/assets/images/home-decor/shade-garden-layout-hero.jpg)](https://pin.it/5wblgWWUO)
 
 ---
 
@@ -26,7 +26,6 @@ This guide walks you through nine practical shade garden layout ideas — with r
 
 Before you buy a single plant or sketch a layout, you need to figure out what kind of shade you're working with. Not all shade is the same, and planting in the wrong type is the number one mistake beginners make.
 
-[![A backyard showing three different shade conditions labeled on a diagram — dappled light under trees, deep shade along a fence, and partial shade near a house wall]({{ site.baseurl }}/assets/images/home-decor/shade-types-backyard-diagram.jpg)](https://pin.it/XXXXXXX)
 
 Here's a quick breakdown:
 
@@ -47,7 +46,7 @@ Here's a quick breakdown:
 
 This is the layout you see in most professional shade garden photos, and for good reason — it mimics how plants grow naturally in a woodland setting, which means everything looks intentional and full, not random.
 
-[![A layered shade garden with tall shrubs at the back, mid-height perennials in the middle, and low ground covers at the front, photographed in a suburban backyard]({{ site.baseurl }}/assets/images/home-decor/layered-shade-garden-layout.jpg)](https://pin.it/XXXXXXX)
+[![A layered shade garden with tall shrubs at the back, mid-height perennials in the middle, and low ground covers at the front, photographed in a suburban backyard]({{ site.baseurl }}/assets/images/home-decor/layered-shade-garden-layout.jpg)](https://pin.it/3lLhnLLeV)
 
 The idea is simple: **three tiers of plants**, arranged by height from back to front.
 
