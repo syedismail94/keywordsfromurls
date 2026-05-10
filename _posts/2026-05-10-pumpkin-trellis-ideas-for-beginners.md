@@ -99,7 +99,7 @@ Three or four tall bamboo poles (available at Home Depot for about $10–$15 for
 **Cost:** $10 – $20  
 **Difficulty:** ⭐ Very Easy
 
-[![A bamboo teepee trellis with pumpkin vines climbing up the poles in a sunny backyard garden bed]({{ site.baseurl }}/assets/images/home-decor/bamboo-teepee-pumpkin-trellis.jpg)]()
+[![A bamboo teepee trellis with pumpkin vines climbing up the poles in a sunny backyard garden bed]({{ site.baseurl }}/assets/images/home-decor/bamboo-teepee-pumpkin-trellis.jpg)](https://pin.it/27Dzsrgoi)
 
 ---
 
@@ -145,7 +145,7 @@ This is the best first trellis project for beginners. Here's exactly how to buil
 
 Take two boards and lay them flat. Cut your hardware cloth to fit the frame, then staple it tightly to the boards. Repeat for the second panel. This is your climbing surface.
 
-[![Step-by-step overhead flat lay showing tools and lumber needed to build a DIY A-frame pumpkin trellis]({{ site.baseurl }}/assets/images/home-decor/diy-a-frame-trellis-materials.jpg)]()
+[![Step-by-step overhead flat lay showing tools and lumber needed to build a DIY A-frame pumpkin trellis]({{ site.baseurl }}/assets/images/home-decor/diy-a-frame-trellis-materials.jpg)](https://pin.it/27Dzsrgoi)
 
 ### Step 4.2 — Attach the Panels Together
 
@@ -163,7 +163,7 @@ Sow 2–3 pumpkin seeds 1 inch deep at the base of each panel side. Once seedlin
 
 Once your vines start growing, gently weave them through the mesh as they climb. You can use soft cloth strips or garden velcro (sold at Amazon for ~$8) to loosely tie unruly vines to the structure.
 
-[![Hands gently tying a young pumpkin vine to a wire mesh trellis using soft garden ties in a sunny backyard]({{ site.baseurl }}/assets/images/home-decor/guiding-pumpkin-vines-on-trellis.jpg)]()
+[![Hands gently tying a young pumpkin vine to a wire mesh trellis using soft garden ties in a sunny backyard]({{ site.baseurl }}/assets/images/home-decor/guiding-pumpkin-vines-on-trellis.jpg)](https://pin.it/27Dzsrgoi)
 
 ---
 
@@ -177,7 +177,7 @@ Cut a strip of old pantyhose, a mesh produce bag, or a piece of cloth netting. T
 
 This technique works for any pumpkin over 2–3 pounds. Pantyhose is the classic choice — it stretches as the pumpkin grows. You can also buy pre-made fruit support slings at Amazon for about $10–$15 for a pack.
 
-[![A pumpkin resting in a DIY pantyhose sling hammock tied to a garden trellis for vertical growing support]({{ site.baseurl }}/assets/images/home-decor/pumpkin-sling-support-trellis.jpg)]()
+[![A pumpkin resting in a DIY pantyhose sling hammock tied to a garden trellis for vertical growing support]({{ site.baseurl }}/assets/images/home-decor/pumpkin-sling-support-trellis.jpg)](https://pin.it/27Dzsrgoi)
 
 ---
 
