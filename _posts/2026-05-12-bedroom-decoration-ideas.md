@@ -6,7 +6,7 @@ categories: [home-decor]
 description: "Transform your tiny balcony into a cozy retreat with these 10 beginner-friendly layout ideas — plants, lighting, seating & more. No big budget needed."
 ---
 
-[![Cozy tiny balcony makeover with string lights, plants, and a loveseat sofa]({{ site.baseurl }}/assets/images/home-decor/tiny-balcony-hero-cozy-setup.jpg)](https://pin.it/XXXXXXX)
+[![Cozy tiny balcony makeover with string lights, plants, and a loveseat sofa]({{ site.baseurl }}/assets/images/home-decor/tiny-balcony-hero-cozy-setup.jpg)](https://pin.it/4CdelNJ6w)
 
 ---
 
@@ -47,7 +47,7 @@ Here is a quick overview of what we will cover:
 
 ## 1. The Cozy Seating Corner
 
-[![Tiny balcony with loveseat sofa, throw pillows, string lights, and wall shelves with plants]({{ site.baseurl }}/assets/images/home-decor/tiny-balcony-cozy-seating-corner.jpg)](https://pin.it/XXXXXXX)
+[![Tiny balcony with loveseat sofa, throw pillows, string lights, and wall shelves with plants]({{ site.baseurl }}/assets/images/home-decor/tiny-balcony-cozy-seating-corner.jpg)](https://pin.it/4CdelNJ6w)
 
 This is the most popular tiny balcony layout for beginners — and for good reason. It is warm, welcoming, and easy to pull off.
 
@@ -68,7 +68,7 @@ Start by placing a small loveseat or outdoor bench against the wall. Leave the c
 
 ## 2. Vertical Green Wall for Privacy and Freshness
 
-[![Small apartment balcony with a vertical plant wall panel, folding bistro table, and rattan floor cushion]({{ site.baseurl }}/assets/images/home-decor/tiny-balcony-vertical-green-wall.jpg)](https://pin.it/XXXXXXX)
+[![Small apartment balcony with a vertical plant wall panel, folding bistro table, and rattan floor cushion]({{ site.baseurl }}/assets/images/home-decor/tiny-balcony-vertical-green-wall.jpg)](https://pin.it/4BhbvbnIG)
 
 If you want privacy AND a garden feel without taking up floor space, a vertical green wall panel is your best friend.
 
@@ -111,7 +111,7 @@ Place a round or square bistro table in the center or slightly toward one side o
 
 ## 4. Rail-Mounted Folding Bar Table (Best for Ultra-Tiny Balconies)
 
-[![Balcony railing with a mounted wood folding bar table, two white metal chairs, and breakfast setup]({{ site.baseurl }}/assets/images/home-decor/tiny-balcony-rail-mounted-table.jpg)](https://pin.it/XXXXXXX)
+[![Balcony railing with a mounted wood folding bar table, two white metal chairs, and breakfast setup]({{ site.baseurl }}/assets/images/home-decor/tiny-balcony-rail-mounted-table.jpg)](https://pin.it/5OxEcjE3v)
 
 If your balcony is so small that a traditional table takes up too much room, this is the smartest hack out there. A folding table mounts directly onto the balcony railing using brackets. When you are done, it folds flat and disappears.
 
@@ -132,7 +132,7 @@ Mount the folding table bar to your balcony railing at a comfortable standing or
 
 ## 5. Bohemian Floor Seating Layout
 
-[![Cozy boho balcony with floor mattress, woven cushions, layered rugs, rattan chair, and hanging plants]({{ site.baseurl }}/assets/images/home-decor/tiny-balcony-boho-floor-seating.jpg)](https://pin.it/XXXXXXX)
+[![Cozy boho balcony with floor mattress, woven cushions, layered rugs, rattan chair, and hanging plants]({{ site.baseurl }}/assets/images/home-decor/tiny-balcony-boho-floor-seating.jpg)](https://pin.it/1wGzdQKgn)
 
 This layout is perfect if you love a relaxed, barefoot-friendly vibe. It works especially well for apartment balconies where raising furniture feels too formal.
 
@@ -151,7 +151,7 @@ Skip the chairs entirely. Layer two rugs on the floor — a jute base rug, then 
 
 ## 6. Wicker + Natural Wood Theme (Clean and Earthy)
 
-[![Modern apartment balcony with wood deck tiles, wicker side table, white outdoor sofa, and cascading ivy plants]({{ site.baseurl }}/assets/images/home-decor/tiny-balcony-wicker-natural-wood.jpg)](https://pin.it/XXXXXXX)
+[![Modern apartment balcony with wood deck tiles, wicker side table, white outdoor sofa, and cascading ivy plants]({{ site.baseurl }}/assets/images/home-decor/tiny-balcony-wicker-natural-wood.jpg)](https://pin.it/5AtHh50QA)
 
 This is the layout you see most on Instagram and Pinterest — and it looks this good because it uses a consistent material palette. Wicker, rattan, and teak-colored wood create a warm, cohesive look that photographs beautifully and feels even better in person.
 
@@ -172,7 +172,7 @@ Start with interlocking wood deck tiles on the floor to cover ugly concrete ($30
 
 ## 7. Mediterranean Flower Balcony
 
-[![Italian-style balcony with terracotta pots, red geraniums, climbing ivy, salmon-pink walls, and rattan chair]({{ site.baseurl }}/assets/images/home-decor/tiny-balcony-mediterranean-flowers.jpg)](https://pin.it/XXXXXXX)
+[![Italian-style balcony with terracotta pots, red geraniums, climbing ivy, salmon-pink walls, and rattan chair]({{ site.baseurl }}/assets/images/home-decor/tiny-balcony-mediterranean-flowers.jpg)](https://pin.it/1ZWJganAT)
 
 Think: Italy. Terracotta pots. Red geraniums. Climbing ivy on warm orange walls. This is the Mediterranean balcony look — and it is surprisingly easy to recreate in any US city.
 
@@ -193,7 +193,7 @@ Paint or use removable wall panels in a warm terracotta or salmon tone. Stack di
 
 ## 8. Wall-Mounted Fold-Down Table (Maximum Space Saving)
 
-[![Bright balcony with yellow wall-mounted fold-down table, yellow folding chairs, and colorful wall-mounted planters]({{ site.baseurl }}/assets/images/home-decor/tiny-balcony-fold-down-wall-table.jpg)](https://pin.it/XXXXXXX)
+[![Bright balcony with yellow wall-mounted fold-down table, yellow folding chairs, and colorful wall-mounted planters]({{ site.baseurl }}/assets/images/home-decor/tiny-balcony-fold-down-wall-table.jpg)](https://pin.it/4y02jyvfH)
 
 The fold-down wall table is the ultimate space-saver for the smallest balconies. It mounts directly to the wall, folds down when you need it, and folds back up flat when you don't. Pair it with folding chairs and you have a functional dining and working space that disappears on demand.
 
@@ -230,7 +230,7 @@ Hang globe string lights along the top edge of the railing or overhead between t
 
 ## 10. Colorful Modern Pop Setup (Bold and Fun)
 
-[![Modern apartment balcony with green velvet cushion sofa, yellow oversized planters, and three hanging green lanterns]({{ site.baseurl }}/assets/images/home-decor/tiny-balcony-colorful-modern-pop.jpg)](https://pin.it/XXXXXXX)
+[![Modern apartment balcony with green velvet cushion sofa, yellow oversized planters, and three hanging green lanterns]({{ site.baseurl }}/assets/images/home-decor/tiny-balcony-colorful-modern-pop.jpg)](https://pin.it/2fWInhXol)
 
 If neutral tones bore you, this layout is for you. The colorful modern pop setup uses bold accent colors — think emerald green, mustard yellow, and cobalt blue — with clean lines and minimal furniture.
 
