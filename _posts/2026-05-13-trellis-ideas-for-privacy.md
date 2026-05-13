@@ -5,10 +5,6 @@ description: "Discover 15 creative trellis privacy ideas that add style and secl
 permalink: /home-decor/trellis-ideas-for-privacy/
 categories: [home-decor]
 tags: [trellis, privacy screen, outdoor decor, backyard ideas, DIY garden]
-date: 2026-05-13
-author_profile: true
-toc: true
-toc_label: "In This Post"
 ---
 
 [![Tall wooden trellis covered in climbing greenery creating a private backyard retreat]({{ site.baseurl }}/assets/images/home-decor/trellis-privacy-hero.jpg)](https://pin.it/6rZWGdKXi)
