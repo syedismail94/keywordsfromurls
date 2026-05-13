@@ -11,7 +11,7 @@ toc: true
 toc_label: "In This Post"
 ---
 
-[![Tall wooden trellis covered in climbing greenery creating a private backyard retreat]({{ site.baseurl }}/assets/images/home-decor/trellis-privacy-hero.jpg)](https://pin.it/XXXXXXX)
+[![Tall wooden trellis covered in climbing greenery creating a private backyard retreat]({{ site.baseurl }}/assets/images/home-decor/trellis-privacy-hero.jpg)](https://pin.it/6rZWGdKXi)
 
 ---
 
@@ -89,7 +89,7 @@ This is the most popular trellis privacy choice for a reason. A row of 4×8 ft d
 
 **Cost estimate:** $150–$300 for a 16 ft section.
 
-[![Step-by-step cedar lattice trellis panel installation in a suburban backyard]({{ site.baseurl }}/assets/images/home-decor/cedar-lattice-panel-install.jpg)](https://pin.it/XXXXXXX)
+[![Step-by-step cedar lattice trellis panel installation in a suburban backyard]({{ site.baseurl }}/assets/images/home-decor/cedar-lattice-panel-install.jpg)](https://pin.it/6rZWGdKXi)
 
 ---
 
@@ -108,7 +108,7 @@ No digging, no concrete. A planter box with a built-in trellis sits anywhere on 
 
 **Cost estimate:** $50–$300 depending on DIY vs. store-bought.
 
-[![Freestanding cedar planter box with trellis covered in jasmine on a sunny patio]({{ site.baseurl }}/assets/images/home-decor/planter-trellis-combo-patio.jpg)](https://pin.it/XXXXXXX)
+[![Freestanding cedar planter box with trellis covered in jasmine on a sunny patio]({{ site.baseurl }}/assets/images/home-decor/planter-trellis-combo-patio.jpg)](https://pin.it/481CkJYut6)
 
 ---
 
@@ -128,7 +128,7 @@ Turn an entire wall or fence line into a living green curtain. Use wire-grid pan
 
 **Pro tip:** Plant trumpet vine only if you want maximum coverage fast. It can be aggressive — give it a dedicated trellis away from gutters.
 
-[![Tall wire-grid trellis covered in climbing trumpet vine along a wooden fence]({{ site.baseurl }}/assets/images/home-decor/vertical-garden-trellis-wall.jpg)](https://pin.it/XXXXXXX)
+[![Tall wire-grid trellis covered in climbing trumpet vine along a wooden fence]({{ site.baseurl }}/assets/images/home-decor/vertical-garden-trellis-wall.jpg)](https://pin.it/481CkJYut)
 
 ---
 
@@ -144,7 +144,7 @@ Instead of diagonal lattice, use horizontal cedar slats with 2–3 inch gaps. Th
 
 **Cost estimate:** $180–$350 for an 8 ft section, depending on height.
 
-[![Modern horizontal cedar slat trellis screen beside a concrete patio in a contemporary backyard]({{ site.baseurl }}/assets/images/home-decor/modern-horizontal-slat-trellis.jpg)](https://pin.it/XXXXXXX)
+[![Modern horizontal cedar slat trellis screen beside a concrete patio in a contemporary backyard]({{ site.baseurl }}/assets/images/home-decor/modern-horizontal-slat-trellis.jpg)](https://pin.it/481CkJYut)
 
 ---
 
@@ -175,7 +175,7 @@ If you already have a pergola, adding trellis side panels to one or two sides in
 
 **Cost estimate:** $60–$200 for one 8 ft panel side.
 
-[![Pergola with cedar trellis side panels covered in climbing clematis flowers in a USA backyard]({{ site.baseurl }}/assets/images/home-decor/pergola-trellis-side-panels.jpg)](https://pin.it/XXXXXXX)
+[![Pergola with cedar trellis side panels covered in climbing clematis flowers in a USA backyard]({{ site.baseurl }}/assets/images/home-decor/pergola-trellis-side-panels.jpg)](https://pin.it/481CkJYut)
 
 ---
 
@@ -197,7 +197,7 @@ Stainless steel cable wire stretched horizontally or diagonally between posts is
 
 **Cost estimate:** $100–$250 for an 8 ft section (hardware only).
 
-[![Minimalist stainless steel cable wire trellis with young jasmine vines in a modern garden]({{ site.baseurl }}/assets/images/home-decor/cable-wire-trellis-minimalist.jpg)](https://pin.it/XXXXXXX)
+[![Minimalist stainless steel cable wire trellis with young jasmine vines in a modern garden]({{ site.baseurl }}/assets/images/home-decor/cable-wire-trellis-minimalist.jpg)](https://pin.it/481CkJYut)
 
 ---
 
@@ -237,7 +237,7 @@ A large decorative fan trellis (the kind that opens like a peacock tail) works a
 
 **Best plants:** Climbing roses, morning glory, sweet peas.
 
-[![Decorative fan-style wooden trellis with blooming climbing roses in a cottage-style backyard]({{ site.baseurl }}/assets/images/home-decor/decorative-fan-trellis-roses.jpg)](https://pin.it/XXXXXXX)
+[![Decorative fan-style wooden trellis with blooming climbing roses in a cottage-style backyard]({{ site.baseurl }}/assets/images/home-decor/decorative-fan-trellis-roses.jpg)](https://pin.it/481CkJYut)
 
 ---
 
