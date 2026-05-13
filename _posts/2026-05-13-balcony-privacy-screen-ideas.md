@@ -6,12 +6,9 @@ permalink: /home-decor/balcony-privacy-screen-ideas/
 categories: [home-decor]
 tags: [balcony privacy, outdoor privacy screen, apartment balcony, balcony decor, privacy ideas]
 date: 2026-05-13
-author_profile: true
-toc: true
-toc_label: "In This Post"
 ---
 
-[![Stylish apartment balcony with bamboo roll-up privacy screen in warm afternoon light]({{ site.baseurl }}/assets/images/home-decor/balcony-privacy-screen-hero.jpg)](https://pin.it/XXXXXXX)
+[![Stylish apartment balcony with bamboo roll-up privacy screen in warm afternoon light]({{ site.baseurl }}/assets/images/home-decor/balcony-privacy-screen-hero.jpg)](https://pin.it/6x9LTd6Rx)
 
 ---
 
@@ -61,7 +58,7 @@ The ideas below are selected with these real-world limits in mind.
 
 **Wind tip:** In windy areas, add small bungee cord clips at the bottom edge tied to railing spindles so the blind does not flap.
 
-[![Bamboo reed roll-up blinds hanging from apartment balcony ceiling for privacy in city]({{ site.baseurl }}/assets/images/home-decor/bamboo-reed-rollup-blind-balcony.jpg)](https://pin.it/XXXXXXX)
+[![Bamboo reed roll-up blinds hanging from apartment balcony ceiling for privacy in city]({{ site.baseurl }}/assets/images/home-decor/bamboo-reed-rollup-blind-balcony.jpg)](https://pin.it/34o8BAz1W)
 
 ---
 
@@ -88,7 +85,7 @@ The ideas below are selected with these real-world limits in mind.
 
 **Cost estimate:** $80–$200 for 2 large planters including soil and plants.
 
-[![Tall white oval planters with bamboo and fountain grass on wood-decked balcony for privacy]({{ site.baseurl }}/assets/images/home-decor/tall-planter-bamboo-privacy-balcony.jpg)](https://pin.it/XXXXXXX)
+[![Tall white oval planters with bamboo and fountain grass on wood-decked balcony for privacy]({{ site.baseurl }}/assets/images/home-decor/tall-planter-bamboo-privacy-balcony.jpg)](https://pin.it/3WwWcZa6U)
 
 ---
 
@@ -132,7 +129,7 @@ The ideas below are selected with these real-world limits in mind.
 
 **Cost estimate:** $60–$200 depending on DIY vs. ready-made.
 
-[![Cedar planter box with lattice trellis covered in climbing vines on city apartment balcony]({{ site.baseurl }}/assets/images/home-decor/cedar-planter-trellis-climbing-vines-balcony.jpg)](https://pin.it/XXXXXXX)
+[![Cedar planter box with lattice trellis covered in climbing vines on city apartment balcony]({{ site.baseurl }}/assets/images/home-decor/cedar-planter-trellis-climbing-vines-balcony.jpg)](https://pin.it/3ei6wuy10)
 
 ---
 
@@ -157,7 +154,7 @@ The ideas below are selected with these real-world limits in mind.
 
 **Lifespan:** 3–5 years outdoors. Replace panels or re-treat with linseed oil every 2–3 years to extend life.
 
-[![Woven willow privacy panel attached to apartment balcony metal railing with city view behind]({{ site.baseurl }}/assets/images/home-decor/woven-willow-panel-balcony-railing.jpg)](https://pin.it/XXXXXXX)
+[![Woven willow privacy panel attached to apartment balcony metal railing with city view behind]({{ site.baseurl }}/assets/images/home-decor/woven-willow-panel-balcony-railing.jpg)](https://pin.it/Sc5p8ilha)
 
 ---
 
@@ -200,7 +197,7 @@ The ideas below are selected with these real-world limits in mind.
 
 **Cost estimate:** $65–$300 depending on size and motorization.
 
-[![Modern retractable roller shade on high-rise apartment balcony blocking afternoon sun and neighbors]({{ site.baseurl }}/assets/images/home-decor/retractable-roller-shade-balcony.jpg)](https://pin.it/XXXXXXX)
+[![Modern retractable roller shade on high-rise apartment balcony blocking afternoon sun and neighbors]({{ site.baseurl }}/assets/images/home-decor/retractable-roller-shade-balcony.jpg)](https://pin.it/5Nf6pa0TQ)
 
 ---
 
@@ -225,7 +222,7 @@ The ideas below are selected with these real-world limits in mind.
 
 **Important note:** Check HOA rules first. Some buildings do not allow artificial greenery on exterior-facing railings.
 
-[![Narrow apartment balcony covered in artificial boxwood panels on railing and side wall with artificial grass floor]({{ site.baseurl }}/assets/images/home-decor/artificial-boxwood-hedge-balcony.jpg)](https://pin.it/XXXXXXX)
+[![Narrow apartment balcony covered in artificial boxwood panels on railing and side wall with artificial grass floor]({{ site.baseurl }}/assets/images/home-decor/artificial-boxwood-hedge-balcony.jpg)](https://pin.it/5Nf6pa0TQ)
 
 ---
 
@@ -273,7 +270,7 @@ The ideas below are selected with these real-world limits in mind.
 
 **Cost estimate (DIY):** $80–$150 for lumber + stain. Ready-made units from Etsy run $250–$600.
 
-[![Dark stained vertical wood slat privacy screen with planter box on rooftop balcony city view]({{ site.baseurl }}/assets/images/home-decor/dark-stained-vertical-slat-balcony-screen.jpg)](https://pin.it/XXXXXXX)
+[![Dark stained vertical wood slat privacy screen with planter box on rooftop balcony city view]({{ site.baseurl }}/assets/images/home-decor/dark-stained-vertical-slat-balcony-screen.jpg)](https://pin.it/1hK0JGgXA)
 
 ---
 
@@ -340,7 +337,7 @@ The fabric is heavier — woven cotton canvas or outdoor linen rather than sheer
 
 **Cost estimate:** $150–$400 per tree + pot setup. 3 trees cover a typical balcony.
 
-[![Row of tall potted trees in terracotta pots lining balcony railing as natural living privacy screen]({{ site.baseurl }}/assets/images/home-decor/tall-potted-trees-balcony-privacy.jpg)](https://pin.it/XXXXXXX)
+[![Row of tall potted trees in terracotta pots lining balcony railing as natural living privacy screen]({{ site.baseurl }}/assets/images/home-decor/tall-potted-trees-balcony-privacy.jpg)](https://pin.it/3dFRua0hE)
 
 ---
 
