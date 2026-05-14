@@ -7,7 +7,7 @@ description: "Discover 13 balcony railing designs — from laser-cut metal to gl
 date: 2026-05-14
 ---
 
-[![Hero: 13 Balcony Railing Design Ideas for Safe and Stylish Homes]({{ site.baseurl }}/assets/images/home-decor/balcony-railing-design-hero.jpg)](https://pin.it/XXXXXXX)
+[![Hero: 13 Balcony Railing Design Ideas for Safe and Stylish Homes]({{ site.baseurl }}/assets/images/home-decor/balcony-railing-design-hero.jpg)](https://pin.it/2D7e5NzP5)
 
 ## Introduction
 
@@ -30,7 +30,7 @@ Wrought iron is the gold standard for traditional balconies. The vertical balust
 **Cost:** $60–$120 per linear foot installed
 **Where to buy:** Home Depot, Lowe's, or a local ironwork fabricator
 
-[![Wrought iron baluster railing with ball top posts — traditional balcony design]({{ site.baseurl }}/assets/images/home-decor/wrought-iron-ball-top-railing.jpg)](https://pin.it/XXXXXXX)
+[![Wrought iron baluster railing with ball top posts — traditional balcony design]({{ site.baseurl }}/assets/images/home-decor/wrought-iron-ball-top-railing.jpg)](https://pin.it/24mbUHKKo)
 
 ---
 
@@ -67,7 +67,7 @@ The patterns look open and airy from a distance but the steel frame is completel
 **Cost:** $100–$200 per linear foot
 **Where to buy:** Decorative Metal Works (decorativemetalworks.com), local steel fabricators, Etsy (custom orders)
 
-[![Laser cut organic pattern steel balcony railing on modern home exterior]({{ site.baseurl }}/assets/images/home-decor/laser-cut-organic-steel-railing.jpg)](https://pin.it/XXXXXXX)
+[![Laser cut organic pattern steel balcony railing on modern home exterior]({{ site.baseurl }}/assets/images/home-decor/laser-cut-organic-steel-railing.jpg)](https://pin.it/5Fb9pdIj4)
 
 ---
 
@@ -80,7 +80,7 @@ Perforated metal panels use a flat sheet of aluminum or steel punched with hundr
 **Cost:** $70–$130 per linear foot
 **Where to buy:** McNichols.com (perforated metal supplier), metalsdepot.com
 
-[![Perforated metal panel railing on modern apartment building balcony]({{ site.baseurl }}/assets/images/home-decor/perforated-metal-panel-balcony-railing.jpg)](https://pin.it/XXXXXXX)
+[![Perforated metal panel railing on modern apartment building balcony]({{ site.baseurl }}/assets/images/home-decor/perforated-metal-panel-balcony-railing.jpg)](https://pin.it/L8PCWFpB1)
 
 ---
 
@@ -93,7 +93,7 @@ Vertical stainless steel bars with a clean horizontal top rail is the minimalist
 **Cost:** $55–$110 per linear foot
 **Where to buy:** RailFX (railfx.net), Hoover Fence, Amazon (DIY kits)
 
-[![Stainless steel vertical bar railing on contemporary home balcony at dusk]({{ site.baseurl }}/assets/images/home-decor/stainless-steel-vertical-bar-railing.jpg)](https://pin.it/XXXXXXX)
+[![Stainless steel vertical bar railing on contemporary home balcony at dusk]({{ site.baseurl }}/assets/images/home-decor/stainless-steel-vertical-bar-railing.jpg)](https://pin.it/6xOGwDk8R)
 
 | Railing Style | Best For | Maintenance | Kid Safety | Cost/Linear Ft |
 |---|---|---|---|---|
@@ -141,7 +141,7 @@ Stainless steel cables are threaded through solid wood posts — usually cedar, 
 **Cost:** $80–$150 per linear foot
 **Where to buy:** Feeney CableRail (feeneyinc.com), RailEasy (raileasy.com)
 
-[![Horizontal cable railing with wood posts on a wooden deck balcony]({{ site.baseurl }}/assets/images/home-decor/horizontal-cable-wood-post-railing.jpg)](https://pin.it/XXXXXXX)
+[![Horizontal cable railing with wood posts on a wooden deck balcony]({{ site.baseurl }}/assets/images/home-decor/horizontal-cable-wood-post-railing.jpg)](https://pin.it/3W0cWMAtp)
 
 ---
 
@@ -169,7 +169,7 @@ Solid aluminum panels with no cutouts and no gaps. These are powder-coated for a
 **Cost:** $90–$160 per linear foot
 **Where to buy:** Fortress Building Products, Boral TrimBoard, local aluminum fabricators
 
-[![Solid aluminum powder coated panel railing on family home balcony]({{ site.baseurl }}/assets/images/home-decor/solid-aluminum-panel-balcony-railing.jpg)](https://pin.it/XXXXXXX)
+[![Solid aluminum powder coated panel railing on family home balcony]({{ site.baseurl }}/assets/images/home-decor/solid-aluminum-panel-balcony-railing.jpg)](https://pin.it/1HFTD6pTr)
 
 ---
 
@@ -200,7 +200,7 @@ Take the classic wrought iron look but specify balusters spaced just 2–3 inche
 **Cost:** $75–$140 per linear foot (custom spacing adds small premium)
 **Where to buy:** Local ironwork studios, Houzz marketplace, metalsmith Etsy shops
 
-[![Decorative wrought iron railing with close set balusters for child safety]({{ site.baseurl }}/assets/images/home-decor/close-set-wrought-iron-decorative-railing.jpg)](https://pin.it/XXXXXXX)
+[![Decorative wrought iron railing with close set balusters for child safety]({{ site.baseurl }}/assets/images/home-decor/close-set-wrought-iron-decorative-railing.jpg)](https://pin.it/1dE971P3H)
 
 ---
 
@@ -213,7 +213,7 @@ Alternate tempered glass panels with solid steel panels for a design that is bot
 **Cost:** $160–$320 per linear foot
 **Where to buy:** Local custom metal and glass fabricators, Houzz for design inspiration + installer referrals
 
-[![Mixed glass and steel panel balcony railing on luxury modern home exterior]({{ site.baseurl }}/assets/images/home-decor/mixed-glass-steel-panel-railing.jpg)](https://pin.it/XXXXXXX)
+[![Mixed glass and steel panel balcony railing on luxury modern home exterior]({{ site.baseurl }}/assets/images/home-decor/mixed-glass-steel-panel-railing.jpg)](https://pin.it/1dE971P3H)
 
 ---
 
