@@ -7,7 +7,7 @@ permalink: /home-decor/balcony-safety-grill-design-ideas/
 date: 2026-05-15
 ---
 
-[![Modern apartment balcony with decorative laser-cut black metal safety grill panels and a single chair]({{ site.baseurl }}/assets/images/home-decor/balcony-safety-grill-hero-laser-cut-black.jpg)](https://pin.it/XXXXXXX)
+[![Modern apartment balcony with decorative laser-cut black metal safety grill panels and a single chair]({{ site.baseurl }}/assets/images/home-decor/balcony-safety-grill-hero-laser-cut-black.jpg)](https://pin.it/1AFnstInt)
 
 Most homeowners treat balcony grills as a safety checkbox — something functional you just have to install. But after looking at hundreds of apartment balconies, the truth is clear: **the right grill design can completely transform how your home looks from the street and how you feel standing on it.**
 
@@ -47,7 +47,7 @@ The good news? You don't have to pick just one. Modern grill designs are getting
 
 ### 1. Laser-Cut Geometric Panels — The Statement Maker
 
-[![Decorative black laser-cut geometric metal grill panels on an apartment balcony with arabesque pattern]({{ site.baseurl }}/assets/images/home-decor/balcony-laser-cut-geometric-black-panel.jpg)](https://pin.it/XXXXXXX)
+[![Decorative black laser-cut geometric metal grill panels on an apartment balcony with arabesque pattern]({{ site.baseurl }}/assets/images/home-decor/balcony-laser-cut-geometric-black-panel.jpg)](https://pin.it/3KEascKLe)
 
 This is what Image 1 shows — and it's arguably the most visually dramatic option on this list.
 
@@ -87,7 +87,7 @@ It looks clean, opens up the view completely, and costs significantly less than 
 
 ### 3. Horizontal Steel Bar Railing — Modern Ranch Meets Urban
 
-[![Wide modern apartment balcony with sleek horizontal black steel bar railing and grey tile flooring]({{ site.baseurl }}/assets/images/home-decor/balcony-horizontal-steel-bar-railing-modern.jpg)](https://pin.it/XXXXXXX)
+[![Wide modern apartment balcony with sleek horizontal black steel bar railing and grey tile flooring]({{ site.baseurl }}/assets/images/home-decor/balcony-horizontal-steel-bar-railing-modern.jpg)](https://pin.it/ALLoH5TbK)
 
 Images 3 and 9 both show horizontal bar railings — but they execute it very differently.
 
@@ -105,7 +105,7 @@ Horizontal railings have become extremely popular in the last decade because the
 
 ### 4. Full Glass Railing — Invisible Barrier, Maximum View
 
-[![Luxury apartment balcony with full frameless glass railing panels and stainless steel posts overlooking a green landscape]({{ site.baseurl }}/assets/images/home-decor/balcony-full-glass-railing-frameless-luxury.jpg)](https://pin.it/XXXXXXX)
+[![Luxury apartment balcony with full frameless glass railing panels and stainless steel posts overlooking a green landscape]({{ site.baseurl }}/assets/images/home-decor/balcony-full-glass-railing-frameless-luxury.jpg)](https://pin.it/41jd2OqTR)
 
 Image 4 is the most aspirational look in this collection. Floor-to-ceiling glass panels with thin stainless steel posts and a slim top handrail. It creates an almost invisible barrier — the view from inside the apartment is unobstructed.
 
@@ -141,7 +141,7 @@ The upper sections are full-height decorative panels (for shade and semi-privacy
 
 ### 6. Wooden Louvre / Slatted Screen — Warmth and Privacy Together
 
-[![Long apartment balcony with warm timber horizontal louvre slats as railing and matching wood-clad ceiling]({{ site.baseurl }}/assets/images/home-decor/balcony-wooden-louvre-slat-railing-warm-timber.jpg)](https://pin.it/XXXXXXX)
+[![Long apartment balcony with warm timber horizontal louvre slats as railing and matching wood-clad ceiling]({{ site.baseurl }}/assets/images/home-decor/balcony-wooden-louvre-slat-railing-warm-timber.jpg)](https://pin.it/3xeE4PlxU)
 
 Image 6 is one of the most cohesive designs in this set. The balcony uses **horizontal timber slats** as both the railing infill AND the ceiling cladding — creating a seamless wood-wrapped corridor effect. The warm honey tones are stunning in afternoon light.
 
@@ -179,7 +179,7 @@ Cable railings have exploded in popularity for modern homes because:
 
 ### 8. Wavy / Artistic Wrought Iron — For Curved or Grand Balconies
 
-[![Curved balcony with artistic wavy wrought iron railing spindles and warm marble-look tile floor]({{ site.baseurl }}/assets/images/home-decor/balcony-wavy-artistic-wrought-iron-curved.jpg)](https://pin.it/XXXXXXX)
+[![Curved balcony with artistic wavy wrought iron railing spindles and warm marble-look tile floor]({{ site.baseurl }}/assets/images/home-decor/balcony-wavy-artistic-wrought-iron-curved.jpg)](https://pin.it/1z4GWfK18)
 
 Image 8 is the most dramatic architectural photograph in this collection. A **curved, semicircular balcony** with a matching curved wrought iron railing — the balusters are sinuous, wave-shaped forms that look like they're moving.
 
@@ -216,7 +216,7 @@ It's the most common solution for families with toddlers on mid-floor apartments
 
 ### 10. Frosted / Textured Glass Panel — Maximum Privacy, Soft Light
 
-[![Modern apartment corridor balcony with frosted white textured glass panels and slim steel frame at sunset]({{ site.baseurl }}/assets/images/home-decor/balcony-frosted-glass-panel-privacy-steel-frame.jpg)](https://pin.it/XXXXXXX)
+[![Modern apartment corridor balcony with frosted white textured glass panels and slim steel frame at sunset]({{ site.baseurl }}/assets/images/home-decor/balcony-frosted-glass-panel-privacy-steel-frame.jpg)](https://pin.it/5Hr8H8fOF)
 
 Image 11 shows floor-to-ceiling frosted glass panels with a slim steel frame. The glass allows warm light to pass through while blocking direct sightlines from neighboring buildings or the street below.
 
@@ -251,7 +251,7 @@ The key principle here: **pick one dominant material and use the second as an ac
 
 ### 12. Laser-Cut Panel Sliding Screen — Privacy That Moves
 
-[![Apartment balcony with large sliding laser-cut arabesque bronze metal screen panels creating shade and privacy]({{ site.baseurl }}/assets/images/home-decor/balcony-sliding-laser-cut-screen-panel-bronze.jpg)](https://pin.it/XXXXXXX)
+[![Apartment balcony with large sliding laser-cut arabesque bronze metal screen panels creating shade and privacy]({{ site.baseurl }}/assets/images/home-decor/balcony-sliding-laser-cut-screen-panel-bronze.jpg)](https://pin.it/6hN6dvk8H)
 
 Image 13 shows perhaps the most functional innovation in this list: **laser-cut panels mounted on sliding tracks**, so you can open them fully for view and breeze, or close them for shade and privacy. The arabesque/geometric pattern is similar to #1 and #5 but here the panels are larger and function as sliding screens rather than fixed railings.
 
