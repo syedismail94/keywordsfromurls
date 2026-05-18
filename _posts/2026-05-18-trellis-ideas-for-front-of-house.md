@@ -5,12 +5,9 @@ description: "Transform your home's curb appeal with these 14 trellis ideas for 
 categories: [home-decor]
 permalink: /home-decor/trellis-ideas-for-front-of-house/
 date: 2026-05-18
-author_profile: true
-toc: true
-toc_label: "Jump To a Trellis Style"
 ---
 
-[![White lattice trellis arch covered in pink and red climbing roses framing a cottage front entry with white picket fence]({{ site.baseurl }}/assets/images/home-decor/hero-white-rose-trellis-arch-front-of-house.jpg)](https://pin.it/XXXXXXX)
+[![White lattice trellis arch covered in pink and red climbing roses framing a cottage front entry with white picket fence]({{ site.baseurl }}/assets/images/home-decor/hero-white-rose-trellis-arch-front-of-house.jpg)](https://pin.it/4wh2JL18E)
 
 ---
 
@@ -48,7 +45,7 @@ Use this quick reference table before shopping:
 
 ## 1. White Lattice Rose Arch at the Front Gate
 
-[![White painted lattice trellis arch at front gate covered with pink and red climbing roses with white picket fence beside American cottage home]({{ site.baseurl }}/assets/images/home-decor/white-lattice-rose-arch-front-gate.jpg)](https://pin.it/XXXXXXX)
+[![White painted lattice trellis arch at front gate covered with pink and red climbing roses with white picket fence beside American cottage home]({{ site.baseurl }}/assets/images/home-decor/white-lattice-rose-arch-front-gate.jpg)](https://pin.it/3pCXuIxJX)
 
 This is the most classic trellis look in American neighborhoods — and it delivers every single time. A white-painted wood arch with diamond lattice panels on each side sits right at the garden gate. Climbing roses are trained up both sides until they meet at the top and spill over.
 
@@ -78,7 +75,7 @@ This is the most classic trellis look in American neighborhoods — and it deliv
 
 ## 2. Black Steel Grid Trellis for Modern Homes
 
-[![Black powder-coated steel grid trellis panels mounted on white modern home exterior with green climbing ivy covering entire wall surface]({{ site.baseurl }}/assets/images/home-decor/black-steel-grid-trellis-modern-home.jpg)](https://pin.it/XXXXXXX)
+[![Black powder-coated steel grid trellis panels mounted on white modern home exterior with green climbing ivy covering entire wall surface]({{ site.baseurl }}/assets/images/home-decor/black-steel-grid-trellis-modern-home.jpg)](https://pin.it/6wHFMy30Y)
 
 If your home has a clean, modern look — white or grey stucco, large windows, flat or low-pitched roof — a warm wood arch will look completely out of place. What you need is a black steel grid trellis.
 
@@ -105,7 +102,7 @@ This is a metal framework mounted directly to the exterior wall. Vines grow thro
 
 ## 3. Rustic Wood Arch with Wisteria Over the Front Door
 
-[![Rustic cedar wood arched trellis dripping with cascading purple wisteria blooms framing front door of American cottage at golden hour sunset]({{ site.baseurl }}/assets/images/home-decor/rustic-wood-arch-wisteria-front-door.jpg)](https://pin.it/XXXXXXX)
+[![Rustic cedar wood arched trellis dripping with cascading purple wisteria blooms framing front door of American cottage at golden hour sunset]({{ site.baseurl }}/assets/images/home-decor/rustic-wood-arch-wisteria-front-door.jpg)](https://pin.it/7ri7XX20O)
 
 This is the most dramatic single-plant trellis idea on this list. Wisteria drips down in long purple clusters that smell incredible in spring. When it's fully grown over a wooden arch above a front door, it looks like something from a French countryside village.
 
@@ -148,7 +145,7 @@ A simple arched wooden trellis — two upright posts and a curved top — with c
 
 ## 5. Bamboo Grid Trellis on a Stucco or Plaster Wall
 
-[![Natural bamboo pole grid trellis mounted on beige stucco wall with yellow climbing roses and tropical greenery beside a wooden front door at sunset]({{ site.baseurl }}/assets/images/home-decor/bamboo-grid-trellis-stucco-wall-yellow-flowers.jpg)](https://pin.it/XXXXXXX)
+[![Natural bamboo pole grid trellis mounted on beige stucco wall with yellow climbing roses and tropical greenery beside a wooden front door at sunset]({{ site.baseurl }}/assets/images/home-decor/bamboo-grid-trellis-stucco-wall-yellow-flowers.jpg)](https://pin.it/7ri7XX20O)
 
 Bamboo trellises give a warm, natural, slightly tropical feel that works beautifully on stucco or smooth plaster homes — California ranch, Florida bungalow, or Southwest adobe style.
 
@@ -168,7 +165,7 @@ The grid pattern (horizontal and vertical poles tied at intersections with jute 
 
 ## 6. Pergola Walkway with Trellis Side Panels
 
-[![Romantic rose-covered wooden pergola walkway tunnel leading to front door of American home with pink climbing roses overhead and brick pathway]({{ site.baseurl }}/assets/images/home-decor/pergola-walkway-rose-trellis-front-path.jpg)](https://pin.it/XXXXXXX)
+[![Romantic rose-covered wooden pergola walkway tunnel leading to front door of American home with pink climbing roses overhead and brick pathway]({{ site.baseurl }}/assets/images/home-decor/pergola-walkway-rose-trellis-front-path.jpg)](https://pin.it/3iHJevxmH)
 
 If you have a longer front path — say 10 to 30 feet from the street to your door — a pergola walkway with trellis side panels creates one of the most dramatic curb-appeal upgrades possible. You literally walk through a canopy of flowers to reach the front door.
 
@@ -189,7 +186,7 @@ This is a bigger project, but you don't have to build it all at once. Start with
 
 ## 7. Painted Trellis to Match Your Front Door Color
 
-[![Turquoise painted wooden pergola trellis arch perfectly matching bright teal front door on a whitewashed Mediterranean-style home with bougainvillea]({{ site.baseurl }}/assets/images/home-decor/painted-trellis-matching-front-door-turquoise.jpg)](https://pin.it/XXXXXXX)
+[![Turquoise painted wooden pergola trellis arch perfectly matching bright teal front door on a whitewashed Mediterranean-style home with bougainvillea]({{ site.baseurl }}/assets/images/home-decor/painted-trellis-matching-front-door-turquoise.jpg)](https://pin.it/3iHJevxmH)
 
 Most people build trellises in white or natural wood brown. But painting your trellis the same color as your front door — or a bold complementary accent — turns it into a true design statement. The reference image shows this brilliantly: a turquoise pergola frame that matches the door exactly against crisp white walls.
 
@@ -211,7 +208,7 @@ Most people build trellises in white or natural wood brown. But painting your tr
 
 ## 8. Cedar Pergola with Matching Planter Boxes at the Entry
 
-[![Cedar wood pergola arch trellis with large matching cedar planter boxes filled with colorful climbing flowers flanking a craftsman front door with lantern light]({{ site.baseurl }}/assets/images/home-decor/cedar-pergola-trellis-planter-boxes-front-entry.jpg)](https://pin.it/XXXXXXX)
+[![Cedar wood pergola arch trellis with large matching cedar planter boxes filled with colorful climbing flowers flanking a craftsman front door with lantern light]({{ site.baseurl }}/assets/images/home-decor/cedar-pergola-trellis-planter-boxes-front-entry.jpg)](https://pin.it/3iHJevxmH)
 
 This setup is perfect for homes where you can't dig into the ground — concrete driveways, compacted clay, HOA-restricted properties. The trellis arch frames the entry, and large cedar planter boxes at the base of each post contain the climbing plants. Everything grows up and through the trellis from the planters.
 
@@ -228,7 +225,7 @@ This setup is perfect for homes where you can't dig into the ground — concrete
 
 ## 9. Grand White Colonial Trellis with Climbing Roses
 
-[![Grand white colonial-style trellis arch with white climbing roses over arched front door entry of classic American colonial home with lattice fence panels and black lanterns]({{ site.baseurl }}/assets/images/home-decor/grand-white-colonial-trellis-climbing-roses.jpg)](https://pin.it/XXXXXXX)
+[![Grand white colonial-style trellis arch with white climbing roses over arched front door entry of classic American colonial home with lattice fence panels and black lanterns]({{ site.baseurl }}/assets/images/home-decor/grand-white-colonial-trellis-climbing-roses.jpg)](https://pin.it/4aD7Ai9rM)
 
 For a classic American colonial home with symmetry, columns, and arched windows, this is the definitive trellis treatment. A wide, structured arch — almost architectural in scale — made from painted white wood or PVC, with lattice panels on both sides and white climbing roses growing up and over.
 
@@ -246,7 +243,7 @@ For a classic American colonial home with symmetry, columns, and arched windows,
 
 ## 10. Trellis with String Lights for Evening Curb Appeal
 
-[![Romantic rose-covered trellis arch at cottage front door glowing with warm string fairy lights woven through climbing vines at dusk blue hour]({{ site.baseurl }}/assets/images/home-decor/trellis-string-lights-roses-front-door-evening.jpg)](https://pin.it/XXXXXXX)
+[![Romantic rose-covered trellis arch at cottage front door glowing with warm string fairy lights woven through climbing vines at dusk blue hour]({{ site.baseurl }}/assets/images/home-decor/trellis-string-lights-roses-front-door-evening.jpg)](https://pin.it/1XSvNDixS)
 
 This idea takes your existing trellis from a daytime feature to something magical every evening. Warm string lights woven through a rose or vine-covered arch create a glowing entrance that costs almost nothing to add.
 
@@ -282,7 +279,7 @@ This look embraces imperfection. Weathered wood planks, rough-cut vertical strip
 
 ## 12. Espalier Tree as a Living Trellis on a Brick Wall
 
-[![Flowering espalier tree trained flat and symmetrical against red brick front of American home with white blossoms and topiary boxwood shrubs on either side]({{ site.baseurl }}/assets/images/home-decor/espalier-tree-living-trellis-brick-wall.jpg)](https://pin.it/XXXXXXX)
+[![Flowering espalier tree trained flat and symmetrical against red brick front of American home with white blossoms and topiary boxwood shrubs on either side]({{ site.baseurl }}/assets/images/home-decor/espalier-tree-living-trellis-brick-wall.jpg)](https://pin.it/1CNdfynit)
 
 Espaliering is the technique of training a tree to grow flat against a wall in a deliberate, two-dimensional pattern. It looks like something between living sculpture and architecture. Perfect for brick homes, stone cottages, or anyone who wants something genuinely unique and uncommon in their neighborhood.
 
@@ -323,7 +320,7 @@ Most trellises look spectacular in summer and completely bare in winter. The fix
 
 ## 14. Full-Coverage Vine Trellis for Maximum Drama
 
-[![Dramatic full-coverage vine trellis over front entry arch of American home with deep red and orange autumn Virginia creeper foliage and fall seasonal curb appeal]({{ site.baseurl }}/assets/images/home-decor/full-coverage-vine-trellis-arch-fall-foliage.jpg)](https://pin.it/XXXXXXX)
+[![Dramatic full-coverage vine trellis over front entry arch of American home with deep red and orange autumn Virginia creeper foliage and fall seasonal curb appeal]({{ site.baseurl }}/assets/images/home-decor/full-coverage-vine-trellis-arch-fall-foliage.jpg)](https://pin.it/1CNdfynit)
 
 This is the most dramatic look of all: vines that grow not just up a trellis but across a large section of the entire front facade. The wall itself becomes a living, seasonal tapestry. In fall, plants like Virginia creeper and Boston ivy turn crimson, orange, and gold in a way that stops people walking by.
 
