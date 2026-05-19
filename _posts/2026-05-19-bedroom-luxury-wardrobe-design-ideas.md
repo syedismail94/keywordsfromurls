@@ -7,7 +7,7 @@ permalink: /home-decor/bedroom-luxury-wardrobe-design-ideas/
 date: 2026-05-19
 ---
 
-[![Luxury bedroom wardrobe with glossy white finish and gold handles in a modern American bedroom]({{ site.baseurl }}/assets/images/home-decor/luxury-wardrobe-hero-glossy-white-bedroom.jpg)](https://pin.it/XXXXXXX)
+[![Luxury bedroom wardrobe with glossy white finish and gold handles in a modern American bedroom]({{ site.baseurl }}/assets/images/home-decor/luxury-wardrobe-hero-glossy-white-bedroom.jpg)](https://pin.it/2YMHgYN1r)
 
 ## Why Your Wardrobe Is the Most Important Furniture in Your Bedroom
 
@@ -23,7 +23,7 @@ In this guide, you'll get **17 real, actionable wardrobe design ideas** — each
 
 Before picking colors or finishes, decide on the door type. This single choice affects cost, space, and the entire look of the room.
 
-[![Comparison of hinged vs sliding wardrobe doors in a modern bedroom layout]({{ site.baseurl }}/assets/images/home-decor/hinged-vs-sliding-wardrobe-door-styles.jpg)](https://pin.it/XXXXXXX)
+[![Comparison of hinged vs sliding wardrobe doors in a modern bedroom layout]({{ site.baseurl }}/assets/images/home-decor/hinged-vs-sliding-wardrobe-door-styles.jpg)](https://pin.it/2YMHgYN1r)
 
 | Door Type | Best For | Space Needed | Cost Range (USA) |
 |-----------|----------|--------------|-----------------|
@@ -43,7 +43,7 @@ Before picking colors or finishes, decide on the door type. This single choice a
 
 The single fastest way to make a wardrobe look luxury? Take it all the way to the ceiling.
 
-[![Floor-to-ceiling built-in wardrobe with white gloss panels and integrated loft storage in a USA master bedroom]({{ site.baseurl }}/assets/images/home-decor/floor-to-ceiling-builtin-wardrobe-white-bedroom.jpg)](https://pin.it/XXXXXXX)
+[![Floor-to-ceiling built-in wardrobe with white gloss panels and integrated loft storage in a USA master bedroom]({{ site.baseurl }}/assets/images/home-decor/floor-to-ceiling-builtin-wardrobe-white-bedroom.jpg)](https://pin.it/4S4YFPi8C)
 
 Most standard wardrobes stop 6–7 feet up, leaving a dusty gap at the top. A ceiling-height wardrobe:
 
@@ -62,7 +62,7 @@ Most standard wardrobes stop 6–7 feet up, leaving a dusty gap at the top. A ce
 
 A single-color wardrobe can look flat. Two-tone design — pairing a bold color with white or wood — adds instant sophistication.
 
-[![Two tone wardrobe design with grey and white panels and gold handles in a modern bedroom]({{ site.baseurl }}/assets/images/home-decor/two-tone-grey-white-wardrobe-gold-handles.jpg)](https://pin.it/XXXXXXX)
+[![Two tone wardrobe design with grey and white panels and gold handles in a modern bedroom]({{ site.baseurl }}/assets/images/home-decor/two-tone-grey-white-wardrobe-gold-handles.jpg)](https://pin.it/2ddTsdEX1)
 
 Popular two-tone combinations in 2025–2026:
 
@@ -82,7 +82,7 @@ Popular two-tone combinations in 2025–2026:
 
 A wardrobe that's all doors can feel heavy. Breaking it up with an open shelving tower on one side does two things: it adds breathing room visually, and gives you a place to display decor, books, or folded clothes.
 
-[![Wardrobe with open display shelving tower on right side showing books plants and decor items]({{ site.baseurl }}/assets/images/home-decor/wardrobe-open-shelving-tower-display-bedroom.jpg)](https://pin.it/XXXXXXX)
+[![Wardrobe with open display shelving tower on right side showing books plants and decor items]({{ site.baseurl }}/assets/images/home-decor/wardrobe-open-shelving-tower-display-bedroom.jpg)](https://pin.it/6STLcUPQ2)
 
 **What to put on open wardrobe shelves:**
 - Folded jeans, sweaters, or bags
@@ -115,7 +115,7 @@ The outside of the wardrobe gets all the attention, but the inside is what you i
 
 If you want that five-star hotel bedroom feeling, high-gloss panel doors are the move. They reflect light, make the room feel larger, and photograph beautifully.
 
-[![High gloss white wardrobe with reflective panels and slim bar handles in a bright American bedroom]({{ site.baseurl }}/assets/images/home-decor/high-gloss-white-wardrobe-reflective-panels.jpg)](https://pin.it/XXXXXXX)
+[![High gloss white wardrobe with reflective panels and slim bar handles in a bright American bedroom]({{ site.baseurl }}/assets/images/home-decor/high-gloss-white-wardrobe-reflective-panels.jpg)](https://pin.it/2KQNIZWUl)
 
 **Gloss vs Matte — which one is right for you?**
 
@@ -136,7 +136,7 @@ If you want that five-star hotel bedroom feeling, high-gloss panel doors are the
 
 One of the smartest wardrobe design moves is building a study desk or dressing table directly into the wardrobe unit. You save floor space and everything looks cohesive — like a custom fit-out.
 
-[![Wardrobe with integrated study desk and dressing table built in showing wood tones and recessed lighting]({{ site.baseurl }}/assets/images/home-decor/wardrobe-integrated-study-desk-dressing-table.jpg)](https://pin.it/XXXXXXX)
+[![Wardrobe with integrated study desk and dressing table built in showing wood tones and recessed lighting]({{ site.baseurl }}/assets/images/home-decor/wardrobe-integrated-study-desk-dressing-table.jpg)](https://pin.it/3s0WcOtfv)
 
 **How to plan a wardrobe with built-in desk:**
 
@@ -168,7 +168,7 @@ Lighting transforms a wardrobe from storage to a feature. Interior LED strips ma
 
 White wardrobes are safe. Dark wardrobes are confident. A charcoal, slate grey, or dark anthracite wardrobe makes a bold statement — especially in a bedroom with light walls.
 
-[![Dark charcoal grey wardrobe with gold vertical handles and open shelf display unit in a moody bedroom]({{ site.baseurl }}/assets/images/home-decor/dark-charcoal-grey-wardrobe-gold-handles-bedroom.jpg)](https://pin.it/XXXXXXX)
+[![Dark charcoal grey wardrobe with gold vertical handles and open shelf display unit in a moody bedroom]({{ site.baseurl }}/assets/images/home-decor/dark-charcoal-grey-wardrobe-gold-handles-bedroom.jpg)](https://pin.it/1rywZv4I3)
 
 **How to make a dark wardrobe work without making the room feel smaller:**
 
