@@ -7,7 +7,7 @@ permalink: /home-decor/small-balcony-decor-ideas/
 date: 2026-05-19
 ---
 
-[![Cozy small balcony decorated with string lights, rattan chairs, potted plants and outdoor rug in a USA apartment]({{ site.baseurl }}/assets/images/home-decor/small-balcony-decor-hero-cozy-outdoor-space.jpg)](https://pin.it/XXXXXXX)
+[![Cozy small balcony decorated with string lights, rattan chairs, potted plants and outdoor rug in a USA apartment]({{ site.baseurl }}/assets/images/home-decor/small-balcony-decor-hero-cozy-outdoor-space.jpg)](https://pin.it/2bXH0vVd4)
 
 ## Why Small Balconies Are Actually the Easiest Outdoor Spaces to Decorate
 
@@ -23,7 +23,7 @@ This guide gives you 19 specific, actionable ideas for decorating a small balcon
 
 An outdoor rug is the single highest-impact, lowest-cost change you can make to a small balcony. It immediately makes the space feel like a room, not a slab of concrete.
 
-[![Small balcony with a patterned outdoor rug defining the seating area with rattan chairs and string lights]({{ site.baseurl }}/assets/images/home-decor/small-balcony-outdoor-rug-seating-area.jpg)](https://pin.it/XXXXXXX)
+[![Small balcony with a patterned outdoor rug defining the seating area with rattan chairs and string lights]({{ site.baseurl }}/assets/images/home-decor/small-balcony-outdoor-rug-seating-area.jpg)](https://pin.it/7tPzugV50)
 
 **What size rug to buy for a small balcony:**
 
@@ -48,7 +48,7 @@ An outdoor rug is the single highest-impact, lowest-cost change you can make to 
 
 String lights do more than any other single decoration on a balcony. At night, they turn even the most basic concrete space into somewhere you actually want to sit.
 
-[![Small apartment balcony with warm Edison string lights hung along the railing and overhead with rattan seating below]({{ site.baseurl }}/assets/images/home-decor/small-balcony-string-lights-railing-evening.jpg)](https://pin.it/XXXXXXX)
+[![Small apartment balcony with warm Edison string lights hung along the railing and overhead with rattan seating below]({{ site.baseurl }}/assets/images/home-decor/small-balcony-string-lights-railing-evening.jpg)](https://pin.it/2jtkiZ5dE)
 
 **Three ways to hang string lights on a balcony:**
 
@@ -73,7 +73,7 @@ String lights do more than any other single decoration on a balcony. At night, t
 
 The biggest mistake people make on small balconies is buying furniture that's too big. One oversized chair and you've lost the whole space. The goal is furniture that's proportional, foldable, or stackable.
 
-[![Small balcony with bistro table and two folding chairs in black metal with cushions, outdoor rug and plants]({{ site.baseurl }}/assets/images/home-decor/small-balcony-bistro-table-folding-chairs.jpg)](https://pin.it/XXXXXXX)
+[![Small balcony with bistro table and two folding chairs in black metal with cushions, outdoor rug and plants]({{ site.baseurl }}/assets/images/home-decor/small-balcony-bistro-table-folding-chairs.jpg)](https://pin.it/7gYNE7mLW)
 
 **Best furniture types for small balconies:**
 
@@ -98,7 +98,7 @@ The biggest mistake people make on small balconies is buying furniture that's to
 
 On a small balcony, floor space is precious. The solution is to go vertical. A wall-mounted planter or railing planter lets you have a garden without using a single inch of floor.
 
-[![Small balcony railing with vertical planter boxes full of trailing plants herbs and flowers in a city apartment]({{ site.baseurl }}/assets/images/home-decor/small-balcony-vertical-garden-railing-planters.jpg)](https://pin.it/XXXXXXX)
+[![Small balcony railing with vertical planter boxes full of trailing plants herbs and flowers in a city apartment]({{ site.baseurl }}/assets/images/home-decor/small-balcony-vertical-garden-railing-planters.jpg)](https://pin.it/nsbjpRDzZ)
 
 **Four vertical garden options for balconies:**
 
@@ -127,7 +127,7 @@ On a small balcony, floor space is precious. The solution is to go vertical. A w
 
 If your balcony faces a neighbor or a busy street, a privacy screen does two things: it gives you seclusion, and it instantly makes the balcony feel like a proper outdoor room rather than an exposed ledge.
 
-[![Small balcony with bamboo privacy screen on railing creating a cozy enclosed outdoor seating nook with plants]({{ site.baseurl }}/assets/images/home-decor/small-balcony-privacy-screen-bamboo-railing.jpg)](https://pin.it/XXXXXXX)
+[![Small balcony with bamboo privacy screen on railing creating a cozy enclosed outdoor seating nook with plants]({{ site.baseurl }}/assets/images/home-decor/small-balcony-privacy-screen-bamboo-railing.jpg)](https://pin.it/6JvtUW69b)
 
 **Privacy screen options for balconies:**
 
@@ -164,7 +164,7 @@ Even a small balcony needs at least one surface. A side table or tall plant stan
 
 Outdoor furniture is often hard, flat, and uncomfortable. Cushions and throw pillows are what make a balcony feel like somewhere you actually want to spend an hour, not just a place you step out to check the weather.
 
-[![Small balcony loveseat with colorful outdoor cushions and throw pillows in boho pattern with plants and rug]({{ site.baseurl }}/assets/images/home-decor/small-balcony-outdoor-cushions-pillows-loveseat.jpg)](https://pin.it/XXXXXXX)
+[![Small balcony loveseat with colorful outdoor cushions and throw pillows in boho pattern with plants and rug]({{ site.baseurl }}/assets/images/home-decor/small-balcony-outdoor-cushions-pillows-loveseat.jpg)](https://pin.it/2cx2cxOAu)
 
 **What to look for in outdoor cushions:**
 - **Material:** Look for Sunbrella fabric (the gold standard for outdoor use) or polyester with UV-resistant coating
@@ -192,7 +192,7 @@ Outdoor furniture is often hard, flat, and uncomfortable. Cushions and throw pil
 
 String lights are great, but they're just one light source. Adding solar lanterns on the floor, on a side table, or hung from the railing creates layered lighting — which is what separates a designed space from a basic one.
 
-[![Small balcony at dusk with solar lanterns on the floor and railing with warm flickering candlelight and potted plants]({{ site.baseurl }}/assets/images/home-decor/small-balcony-solar-lanterns-candles-evening-ambiance.jpg)](https://pin.it/XXXXXXX)
+[![Small balcony at dusk with solar lanterns on the floor and railing with warm flickering candlelight and potted plants]({{ site.baseurl }}/assets/images/home-decor/small-balcony-solar-lanterns-candles-evening-ambiance.jpg)](https://pin.it/4Ch4BGZtz)
 
 **Types of outdoor lighting for balconies:**
 
