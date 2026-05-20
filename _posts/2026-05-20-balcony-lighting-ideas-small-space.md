@@ -7,7 +7,7 @@ permalink: /home-decor/balcony-lighting-ideas-small-space/
 date: 2026-05-20
 ---
 
-[![Cozy small balcony decorated with warm fairy lights draped from ceiling and wooden shelves filled with plants at night]({{ site.baseurl }}/assets/images/home-decor/balcony-fairy-lights-hero.jpg)](https://pin.it/XXXXXXX)
+[![Cozy small balcony decorated with warm fairy lights draped from ceiling and wooden shelves filled with plants at night]({{ site.baseurl }}/assets/images/home-decor/balcony-fairy-lights-hero.jpg)](https://pin.it/5gXUcIxkz)
 
 A small balcony doesn't have to feel dark and forgotten after sunset. With the right lighting, even a 4×6 ft space can feel like your favourite café corner — warm, cosy, and completely yours.
 
@@ -40,7 +40,7 @@ Here's a quick reference before we dive in:
 
 ### 1. The Fairy Light Curtain — Easiest Win You'll Ever Get
 
-[![Small apartment balcony with white fairy light curtain draped from ceiling railing creating a glowing wall of light at night with city view]({{ site.baseurl }}/assets/images/home-decor/fairy-light-curtain-balcony.jpg)](https://pin.it/XXXXXXX)
+[![Small apartment balcony with white fairy light curtain draped from ceiling railing creating a glowing wall of light at night with city view]({{ site.baseurl }}/assets/images/home-decor/fairy-light-curtain-balcony.jpg)](https://pin.it/1jtnPQwgQ)
 
 This is the one I always recommend first — especially if you're renting and can't drill into walls. Hang a curtain of fairy lights from the ceiling beam or top railing and let them fall straight down like a waterfall of light.
 
@@ -54,7 +54,7 @@ Use them on the wall facing indoors so you see the glow from inside the apartmen
 
 ### 2. Edison Bulb String Lights — The Classic That Never Gets Old
 
-[![Warm Edison bulb string lights hung in a zigzag pattern across a small balcony with brick wall and hanging swing chair at dusk]({{ site.baseurl }}/assets/images/home-decor/edison-string-lights-balcony.jpg)](https://pin.it/XXXXXXX)
+[![Warm Edison bulb string lights hung in a zigzag pattern across a small balcony with brick wall and hanging swing chair at dusk]({{ site.baseurl }}/assets/images/home-decor/edison-string-lights-balcony.jpg)](https://pin.it/73M0WhPyz)
 
 If fairy lights feel too delicate for your taste, Edison bulb string lights are the next best thing. That big, visible filament gives off a serious warm glow — the kind you see in rooftop restaurants and outdoor bars.
 
@@ -68,7 +68,7 @@ At around $25–$35 for 25ft with 11 bulbs, it's genuinely one of the best inves
 
 ### 3. Star Light Overhead Grid — Turn Your Balcony into a Sky
 
-[![Blue-toned rooftop patio with star-shaped lights and a curtain light wall, brown sofa set, lanterns on floor and small Christmas tree]({{ site.baseurl }}/assets/images/home-decor/star-lights-rooftop-balcony.jpg)](https://pin.it/XXXXXXX)
+[![Blue-toned rooftop patio with star-shaped lights and a curtain light wall, brown sofa set, lanterns on floor and small Christmas tree]({{ site.baseurl }}/assets/images/home-decor/star-lights-rooftop-balcony.jpg)](https://pin.it/450D6IsGh)
 
 This look is a level up from the basic curtain — it combines an overhead grid of tiny lights with a light wall behind the seating area. The result feels like sitting under a sky full of stars.
 
@@ -83,7 +83,7 @@ It takes maybe 2 hours to set up. The visual payoff is enormous. Add a few floor
 
 ### 4. Railing Lights — Use the One Thing Every Balcony Has
 
-[![Modern high-rise apartment balcony at night with warm string lights wrapped along the railing and city skyline visible in background]({{ site.baseurl }}/assets/images/home-decor/railing-string-lights-balcony.jpg)](https://pin.it/XXXXXXX)
+[![Modern high-rise apartment balcony at night with warm string lights wrapped along the railing and city skyline visible in background]({{ site.baseurl }}/assets/images/home-decor/railing-string-lights-balcony.jpg)](https://pin.it/7wCMVgWUd)
 
 Your railing is free real estate. Wrapping it with lights is one of the most underrated moves for small balconies because it defines the space without taking up any floor or ceiling area.
 
@@ -110,7 +110,7 @@ The **[VISFLAIR 2 Pack Solar Lights with Plant Stand](https://amzn.to/4v3U1MI)**
 
 ### 6. Pendant Lanterns — Add a Focal Point Overhead
 
-[![Outdoor patio at dusk with a large industrial pendant light and paper lanterns hanging above a wooden dining table set with flowers and wine]({{ site.baseurl }}/assets/images/home-decor/pendant-lanterns-outdoor-balcony.jpg)](https://pin.it/XXXXXXX)
+[![Outdoor patio at dusk with a large industrial pendant light and paper lanterns hanging above a wooden dining table set with flowers and wine]({{ site.baseurl }}/assets/images/home-decor/pendant-lanterns-outdoor-balcony.jpg)](https://pin.it/2cS6cGvOj)
 
 One statement pendant light does more for a small space than five mediocre ones. On a balcony, a single large pendant (or a cluster of 2–3 at different heights) draws the eye upward and gives the illusion of more ceiling height.
 
@@ -125,7 +125,7 @@ For installation without hardwiring: use a waterproof pendant socket with a plug
 
 ### 7. Wall Sconces — Clean Lines, Maximum Impact
 
-[![Modern minimalist balcony at blue hour with architectural LED wall sconces casting upward and downward light beams on a grey concrete wall with L-shaped sofa]({{ site.baseurl }}/assets/images/home-decor/wall-sconces-modern-balcony.jpg)](https://pin.it/XXXXXXX)
+[![Modern minimalist balcony at blue hour with architectural LED wall sconces casting upward and downward light beams on a grey concrete wall with L-shaped sofa]({{ site.baseurl }}/assets/images/home-decor/wall-sconces-modern-balcony.jpg)](https://pin.it/5BHoBVyJP)
 
 If you want a sleek, grown-up look (think hotel exterior or modern apartment block), wall sconces are the answer. They cast light both up and down, creating a dramatic effect on vertical surfaces.
 
@@ -139,7 +139,7 @@ Budget range: $30–$80 per sconce on Amazon. Popular brands for outdoor wall sc
 
 ### 8. Hanging Rattan or Wicker Pendants — Bring Nature Into the Light
 
-[![Narrow outdoor corridor decorated with multiple hanging rattan globe pendant lights at different heights with lush hanging ivy vines and warm ambient glow]({{ site.baseurl }}/assets/images/home-decor/rattan-pendant-lights-balcony.jpg)](https://pin.it/XXXXXXX)
+[![Narrow outdoor corridor decorated with multiple hanging rattan globe pendant lights at different heights with lush hanging ivy vines and warm ambient glow]({{ site.baseurl }}/assets/images/home-decor/rattan-pendant-lights-balcony.jpg)](https://pin.it/5BHoBVyJP)
 
 This is the look that performs incredibly well on Pinterest and Instagram — and it's genuinely beautiful in person. Wicker and rattan pendants let light filter through their weave, casting intricate shadow patterns on the floor and walls.
 
@@ -151,7 +151,7 @@ Hang three at varying heights for the most dynamic effect. Pair with trailing pl
 
 ### 9. String Lights Behind a Slatted Wood Panel — Subtle but Stunning
 
-[![Bohemian outdoor patio at golden hour with string lights woven through horizontal wood slat wall panel, rattan sofa with patterned cushions and terracotta pots]({{ site.baseurl }}/assets/images/home-decor/slatted-wood-panel-string-lights.jpg)](https://pin.it/XXXXXXX)
+[![Bohemian outdoor patio at golden hour with string lights woven through horizontal wood slat wall panel, rattan sofa with patterned cushions and terracotta pots]({{ site.baseurl }}/assets/images/home-decor/slatted-wood-panel-string-lights.jpg)](https://pin.it/5Os7iGFrp)
 
 This is a slightly more involved DIY, but the result is *chef's kiss*. Mount a simple slatted wood panel (you can get these at Home Depot for under $30) on your balcony back wall, then weave fairy lights through the slats.
 
