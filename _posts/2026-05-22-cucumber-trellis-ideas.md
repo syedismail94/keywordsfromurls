@@ -10,7 +10,7 @@ toc: true
 toc_label: "Cucumber Trellis Ideas"
 ---
 
-[![Cucumber trellis ideas hero – vertical garden trellis with cucumbers growing in raised bed]({{ site.baseurl }}/assets/images/home-decor/cucumber-trellis-ideas-hero.jpg)](https://pin.it/XXXXXXX)
+[![Cucumber trellis ideas hero – vertical garden trellis with cucumbers growing in raised bed]({{ site.baseurl }}/assets/images/home-decor/cucumber-trellis-ideas-hero.jpg)](https://pin.it/2o5VMK0OI)
 
 ---
 
@@ -51,7 +51,7 @@ Before diving into the step-by-step builds, here's a quick comparison to help yo
 
 ### Step 1 — Tire Planter With Vertical Post Trellis
 
-[![DIY tire planter cucumber trellis with wooden vertical post in backyard garden]({{ site.baseurl }}/assets/images/home-decor/tire-planter-cucumber-trellis.jpg)](https://pin.it/XXXXXXX)
+[![DIY tire planter cucumber trellis with wooden vertical post in backyard garden]({{ site.baseurl }}/assets/images/home-decor/tire-planter-cucumber-trellis.jpg)](https://pin.it/1QL3GqLka)
 
 This is one of the most budget-friendly builds you'll find. An old car tire becomes the planter, and a simple wooden post system becomes the trellis. Cucumbers climb up and the whole setup costs almost nothing if you already have an old tire.
 
@@ -76,7 +76,7 @@ This is one of the most budget-friendly builds you'll find. An old car tire beco
 
 ### Step 2 — Raised Bed A-Frame Trellis With Horizontal Slats
 
-[![A-frame cucumber trellis in wooden raised garden bed with lettuce and cucumber plants]({{ site.baseurl }}/assets/images/home-decor/a-frame-raised-bed-cucumber-trellis.jpg)](https://pin.it/XXXXXXX)
+[![A-frame cucumber trellis in wooden raised garden bed with lettuce and cucumber plants]({{ site.baseurl }}/assets/images/home-decor/a-frame-raised-bed-cucumber-trellis.jpg)](https://pin.it/6ouJMSuga)
 
 The A-frame is the workhorse of cucumber trellises. It sits perfectly over a raised bed, gives plants two climbing sides, and is stable in wind. This build pairs beautifully with a raised bed that also grows lettuce or herbs underneath.
 
@@ -101,7 +101,7 @@ The A-frame is the workhorse of cucumber trellises. It sits perfectly over a rai
 
 ### Step 3 — Cattle Panel Arch Trellis
 
-[![Cattle panel arch trellis over raised garden beds with cucumbers and green vegetables]({{ site.baseurl }}/assets/images/home-decor/cattle-panel-arch-cucumber-trellis.jpg)](https://pin.it/XXXXXXX)
+[![Cattle panel arch trellis over raised garden beds with cucumbers and green vegetables]({{ site.baseurl }}/assets/images/home-decor/cattle-panel-arch-cucumber-trellis.jpg)](https://pin.it/4P5xtEJIZ)
 
 A cattle panel is a heavy-gauge wire grid (usually 16 ft long × 50 inches tall) sold at farm supply stores like Tractor Supply Co. or Rural King for about $30–$45. When you bend it into an arch over two raised beds, you get an incredible growing tunnel that holds up for 10+ years.
 
@@ -124,7 +124,7 @@ A cattle panel is a heavy-gauge wire grid (usually 16 ft long × 50 inches tall)
 
 ### Step 4 — Simple Bamboo Trellis With Twine
 
-[![Bamboo poles and twine cucumber trellis in raised garden bed with young cucumber plants]({{ site.baseurl }}/assets/images/home-decor/bamboo-twine-cucumber-trellis.jpg)](https://pin.it/XXXXXXX)
+[![Bamboo poles and twine cucumber trellis in raised garden bed with young cucumber plants]({{ site.baseurl }}/assets/images/home-decor/bamboo-twine-cucumber-trellis.jpg)](https://pin.it/7eILdSGyv)
 
 Bamboo poles are cheap, strong, and look great in any garden. This is the easiest build on the list — no tools required, just poles and twine.
 
@@ -146,7 +146,7 @@ Bamboo poles are cheap, strong, and look great in any garden. This is the easies
 
 ### Step 5 — Wooden Ladder Trellis for Raised Beds
 
-[![Wooden ladder-style cucumber trellis in raised garden bed with mature cucumber vines]({{ site.baseurl }}/assets/images/home-decor/wooden-ladder-cucumber-trellis.jpg)](https://pin.it/XXXXXXX)
+[![Wooden ladder-style cucumber trellis in raised garden bed with mature cucumber vines]({{ site.baseurl }}/assets/images/home-decor/wooden-ladder-cucumber-trellis.jpg)](https://pin.it/3QWrenDuZ)
 
 A ladder trellis is basically a tall, narrow wooden frame with evenly spaced rungs. It leans against a fence, wall, or stands freestanding in a raised bed. Very easy to build, looks clean and organized.
 
@@ -188,7 +188,7 @@ If you already have a wooden fence or chain-link fence along your garden, you've
 
 ### Step 7 — Criss-Cross Bamboo Trellis (Pots and Containers)
 
-[![Criss-cross bamboo trellis for container cucumber growing with cucumbers hanging down]({{ site.baseurl }}/assets/images/home-decor/criss-cross-bamboo-container-trellis.jpg)](https://pin.it/XXXXXXX)
+[![Criss-cross bamboo trellis for container cucumber growing with cucumbers hanging down]({{ site.baseurl }}/assets/images/home-decor/criss-cross-bamboo-container-trellis.jpg)](https://pin.it/16Qt2nvth)
 
 This technique uses bamboo poles arranged in overlapping X patterns across multiple containers. It's popular in small-space and balcony gardens in Asia and works incredibly well for growing cucumbers in pots.
 
@@ -211,7 +211,7 @@ This technique uses bamboo poles arranged in overlapping X patterns across multi
 
 ### Step 8 — Teepee/Pyramid Trellis
 
-[![Pyramid teepee-style cucumber trellis with twine in open garden bed]({{ site.baseurl }}/assets/images/home-decor/teepee-pyramid-cucumber-trellis.jpg)](https://pin.it/XXXXXXX)
+[![Pyramid teepee-style cucumber trellis with twine in open garden bed]({{ site.baseurl }}/assets/images/home-decor/teepee-pyramid-cucumber-trellis.jpg)](https://pin.it/1IS5yDL8y)
 
 The teepee trellis is quick to build, handles wind well, and looks attractive in any garden. It's especially good for small round beds or container groupings.
 
@@ -231,7 +231,7 @@ The teepee trellis is quick to build, handles wind well, and looks attractive in
 
 ### Step 9 — Metal Wall Trellis for Balconies
 
-[![Black metal wall trellis with cucumber plants growing on brick wall balcony]({{ site.baseurl }}/assets/images/home-decor/metal-wall-trellis-balcony-cucumber.jpg)](https://pin.it/XXXXXXX)
+[![Black metal wall trellis with cucumber plants growing on brick wall balcony]({{ site.baseurl }}/assets/images/home-decor/metal-wall-trellis-balcony-cucumber.jpg)](https://pin.it/4Xt39VFiF)
 
 For apartment dwellers and balcony gardeners, a wall-mounted metal trellis is a sleek, space-efficient solution. These are widely available on Amazon for $25–$60 and mount to any wall with basic hardware.
 
@@ -253,7 +253,7 @@ For apartment dwellers and balcony gardeners, a wall-mounted metal trellis is a 
 
 ### Step 10 — Vertical Cedar Wood Trellis (Premium Build)
 
-[![Tall cedar wood vertical cucumber trellis with cucumbers hanging in backyard garden]({{ site.baseurl }}/assets/images/home-decor/cedar-wood-vertical-cucumber-trellis.jpg)](https://pin.it/XXXXXXX)
+[![Tall cedar wood vertical cucumber trellis with cucumbers hanging in backyard garden]({{ site.baseurl }}/assets/images/home-decor/cedar-wood-vertical-cucumber-trellis.jpg)](https://pin.it/6mKBIAkFD)
 
 Cedar is naturally rot-resistant and looks beautiful in any backyard. This is the premium option if you want something that lasts 8–10 years and looks like it belongs in a garden magazine.
 
