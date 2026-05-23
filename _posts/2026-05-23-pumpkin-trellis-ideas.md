@@ -7,7 +7,7 @@ description: "Discover 12 DIY pumpkin trellis ideas that save space, boost your 
 tags: [pumpkin trellis, vertical gardening, DIY garden, backyard ideas, home decor garden]
 ---
 
-[![12 Pumpkin Trellis Ideas – Grow Pumpkins Vertically in Small Spaces]({{ site.baseurl }}/assets/images/home-decor/pumpkin-trellis-ideas-hero.jpg)](https://pin.it/XXXXXXX)
+[![12 Pumpkin Trellis Ideas – Grow Pumpkins Vertically in Small Spaces]({{ site.baseurl }}/assets/images/home-decor/pumpkin-trellis-ideas-hero.jpg)](https://pin.it/7AK7eNsF4)
 
 ## Why Every Gardener Should Think Vertical
 
@@ -47,7 +47,7 @@ You'll need:
 
 Drive your stakes into the ground about 2 feet apart, lean the panels in, and tie them together at the peak. Total cost is usually under $40 and it lasts several seasons if you store it dry. Best for Sugar Pie or Jack Be Little pumpkins — anything under 10 lbs.
 
-[![A-Frame wire trellis for pumpkins in a backyard garden]({{ site.baseurl }}/assets/images/home-decor/a-frame-pumpkin-trellis.jpg)](https://pin.it/XXXXXXX)
+[![A-Frame wire trellis for pumpkins in a backyard garden]({{ site.baseurl }}/assets/images/home-decor/a-frame-pumpkin-trellis.jpg)](https://pin.it/74TNRs7LI)
 
 ---
 
@@ -59,7 +59,7 @@ A cattle panel arch is the one that makes your neighbors stop and stare. A 16-fo
 
 The arch structure lets pumpkins hang freely underneath, which reduces rot and makes harvesting as easy as walking through a tunnel. I've grown 8-lb Sugar Pie pumpkins this way and they hang perfectly. For anything heavier than 12 lbs, use mesh slings made from old pantyhose or produce netting — it really works.
 
-[![Cattle panel arch pumpkin trellis with hanging pumpkins in backyard]({{ site.baseurl }}/assets/images/home-decor/cattle-panel-arch-pumpkin-trellis.jpg)](https://pin.it/XXXXXXX)
+[![Cattle panel arch pumpkin trellis with hanging pumpkins in backyard]({{ site.baseurl }}/assets/images/home-decor/cattle-panel-arch-pumpkin-trellis.jpg)](https://pin.it/2fQfuP8CD)
 
 ---
 
@@ -83,7 +83,7 @@ Got an old wooden stepladder in the garage? Stand it open in the garden, wire so
 
 The open-A design of a stepladder is naturally perfect for pumpkin vines. Just make sure it's anchored — pound a stake next to each leg if your soil is soft. This is one of my favorite zero-cost solutions for renters or first-time gardeners who don't want to invest before they know if they like growing pumpkins.
 
-[![Repurposed wooden ladder used as pumpkin trellis in garden bed]({{ site.baseurl }}/assets/images/home-decor/wooden-ladder-pumpkin-trellis.jpg)](https://pin.it/XXXXXXX)
+[![Repurposed wooden ladder used as pumpkin trellis in garden bed]({{ site.baseurl }}/assets/images/home-decor/wooden-ladder-pumpkin-trellis.jpg)](https://pin.it/2fQfuP8CD)
 
 ---
 
@@ -105,7 +105,7 @@ PVC pipe is cheap, lightweight, won't rust, and you can build it in any shape yo
 
 The downside is that PVC can get brittle after several years in harsh sun. For a one-or-two-season structure it's perfect. You can spray paint it green to blend with your garden — a can of Rust-Oleum runs about $6 and helps it last longer too.
 
-[![PVC pipe frame pumpkin trellis with twine support in vegetable garden]({{ site.baseurl }}/assets/images/home-decor/pvc-pumpkin-trellis.jpg)](https://pin.it/XXXXXXX)
+[![PVC pipe frame pumpkin trellis with twine support in vegetable garden]({{ site.baseurl }}/assets/images/home-decor/pvc-pumpkin-trellis.jpg)](https://pin.it/2fQfuP8CD)
 
 ---
 
@@ -127,7 +127,7 @@ Hog wire panels (also called livestock panels) are thicker and stronger than bas
 
 4×4 cedar posts run about $8–$12 each at Lowe's. This is the setup I'd recommend for anyone growing Connecticut Field or medium-size carving pumpkins. It's also reusable for 10+ years with minimal maintenance.
 
-[![Hog wire flat panel trellis with pumpkin vines trained vertically]({{ site.baseurl }}/assets/images/home-decor/hog-wire-pumpkin-trellis.jpg)](https://pin.it/XXXXXXX)
+[![Hog wire flat panel trellis with pumpkin vines trained vertically]({{ site.baseurl }}/assets/images/home-decor/hog-wire-pumpkin-trellis.jpg)](https://pin.it/64Rsr21eU)
 
 ---
 
@@ -149,7 +149,7 @@ Two metal T-posts pounded into the ground 6 feet apart, with heavy-duty jute or 
 
 T-posts cost about $5–$7 each at farm supply stores. A 100-ft roll of jute twine runs under $10. This is my go-to suggestion for people who want to test vertical growing before committing to a permanent structure. It won't last more than 1–2 seasons but gets the job done.
 
-[![String trellis on T-posts with pumpkin vines growing vertically]({{ site.baseurl }}/assets/images/home-decor/string-trellis-pumpkin.jpg)](https://pin.it/XXXXXXX)
+[![String trellis on T-posts with pumpkin vines growing vertically]({{ site.baseurl }}/assets/images/home-decor/string-trellis-pumpkin.jpg)](https://pin.it/7nl85QAld)
 
 ---
 
@@ -161,7 +161,7 @@ Building a raised bed with a trellis frame attached to the back is one of the cl
 
 Dimensions that work well: bed at 4×8 ft, trellis frame at 6 ft tall behind it. Use cedar 2×6s for the bed walls (naturally rot-resistant) and 4×4 cedar posts for the trellis uprights. This type of combined setup is popular in Pacific Northwest and Midwest gardening communities and is showing up all over garden design social media right now.
 
-[![Raised garden bed with attached wire trellis growing pumpkin vines]({{ site.baseurl }}/assets/images/home-decor/raised-bed-pumpkin-trellis.jpg)](https://pin.it/XXXXXXX)
+[![Raised garden bed with attached wire trellis growing pumpkin vines]({{ site.baseurl }}/assets/images/home-decor/raised-bed-pumpkin-trellis.jpg)](https://pin.it/7nl85QAld)
 
 ---
 
