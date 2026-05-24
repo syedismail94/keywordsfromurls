@@ -10,7 +10,7 @@ toc: true
 toc_label: "In This Post"
 ---
 
-[![Beautiful DIY tomato trellis in a sunny backyard garden with ripe red tomatoes climbing a wooden A-frame structure]({{ site.baseurl }}/assets/images/home-decor/tomato-trellis-ideas-hero.jpg)](https://pin.it/XXXXXXX)
+[![Beautiful DIY tomato trellis in a sunny backyard garden with ripe red tomatoes climbing a wooden A-frame structure]({{ site.baseurl }}/assets/images/home-decor/tomato-trellis-ideas-hero.jpg)](https://pin.it/40mas6jZv)
 
 ## Introduction
 
@@ -64,7 +64,7 @@ Whether you're growing in a raised bed, a pot, or a big backyard plot, supportin
 
 ### 3.1 The Florida Weave (Best for Row Gardens)
 
-[![Step-by-step Florida weave tomato trellis with green twine woven between wooden stakes in a home vegetable garden]({{ site.baseurl }}/assets/images/home-decor/florida-weave-tomato-trellis.jpg)](https://pin.it/XXXXXXX)
+[![Step-by-step Florida weave tomato trellis with green twine woven between wooden stakes in a home vegetable garden]({{ site.baseurl }}/assets/images/home-decor/florida-weave-tomato-trellis.jpg)](https://pin.it/40mas6jZv)
 
 The Florida Weave is one of the most popular commercial tomato support methods — and it works just as well in home gardens. It uses stakes and twine woven back and forth between plants to hold them upright as they grow.
 
@@ -86,7 +86,7 @@ The Florida Weave is one of the most popular commercial tomato support methods �
 
 ### 3.2 DIY A-Frame Wooden Trellis (Best Looking Option)
 
-[![DIY cedar A-frame tomato trellis with wire mesh panels standing in a raised garden bed with tomato plants growing up it]({{ site.baseurl }}/assets/images/home-decor/diy-a-frame-tomato-trellis.jpg)](https://pin.it/XXXXXXX)
+[![DIY cedar A-frame tomato trellis with wire mesh panels standing in a raised garden bed with tomato plants growing up it]({{ site.baseurl }}/assets/images/home-decor/diy-a-frame-tomato-trellis.jpg)](https://pin.it/40mas6jZv)
 
 An A-frame trellis is sturdy, reusable, and looks great in any backyard. You can build one from cedar 2x4s in a couple of hours.
 
@@ -109,7 +109,7 @@ An A-frame trellis is sturdy, reusable, and looks great in any backyard. You can
 
 ### 3.3 Cattle Panel Arch Trellis (Best for Large Gardens)
 
-[![Large cattle panel arch trellis over a garden path with tomato and cucumber vines growing over the curved metal structure]({{ site.baseurl }}/assets/images/home-decor/cattle-panel-arch-trellis.jpg)](https://pin.it/XXXXXXX)
+[![Large cattle panel arch trellis over a garden path with tomato and cucumber vines growing over the curved metal structure]({{ site.baseurl }}/assets/images/home-decor/cattle-panel-arch-trellis.jpg)](https://pin.it/40mas6jZv)
 
 A cattle panel arch is one of the strongest and most satisfying trellises you can make. One 16-ft cattle panel bends naturally into an arch about 5 feet tall — tall enough to walk under and harvest from both sides.
 
@@ -130,7 +130,7 @@ A cattle panel arch is one of the strongest and most satisfying trellises you ca
 
 ### 3.4 Bamboo Teepee Trellis (Best for Small Spaces)
 
-[![Three-pole bamboo teepee trellis tied at the top with jute twine in a small raised garden bed with cherry tomato plants]({{ site.baseurl }}/assets/images/home-decor/bamboo-teepee-tomato-trellis.jpg)](https://pin.it/XXXXXXX)
+[![Three-pole bamboo teepee trellis tied at the top with jute twine in a small raised garden bed with cherry tomato plants]({{ site.baseurl }}/assets/images/home-decor/bamboo-teepee-tomato-trellis.jpg)](https://pin.it/40mas6jZv)
 
 A bamboo teepee is cheap, easy, and looks charming in small garden beds or containers. It's perfect for cherry tomatoes or compact varieties.
 
@@ -150,7 +150,7 @@ A bamboo teepee is cheap, easy, and looks charming in small garden beds or conta
 
 ### 3.5 String Trellis System for Raised Beds
 
-[![Vertical string trellis system attached to a wood frame above a raised garden bed with tomato plants tied to twine lines]({{ site.baseurl }}/assets/images/home-decor/string-trellis-raised-bed.jpg)](https://pin.it/XXXXXXX)
+[![Vertical string trellis system attached to a wood frame above a raised garden bed with tomato plants tied to twine lines]({{ site.baseurl }}/assets/images/home-decor/string-trellis-raised-bed.jpg)](https://pin.it/40mas6jZv)
 
 If you grow tomatoes in raised beds, a vertical string system is the cleanest and most space-efficient setup you can use. This is what most greenhouse growers use.
 
@@ -192,7 +192,7 @@ Old wooden pallets make surprisingly good tomato trellises. The slats are perfec
 
 ### 3.7 T-Post and Wire Fence Trellis (Best for Long Rows)
 
-[![Metal T-post and wire fence tomato trellis running along a long garden row with tall indeterminate tomato plants tied to the wire]({{ site.baseurl }}/assets/images/home-decor/t-post-wire-fence-trellis.jpg)](https://pin.it/XXXXXXX)
+[![Metal T-post and wire fence tomato trellis running along a long garden row with tall indeterminate tomato plants tied to the wire]({{ site.baseurl }}/assets/images/home-decor/t-post-wire-fence-trellis.jpg)](https://pin.it/15PqHEaMv)
 
 For anyone growing more than 6–8 tomato plants in a row, a T-post and wire fence is the most heavy-duty and reliable option.
 
