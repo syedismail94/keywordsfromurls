@@ -11,7 +11,7 @@ toc_label: "Jump to a trellis"
 toc_icon: "seedling"
 ---
 
-[![Climbing rose canes fully covering a cedar fan trellis mounted on a white garden wall with hundreds of pink blooms trained horizontally across every spoke]({{ site.baseurl }}/assets/images/home-decor/climbing-rose-trellis-hero.jpg)](https://pin.it/XXXXXXX)
+[![Climbing rose canes fully covering a cedar fan trellis mounted on a white garden wall with hundreds of pink blooms trained horizontally across every spoke]({{ site.baseurl }}/assets/images/home-decor/climbing-rose-trellis-hero.jpg)](https://pin.it/7kcuZ4kmE)
 
 ## Why the right trellis changes everything
 
@@ -29,7 +29,7 @@ One rule before you start: **always leave a 3–4 inch gap between the trellis a
 
 A fan trellis is the right starting point for almost every beginner. It mounts flat against a wall or fence, spreads canes outward in a natural fan shape, and costs less than $25 at any Home Depot or Lowe's.
 
-[![Pink climbing rose canes spread and tied horizontally across every spoke of a cedar fan trellis screwed to a white fence with a 3-inch gap behind, showing new lateral growth budding along the horizontal canes]({{ site.baseurl }}/assets/images/home-decor/fan-trellis-climbing-rose-canes-trained.jpg)](https://pin.it/XXXXXXX)
+[![Pink climbing rose canes spread and tied horizontally across every spoke of a cedar fan trellis screwed to a white fence with a 3-inch gap behind, showing new lateral growth budding along the horizontal canes]({{ site.baseurl }}/assets/images/home-decor/fan-trellis-climbing-rose-canes-trained.jpg)](https://pin.it/5Bw9Brwtw)
 
 The image above shows what you are aiming for: canes pulled outward and tied to each spoke, not allowed to grow straight up the center. Every horizontal cane sends up short flowering shoots along its full length. A vertical cane gives you one cluster at the tip.
 
@@ -57,7 +57,7 @@ The image above shows what you are aiming for: canes pulled outward and tied to 
 
 If you have a fence run longer than 6 feet, horizontal wires stretched between posts or eye hooks are what professional rose gardens use. The wires are nearly invisible, they last 20+ years, and they give you total control over where every cane goes.
 
-[![Climbing rose with 4 long canes tied flat along horizontal stainless steel wires on a cedar fence, canes spreading left and right at 3 different heights with short upright flowering shoots budding off each horizontal run]({{ site.baseurl }}/assets/images/home-decor/horizontal-wire-trellis-rose-canes-fence.jpg)](https://pin.it/XXXXXXX)
+[![Climbing rose with 4 long canes tied flat along horizontal stainless steel wires on a cedar fence, canes spreading left and right at 3 different heights with short upright flowering shoots budding off each horizontal run]({{ site.baseurl }}/assets/images/home-decor/horizontal-wire-trellis-rose-canes-fence.jpg)](https://pin.it/5icb765AP)
 
 The image shows the key technique: the main structural canes run left and right along each wire, nearly flat. Those short upright shoots coming off the horizontal canes are the ones that carry all the flowers. This is called espalier training, and it is the reason walled rose gardens in England look the way they do.
 
@@ -89,7 +89,7 @@ The image shows the key technique: the main structural canes run left and right 
 
 An obelisk is a freestanding tower, usually 5 to 7 feet tall, with four legs that push into the soil. No wall needed. It works beautifully as the centrepiece of a garden bed or as a pair flanking a path.
 
-[![Deep red climbing rose canes wound in a deliberate clockwise spiral up all four legs of a matte black metal obelisk standing in a garden bed, with flowering laterals breaking outward at each twist showing blooms at multiple heights from soil to finial]({{ site.baseurl }}/assets/images/home-decor/obelisk-climbing-rose-spiral-trained.jpg)](https://pin.it/XXXXXXX)
+[![Deep red climbing rose canes wound in a deliberate clockwise spiral up all four legs of a matte black metal obelisk standing in a garden bed, with flowering laterals breaking outward at each twist showing blooms at multiple heights from soil to finial]({{ site.baseurl }}/assets/images/home-decor/obelisk-climbing-rose-spiral-trained.jpg)](https://pin.it/5icb765AP)
 
 The spiral training shown above is the correct technique for an obelisk. Do not let canes grow straight up the outside — spiral them around the legs. Each twist creates a node where a lateral shoot breaks out, and that lateral carries the flower cluster. A properly spiraled obelisk roses from the soil right up to the top finial.
 
@@ -115,7 +115,7 @@ The spiral training shown above is the correct technique for an obelisk. Do not 
 
 An arched gate with trellis panels on each side is the most dramatic structure on this list. You plant one climbing rose on each side panel, train them up independently, and let them meet over the arch by year three. By year five, the whole structure disappears under a canopy of blooms.
 
-[![Two climbing roses trained up the trellis side panels of a black metal arched garden gate, long canes tied flat against the panel grid at multiple heights with dense bloom clusters visible at every training point, canes just beginning to reach the top of the arch]({{ site.baseurl }}/assets/images/home-decor/arched-gate-rose-canes-climbing-panels.jpg)](https://pin.it/XXXXXXX)
+[![Two climbing roses trained up the trellis side panels of a black metal arched garden gate, long canes tied flat against the panel grid at multiple heights with dense bloom clusters visible at every training point, canes just beginning to reach the top of the arch]({{ site.baseurl }}/assets/images/home-decor/arched-gate-rose-canes-climbing-panels.jpg)](https://pin.it/5icb765AP)
 
 The image shows year two of training — canes filling the side panels, not yet meeting at the arch. This is the stage where most people panic and think it is not working. It is working. The panels must be full before the canes go over the top.
 
@@ -143,7 +143,7 @@ The image shows year two of training — canes filling the side panels, not yet 
 
 A lattice panel does two jobs: it gives your climbing rose a dense grid to weave through, and it screens a view or defines a garden boundary. The diamond openings actually make tying much easier — canes thread through naturally and hold themselves without constant attention.
 
-[![Climbing rose canes woven through the diamond openings of a white-painted cedar lattice privacy panel, canes crossing through the grid at angles with foliage filling the interior of each diamond opening and clusters of coral pink blooms visible at panel mid-height and upper sections]({{ site.baseurl }}/assets/images/home-decor/lattice-panel-rose-canes-woven-grid.jpg)](https://pin.it/XXXXXXX)
+[![Climbing rose canes woven through the diamond openings of a white-painted cedar lattice privacy panel, canes crossing through the grid at angles with foliage filling the interior of each diamond opening and clusters of coral pink blooms visible at panel mid-height and upper sections]({{ site.baseurl }}/assets/images/home-decor/lattice-panel-rose-canes-woven-grid.jpg)](https://pin.it/5icb765AP)
 
 Notice how the canes in the image are not all running vertically — they enter the lattice diagonally through the diamond openings, which holds them in place without clips. This is the correct way to use a lattice for climbing roses.
 
@@ -172,7 +172,7 @@ Notice how the canes in the image are not all running vertically — they enter 
 
 An A-frame trellis stands on its own in a garden bed or on a patio. Two trellis panels are hinged or joined at the top and staked into the ground. When both sides are covered in bloom, it looks like a flowering tent.
 
-[![Two climbing rose plants in their second year of growth, one on each side panel of a freestanding A-frame trellis, with long canes tied horizontally along the frame rungs, flowering laterals pointing upward from every horizontal run, and the first canes from each side beginning to meet at the apex]({{ site.baseurl }}/assets/images/home-decor/a-frame-rose-both-sides-climbing-trained.jpg)](https://pin.it/XXXXXXX)
+[![Two climbing rose plants in their second year of growth, one on each side panel of a freestanding A-frame trellis, with long canes tied horizontally along the frame rungs, flowering laterals pointing upward from every horizontal run, and the first canes from each side beginning to meet at the apex]({{ site.baseurl }}/assets/images/home-decor/a-frame-rose-both-sides-climbing-trained.jpg)](https://pin.it/2xrB3aQBo)
 
 The image shows second-year progress: canes are trained along the horizontal rungs on each panel face, laterals are pointing upward toward the apex, and the two roses are beginning to meet at the top. This is exactly the right stage — within one more season the whole structure will be covered.
 
@@ -198,7 +198,7 @@ The image shows second-year progress: canes are trained along the horizontal run
 
 If you have a pergola, you already have the best climbing rose structure in your garden. You do not need a separate trellis — just add wire anchor points to each post and plant one rose per post. By year three, every post becomes a living column of bloom.
 
-[![A 6x6 cedar pergola post with 3 horizontal wire runs on each face creating a ladder-like grid, a climbing rose in its second year with canes wound around the post using the wires as training anchors, and lateral flower stems breaking outward from every twist showing bloom clusters at knee height, waist height and shoulder height]({{ site.baseurl }}/assets/images/home-decor/pergola-post-wire-grid-rose-canes-trained.jpg)](https://pin.it/XXXXXXX)
+[![A 6x6 cedar pergola post with 3 horizontal wire runs on each face creating a ladder-like grid, a climbing rose in its second year with canes wound around the post using the wires as training anchors, and lateral flower stems breaking outward from every twist showing bloom clusters at knee height, waist height and shoulder height]({{ site.baseurl }}/assets/images/home-decor/pergola-post-wire-grid-rose-canes-trained.jpg)](https://pin.it/5yH1H6SYe)
 
 The wires on each face of the post in the image are essential — without them, the canes have nothing to hold onto and simply unravel in wind. Three horizontal wire runs per post face, at 18-inch intervals, is all you need.
 
@@ -225,8 +225,7 @@ The wires on each face of the post in the image are essential — without them, 
 
 A single wooden ladder leaning against a wall is one of the most-pinned garden images for a reason. It costs almost nothing, takes ten minutes to set up, and gives climbing roses a natural series of horizontal rungs to wrap around. It works best for smaller or slower-growing varieties.
 
-[![A weathered wooden ladder leaning against a brick garden wall at 70 degrees, with a climbing rose's long canes woven deliberately through and around each rung from bottom to top, lateral flowering shoots pointing outward from each rung crossing point, showing the rose is actively climbing the full height of the ladder]({{ site.baseurl }}/assets/images/home-decor/wooden-ladder-rose-canes-threaded-rungs.jpg)](https://pin.it/XXXXXXX)
-
+[![A weathered wooden ladder leaning against a brick garden wall at 70 degrees, with a climbing rose's long canes woven deliberately through and around each rung from bottom to top, lateral flowering shoots pointing outward from each rung crossing point, showing the rose is actively climbing the full height of the ladder]({{ site.baseurl }}/assets/images/home-decor/wooden-ladder-rose-canes-threaded-rungs.jpg)](https://pin.it/yxpmfFgxP)
 The canes in the image are not just draped over the rungs — they are woven through them, going over one rung and under the next. This is what keeps the canes in place without constant tying. Each rung crossing becomes a natural pinch point that encourages lateral shoots on both sides.
 
 **What to buy:**
@@ -253,7 +252,7 @@ The canes in the image are not just draped over the rungs — they are woven thr
 
 This one is purely decorative and it is one of the most shared garden ideas in the USA right now. An old window frame, painted and mounted on a fence, becomes a living picture frame as a compact climbing rose grows through each pane opening.
 
-[![An antique six-pane wooden window frame painted white and mounted on a garden fence with a gap behind, climbing rose canes threaded carefully through each pane opening from the sides, lateral flower shoots filling the interior of each pane with small clustered blooms creating the effect of a botanical painting in each window section]({{ site.baseurl }}/assets/images/home-decor/window-frame-rose-canes-filling-panes.jpg)](https://pin.it/XXXXXXX)
+[![An antique six-pane wooden window frame painted white and mounted on a garden fence with a gap behind, climbing rose canes threaded carefully through each pane opening from the sides, lateral flower shoots filling the interior of each pane with small clustered blooms creating the effect of a botanical painting in each window section]({{ site.baseurl }}/assets/images/home-decor/window-frame-rose-canes-filling-panes.jpg)](https://pin.it/yxpmfFgxP)
 
 The key detail in the image: the canes enter each pane from the sides through the frame gap, not over the top of the frame. Threading canes through the pane openings from the sides keeps each section filled evenly and gives the botanical-painting effect. Do not let all the canes come over the top — that looks messy and leaves the lower panes bare.
 
