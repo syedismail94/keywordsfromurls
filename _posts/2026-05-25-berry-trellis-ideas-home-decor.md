@@ -11,7 +11,7 @@ toc_label: "Berry Trellis Guide"
 
 ---
 
-[![Beautiful berry trellis with ripe raspberries growing along a wooden fence in a sunny backyard garden]({{ site.baseurl }}/assets/images/home-decor/berry-trellis-hero.jpg)](https://pin.it/XXXXXXX)
+[![Beautiful berry trellis with ripe raspberries growing along a wooden fence in a sunny backyard garden]({{ site.baseurl }}/assets/images/home-decor/berry-trellis-hero.jpg)](https://pin.it/5ooLDKCDl)
 
 ## Introduction
 
@@ -62,7 +62,7 @@ For a basic 10-foot two-wire trellis, expect to spend **$40–$80 total** on mat
 
 Not every trellis works for every berry. Picking the wrong style wastes time and money.
 
-[![Different berry trellis styles compared side by side including T-post, V-shape, and fan trellis in a backyard garden]({{ site.baseurl }}/assets/images/home-decor/berry-trellis-style-comparison.jpg)](https://pin.it/XXXXXXX)
+[![Different berry trellis styles compared side by side including T-post, V-shape, and fan trellis in a backyard garden]({{ site.baseurl }}/assets/images/home-decor/berry-trellis-style-comparison.jpg)](https://pin.it/5ooLDKCDl)
 
 ### 3.1 The Two-Wire T-Post Trellis (Best for Raspberries)
 
@@ -92,7 +92,7 @@ A fan trellis looks like a peacock tail — wires or wooden slats spread outward
 
 A trellis is only as strong as its posts. Getting this step right saves you from rebuilding everything after the first heavy harvest or windstorm.
 
-[![Step by step post setting process for a berry trellis showing wooden posts being driven into backyard soil]({{ site.baseurl }}/assets/images/home-decor/setting-berry-trellis-posts.jpg)](https://pin.it/XXXXXXX)
+[![Step by step post setting process for a berry trellis showing wooden posts being driven into backyard soil]({{ site.baseurl }}/assets/images/home-decor/setting-berry-trellis-posts.jpg)](https://pin.it/5ooLDKCDl)
 
 **Tools needed:**
 - Post hole digger or power auger (rent at Home Depot for ~$50/day)
@@ -118,7 +118,7 @@ A trellis is only as strong as its posts. Getting this step right saves you from
 
 Loose wire is useless — it lets canes droop and sag under the weight of fruit. Wire needs to be drum-tight.
 
-[![Close up of galvanized wire being tensioned on a berry trellis using wire tensioners in a home garden]({{ site.baseurl }}/assets/images/home-decor/stringing-berry-trellis-wire.jpg)](https://pin.it/XXXXXXX)
+[![Close up of galvanized wire being tensioned on a berry trellis using wire tensioners in a home garden]({{ site.baseurl }}/assets/images/home-decor/stringing-berry-trellis-wire.jpg)](https://pin.it/5ooLDKCDl)
 
 **Wire heights for common setups:**
 
@@ -144,7 +144,7 @@ Loose wire is useless — it lets canes droop and sag under the weight of fruit.
 
 Attaching canes is where beginners often mess up. You don't need to tie every single shoot — just guide the strongest ones.
 
-[![Gardener training raspberry canes onto trellis wires in a well maintained backyard fruit garden in summer]({{ site.baseurl }}/assets/images/home-decor/training-berry-canes-trellis.jpg)](https://pin.it/XXXXXXX)
+[![Gardener training raspberry canes onto trellis wires in a well maintained backyard fruit garden in summer]({{ site.baseurl }}/assets/images/home-decor/training-berry-canes-trellis.jpg)](https://pin.it/5ooLDKCDl)
 
 **For raspberries (two-wire trellis):**
 - Fan canes outward from the center at a slight angle.
@@ -165,7 +165,7 @@ Attaching canes is where beginners often mess up. You don't need to tie every si
 
 A berry trellis doesn't have to look utilitarian. With a little thought, it becomes a design feature in your backyard.
 
-[![Decorative wooden berry trellis painted white with climbing blackberry canes in a cottage style backyard garden]({{ site.baseurl }}/assets/images/home-decor/decorative-berry-trellis-white-fence.jpg)](https://pin.it/XXXXXXX)
+[![Decorative wooden berry trellis painted white with climbing blackberry canes in a cottage style backyard garden]({{ site.baseurl }}/assets/images/home-decor/decorative-berry-trellis-white-fence.jpg)](https://pin.it/7nxJcs1gl)
 
 ### 7.1 Painted Wood Trellis Along a Fence Line
 
@@ -202,7 +202,7 @@ Variety matters as much as the trellis design. These are the most popular choice
 
 A trellis needs year-round attention — not much, but consistent.
 
-[![Seasonal garden maintenance chart for berry trellis care shown in a bright organized home garden setting]({{ site.baseurl }}/assets/images/home-decor/berry-trellis-seasonal-care.jpg)](https://pin.it/XXXXXXX)
+[![Seasonal garden maintenance chart for berry trellis care shown in a bright organized home garden setting]({{ site.baseurl }}/assets/images/home-decor/berry-trellis-seasonal-care.jpg)](https://pin.it/7nxJcs1gl)
 
 | Month | Task |
 |---|---|
