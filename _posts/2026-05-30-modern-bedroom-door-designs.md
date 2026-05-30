@@ -6,7 +6,7 @@ permalink: /home-decor/modern-bedroom-door-designs/
 description: "Explore 20 modern bedroom door designs with step-by-step guides, cost breakdowns & USA product picks — from sliding barn doors to frosted glass panels."
 ---
 
-[![Modern bedroom with a sleek black-framed frosted glass panel door in a bright minimalist room]({{ site.baseurl }}/assets/images/home-decor/modern-bedroom-door-designs-hero.jpg)](https://pin.it/XXXXXXX)
+[![Modern bedroom with a sleek black-framed frosted glass panel door in a bright minimalist room]({{ site.baseurl }}/assets/images/home-decor/modern-bedroom-door-designs-hero.jpg)](https://pin.it/7ISLIK9T7)
 
 Your bedroom door is one of the first things you see every morning — yet most people never think to change it. A dated hollow-core door with a brass knob can drag down even the most beautifully decorated room. The good news? Swapping or upgrading a bedroom door is one of the highest-impact, most affordable home improvements you can make.
 
@@ -69,7 +69,7 @@ A flush slab door is completely flat with no panels or moulding. It's the most m
 7. Mark and drill the latch hole using the template that comes with your handle set.
 8. Install the handle set and test the latch — it should click smoothly without binding.
 
-[![Flush hollow-core modern bedroom door being installed in a white minimalist bedroom frame]({{ site.baseurl }}/assets/images/home-decor/flush-slab-door-installation-bedroom.jpg)](https://pin.it/XXXXXXX)
+[![Flush hollow-core modern bedroom door being installed in a white minimalist bedroom frame]({{ site.baseurl }}/assets/images/home-decor/flush-slab-door-installation-bedroom.jpg)](https://pin.it/19msDU0y3)
 
 **Cost estimate:** $150–$250 total for door, hardware, and basic tools.
 
@@ -101,7 +101,7 @@ The shaker door has one or more recessed rectangular panels. It works in modern 
 8. Install casing trim around the door on both sides.
 9. Paint or stain the door before installing hardware.
 
-[![Two-panel shaker style bedroom door painted white installed in a modern farmhouse master bedroom]({{ site.baseurl }}/assets/images/home-decor/shaker-panel-bedroom-door-install.jpg)](https://pin.it/XXXXXXX)
+[![Two-panel shaker style bedroom door painted white installed in a modern farmhouse master bedroom]({{ site.baseurl }}/assets/images/home-decor/shaker-panel-bedroom-door-install.jpg)](https://pin.it/pTFhbMNTz)
 
 **Recommended products:**
 - JELD-WEN 2-Panel Shaker Door (Home Depot, ~$160–$280)
@@ -134,7 +134,7 @@ A sliding barn door doesn't need a door swing clearance — it slides along the 
 7. Install the floor guide at the bottom centre of the door opening to keep the door from swinging outward.
 8. Install a door pull handle (no knob needed) — a simple J-pull or bar pull in matte black looks best.
 
-[![Black sliding barn door on a wall-mounted track installed in a modern white bedroom hallway]({{ site.baseurl }}/assets/images/home-decor/sliding-barn-door-bedroom-installation.jpg)](https://pin.it/XXXXXXX)
+[![Black sliding barn door on a wall-mounted track installed in a modern white bedroom hallway]({{ site.baseurl }}/assets/images/home-decor/sliding-barn-door-bedroom-installation.jpg)](https://pin.it/pTFhbMNTz)
 
 **Privacy note:** Barn doors leave a small gap at the edges. If privacy matters, add a door sweep at the bottom and magnetic catches on the door edge to reduce gaps.
 
@@ -158,7 +158,7 @@ A frosted glass insert lets light pass between rooms while maintaining privacy. 
 6. Install the casing trim on both sides.
 7. For the handle, choose a passage set with a privacy lock (no key needed — just a push-button lock from inside).
 
-[![Frosted glass panel bedroom door with white wood frame letting soft light into a modern hallway]({{ site.baseurl }}/assets/images/home-decor/frosted-glass-panel-bedroom-door.jpg)](https://pin.it/XXXXXXX)
+[![Frosted glass panel bedroom door with white wood frame letting soft light into a modern hallway]({{ site.baseurl }}/assets/images/home-decor/frosted-glass-panel-bedroom-door.jpg)](https://pin.it/44NLyHqLg)
 
 **Best frosted glass door options in the USA:**
 
@@ -189,7 +189,7 @@ If a full door replacement isn't in your budget, you can get a similar look by a
 6. Use a small roller or credit card to push out any air bubbles.
 7. Paint the door frame matte black to complete the look (Rust-Oleum Matte Black Spray, ~$7–$10 at Home Depot).
 
-[![Black steel-framed glass bedroom door with grid pattern in a modern industrial style bedroom]({{ site.baseurl }}/assets/images/home-decor/black-framed-glass-bedroom-door.jpg)](https://pin.it/XXXXXXX)
+[![Black steel-framed glass bedroom door with grid pattern in a modern industrial style bedroom]({{ site.baseurl }}/assets/images/home-decor/black-framed-glass-bedroom-door.jpg)](https://pin.it/44NLyHqLg)
 
 **Full black-framed glass door options:**
 - Truporte Steel Frame Glass Door (~$450–$750 at Home Depot)
@@ -213,7 +213,7 @@ Even the most basic door looks stunning with the right hardware. Changing just t
 6. Screw the interior side's two screws down firmly — don't overtighten or the handle will bind.
 7. Replace hinges: unscrew one hinge at a time and replace with matching new hinges (same size) to avoid re-mortising.
 
-[![Modern matte black lever door handle set being installed on a white bedroom door close-up]({{ site.baseurl }}/assets/images/home-decor/modern-door-handle-hardware-upgrade.jpg)](https://pin.it/XXXXXXX)
+[![Modern matte black lever door handle set being installed on a white bedroom door close-up]({{ site.baseurl }}/assets/images/home-decor/modern-door-handle-hardware-upgrade.jpg)](https://pin.it/33uafsVEM)
 
 **Best modern door handle styles in the USA:**
 
@@ -245,7 +245,7 @@ Painting a door a bold or contrasting colour is the fastest way to make it look 
 8. Apply second coat — this coat should look smooth and even.
 9. Let cure for 24 hours before rehinging and 72 hours before full hardening.
 
-[![Step-by-step painting a modern bedroom door matte black with a foam roller in a bright hallway]({{ site.baseurl }}/assets/images/home-decor/painting-modern-bedroom-door-black.jpg)](https://pin.it/XXXXXXX)
+[![Step-by-step painting a modern bedroom door matte black with a foam roller in a bright hallway]({{ site.baseurl }}/assets/images/home-decor/painting-modern-bedroom-door-black.jpg)](https://pin.it/33uafsVEM)
 
 **Trending bedroom door paint colours in 2026:**
 
@@ -278,7 +278,7 @@ You can turn a boring flat hollow-core door into a shaker-style door using thin 
 7. Fill nail holes with paintable wood filler, let dry, sand smooth.
 8. Touch up the paint over all joins and nail holes.
 
-[![Applying MDF moulding strips to a flat bedroom door to create a modern shaker panel effect]({{ site.baseurl }}/assets/images/home-decor/mdf-moulding-shaker-door-upgrade.jpg)](https://pin.it/XXXXXXX)
+[![Applying MDF moulding strips to a flat bedroom door to create a modern shaker panel effect]({{ site.baseurl }}/assets/images/home-decor/mdf-moulding-shaker-door-upgrade.jpg)](https://pin.it/33uafsVEM)
 
 **Cost estimate:** $20–$50 per door including moulding strips, glue, and paint touch-up.
 
