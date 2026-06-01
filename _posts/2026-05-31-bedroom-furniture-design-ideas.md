@@ -6,7 +6,7 @@ permalink: /home-decor/bedroom-furniture-design-ideas/
 description: "Transform your bedroom with smart furniture design tips. Learn layouts, styles, storage ideas & budget picks to create a cozy, stylish space you'll love."
 ---
 
-[![A beautifully styled modern bedroom with layered neutral tones, platform bed, wooden nightstands, and soft lighting]({{ site.baseurl }}/assets/images/home-decor/bedroom-furniture-design-hero.jpg)](https://pin.it/XXXXXXX)
+[![A beautifully styled modern bedroom with layered neutral tones, platform bed, wooden nightstands, and soft lighting]({{ site.baseurl }}/assets/images/home-decor/bedroom-furniture-design-hero.jpg)](https://pin.it/6xG7jhJRn)
 
 ## Introduction
 
@@ -20,7 +20,7 @@ This step-by-step guide walks you through every major decision: choosing a style
 
 Before buying a single piece of furniture, decide on a style. This keeps everything cohesive and prevents costly impulse buys.
 
-[![Mood board showing four bedroom styles side by side — modern, farmhouse, bohemian, and minimalist]({{ site.baseurl }}/assets/images/home-decor/bedroom-style-comparison.jpg)](https://pin.it/XXXXXXX)
+[![Mood board showing four bedroom styles side by side — modern, farmhouse, bohemian, and minimalist]({{ site.baseurl }}/assets/images/home-decor/bedroom-style-comparison.jpg)](https://pin.it/6xG7jhJRn)
 
 ### H3: Most Popular Bedroom Furniture Styles in the USA
 
@@ -63,7 +63,7 @@ This is the step most beginners skip — and then regret.
 
 The bed is the anchor of any bedroom. Everything else flows from it.
 
-[![Step-by-step image of a platform bed being styled with layered bedding, throw pillows, and a wooden headboard]({{ site.baseurl }}/assets/images/home-decor/bed-frame-styling-steps.jpg)](https://pin.it/XXXXXXX)
+[![Step-by-step image of a platform bed being styled with layered bedding, throw pillows, and a wooden headboard]({{ site.baseurl }}/assets/images/home-decor/bed-frame-styling-steps.jpg)](https://pin.it/1qN75GB8s)
 
 ### H3: Bed Frame Types and Cost Comparison
 
@@ -86,7 +86,7 @@ The bed is the anchor of any bedroom. Everything else flows from it.
 
 Where you place furniture matters as much as what you buy.
 
-[![Top-down floor plan diagram of a queen bedroom showing optimal furniture placement with walkway clearances labeled]({{ site.baseurl }}/assets/images/home-decor/bedroom-furniture-layout-plan.jpg)](https://pin.it/XXXXXXX)
+[![Top-down floor plan diagram of a queen bedroom showing optimal furniture placement with walkway clearances labeled]({{ site.baseurl }}/assets/images/home-decor/bedroom-furniture-layout-plan.jpg)](https://pin.it/4bh5QY64p)
 
 ### H3: Step-by-Step Layout Planning
 
@@ -115,7 +115,7 @@ Where you place furniture matters as much as what you buy.
 
 Clutter is the enemy of a calm bedroom. Good storage solves this without sacrificing style.
 
-[![Under-bed storage drawers being organized with labeled fabric bins and folded clothing in a tidy bedroom setting]({{ site.baseurl }}/assets/images/home-decor/bedroom-storage-solutions.jpg)](https://pin.it/XXXXXXX)
+[![Under-bed storage drawers being organized with labeled fabric bins and folded clothing in a tidy bedroom setting]({{ site.baseurl }}/assets/images/home-decor/bedroom-storage-solutions.jpg)](https://pin.it/5SEo6N2kD)
 
 ### H3: Best Storage Options by Budget
 
@@ -159,7 +159,7 @@ Nightstands are more than just a surface for your phone. They set the tone on ei
 
 Bad lighting ruins even the most beautifully designed bedroom. Good lighting has three layers.
 
-[![Bedroom with three lighting layers visible — overhead ceiling light, warm bedside table lamp, and soft LED strip under the bed frame]({{ site.baseurl }}/assets/images/home-decor/bedroom-lighting-layers.jpg)](https://pin.it/XXXXXXX)
+[![Bedroom with three lighting layers visible — overhead ceiling light, warm bedside table lamp, and soft LED strip under the bed frame]({{ site.baseurl }}/assets/images/home-decor/bedroom-lighting-layers.jpg)](https://pin.it/5SEo6N2kD)
 
 ### H3: The Three-Layer Bedroom Lighting System
 
@@ -197,7 +197,7 @@ Color affects how a room feels more than almost any other design choice.
 
 A feature wall or statement headboard is one of the most effective ways to elevate a bedroom without redecorating the whole room.
 
-[![DIY upholstered headboard being installed on a bedroom wall with step-by-step tools laid out beside it]({{ site.baseurl }}/assets/images/home-decor/bedroom-accent-wall-headboard.jpg)](https://pin.it/XXXXXXX)
+[![DIY upholstered headboard being installed on a bedroom wall with step-by-step tools laid out beside it]({{ site.baseurl }}/assets/images/home-decor/bedroom-accent-wall-headboard.jpg)](https://pin.it/22qp6eHHb)
 
 ### H3: Accent Wall and Headboard Options
 
@@ -218,7 +218,7 @@ A feature wall or statement headboard is one of the most effective ways to eleva
 
 The accessories are what make a bedroom feel personal and complete — not just furnished.
 
-[![Styled bedroom dresser top with a mirror, tray with perfume bottles, small plant, and framed art — showing the finishing touches of bedroom design]({{ site.baseurl }}/assets/images/home-decor/bedroom-decor-finishing-touches.jpg)](https://pin.it/XXXXXXX)
+[![Styled bedroom dresser top with a mirror, tray with perfume bottles, small plant, and framed art — showing the finishing touches of bedroom design]({{ site.baseurl }}/assets/images/home-decor/bedroom-decor-finishing-touches.jpg)](https://pin.it/6KR5G4NDO)
 
 ### H3: Bedroom Accessory Checklist
 
