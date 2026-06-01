@@ -6,7 +6,7 @@ permalink: /home-decor/kids-bedroom-design-ideas/
 description: "Discover 25 fun, safe, and budget-friendly kids bedroom design ideas — from cozy reading nooks to themed beds kids will love. USA-friendly tips inside!"
 ---
 
-[![A bright, colorful kids bedroom with a loft bed, reading nook, and rainbow wall art — designed for safety and fun]({{ site.baseurl }}/assets/images/home-decor/kids-bedroom-hero-loft-rainbow.jpg)](https://pin.it/XXXXXXX)
+[![A bright, colorful kids bedroom with a loft bed, reading nook, and rainbow wall art — designed for safety and fun]({{ site.baseurl }}/assets/images/home-decor/kids-bedroom-hero-loft-rainbow.jpg)](https://pin.it/6KR5G4NDO)
 
 ## Introduction
 
@@ -79,7 +79,7 @@ Even a small 10×10 room can have all three zones if planned well.
 
 ## Section 3: Pick a Theme Your Child Will Love
 
-[![A jungle-themed kids bedroom with green walls, animal prints, and a canopy tent bed — cozy and adventurous]({{ site.baseurl }}/assets/images/home-decor/kids-bedroom-jungle-theme-canopy.jpg)](https://pin.it/XXXXXXX)
+[![A jungle-themed kids bedroom with green walls, animal prints, and a canopy tent bed — cozy and adventurous]({{ site.baseurl }}/assets/images/home-decor/kids-bedroom-jungle-theme-canopy.jpg)](https://pin.it/6KR5G4NDO)
 
 ### 3.1 Ask Your Child First
 
@@ -112,7 +112,7 @@ The bed is the biggest piece of furniture and sets the tone for the whole room.
 
 ### 4.1 Loft Beds — Best for Small Rooms
 
-[![A white wooden loft bed with a desk underneath and colorful storage bins — perfect for small kids bedrooms]({{ site.baseurl }}/assets/images/home-decor/kids-loft-bed-desk-storage.jpg)](https://pin.it/XXXXXXX)
+[![A white wooden loft bed with a desk underneath and colorful storage bins — perfect for small kids bedrooms]({{ site.baseurl }}/assets/images/home-decor/kids-loft-bed-desk-storage.jpg)](https://pin.it/6KR5G4NDO)
 
 Loft beds free up the floor below for a desk, reading nook, or play area. They work great for kids 6 and up.
 
@@ -155,7 +155,7 @@ IKEA HEMNES bed frame has built-in drawers (~$499). Or buy separate rolling bins
 
 ### 5.2 Build a Toy Rotation System
 
-[![Colorful open cube shelving units with labeled bins organizing toys by category in a bright kids bedroom]({{ site.baseurl }}/assets/images/home-decor/kids-bedroom-toy-storage-cubbies.jpg)](https://pin.it/XXXXXXX)
+[![Colorful open cube shelving units with labeled bins organizing toys by category in a bright kids bedroom]({{ site.baseurl }}/assets/images/home-decor/kids-bedroom-toy-storage-cubbies.jpg)](https://pin.it/6KR5G4NDO)
 
 Too many toys out at once overwhelm kids and create mess. Try this:
 
@@ -198,7 +198,7 @@ Avoid cool white or blue-toned bulbs in kids bedrooms. Use warm white bulbs (270
 
 ### 6.3 Add Blackout Curtains
 
-[![A cozy kids bedroom sleep zone with soft blackout curtains, a warm night light, and a stuffed animal on the bed]({{ site.baseurl }}/assets/images/home-decor/kids-bedroom-blackout-curtains-sleep.jpg)](https://pin.it/XXXXXXX)
+[![A cozy kids bedroom sleep zone with soft blackout curtains, a warm night light, and a stuffed animal on the bed]({{ site.baseurl }}/assets/images/home-decor/kids-bedroom-blackout-curtains-sleep.jpg)](https://pin.it/1rSpsEKqt)
 
 Kids sleep much better when the room is dark. Blackout curtains block streetlights, early morning sun, and car headlights.
 
@@ -231,7 +231,7 @@ Painting just one wall is faster, cheaper, and easier to update later. Popular a
 
 ### 7.3 Let Kids Add Their Own Touch
 
-[![A kids bedroom accent wall with colorful peel-and-stick geometric wallpaper and a gallery wall of the child's own artwork]({{ site.baseurl }}/assets/images/home-decor/kids-bedroom-diy-gallery-wall-art.jpg)](https://pin.it/XXXXXXX)
+[![A kids bedroom accent wall with colorful peel-and-stick geometric wallpaper and a gallery wall of the child's own artwork]({{ site.baseurl }}/assets/images/home-decor/kids-bedroom-diy-gallery-wall-art.jpg)](https://pin.it/1rSpsEKqt)
 
 Frame your child's drawings and hang them as a gallery wall. It builds confidence and makes the room truly theirs. Use Command Strips to hang frames — no holes needed.
 
@@ -243,7 +243,7 @@ A reading nook encourages kids to read independently. It doesn't need to be big 
 
 ### 8.1 Simple Corner Reading Nook
 
-[![A cozy kids reading nook in a bedroom corner with floor cushions, a low bookshelf, and a string light canopy overhead]({{ site.baseurl }}/assets/images/home-decor/kids-bedroom-reading-nook-cushions.jpg)](https://pin.it/XXXXXXX)
+[![A cozy kids reading nook in a bedroom corner with floor cushions, a low bookshelf, and a string light canopy overhead]({{ site.baseurl }}/assets/images/home-decor/kids-bedroom-reading-nook-cushions.jpg)](https://pin.it/1rSpsEKqt)
 
 What you need:
 - A low bookshelf or ledge to display books face-out
