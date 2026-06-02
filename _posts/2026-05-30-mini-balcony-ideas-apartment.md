@@ -6,7 +6,7 @@ permalink: /home-decor/mini-balcony-ideas-apartment/
 description: "Transform your tiny apartment balcony with 25 budget-friendly ideas. DIY tips, product picks, cost guides & space-saving tricks for small outdoor spaces."
 ---
 
-[![Cozy decorated mini apartment balcony with string lights, bistro table, and potted plants]({{ site.baseurl }}/assets/images/home-decor/mini-balcony-ideas-apartment-hero.jpg)](https://pin.it/XXXXXXX)
+[![Cozy decorated mini apartment balcony with string lights, bistro table, and potted plants]({{ site.baseurl }}/assets/images/home-decor/mini-balcony-ideas-apartment-hero.jpg)](https://pin.it/kJOGX7aps)
 
 A small balcony is still a balcony. Even if yours is barely big enough to turn around in, the right ideas can turn it into your favourite spot in the apartment — a morning coffee corner, a tiny garden, a private retreat after a long day.
 
@@ -61,7 +61,7 @@ A bistro table set (small round table + 2 folding chairs) is the single best fur
 4. Add a small outdoor rug underneath to anchor the seating area (try a 3×5 ft rug — Ruggable Outdoor, ~$80–$120 at ruggable.com).
 5. If your balcony gets wind, use rubber furniture pads under the legs to prevent scraping and sliding.
 
-[![Bistro table and two folding chairs set up on a small apartment balcony with a striped outdoor rug]({{ site.baseurl }}/assets/images/home-decor/mini-balcony-bistro-table-setup.jpg)](https://pin.it/XXXXXXX)
+[![Bistro table and two folding chairs set up on a small apartment balcony with a striped outdoor rug]({{ site.baseurl }}/assets/images/home-decor/mini-balcony-bistro-table-setup.jpg)](https://pin.it/TFCDcGSvJ)
 
 **Space tip:** Choose folding chairs — they tuck flat against the wall when you need to move around.
 
@@ -103,7 +103,7 @@ Railing planters clip directly onto your balcony railing with no drilling. They'
 5. Plant your chosen plants, firm the soil gently, and water thoroughly.
 6. Check that planters are securely fastened — give each one a firm tug before leaving it unattended.
 
-[![Railing planter boxes with herbs and trailing plants installed on an apartment balcony railing]({{ site.baseurl }}/assets/images/home-decor/balcony-railing-planter-boxes.jpg)](https://pin.it/XXXXXXX)
+[![Railing planter boxes with herbs and trailing plants installed on an apartment balcony railing]({{ site.baseurl }}/assets/images/home-decor/balcony-railing-planter-boxes.jpg)](https://pin.it/2Q4VkItGL)
 
 **Best plants for railing planters:**
 
@@ -129,7 +129,7 @@ For balconies with wall space, a vertical planter panel turns a blank wall into 
 4. Use lightweight plastic or fabric pots to keep the total weight low.
 5. Choose plants with varied heights — tall in the back/top, trailing in the front/bottom.
 
-[![Wall-mounted vertical pocket planter with succulents and herbs on an apartment balcony wall]({{ site.baseurl }}/assets/images/home-decor/vertical-wall-planter-balcony.jpg)](https://pin.it/XXXXXXX)
+[![Wall-mounted vertical pocket planter with succulents and herbs on an apartment balcony wall]({{ site.baseurl }}/assets/images/home-decor/vertical-wall-planter-balcony.jpg)](https://pin.it/6MAzHCbSx)
 
 ---
 
@@ -152,7 +152,7 @@ String lights are the single easiest way to make a balcony feel magical at night
 4. Start from the power outlet side and work outward, looping the string through each hook as you go.
 5. For a fuller look, double up — run two strands side by side, spaced 6 inches apart.
 
-[![Warm string lights hanging in a canopy pattern over a cozy mini apartment balcony at dusk]({{ site.baseurl }}/assets/images/home-decor/balcony-string-lights-canopy.jpg)](https://pin.it/XXXXXXX)
+[![Warm string lights hanging in a canopy pattern over a cozy mini apartment balcony at dusk]({{ site.baseurl }}/assets/images/home-decor/balcony-string-lights-canopy.jpg)](https://pin.it/4o4KSUYXO)
 
 **Solar vs plug-in:**
 
@@ -197,7 +197,7 @@ The floor makes a huge difference. Most apartment balconies have plain concrete 
 5. At the edges, use a hand saw or utility knife to cut tiles to fit (acacia wood tiles cut easily).
 6. Leave a ¼-inch gap at the wall edges for expansion in heat.
 
-[![Snap-together wood deck tiles being installed on an apartment balcony concrete floor]({{ site.baseurl }}/assets/images/home-decor/balcony-deck-tiles-installation.jpg)](https://pin.it/XXXXXXX)
+[![Snap-together wood deck tiles being installed on an apartment balcony concrete floor]({{ site.baseurl }}/assets/images/home-decor/balcony-deck-tiles-installation.jpg)](https://pin.it/5gSEWNpp8)
 
 **Balcony flooring comparison:**
 
@@ -229,7 +229,7 @@ You don't need many plants to make a balcony feel like a garden. Three pots in d
 4. Use a single potting mix for all three (Miracle-Gro Moisture Control Potting Mix, ~$10–$14 at Home Depot).
 5. Add a thin layer of decorative gravel or mulch on top of each pot to retain moisture and look polished.
 
-[![Three container pots in different sizes arranged on a small apartment balcony with a tall plant, medium and trailing plant]({{ site.baseurl }}/assets/images/home-decor/mini-balcony-container-garden-arrangement.jpg)](https://pin.it/XXXXXXX)
+[![Three container pots in different sizes arranged on a small apartment balcony with a tall plant, medium and trailing plant]({{ site.baseurl }}/assets/images/home-decor/mini-balcony-container-garden-arrangement.jpg)](https://pin.it/5gSEWNpp8)
 
 **Best plants by balcony sun level:**
 
