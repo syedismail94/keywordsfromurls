@@ -6,7 +6,7 @@ permalink: /home-decor/kids-bedroom-design-ideas/
 description: Smart kids' bedroom layouts, storage hacks, and playful decor. Perfect for small spaces & growing families. USA-friendly shopping guide.
 ---
 
-[![Kids bedroom with a teepee, low shelving, and neutral warm tones]({{ site.baseurl }}/assets/images/home-decor/kids-bedroom-hero-warm.jpg)](https://pin.it/XXXXXXX)
+[![Kids bedroom with a teepee, low shelving, and neutral warm tones]({{ site.baseurl }}/assets/images/home-decor/kids-bedroom-hero-warm.jpg)](https://pin.it/3TJJWUGc3)
 
 Designing a kids' bedroom isn't just about being cute. You need **storage that works**, **furniture that survives**, and a space that evolves from toddler to teen.
 
@@ -26,7 +26,7 @@ Don’t just push furniture against walls. Divide the room into three clear zone
 
 > Pro tip: Use a bookshelf as a room divider for long, narrow rooms.
 
-[![Floor plan sketch showing sleep, play, storage zones in a kids bedroom]({{ site.baseurl }}/assets/images/home-decor/kids-bedroom-3-zone-floorplan.jpg)](https://pin.it/XXXXXXX)
+[![Floor plan sketch showing sleep, play, storage zones in a kids bedroom]({{ site.baseurl }}/assets/images/home-decor/kids-bedroom-3-zone-floorplan.jpg)](https://pin.it/3TJJWUGc3)
 
 ---
 
@@ -41,7 +41,7 @@ Wall-mounted bins at **child height** = they clean up themselves.
 - Use clear bins so kids see toys without dumping everything  
 - Label with picture stickers (not just words)
 
-[![Wall-mounted clear bins with picture labels at child height]({{ site.baseurl }}/assets/images/home-decor/kids-bedroom-vertical-storage-bins.jpg)](https://pin.it/XXXXXXX)
+[![Wall-mounted clear bins with picture labels at child height]({{ site.baseurl }}/assets/images/home-decor/kids-bedroom-vertical-storage-bins.jpg)](https://pin.it/3TJJWUGc3)
 
 ---
 
@@ -57,7 +57,7 @@ Where to buy (USA):
 - **IKEA KURA** reversible bed ($249) — becomes a loft bed later  
 - **Delta Children twin over drawer** ($399 on Amazon)  
 
-[![Convertible twin bed with storage drawers underneath in a neutral kids room]({{ site.baseurl }}/assets/images/home-decor/kids-bedroom-grow-bed-storage.jpg)](https://pin.it/XXXXXXX)
+[![Convertible twin bed with storage drawers underneath in a neutral kids room]({{ site.baseurl }}/assets/images/home-decor/kids-bedroom-grow-bed-storage.jpg)](https://pin.it/uisN7FE2Y)
 
 ---
 
@@ -73,7 +73,7 @@ Overhead lights = bedtime battles. Use **layered warm lighting** instead.
 
 > I recommend the VAVA VA-CL010 nightlight ($29 on Amazon) — it’s toddler-proof and dimmable.
 
-[![Warm clip-on reading light attached to a headboard, dim room]({{ site.baseurl }}/assets/images/home-decor/kids-bedroom-warm-clip-light.jpg)](https://pin.it/XXXXXXX)
+[![Warm clip-on reading light attached to a headboard, dim room]({{ site.baseurl }}/assets/images/home-decor/kids-bedroom-warm-clip-light.jpg)](https://pin.it/5jdPcUsgS)
 
 ---
 
@@ -88,7 +88,7 @@ Take the IKEA KALLAX 2×2 cube unit ($79). Turn it sideways. Add a plywood top (
 
 This is my most-pinned design for small NYC apartments.
 
-[![IKEA KALLAX turned sideways as a small play loft with tunnel underneath]({{ site.baseurl }}/assets/images/home-decor/kids-bedroom-kallax-loft-hack.jpg)](https://pin.it/XXXXXXX)
+[![IKEA KALLAX turned sideways as a small play loft with tunnel underneath]({{ site.baseurl }}/assets/images/home-decor/kids-bedroom-kallax-loft-hack.jpg)](https://pin.it/6y9Yr18hy)
 
 ---
 
@@ -102,7 +102,7 @@ Art print shops I use:
 - Etsy shop “LittleLaserLab” (kids animal prints, $8–$12)  
 - Minted (USA-made, $35+, but worth it)
 
-[![Picture ledge with swapable kids art prints and a wooden frame]({{ site.baseurl }}/assets/images/home-decor/kids-bedroom-art-ledge-rotation.jpg)](https://pin.it/XXXXXXX)
+[![Picture ledge with swapable kids art prints and a wooden frame]({{ site.baseurl }}/assets/images/home-decor/kids-bedroom-art-ledge-rotation.jpg)](https://pin.it/6y9Yr18hy)
 
 ---
 
