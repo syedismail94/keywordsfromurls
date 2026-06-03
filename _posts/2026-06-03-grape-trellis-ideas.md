@@ -6,7 +6,7 @@ permalink: /home-decor/grape-trellis-ideas/
 description: "Discover 10 grape trellis ideas for your backyard — wood pergolas, wire systems, arbors & more. DIY builds with real costs and USA buying tips."
 ---
 
-[![Wooden pergola grape trellis covered in lush green grapevines in a sunny American backyard garden]({{ site.baseurl }}/assets/images/home-decor/grape-trellis-hero.jpg)](https://pin.it/XXXXXXX)
+[![Wooden pergola grape trellis covered in lush green grapevines in a sunny American backyard garden]({{ site.baseurl }}/assets/images/home-decor/grape-trellis-hero.jpg)](https://pin.it/1WoTOBKvh)
 
 ## Why Grapes Need a Trellis (And What Happens Without One)
 
@@ -33,7 +33,7 @@ The trellis you need depends on what you're growing. Get this wrong and you'll b
 
 ## 2. The VSP Wire Trellis — Best for Wine Grapes
 
-[![VSP vertical shoot positioning grape trellis with wire rows and green grapevine shoots trained upward in a home vineyard row]({{ site.baseurl }}/assets/images/home-decor/vsp-wire-grape-trellis.jpg)](https://pin.it/XXXXXXX)
+[![VSP vertical shoot positioning grape trellis with wire rows and green grapevine shoots trained upward in a home vineyard row]({{ site.baseurl }}/assets/images/home-decor/vsp-wire-grape-trellis.jpg)](https://pin.it/1WoTOBKvh)
 
 VSP stands for Vertical Shoot Positioning — the most common trellis style for wine grapes worldwide. It looks clean, works brilliantly, and is straightforward to build.
 
@@ -67,7 +67,7 @@ VSP stands for Vertical Shoot Positioning — the most common trellis style for 
 
 ## 3. The T-Post High Cordon System
 
-[![T-post high cordon grape trellis with a single wire at six feet and grapevines trained along it in a home backyard vineyard]({{ site.baseurl }}/assets/images/home-decor/t-post-high-cordon-grape-trellis.jpg)](https://pin.it/XXXXXXX)
+[![T-post high cordon grape trellis with a single wire at six feet and grapevines trained along it in a home backyard vineyard]({{ site.baseurl }}/assets/images/home-decor/t-post-high-cordon-grape-trellis.jpg)](https://pin.it/73Evnyvfk)
 
 This is the simplest trellis you can build for table grapes. One wire, set high, and vines hang down from it like curtains. Almost zero maintenance once established.
 
@@ -87,7 +87,7 @@ This is the simplest trellis you can build for table grapes. One wire, set high,
 
 ## 4. Wooden Pergola Trellis (Most Beautiful)
 
-[![Beautiful wooden pergola grape trellis with thick grapevines climbing overhead beams creating a shaded outdoor dining area]({{ site.baseurl }}/assets/images/home-decor/wooden-pergola-grape-trellis.jpg)](https://pin.it/XXXXXXX)
+[![Beautiful wooden pergola grape trellis with thick grapevines climbing overhead beams creating a shaded outdoor dining area]({{ site.baseurl }}/assets/images/home-decor/wooden-pergola-grape-trellis.jpg)](https://pin.it/73Evnyvfk)
 
 If your garden is visible from the patio or you want a feature that doubles as an outdoor room — a pergola is the answer. Grapevines fill in overhead within 3–4 years and create genuine shade.
 
@@ -137,7 +137,7 @@ This system is used commercially throughout New York and the Midwest — you'll 
 
 ## 6. Metal Arch / Arbor Trellis (Great for Entries and Paths)
 
-[![Metal arch grape arbor trellis over a garden pathway with green grapevines climbing the arch creating a natural tunnel effect]({{ site.baseurl }}/assets/images/home-decor/metal-arch-grape-arbor.jpg)](https://pin.it/XXXXXXX)
+[![Metal arch grape arbor trellis over a garden pathway with green grapevines climbing the arch creating a natural tunnel effect]({{ site.baseurl }}/assets/images/home-decor/metal-arch-grape-arbor.jpg)](https://pin.it/2d7XzXnLY)
 
 A metal arch turns a single grapevine into a statement. Train one vine up each leg and let them meet overhead — within 3 years you have a living tunnel.
 
@@ -214,7 +214,7 @@ End posts take all the wire tension. This is where most DIY trellises fail — t
 
 ## 10. Training a Young Vine — First 3 Years
 
-[![Young grapevine being trained up a trellis stake in year one with a single shoot tied vertically to a bamboo cane]({{ site.baseurl }}/assets/images/home-decor/training-young-grapevine-trellis.jpg)](https://pin.it/XXXXXXX)
+[![Young grapevine being trained up a trellis stake in year one with a single shoot tied vertically to a bamboo cane]({{ site.baseurl }}/assets/images/home-decor/training-young-grapevine-trellis.jpg)](https://pin.it/4PvLXC3Qk)
 
 The trellis is only half the job. How you train the vine in the first 3 years determines the entire shape of the plant for its lifetime.
 
