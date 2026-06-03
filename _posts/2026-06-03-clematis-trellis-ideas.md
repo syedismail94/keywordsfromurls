@@ -6,7 +6,7 @@ permalink: /home-decor/clematis-trellis-ideas/
 description: "Discover 12 clematis trellis ideas for fences, walls & gardens. DIY builds with real costs, material specs & USA buying tips for every budget."
 ---
 
-[![Beautiful clematis trellis covered in purple blooms climbing a white wall in a sunny American cottage garden]({{ site.baseurl }}/assets/images/home-decor/clematis-trellis-hero.jpg)](https://pin.it/XXXXXXX)
+[![Beautiful clematis trellis covered in purple blooms climbing a white wall in a sunny American cottage garden]({{ site.baseurl }}/assets/images/home-decor/clematis-trellis-hero.jpg)](https://pin.it/OTWolCki4)
 
 ## Why Clematis Needs the Right Trellis
 
@@ -32,7 +32,7 @@ Before you buy or build anything, identify which pruning group your clematis bel
 
 ## 2. Simple Wire Wall Trellis — Best Starter Build
 
-[![Horizontal galvanized wire trellis attached to a brick wall with eye bolts and purple clematis climbing across it]({{ site.baseurl }}/assets/images/home-decor/wire-wall-clematis-trellis.jpg)](https://pin.it/XXXXXXX)
+[![Horizontal galvanized wire trellis attached to a brick wall with eye bolts and purple clematis climbing across it]({{ site.baseurl }}/assets/images/home-decor/wire-wall-clematis-trellis.jpg)](https://pin.it/6f63wXWzk)
 
 This is the most versatile clematis trellis you can install. A grid of galvanized wire stretched across a wall or fence gives the vine thousands of grip points and virtually disappears once the plant fills in.
 
@@ -61,7 +61,7 @@ This is the most versatile clematis trellis you can install. A grid of galvanize
 
 ## 3. Wooden Fan Trellis — Clean and Classic
 
-[![Wooden fan-shaped clematis trellis painted white fixed to a garden wall with purple clematis growing up through the slats]({{ site.baseurl }}/assets/images/home-decor/wooden-fan-clematis-trellis.jpg)](https://pin.it/XXXXXXX)
+[![Wooden fan-shaped clematis trellis painted white fixed to a garden wall with purple clematis growing up through the slats]({{ site.baseurl }}/assets/images/home-decor/wooden-fan-clematis-trellis.jpg)](https://pin.it/1sq8zWr92)
 
 The fan trellis is the most recognizable garden support — thin wooden slats fanning outward from a narrow base. It looks beautiful even when the plant is dormant in winter.
 
@@ -83,7 +83,7 @@ Cut 1×2 cedar strips (roughly $1.50–$2.50 per 8-ft length at Home Depot) and 
 
 ## 4. Metal Obelisk Trellis — Perfect for Pots and Beds
 
-[![Tall metal obelisk trellis in a garden border with clematis climbing up the frame covered in small white star-shaped flowers]({{ site.baseurl }}/assets/images/home-decor/metal-obelisk-clematis-trellis.jpg)](https://pin.it/XXXXXXX)
+[![Tall metal obelisk trellis in a garden border with clematis climbing up the frame covered in small white star-shaped flowers]({{ site.baseurl }}/assets/images/home-decor/metal-obelisk-clematis-trellis.jpg)](https://pin.it/91hr6ffQh)
 
 An obelisk is a freestanding metal frame — four legs that taper to a point at the top. It's the ideal structure for Group 2 and Group 3 clematis in a border or large container.
 
@@ -147,7 +147,7 @@ Best for Group 3 clematis (cut back hard each spring anyway) or annual climbers 
 
 ## 7. Tension Wire on a Pergola or Arbor
 
-[![Stainless steel tension wires strung between pergola posts with clematis trained along wires creating a living wall of purple flowers]({{ site.baseurl }}/assets/images/home-decor/pergola-wire-clematis-trellis.jpg)](https://pin.it/XXXXXXX)
+[![Stainless steel tension wires strung between pergola posts with clematis trained along wires creating a living wall of purple flowers]({{ site.baseurl }}/assets/images/home-decor/pergola-wire-clematis-trellis.jpg)](https://pin.it/1QPCuuOsc)
 
 If you already have a pergola, fence posts, or free-standing posts, tension wires transform them into a clematis support with almost no visible hardware.
 
@@ -186,7 +186,7 @@ The trellis and the variety have to match in scale. Here's a quick cheat sheet:
 
 ## 9. How to Attach Clematis to a Trellis Without Damage
 
-[![Close-up of clematis stem tied to a wire trellis with a soft figure-eight loop using green garden velcro tie showing proper technique]({{ site.baseurl }}/assets/images/home-decor/attaching-clematis-to-trellis.jpg)](https://pin.it/XXXXXXX)
+[![Close-up of clematis stem tied to a wire trellis with a soft figure-eight loop using green garden velcro tie showing proper technique]({{ site.baseurl }}/assets/images/home-decor/attaching-clematis-to-trellis.jpg)](https://pin.it/5JQoPYMNQ)
 
 Clematis stems are surprisingly brittle. One snap at the base can set a plant back an entire season. Here's how to guide young growth without breaking it.
 
