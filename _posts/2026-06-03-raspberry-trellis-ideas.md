@@ -6,7 +6,7 @@ permalink: /home-decor/raspberry-trellis-ideas/
 description: "Discover 12 raspberry trellis ideas for your backyard — from simple T-posts to wood frames. Easy DIY builds with costs, materials, and USA buying tips."
 ---
 
-[![Wooden T-post raspberry trellis in a sunny backyard garden with canes tied neatly in rows]({{ site.baseurl }}/assets/images/home-decor/raspberry-trellis-hero.jpg)](https://pin.it/XXXXXXX)
+[![Wooden T-post raspberry trellis in a sunny backyard garden with canes tied neatly in rows]({{ site.baseurl }}/assets/images/home-decor/raspberry-trellis-hero.jpg)](https://pin.it/3fmrJ3SXt)
 
 ## Why Your Raspberries Need a Trellis
 
@@ -32,7 +32,7 @@ Most backyard growers have summer-bearing varieties — the classic two-wire T-p
 
 ## 2. The Classic T-Post Trellis (Most Popular)
 
-[![Step-by-step T-post trellis installation in a home garden with galvanized wire strung between wooden crossarms]({{ site.baseurl }}/assets/images/home-decor/t-post-raspberry-trellis.jpg)](https://pin.it/XXXXXXX)
+[![Step-by-step T-post trellis installation in a home garden with galvanized wire strung between wooden crossarms]({{ site.baseurl }}/assets/images/home-decor/t-post-raspberry-trellis.jpg)](https://pin.it/3fmrJ3SXt)
 
 This is the workhorse of raspberry trellises. Simple, strong, and easy to build in an afternoon.
 
@@ -61,7 +61,7 @@ This is the workhorse of raspberry trellises. Simple, strong, and easy to build 
 
 ## 3. The Single-Wire Fence Trellis (Beginner-Friendly)
 
-[![Single-wire raspberry trellis along a cedar fence in a small suburban backyard with red raspberries visible]({{ site.baseurl }}/assets/images/home-decor/single-wire-raspberry-trellis.jpg)](https://pin.it/XXXXXXX)
+[![Single-wire raspberry trellis along a cedar fence in a small suburban backyard with red raspberries visible]({{ site.baseurl }}/assets/images/home-decor/single-wire-raspberry-trellis.jpg)](https://pin.it/343u5hauS)
 
 If you only have one short row or you're just starting out, a single-wire trellis is all you need.
 
@@ -79,7 +79,7 @@ If you only have one short row or you're just starting out, a single-wire trelli
 
 ## 4. The V-Trellis (Best for Heavy Crops)
 
-[![V-shaped raspberry trellis with canes spread to either side creating an open center for airflow and berry picking]({{ site.baseurl }}/assets/images/home-decor/v-trellis-raspberry.jpg)](https://pin.it/XXXXXXX)
+[![V-shaped raspberry trellis with canes spread to either side creating an open center for airflow and berry picking]({{ site.baseurl }}/assets/images/home-decor/v-trellis-raspberry.jpg)](https://pin.it/1cUOUDrwt)
 
 The V-trellis splits your canes into two angled walls — fruiting canes lean to one side, new growth canes lean to the other. You get better airflow, easier picking, and bigger yields.
 
@@ -99,7 +99,7 @@ The V-trellis splits your canes into two angled walls — fruiting canes lean to
 
 ## 5. Wood Post + Cedar Rail Trellis (Looks Beautiful)
 
-[![Rustic cedar rail raspberry trellis in a cottage garden style with climbing canes and dappled sunlight]({{ site.baseurl }}/assets/images/home-decor/cedar-rail-raspberry-trellis.jpg)](https://pin.it/XXXXXXX)
+[![Rustic cedar rail raspberry trellis in a cottage garden style with climbing canes and dappled sunlight]({{ site.baseurl }}/assets/images/home-decor/cedar-rail-raspberry-trellis.jpg)](https://pin.it/1cUOUDrwt)
 
 If your garden is visible from the yard or patio, you might want something that looks good, not just functional. Cedar rail trellises do both.
 
@@ -182,7 +182,7 @@ End posts take the most strain. Angle them slightly outward (about 10–15 degre
 
 ## 10. Tying Canes the Right Way
 
-[![Close-up of raspberry canes tied to trellis wire with soft garden twine showing proper spacing and support technique]({{ site.baseurl }}/assets/images/home-decor/tying-raspberry-canes-trellis.jpg)](https://pin.it/XXXXXXX)
+[![Close-up of raspberry canes tied to trellis wire with soft garden twine showing proper spacing and support technique]({{ site.baseurl }}/assets/images/home-decor/tying-raspberry-canes-trellis.jpg)](https://pin.it/56HqsRd83)
 
 Even the best trellis fails if you tie canes too tight or too loose. Here's the right way:
 
