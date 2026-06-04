@@ -6,7 +6,7 @@ permalink: /home-decor/mandevilla-trellis-ideas/
 description: "Discover stunning mandevilla trellis ideas for your porch, fence, or garden wall. Easy DIY setups with product picks, costs, and step-by-step tips."
 ---
 
-[![Mandevilla vine climbing a white wooden trellis on a sunny porch]({{ site.baseurl }}/assets/images/home-decor/mandevilla-trellis-hero.jpg)](https://pin.it/XXXXXXX)
+[![Mandevilla vine climbing a white wooden trellis on a sunny porch]({{ site.baseurl }}/assets/images/home-decor/mandevilla-trellis-hero.jpg)](https://pin.it/4p3PZ9o4U)
 
 ## Introduction
 
@@ -62,7 +62,7 @@ Fill the pot about halfway with potting mix. Place the trellis in the center fir
 
 ### Step 2 — Plant the Mandevilla
 
-[![Planting mandevilla in a large pot with an obelisk trellis in the center]({{ site.baseurl }}/assets/images/home-decor/mandevilla-pot-obelisk-setup.jpg)](https://pin.it/XXXXXXX)
+[![Planting mandevilla in a large pot with an obelisk trellis in the center]({{ site.baseurl }}/assets/images/home-decor/mandevilla-pot-obelisk-setup.jpg)](https://pin.it/uKoL4UIl2)
 
 Remove the mandevilla from its nursery pot. Set it right at the base of the trellis. Backfill with more potting mix, leaving about an inch of space at the top for watering. Press down gently so there are no air pockets.
 
@@ -89,7 +89,7 @@ This is the cheapest option — you can build one for under $10 — and it looks
 
 ### Step 1 — Push the Canes Into the Ground
 
-[![Five bamboo canes arranged in a teepee shape in a garden bed ready for mandevilla planting]({{ site.baseurl }}/assets/images/home-decor/mandevilla-bamboo-teepee-diy.jpg)](https://pin.it/XXXXXXX)
+[![Five bamboo canes arranged in a teepee shape in a garden bed ready for mandevilla planting]({{ site.baseurl }}/assets/images/home-decor/mandevilla-bamboo-teepee-diy.jpg)](https://pin.it/uKoL4UIl2)
 
 Space the canes evenly in a circle about 12 inches apart. Push each one about 6 inches into the soil at an angle so they lean inward. They should cross at the top like a teepee.
 
@@ -124,7 +124,7 @@ If you have a plain fence, a blank exterior wall, or a vinyl privacy screen, a w
 
 ### Step 1 — Mount With Standoff Spacers
 
-[![Wall-mounted metal grid trellis attached to a wood fence with mandevilla vines beginning to climb]({{ site.baseurl }}/assets/images/home-decor/mandevilla-wall-grid-trellis.jpg)](https://pin.it/XXXXXXX)
+[![Wall-mounted metal grid trellis attached to a wood fence with mandevilla vines beginning to climb]({{ site.baseurl }}/assets/images/home-decor/mandevilla-wall-grid-trellis.jpg)](https://pin.it/uKoL4UIl2)
 
 Don't mount the trellis flat against the wall. Use 1.5–2 inch standoff spacers (also called wall trellis spacers, ~$8 for a pack on Amazon). This creates an air gap that lets vines wrap around the grid and keeps moisture from building up against your siding.
 
@@ -155,7 +155,7 @@ Drive two T-posts on one side of the path, 4 feet apart and 2 feet deep. Repeat 
 
 ### Step 2 — Bend the Panel Into an Arch
 
-[![Cattle panel bent into a garden arch with mandevilla vines trained to climb both sides]({{ site.baseurl }}/assets/images/home-decor/mandevilla-cattle-panel-arch.jpg)](https://pin.it/XXXXXXX)
+[![Cattle panel bent into a garden arch with mandevilla vines trained to climb both sides]({{ site.baseurl }}/assets/images/home-decor/mandevilla-cattle-panel-arch.jpg)](https://pin.it/3oU43LViT)
 
 Cattle panels are flexible enough to bend by hand. Have a helper hold one end while you push the center into an arch shape. Attach each corner to the T-posts with wire or heavy zip ties. The arch should be at least 7 feet tall at the center for comfortable walking.
 
@@ -204,7 +204,7 @@ Growing mandevilla on a trellis is easy if you get a few basics right.
 
 ### 7.1 Tying and Anchoring New Growth
 
-[![Close-up of mandevilla vine being gently tied to a wooden trellis with soft garden ties]({{ site.baseurl }}/assets/images/home-decor/mandevilla-tying-vine-trellis.jpg)](https://pin.it/XXXXXXX)
+[![Close-up of mandevilla vine being gently tied to a wooden trellis with soft garden ties]({{ site.baseurl }}/assets/images/home-decor/mandevilla-tying-vine-trellis.jpg)](https://pin.it/1J1A1ycD6)
 
 Use soft silicone ties (sold as "Soft Garden Ties" on Amazon, ~$6 per roll) rather than wire or string that can cut into the vine. Tie loosely — you want to guide, not bind. Retie every few weeks as stems thicken.
 
