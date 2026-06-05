@@ -6,7 +6,7 @@ permalink: /home-decor/pea-trellis-ideas/
 description: "Discover 15 easy DIY pea trellis ideas for your garden — from bamboo to cattle panels. Budget tips, material comparisons & step-by-step setup included."
 ---
 
-[![Tall wooden A-frame pea trellis in a lush backyard vegetable garden with climbing pea vines]({{ site.baseurl }}/assets/images/home-decor/pea-trellis-hero.jpg)](https://pin.it/XXXXXXX)
+[![Tall wooden A-frame pea trellis in a lush backyard vegetable garden with climbing pea vines]({{ site.baseurl }}/assets/images/home-decor/pea-trellis-hero.jpg)]()
 
 ## Why Your Peas Need a Trellis
 
@@ -64,7 +64,7 @@ Peas grab onto things using thin tendrils. They do best with **thin supports** �
 4. Wind twine in a spiral downward, wrapping each pole as you go.
 5. Stop 12 inches from the ground — this is where peas will start climbing.
 
-[![Bamboo teepee trellis with pea vines wrapping up the poles in a raised garden bed]({{ site.baseurl }}/assets/images/home-decor/bamboo-teepee-pea-trellis.jpg)](https://pin.it/XXXXXXX)
+[![Bamboo teepee trellis with pea vines wrapping up the poles in a raised garden bed]({{ site.baseurl }}/assets/images/home-decor/bamboo-teepee-pea-trellis.jpg)]()
 
 ---
 
@@ -88,7 +88,7 @@ Peas grab onto things using thin tendrils. They do best with **thin supports** �
 6. Attach netting to both sides using zip ties or wire.
 7. Plant peas on both sides — they'll climb up and over.
 
-[![A-frame wooden trellis with green garden netting in a sunny backyard garden]({{ site.baseurl }}/assets/images/home-decor/a-frame-pea-trellis-netting.jpg)](https://pin.it/XXXXXXX)
+[![A-frame wooden trellis with green garden netting in a sunny backyard garden]({{ site.baseurl }}/assets/images/home-decor/a-frame-pea-trellis-netting.jpg)]()
 
 ---
 
@@ -112,7 +112,7 @@ Peas grab onto things using thin tendrils. They do best with **thin supports** �
 
 This style also creates a beautiful garden tunnel you can walk through.
 
-[![Curved cattle panel arch tunnel covered in climbing pea vines in a vegetable garden]({{ site.baseurl }}/assets/images/home-decor/cattle-panel-arch-pea-trellis.jpg)](https://pin.it/XXXXXXX)
+[![Curved cattle panel arch tunnel covered in climbing pea vines in a vegetable garden]({{ site.baseurl }}/assets/images/home-decor/cattle-panel-arch-pea-trellis.jpg)]()
 
 ---
 
@@ -156,7 +156,7 @@ This style also creates a beautiful garden tunnel you can walk through.
 5. Lean against a fence or stake upright in the garden bed.
 6. Plant peas at the base and guide them onto the rungs.
 
-[![Rustic wooden ladder trellis leaning against a garden fence with pea vines climbing up]({{ site.baseurl }}/assets/images/home-decor/wooden-ladder-pea-trellis.jpg)](https://pin.it/XXXXXXX)
+[![Rustic wooden ladder trellis leaning against a garden fence with pea vines climbing up]({{ site.baseurl }}/assets/images/home-decor/wooden-ladder-pea-trellis.jpg)]()
 
 ---
 
@@ -213,7 +213,7 @@ This is one of the most attractive low-cost options — looks great in a cottage
 4. Zip-tie netting to the frame.
 5. Disassemble and store at season's end — it lasts for years.
 
-[![Lightweight white PVC frame trellis with mesh netting stretched between posts in a raised bed garden]({{ site.baseurl }}/assets/images/home-decor/pvc-pipe-pea-trellis.jpg)](https://pin.it/XXXXXXX)
+[![Lightweight white PVC frame trellis with mesh netting stretched between posts in a raised bed garden]({{ site.baseurl }}/assets/images/home-decor/pvc-pipe-pea-trellis.jpg)]()
 
 ---
 
@@ -247,7 +247,7 @@ This is one of the most attractive low-cost options — looks great in a cottage
 3. Tie horizontal lines of twine between the poles at 6-inch intervals.
 4. Plant peas right at the base center — vines will spread across the fan.
 
-[![Decorative fan-shaped bamboo trellis with climbing pea vines spread across in a cottage garden]({{ site.baseurl }}/assets/images/home-decor/fan-sunburst-pea-trellis.jpg)](https://pin.it/XXXXXXX)
+[![Decorative fan-shaped bamboo trellis with climbing pea vines spread across in a cottage garden]({{ site.baseurl }}/assets/images/home-decor/fan-sunburst-pea-trellis.jpg)]()
 
 ---
 
