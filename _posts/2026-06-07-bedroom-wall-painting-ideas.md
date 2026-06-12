@@ -6,7 +6,7 @@ permalink: /home-decor/bedroom-wall-painting-ideas/
 description: "Discover the best bedroom wall painting ideas — from accent walls to ombre & two-tone techniques. Step-by-step tips, color picks & real USA product costs."
 ---
 
-[![Stunning bedroom wall painting ideas — accent wall, ombre, and two-tone techniques]({{ site.baseurl }}/assets/images/home-decor/bedroom-wall-painting-hero.jpg)](https://pin.it/XXXXXXX)
+[![Stunning bedroom wall painting ideas — accent wall, ombre, and two-tone techniques]({{ site.baseurl }}/assets/images/home-decor/bedroom-wall-painting-hero.jpg)](https://pin.it/4t4a2iReW)
 
 ## Introduction
 
@@ -45,7 +45,7 @@ Before you open a single can of paint, spend 15 minutes planning. It saves hours
 
 An accent wall is the #1 most popular bedroom wall painting idea — and for good reason. One bold wall adds drama without making the room feel dark or heavy.
 
-[![Deep navy blue accent wall in a modern bedroom with white bedding and warm wood furniture]({{ site.baseurl }}/assets/images/home-decor/bedroom-accent-wall-painting.jpg)](https://pin.it/XXXXXXX)
+[![Deep navy blue accent wall in a modern bedroom with white bedding and warm wood furniture]({{ site.baseurl }}/assets/images/home-decor/bedroom-accent-wall-painting.jpg)](https://pin.it/epE1cVo3M)
 
 ### Best Accent Wall Colors by Room Style
 
@@ -74,7 +74,7 @@ An accent wall is the #1 most popular bedroom wall painting idea — and for goo
 
 Two-tone painting — where you split a wall horizontally into two colors — adds architectural interest without any actual renovation.
 
-[![Two-tone bedroom wall with warm white upper half and deep olive green lower half divided by a chair rail line]({{ site.baseurl }}/assets/images/home-decor/bedroom-two-tone-wall-painting.jpg)](https://pin.it/XXXXXXX)
+[![Two-tone bedroom wall with warm white upper half and deep olive green lower half divided by a chair rail line]({{ site.baseurl }}/assets/images/home-decor/bedroom-two-tone-wall-painting.jpg)](https://pin.it/6wgX5Jppw)
 
 ### Two-Tone Wall Color Combinations
 
@@ -102,7 +102,7 @@ Two-tone painting — where you split a wall horizontally into two colors — ad
 
 An ombre wall blends two or three colors from light to dark (or dark to light). It looks stunning in photos and is genuinely easier than it sounds.
 
-[![Soft ombre bedroom wall blending from white at the top to dusty blue at the bottom behind a queen bed]({{ site.baseurl }}/assets/images/home-decor/bedroom-ombre-wall-painting.jpg)](https://pin.it/XXXXXXX)
+[![Soft ombre bedroom wall blending from white at the top to dusty blue at the bottom behind a queen bed]({{ site.baseurl }}/assets/images/home-decor/bedroom-ombre-wall-painting.jpg)](https://pin.it/5KcBdVueC)
 
 ### Ombre Color Pairings That Work
 
@@ -130,7 +130,7 @@ An ombre wall blends two or three colors from light to dark (or dark to light). 
 
 Geometric painted walls are graphic, modern, and surprisingly easy with the right tape strategy.
 
-[![Bold geometric triangle pattern painted on bedroom wall in white and muted gold tones]({{ site.baseurl }}/assets/images/home-decor/bedroom-geometric-wall-painting.jpg)](https://pin.it/XXXXXXX)
+[![Bold geometric triangle pattern painted on bedroom wall in white and muted gold tones]({{ site.baseurl }}/assets/images/home-decor/bedroom-geometric-wall-painting.jpg)](https://pin.it/5MpWdO8x1)
 
 ### Popular Geometric Patterns for Bedrooms
 
@@ -158,7 +158,7 @@ Geometric painted walls are graphic, modern, and surprisingly easy with the righ
 
 Limewash paint creates a beautiful, layered, old-world texture that looks like bare plaster. It's trending hard right now and works in any bedroom style.
 
-[![Warm ivory limewash textured bedroom wall with soft light and neutral linen bedding]({{ site.baseurl }}/assets/images/home-decor/bedroom-limewash-wall-painting.jpg)](https://pin.it/XXXXXXX)
+[![Warm ivory limewash textured bedroom wall with soft light and neutral linen bedding]({{ site.baseurl }}/assets/images/home-decor/bedroom-limewash-wall-painting.jpg)](https://pin.it/5Nk5PbsXq)
 
 ### Limewash vs. Regular Paint
 
@@ -212,7 +212,7 @@ Painting the ceiling the same color as an accent wall — or even darker — is 
 
 Vertical stripes make low ceilings look taller. They're clean, classic, and work in both traditional and modern bedrooms.
 
-[![Elegant vertical stripe painted bedroom wall in soft gray and white tones making ceiling appear taller]({{ site.baseurl }}/assets/images/home-decor/bedroom-vertical-stripe-wall.jpg)](https://pin.it/XXXXXXX)
+[![Elegant vertical stripe painted bedroom wall in soft gray and white tones making ceiling appear taller]({{ site.baseurl }}/assets/images/home-decor/bedroom-vertical-stripe-wall.jpg)](https://pin.it/7yFyitnwv)
 
 **How to paint vertical stripes:**
 1. Decide on stripe width — 4 to 6 inches is the standard. Wider stripes feel more modern.
