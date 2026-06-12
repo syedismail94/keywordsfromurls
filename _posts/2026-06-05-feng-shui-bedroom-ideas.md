@@ -6,7 +6,7 @@ permalink: /home-decor/feng-shui-bedroom-ideas/
 description: "Transform your bedroom with these 15 feng shui ideas — bed placement, colors, decluttering tips & more. Simple changes for better sleep and positive energy."
 ---
 
-[![Calm feng shui bedroom with low platform bed in command position, neutral earthy tones, soft lighting, and minimal clutter]({{ site.baseurl }}/assets/images/home-decor/feng-shui-bedroom-hero.jpg)](https://pin.it/XXXXXXX)
+[![Calm feng shui bedroom with low platform bed in command position, neutral earthy tones, soft lighting, and minimal clutter]({{ site.baseurl }}/assets/images/home-decor/feng-shui-bedroom-hero.jpg)](https://pin.it/53xSfU9Yc)
 
 ## Why Feng Shui Your Bedroom?
 
@@ -45,7 +45,7 @@ Before diving into the ideas, here's what feng shui is actually trying to solve 
 4. Never put the bed under a window if you can avoid it — that weakens the sense of support behind you.
 5. If you live in a small room and options are limited, place a solid headboard as a substitute for a wall.
 
-[![Bedroom with bed in feng shui command position against solid wall, diagonal view of door, neutral bedding]({{ site.baseurl }}/assets/images/home-decor/feng-shui-bed-command-position.jpg)](https://pin.it/XXXXXXX)
+[![Bedroom with bed in feng shui command position against solid wall, diagonal view of door, neutral bedding]({{ site.baseurl }}/assets/images/home-decor/feng-shui-bed-command-position.jpg)](https://pin.it/53xSfU9Yc)
 
 ---
 
@@ -76,7 +76,7 @@ Before diving into the ideas, here's what feng shui is actually trying to solve 
 4. Never store shoes, electronics, paperwork, or emotionally charged items under the bed.
 5. Vacuum the floor under the bed every few months.
 
-[![Minimal bedroom with clear space under a low platform bed, clean floors, soft neutral tones]({{ site.baseurl }}/assets/images/home-decor/feng-shui-clear-under-bed.jpg)](https://pin.it/XXXXXXX)
+[![Minimal bedroom with clear space under a low platform bed, clean floors, soft neutral tones]({{ site.baseurl }}/assets/images/home-decor/feng-shui-clear-under-bed.jpg)](https://pin.it/53xSfU9Yc)
 
 ---
 
@@ -112,7 +112,7 @@ Before diving into the ideas, here's what feng shui is actually trying to solve 
 - Amazon nightstands (set of 2): $80–$150
 - Target threshold nightstands: $70–$120 each
 
-[![Two matching wooden nightstands with table lamps on either side of a neatly made bed, symmetrical feng shui bedroom setup]({{ site.baseurl }}/assets/images/home-decor/feng-shui-matching-nightstands.jpg)](https://pin.it/XXXXXXX)
+[![Two matching wooden nightstands with table lamps on either side of a neatly made bed, symmetrical feng shui bedroom setup]({{ site.baseurl }}/assets/images/home-decor/feng-shui-matching-nightstands.jpg)](https://pin.it/5ufopMP2P)
 
 ---
 
@@ -140,7 +140,7 @@ Before diving into the ideas, here's what feng shui is actually trying to solve 
 4. Consider smart bulbs like Philips Hue (starts ~$15/bulb) to shift from bright to warm tones at night.
 5. Avoid blue-light sources (TV, laptop) in the bedroom entirely, or use blue light blocking modes after 8 PM.
 
-[![Cozy feng shui bedroom with warm amber bedside lamps, soft layered lighting, dimmed ambiance, neutral walls]({{ site.baseurl }}/assets/images/home-decor/feng-shui-bedroom-lighting.jpg)](https://pin.it/XXXXXXX)
+[![Cozy feng shui bedroom with warm amber bedside lamps, soft layered lighting, dimmed ambiance, neutral walls]({{ site.baseurl }}/assets/images/home-decor/feng-shui-bedroom-lighting.jpg)](https://pin.it/5ufopMP2P)
 
 ---
 
@@ -176,7 +176,7 @@ Before diving into the ideas, here's what feng shui is actually trying to solve 
 3. Keep plants healthy — dead or wilting plants create negative energy.
 4. Avoid large, spiky plants (cactus, spiky succulents) in the bedroom.
 
-[![Snake plant and pothos in ceramic pots in a calm feng shui bedroom corner, soft light, earthy tones]({{ site.baseurl }}/assets/images/home-decor/feng-shui-bedroom-plants.jpg)](https://pin.it/XXXXXXX)
+[![Snake plant and pothos in ceramic pots in a calm feng shui bedroom corner, soft light, earthy tones]({{ site.baseurl }}/assets/images/home-decor/feng-shui-bedroom-plants.jpg)](https://pin.it/5ufopMP2P)
 
 ---
 
@@ -204,7 +204,7 @@ Before diving into the ideas, here's what feng shui is actually trying to solve 
 4. Use ceramic or stone accessories on nightstands instead of plastic.
 5. Bring in wood accents: a wooden tray, wooden lamp base, or wooden photo frames.
 
-[![Natural linen bedding, wooden furniture, jute rug and ceramic accessories in a warm feng shui bedroom]({{ site.baseurl }}/assets/images/home-decor/feng-shui-natural-materials-bedroom.jpg)](https://pin.it/XXXXXXX)
+[![Natural linen bedding, wooden furniture, jute rug and ceramic accessories in a warm feng shui bedroom]({{ site.baseurl }}/assets/images/home-decor/feng-shui-natural-materials-bedroom.jpg)](https://pin.it/5ufopMP2P)
 
 ---
 
