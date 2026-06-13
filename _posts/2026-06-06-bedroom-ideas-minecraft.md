@@ -6,7 +6,7 @@ permalink: /home-decor/bedroom-ideas-minecraft/
 description: "Discover 25 stunning Minecraft bedroom ideas with step-by-step builds, block lists, and design tips for beginners and pros alike."
 ---
 
-[![Minecraft bedroom build with warm lighting, bunk beds, and cozy décor]({{ site.baseurl }}/assets/images/home-decor/minecraft-bedroom-hero.jpg)](https://pin.it/XXXXXXX)
+[![Minecraft bedroom build with warm lighting, bunk beds, and cozy décor]({{ site.baseurl }}/assets/images/home-decor/minecraft-bedroom-hero.jpg)](https://pin.it/1ocZICWAx)
 
 ## Introduction
 
@@ -37,7 +37,7 @@ Before placing any blocks, pick the right size for your bedroom:
 
 ### 2.1 Placing and Styling Your Bed
 
-[![Minecraft bed placement with matching colored wool and wooden headboard frame]({{ site.baseurl }}/assets/images/home-decor/minecraft-bed-placement.jpg)](https://pin.it/XXXXXXX)
+[![Minecraft bed placement with matching colored wool and wooden headboard frame]({{ site.baseurl }}/assets/images/home-decor/minecraft-bed-placement.jpg)](https://pin.it/1ocZICWAx)
 
 The bed is the most important block in any Minecraft bedroom. Here's how to make it look amazing instead of just functional:
 
@@ -62,7 +62,7 @@ The bed is the most important block in any Minecraft bedroom. Here's how to make
 
 ### 3.1 Best Floor Blocks for Bedrooms
 
-[![Minecraft bedroom floor comparison using oak planks, carpet, and terracotta tiles]({{ site.baseurl }}/assets/images/home-decor/minecraft-bedroom-flooring.jpg)](https://pin.it/XXXXXXX)
+[![Minecraft bedroom floor comparison using oak planks, carpet, and terracotta tiles]({{ site.baseurl }}/assets/images/home-decor/minecraft-bedroom-flooring.jpg)](https://pin.it/29fdnokzU)
 
 The floor sets the whole mood of the room. Here are the most popular options:
 
@@ -85,7 +85,7 @@ The floor sets the whole mood of the room. Here are the most popular options:
 
 ### 4.1 How to Add Cozy Lighting
 
-[![Minecraft bedroom with lanterns, glow lights, and hidden light sources in ceiling]({{ site.baseurl }}/assets/images/home-decor/minecraft-bedroom-lighting.jpg)](https://pin.it/XXXXXXX)
+[![Minecraft bedroom with lanterns, glow lights, and hidden light sources in ceiling]({{ site.baseurl }}/assets/images/home-decor/minecraft-bedroom-lighting.jpg)](https://pin.it/29fdnokzU)
 
 Bad lighting ruins a great room. Here's how to do it right:
 
@@ -118,7 +118,7 @@ Bad lighting ruins a great room. Here's how to do it right:
 
 ### 5.2 Wardrobe / Closet
 
-[![Minecraft bedroom wardrobe built with dark oak doors, barrels, and item frames]({{ site.baseurl }}/assets/images/home-decor/minecraft-bedroom-wardrobe.jpg)](https://pin.it/XXXXXXX)
+[![Minecraft bedroom wardrobe built with dark oak doors, barrels, and item frames]({{ site.baseurl }}/assets/images/home-decor/minecraft-bedroom-wardrobe.jpg)](https://pin.it/52LvUTSfR)
 
 **Step 1:** Build a 2-wide, 3-tall alcove in the wall.  
 **Step 2:** Line it with barrels or chests for storage.  
@@ -149,7 +149,7 @@ Bad lighting ruins a great room. Here's how to do it right:
 
 ### 7.1 Cozy Cabin Bedroom
 
-[![Minecraft cozy cabin bedroom with spruce logs, fireplace, fur rugs, and warm lanterns]({{ site.baseurl }}/assets/images/home-decor/minecraft-cabin-bedroom.jpg)](https://pin.it/XXXXXXX)
+[![Minecraft cozy cabin bedroom with spruce logs, fireplace, fur rugs, and warm lanterns]({{ site.baseurl }}/assets/images/home-decor/minecraft-cabin-bedroom.jpg)](https://pin.it/52LvUTSfR)
 
 **Blocks to use:** Spruce planks, spruce logs, brown carpet, stone fireplace, lanterns.
 
@@ -175,7 +175,7 @@ Bad lighting ruins a great room. Here's how to do it right:
 
 ### 7.3 Fantasy / Enchanted Bedroom
 
-[![Minecraft fantasy bedroom with purple wool, amethyst crystals, glowstone ceiling, and bookshelves]({{ site.baseurl }}/assets/images/home-decor/minecraft-fantasy-bedroom.jpg)](https://pin.it/XXXXXXX)
+[![Minecraft fantasy bedroom with purple wool, amethyst crystals, glowstone ceiling, and bookshelves]({{ site.baseurl }}/assets/images/home-decor/minecraft-fantasy-bedroom.jpg)](https://pin.it/3Ri7j6ZGp)
 
 **Blocks to use:** Purple wool, amethyst blocks, glowstone, bookshelves, end rods.
 
@@ -191,7 +191,7 @@ Bad lighting ruins a great room. Here's how to do it right:
 
 ### 8.1 How to Build a Bunk Bed
 
-[![Minecraft bunk bed built with oak ladders, wooden slabs, and two separate colored beds]({{ site.baseurl }}/assets/images/home-decor/minecraft-bunk-bed.jpg)](https://pin.it/XXXXXXX)
+[![Minecraft bunk bed built with oak ladders, wooden slabs, and two separate colored beds]({{ site.baseurl }}/assets/images/home-decor/minecraft-bunk-bed.jpg)](https://pin.it/3Ri7j6ZGp)
 
 Bunk beds save space and look incredible. Here's the exact build:
 
