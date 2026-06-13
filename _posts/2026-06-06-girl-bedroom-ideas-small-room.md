@@ -6,7 +6,7 @@ permalink: /home-decor/girl-bedroom-ideas-small-room/
 description: "Transform a tiny girl's bedroom with 30 smart, stylish ideas. Step-by-step tips for storage, color, furniture & décor in small spaces."
 ---
 
-[![Small girl bedroom with pink loft bed, fairy lights, white floating shelves, and cozy pastel decor]({{ site.baseurl }}/assets/images/home-decor/girl-small-bedroom-hero.jpg)](https://pin.it/XXXXXXX)
+[![Small girl bedroom with pink loft bed, fairy lights, white floating shelves, and cozy pastel decor]({{ site.baseurl }}/assets/images/home-decor/girl-small-bedroom-hero.jpg)](https://pin.it/4dioTQXau)
 
 ## Introduction
 
@@ -39,7 +39,7 @@ The biggest mistake people make is buying furniture before mapping the room. Her
 
 ### 2.1 Loft Bed — The Best Space-Saving Bed for Small Rooms
 
-[![White loft bed with desk underneath, pink bedding, string lights, and study area in small girl bedroom]({{ site.baseurl }}/assets/images/home-decor/girl-bedroom-loft-bed.jpg)](https://pin.it/XXXXXXX)
+[![White loft bed with desk underneath, pink bedding, string lights, and study area in small girl bedroom]({{ site.baseurl }}/assets/images/home-decor/girl-bedroom-loft-bed.jpg)](https://pin.it/45rEzucSX)
 
 A loft bed lifts the sleeping area up and gives you a whole zone underneath — perfect for a desk, reading nook, or wardrobe.
 
@@ -75,7 +75,7 @@ If a loft bed isn't possible, a twin bed with built-in drawers is the next best 
 
 ### 3.1 Best Paint Colors for Small Girl Bedrooms
 
-[![Small girl bedroom painted soft blush pink with white trim, natural light, and airy minimalist decor]({{ site.baseurl }}/assets/images/home-decor/girl-bedroom-paint-color.jpg)](https://pin.it/XXXXXXX)
+[![Small girl bedroom painted soft blush pink with white trim, natural light, and airy minimalist decor]({{ site.baseurl }}/assets/images/home-decor/girl-bedroom-paint-color.jpg)](https://pin.it/1vQP75pH8)
 
 Color is the cheapest way to transform a room. Light and soft colors make small rooms feel twice as big.
 
@@ -101,7 +101,7 @@ Color is the cheapest way to transform a room. Light and soft colors make small 
 
 ### 4.1 Floating Shelves — Vertical Storage That Saves Floor Space
 
-[![Girl bedroom wall with white floating shelves, books, plants, and decorative items above desk area]({{ site.baseurl }}/assets/images/home-decor/girl-bedroom-floating-shelves.jpg)](https://pin.it/XXXXXXX)
+[![Girl bedroom wall with white floating shelves, books, plants, and decorative items above desk area]({{ site.baseurl }}/assets/images/home-decor/girl-bedroom-floating-shelves.jpg)](https://pin.it/54oJbsqAB)
 
 The floor is prime real estate in a small room. Move storage to the walls.
 
@@ -145,7 +145,7 @@ The floor is prime real estate in a small room. Move storage to the walls.
 
 ### 5.1 Multi-Use Furniture Choices
 
-[![Small girl bedroom with white storage ottoman, fold-out desk, and corner shelving unit in compact layout]({{ site.baseurl }}/assets/images/home-decor/girl-bedroom-multifunctional-furniture.jpg)](https://pin.it/XXXXXXX)
+[![Small girl bedroom with white storage ottoman, fold-out desk, and corner shelving unit in compact layout]({{ site.baseurl }}/assets/images/home-decor/girl-bedroom-multifunctional-furniture.jpg)](https://pin.it/1mpLI13JC)
 
 Every piece of furniture in a small room should do at least two jobs.
 
@@ -167,7 +167,7 @@ Every piece of furniture in a small room should do at least two jobs.
 
 ### 6.1 Layer Your Lighting for a Bigger Feel
 
-[![Girl bedroom with warm fairy string lights on wall, bedside table lamp, and soft LED strip behind headboard]({{ site.baseurl }}/assets/images/home-decor/girl-bedroom-lighting.jpg)](https://pin.it/XXXXXXX)
+[![Girl bedroom with warm fairy string lights on wall, bedside table lamp, and soft LED strip behind headboard]({{ site.baseurl }}/assets/images/home-decor/girl-bedroom-lighting.jpg)](https://pin.it/1mpLI13JC)
 
 Good lighting makes a small room feel airy and magical. Use multiple light sources instead of one overhead bulb.
 
@@ -200,7 +200,7 @@ Good lighting makes a small room feel airy and magical. Use multiple light sourc
 
 ### 7.2 Mirror Trick — Make Any Room Look Bigger
 
-[![Small girl bedroom with large round blush-framed mirror above dresser reflecting natural window light]({{ site.baseurl }}/assets/images/home-decor/girl-bedroom-mirror.jpg)](https://pin.it/XXXXXXX)
+[![Small girl bedroom with large round blush-framed mirror above dresser reflecting natural window light]({{ site.baseurl }}/assets/images/home-decor/girl-bedroom-mirror.jpg)](https://pin.it/1mpLI13JC)
 
 A mirror is the oldest trick in interior design — it doubles the visual size of any room.
 
@@ -236,7 +236,7 @@ A mirror is the oldest trick in interior design — it doubles the visual size o
 
 ### 9.1 Boho Chic Small Bedroom
 
-[![Small boho girl bedroom with macramé wall hanging, rattan furniture, warm neutrals, fairy lights, and potted plants]({{ site.baseurl }}/assets/images/home-decor/girl-bedroom-boho.jpg)](https://pin.it/XXXXXXX)
+[![Small boho girl bedroom with macramé wall hanging, rattan furniture, warm neutrals, fairy lights, and potted plants]({{ site.baseurl }}/assets/images/home-decor/girl-bedroom-boho.jpg)](https://pin.it/1mpLI13JC)
 
 **Total Estimated Cost: $200–$500**
 
