@@ -6,7 +6,7 @@ permalink: /home-decor/small-10x10-bedroom-interior-design-ideas/
 description: "Transform your 10×10 bedroom with smart layout tips, space-saving furniture, and budget-friendly decor ideas that make small rooms feel big."
 ---
 
-[![Stylish 10x10 small bedroom with light walls, lofted bed and smart storage in a USA home]({{ site.baseurl }}/assets/images/home-decor/10x10-bedroom-hero.jpg)](https://pin.it/XXXXXXX)
+[![Stylish 10x10 small bedroom with light walls, lofted bed and smart storage in a USA home]({{ site.baseurl }}/assets/images/home-decor/10x10-bedroom-hero.jpg)](https://pin.it/1eMeemD28)
 
 ## Introduction
 
@@ -43,7 +43,7 @@ Every small room needs a "hero wall" — the first wall you see when you enter. 
 
 ### 2.1 The Best Bed Positions for a 10×10 Room
 
-[![10x10 bedroom layout showing bed against focal wall with clear walkways and floating nightstands]({{ site.baseurl }}/assets/images/home-decor/10x10-bedroom-bed-layout.jpg)](https://pin.it/XXXXXXX)
+[![10x10 bedroom layout showing bed against focal wall with clear walkways and floating nightstands]({{ site.baseurl }}/assets/images/home-decor/10x10-bedroom-bed-layout.jpg)](https://pin.it/1eMeemD28)
 
 Place the bed against the wall opposite the door, or against a side wall if that opens up better flow. Avoid centering the bed in the room — it eats up all your walkway space.
 
@@ -70,7 +70,7 @@ If you live alone or it's a child's room, a loft bed is a game-changer. The spac
 
 ### 3.1 Use Vertical Space, Not Floor Space
 
-[![Tall vertical shelving unit next to bed in small 10x10 bedroom maximizing wall storage]({{ site.baseurl }}/assets/images/home-decor/vertical-storage-small-bedroom.jpg)](https://pin.it/XXXXXXX)
+[![Tall vertical shelving unit next to bed in small 10x10 bedroom maximizing wall storage]({{ site.baseurl }}/assets/images/home-decor/vertical-storage-small-bedroom.jpg)](https://pin.it/1eMeemD28)
 
 Think up, not out. Install floating shelves 6–7 feet high on your walls. Use the top shelves for things you rarely need and lower ones for daily items. This keeps the floor clear and makes the ceiling feel higher.
 
@@ -103,7 +103,7 @@ If your room has a closet, maximize it with an organizer system. The **IKEA PAX 
 
 ### 4.1 Paint Colors That Open Up a Small Room
 
-[![Soft white and warm beige painted 10x10 bedroom walls with natural light from window]({{ site.baseurl }}/assets/images/home-decor/small-bedroom-light-paint-colors.jpg)](https://pin.it/XXXXXXX)
+[![Soft white and warm beige painted 10x10 bedroom walls with natural light from window]({{ site.baseurl }}/assets/images/home-decor/small-bedroom-light-paint-colors.jpg)](https://pin.it/1eMeemD28)
 
 Light colors reflect light and trick the eye into seeing more space. Dark colors absorb light and make walls feel closer.
 
@@ -140,7 +140,7 @@ One overhead bulb is never enough. Layer three types of light:
 
 ### 5.1 Multi-Function Furniture Is Essential
 
-[![Small bedroom with ottoman bench at foot of bed doubling as storage in a cozy USA apartment]({{ site.baseurl }}/assets/images/home-decor/multifunctional-furniture-small-bedroom.jpg)](https://pin.it/XXXXXXX)
+[![Small bedroom with ottoman bench at foot of bed doubling as storage in a cozy USA apartment]({{ site.baseurl }}/assets/images/home-decor/multifunctional-furniture-small-bedroom.jpg)](https://pin.it/1eMeemD28)
 
 Every piece of furniture in a 10×10 room must do at least two jobs. Single-purpose furniture is a luxury you cannot afford in 100 square feet.
 
@@ -167,7 +167,7 @@ Every piece of furniture in a 10×10 room must do at least two jobs. Single-purp
 
 ### 6.1 Use Mirrors Strategically
 
-[![Large floor mirror leaning against wall in small bedroom reflecting natural light and doubling visual space]({{ site.baseurl }}/assets/images/home-decor/mirror-small-bedroom-design.jpg)](https://pin.it/XXXXXXX)
+[![Large floor mirror leaning against wall in small bedroom reflecting natural light and doubling visual space]({{ site.baseurl }}/assets/images/home-decor/mirror-small-bedroom-design.jpg)](https://pin.it/1eMeemD28)
 
 A large mirror is the oldest trick in small-space design — it literally doubles the visual depth of the room. Options:
 
