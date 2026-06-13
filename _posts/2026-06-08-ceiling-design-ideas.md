@@ -6,7 +6,7 @@ permalink: /home-decor/ceiling-design-ideas/
 description: "Discover 10 ceiling design ideas that add style and character to any room. From coffered to shiplap, easy DIY tips included."
 ---
 
-[![10 Stunning Ceiling Design Ideas for Every Home]({{ site.baseurl }}/assets/images/home-decor/ceiling-design-ideas-hero.jpg)](https://pin.it/XXXXXXX)
+[![10 Stunning Ceiling Design Ideas for Every Home]({{ site.baseurl }}/assets/images/home-decor/ceiling-design-ideas-hero.jpg)](https://pin.it/V97USoB2u)
 
 ## Introduction
 
@@ -20,7 +20,7 @@ Here are 10 ceiling design ideas that actually work — with real steps, costs, 
 
 ## 1. Coffered Ceiling — Classic and Elegant
 
-[![Coffered ceiling design in a living room]({{ site.baseurl }}/assets/images/home-decor/coffered-ceiling-living-room.jpg)](https://pin.it/XXXXXXX)
+[![Coffered ceiling design in a living room]({{ site.baseurl }}/assets/images/home-decor/coffered-ceiling-living-room.jpg)](https://pin.it/V97USoB2u)
 
 A coffered ceiling uses a grid of recessed panels (called coffers) to add depth and a high-end architectural look to any room. It's a popular choice for living rooms, dining rooms, and home offices.
 
@@ -47,7 +47,7 @@ A coffered ceiling uses a grid of recessed panels (called coffers) to add depth 
 
 ## 2. Shiplap Ceiling — Rustic and Trendy
 
-[![Shiplap ceiling planks in a bedroom]({{ site.baseurl }}/assets/images/home-decor/shiplap-ceiling-bedroom.jpg)](https://pin.it/XXXXXXX)
+[![Shiplap ceiling planks in a bedroom]({{ site.baseurl }}/assets/images/home-decor/shiplap-ceiling-bedroom.jpg)](https://pin.it/V97USoB2u)
 
 Shiplap is a type of wooden board with a small groove between each plank. Originally used in barns and boats, it became a major interior trend (thanks to Joanna Gaines and Fixer Upper). On the ceiling, shiplap adds warmth, texture, and that cozy farmhouse feel.
 
@@ -89,7 +89,7 @@ A tray ceiling (also called a recessed ceiling) has a raised center section that
 
 ## 4. Beadboard Ceiling — Cottage Charm
 
-[![Beadboard ceiling in a kitchen or porch]({{ site.baseurl }}/assets/images/home-decor/beadboard-ceiling-kitchen.jpg)](https://pin.it/XXXXXXX)
+[![Beadboard ceiling in a kitchen or porch]({{ site.baseurl }}/assets/images/home-decor/beadboard-ceiling-kitchen.jpg)](https://pin.it/SbWocfTJe)
 
 Beadboard is a classic paneling style with narrow vertical grooves. When used on the ceiling, it instantly adds a cottage, coastal, or Southern farmhouse feel. It works beautifully in kitchens, porches, bathrooms, and sunrooms.
 
@@ -107,7 +107,7 @@ Beadboard is a classic paneling style with narrow vertical grooves. When used on
 
 ## 5. Exposed Beam Ceiling — Bold and Architectural
 
-[![Exposed wood beam ceiling in a living room]({{ site.baseurl }}/assets/images/home-decor/exposed-beam-ceiling.jpg)](https://pin.it/XXXXXXX)
+[![Exposed wood beam ceiling in a living room]({{ site.baseurl }}/assets/images/home-decor/exposed-beam-ceiling.jpg)](https://pin.it/SbWocfTJe)
 
 Exposed wood beams are one of the most dramatic ceiling upgrades you can make. They add warmth, texture, and a sense of craftsmanship. The great news — you don't need real structural beams. Faux wood beams are lightweight, affordable, and look just as good.
 
@@ -211,7 +211,7 @@ A stretch ceiling is a thin PVC or fabric membrane stretched across a frame atta
 
 ## 10. Stenciled Ceiling — Artistic and Affordable
 
-[![Stenciled medallion pattern painted on ceiling]({{ site.baseurl }}/assets/images/home-decor/stenciled-ceiling-pattern.jpg)](https://pin.it/XXXXXXX)
+[![Stenciled medallion pattern painted on ceiling]({{ site.baseurl }}/assets/images/home-decor/stenciled-ceiling-pattern.jpg)](https://pin.it/EwMcSIceW)
 
 A stenciled ceiling lets you add the look of expensive hand-painted art for a fraction of the cost. You can create medallions, geometric patterns, damask prints, or Moroccan-inspired designs using a simple stencil and a foam roller.
 
