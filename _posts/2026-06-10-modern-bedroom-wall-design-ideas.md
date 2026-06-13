@@ -6,7 +6,7 @@ permalink: /home-decor/modern-bedroom-wall-design-ideas/
 description: "Discover 10 modern bedroom wall design ideas — from accent walls to LED panels. Easy DIY tips, costs, and product picks for every budget."
 ---
 
-[![Modern bedroom with a stunning accent wall featuring textured panels and warm ambient lighting]({{ site.baseurl }}/assets/images/home-decor/modern-bedroom-wall-design-hero.jpg)](https://pin.it/XXXXXXX)
+[![Modern bedroom with a stunning accent wall featuring textured panels and warm ambient lighting]({{ site.baseurl }}/assets/images/home-decor/modern-bedroom-wall-design-hero.jpg)](https://pin.it/49ulXLxch)
 
 ## Introduction
 
@@ -36,7 +36,7 @@ An accent wall is the easiest way to add drama to your bedroom. Pick one wall �
 
 > **Tip:** Sherwin-Williams "Tricorn Black" and Benjamin Moore "Hale Navy" are two of the most popular bedroom accent wall colors right now. Find them at Home Depot or directly at their stores.
 
-[![Bedroom accent wall painted in deep navy blue with white bedding and warm pendant lights]({{ site.baseurl }}/assets/images/home-decor/bedroom-navy-accent-wall.jpg)](https://pin.it/XXXXXXX)
+[![Bedroom accent wall painted in deep navy blue with white bedding and warm pendant lights]({{ site.baseurl }}/assets/images/home-decor/bedroom-navy-accent-wall.jpg)](https://pin.it/49ulXLxch)
 
 ---
 
@@ -61,7 +61,7 @@ Wood plank walls bring warmth and texture instantly. Shiplap is a classic choice
 | Paint or stain | $20–$40 |
 | **Total for a 100 sq ft wall** | **~$120–$200** |
 
-[![Bedroom wall with white shiplap wood planks installed horizontally behind a king bed]({{ site.baseurl }}/assets/images/home-decor/bedroom-shiplap-wood-wall.jpg)](https://pin.it/XXXXXXX)
+[![Bedroom wall with white shiplap wood planks installed horizontally behind a king bed]({{ site.baseurl }}/assets/images/home-decor/bedroom-shiplap-wood-wall.jpg)](https://pin.it/49ulXLxch)
 
 ---
 
@@ -100,7 +100,7 @@ Board-and-batten adds classic architectural detail to flat walls. It's a grid of
 4. Fill all nail holes and seams with caulk.
 5. Prime and paint everything the same color for a seamless look.
 
-[![DIY board and batten wainscoting wall in a modern bedroom painted soft white]({{ site.baseurl }}/assets/images/home-decor/bedroom-board-and-batten-wall.jpg)](https://pin.it/XXXXXXX)
+[![DIY board and batten wainscoting wall in a modern bedroom painted soft white]({{ site.baseurl }}/assets/images/home-decor/bedroom-board-and-batten-wall.jpg)](https://pin.it/49ulXLxch)
 
 ### Costs
 
@@ -129,7 +129,7 @@ LED wall panels have become one of the hottest modern bedroom trends. From glowi
 
 > **Where to Buy:** Amazon, Wayfair, IKEA (STRIPPLED LED strips), or specialty lighting shops like Lumens.com.
 
-[![Modern bedroom wall with LED strip lighting behind a floating bed frame creating ambient glow]({{ site.baseurl }}/assets/images/home-decor/bedroom-led-backlit-wall.jpg)](https://pin.it/XXXXXXX)
+[![Modern bedroom wall with LED strip lighting behind a floating bed frame creating ambient glow]({{ site.baseurl }}/assets/images/home-decor/bedroom-led-backlit-wall.jpg)](https://pin.it/49ulXLxch)
 
 ### How to Install LED Strips
 
@@ -175,7 +175,7 @@ Limewash paint gives walls a soft, aged, European look — like textured plaster
 3. Work in small sections (2×2 ft) for a natural, uneven look.
 4. Let dry fully (2–4 hours), then apply a second coat if you want more coverage.
 
-[![Bedroom wall with soft limewash texture in warm white giving a Tuscan plaster-style finish]({{ site.baseurl }}/assets/images/home-decor/bedroom-limewash-plaster-wall.jpg)](https://pin.it/XXXXXXX)
+[![Bedroom wall with soft limewash texture in warm white giving a Tuscan plaster-style finish]({{ site.baseurl }}/assets/images/home-decor/bedroom-limewash-plaster-wall.jpg)](https://pin.it/13dZRQK6L)
 
 ### Recommended Products
 
@@ -221,7 +221,7 @@ Fabric wall panels are a softer, quieter alternative to paint and wood. They add
 3. Stretch your chosen fabric over the padded board and staple to the back.
 4. Attach panels to the wall with heavy-duty picture hanging strips or small L-brackets.
 
-[![Bedroom wall with DIY upholstered fabric panels in soft grey velvet behind a tufted headboard]({{ site.baseurl }}/assets/images/home-decor/bedroom-upholstered-fabric-wall.jpg)](https://pin.it/XXXXXXX)
+[![Bedroom wall with DIY upholstered fabric panels in soft grey velvet behind a tufted headboard]({{ site.baseurl }}/assets/images/home-decor/bedroom-upholstered-fabric-wall.jpg)](https://pin.it/13dZRQK6L)
 
 > **Fabric ideas:** Velvet, linen, and boucle all look luxurious. Shop fabric by the yard at Joann Fabrics, Hobby Lobby, or online at Fabric.com.
 
