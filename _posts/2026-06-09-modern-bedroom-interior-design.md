@@ -6,7 +6,7 @@ permalink: /home-decor/modern-bedroom-interior-design/
 description: "Transform your bedroom with modern interior design ideas. Step-by-step tips on color, furniture, lighting & decor — with USA prices and where to buy."
 ---
 
-[![Modern bedroom interior design with neutral tones, layered bedding and warm lighting in a USA home]({{ site.baseurl }}/assets/images/home-decor/modern-bedroom-interior-design-hero.jpg)](https://pin.it/XXXXXXX)
+[![Modern bedroom interior design with neutral tones, layered bedding and warm lighting in a USA home]({{ site.baseurl }}/assets/images/home-decor/modern-bedroom-interior-design-hero.jpg)](https://pin.it/2ONtJCdYw)
 
 ## Introduction
 
@@ -18,7 +18,7 @@ This guide walks you through 10 simple steps — from choosing a color palette t
 
 ## Step 1: Choose a Modern Color Palette
 
-[![Modern bedroom color palette with warm whites, greiges and soft sage green on walls]({{ site.baseurl }}/assets/images/home-decor/modern-bedroom-color-palette.jpg)](https://pin.it/XXXXXXX)
+[![Modern bedroom color palette with warm whites, greiges and soft sage green on walls]({{ site.baseurl }}/assets/images/home-decor/modern-bedroom-color-palette.jpg)](https://pin.it/2ONtJCdYw)
 
 Color sets the entire mood of a bedroom. Modern bedrooms lean toward neutral, calming tones — not stark white or bold primary colors. Think warm whites, soft greiges (gray-beige), dusty sage, and muted terracotta.
 
@@ -43,7 +43,7 @@ Color sets the entire mood of a bedroom. Modern bedrooms lean toward neutral, ca
 
 ## Step 2: Pick the Right Bed Frame
 
-[![Modern platform bed frame in walnut wood finish in a clean minimal bedroom]({{ site.baseurl }}/assets/images/home-decor/modern-platform-bed-frame.jpg)](https://pin.it/XXXXXXX)
+[![Modern platform bed frame in walnut wood finish in a clean minimal bedroom]({{ site.baseurl }}/assets/images/home-decor/modern-platform-bed-frame.jpg)](https://pin.it/2ONtJCdYw)
 
 The bed is the centerpiece of any bedroom. In modern design, low-profile platform beds are the go-to. They sit closer to the floor, creating a clean, grounded look without the bulky box spring underneath.
 
@@ -62,7 +62,7 @@ The bed is the centerpiece of any bedroom. In modern design, low-profile platfor
 
 ## Step 3: Layer Your Bedding for a Luxe Look
 
-[![Layered white and cream bedding with textured throw on a modern platform bed]({{ site.baseurl }}/assets/images/home-decor/modern-bedroom-layered-bedding.jpg)](https://pin.it/XXXXXXX)
+[![Layered white and cream bedding with textured throw on a modern platform bed]({{ site.baseurl }}/assets/images/home-decor/modern-bedroom-layered-bedding.jpg)](https://pin.it/2ONtJCdYw)
 
 Bedding is the fastest way to make a bedroom look like a hotel. Modern bedrooms use clean, textured layers — not loud patterns. Think white or neutral duvet, a chunky knit throw, and two to four Euro shams.
 
@@ -85,7 +85,7 @@ Bedding is the fastest way to make a bedroom look like a hotel. Modern bedrooms 
 
 ## Step 4: Get the Lighting Right
 
-[![Modern bedroom with layered lighting — ceiling pendant, bedside table lamp and LED strip under bed frame]({{ site.baseurl }}/assets/images/home-decor/modern-bedroom-lighting-layers.jpg)](https://pin.it/XXXXXXX)
+[![Modern bedroom with layered lighting — ceiling pendant, bedside table lamp and LED strip under bed frame]({{ site.baseurl }}/assets/images/home-decor/modern-bedroom-lighting-layers.jpg)](https://pin.it/2ONtJCdYw)
 
 Lighting transforms a bedroom more than almost anything else. Modern bedrooms use three layers of light — never just one overhead fixture.
 
@@ -128,7 +128,7 @@ Modern bedrooms keep furniture minimal and purposeful. Every piece should earn i
 
 ## Step 6: Add a Statement Rug
 
-[![Large area rug in warm oatmeal tone under a modern platform bed in a bright bedroom]({{ site.baseurl }}/assets/images/home-decor/modern-bedroom-area-rug.jpg)](https://pin.it/XXXXXXX)
+[![Large area rug in warm oatmeal tone under a modern platform bed in a bright bedroom]({{ site.baseurl }}/assets/images/home-decor/modern-bedroom-area-rug.jpg)](https://pin.it/2ONtJCdYw)
 
 A rug anchors the entire bedroom and adds warmth underfoot. In a modern bedroom, choose a low-pile or flatweave rug in a neutral tone. No bold patterns — let the texture do the work.
 
@@ -167,7 +167,7 @@ Modern interior design means less is more on the walls. One large piece of art i
 
 ## Step 8: Bring in Natural Elements
 
-[![Modern bedroom with natural wood nightstand, rattan pendant light and indoor plant by the window]({{ site.baseurl }}/assets/images/home-decor/modern-bedroom-natural-elements.jpg)](https://pin.it/XXXXXXX)
+[![Modern bedroom with natural wood nightstand, rattan pendant light and indoor plant by the window]({{ site.baseurl }}/assets/images/home-decor/modern-bedroom-natural-elements.jpg)](https://pin.it/2ONtJCdYw)
 
 Natural textures — wood, linen, rattan, stone — keep modern bedrooms from feeling cold or sterile. Even one or two natural elements make a huge difference.
 
@@ -209,7 +209,7 @@ Window treatments do two jobs — control the light and complete the design. In 
 
 ## Step 10: Add the Finishing Details
 
-[![Modern bedroom nightstand styled with lamp, small plant, book and ceramic tray — cozy lifestyle vignette]({{ site.baseurl }}/assets/images/home-decor/modern-bedroom-nightstand-styling.jpg)](https://pin.it/XXXXXXX)
+[![Modern bedroom nightstand styled with lamp, small plant, book and ceramic tray — cozy lifestyle vignette]({{ site.baseurl }}/assets/images/home-decor/modern-bedroom-nightstand-styling.jpg)](https://pin.it/2ONtJCdYw)
 
 The small details are what make a bedroom feel personal and pulled together. Focus on the nightstand, dresser top, and one or two accent spots.
 
