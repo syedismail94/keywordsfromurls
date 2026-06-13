@@ -6,7 +6,7 @@ permalink: /home-decor/bedroom-lamp-ideas/
 description: "Discover 10 stylish bedroom lamp ideas with placement tips, costs, and where to buy in the USA. Light up your room the right way."
 ---
 
-[![10 Bedroom Lamp Ideas for a Cozy and Stylish Room]({{ site.baseurl }}/assets/images/home-decor/bedroom-lamp-ideas-hero.jpg)](https://pin.it/XXXXXXX)
+[![10 Bedroom Lamp Ideas for a Cozy and Stylish Room]({{ site.baseurl }}/assets/images/home-decor/bedroom-lamp-ideas-hero.jpg)](https://pin.it/1psWFxsOl)
 
 ## Introduction
 
@@ -24,7 +24,7 @@ A traditional table lamp on your nightstand is the most practical lamp you can a
 
 **Best placement tip:** The bottom of the lampshade should be at shoulder height when you're sitting up in bed. This avoids glare in your eyes.
 
-[![Classic white bedside table lamp on a wooden nightstand]({{ site.baseurl }}/assets/images/home-decor/bedside-table-lamp.jpg)](https://pin.it/XXXXXXX)
+[![Classic white bedside table lamp on a wooden nightstand]({{ site.baseurl }}/assets/images/home-decor/bedside-table-lamp.jpg)](https://pin.it/1psWFxsOl)
 
 | Feature | Details |
 |---|---|
@@ -46,7 +46,7 @@ An arc floor lamp is tall with a curved arm that swings the light source over yo
 
 **Best placement tip:** Place it behind and slightly to the side of your chair or bed. The arc should reach over your shoulder so light falls on your book or phone — not in your eyes.
 
-[![Black arc floor lamp arching over a cozy bedroom reading chair]({{ site.baseurl }}/assets/images/home-decor/arc-floor-lamp-bedroom.jpg)](https://pin.it/XXXXXXX)
+[![Black arc floor lamp arching over a cozy bedroom reading chair]({{ site.baseurl }}/assets/images/home-decor/arc-floor-lamp-bedroom.jpg)](https://pin.it/1psWFxsOl)
 
 | Feature | Details |
 |---|---|
@@ -88,7 +88,7 @@ Wall sconces are fixed to the wall and save nightstand space completely. They lo
 
 **Best placement tip:** Center each sconce above your nightstand position. Install them so the light shines slightly downward for reading, or upward for ambient glow.
 
-[![Warm brass wall sconce mounted beside a bed headboard in a neutral bedroom]({{ site.baseurl }}/assets/images/home-decor/wall-sconce-bedroom.jpg)](https://pin.it/XXXXXXX)
+[![Warm brass wall sconce mounted beside a bed headboard in a neutral bedroom]({{ site.baseurl }}/assets/images/home-decor/wall-sconce-bedroom.jpg)](https://pin.it/1psWFxsOl)
 
 | Feature | Details |
 |---|---|
@@ -130,7 +130,7 @@ The mushroom lamp is having a huge moment right now. Its round dome shape gives 
 
 **Best placement tip:** Place it on your nightstand if you want it close, or on a low bookshelf for ambient mood lighting across the room.
 
-[![Retro mushroom table lamp glowing softly on a bedside table in a boho bedroom]({{ site.baseurl }}/assets/images/home-decor/mushroom-lamp-bedroom.jpg)](https://pin.it/XXXXXXX)
+[![Retro mushroom table lamp glowing softly on a bedside table in a boho bedroom]({{ site.baseurl }}/assets/images/home-decor/mushroom-lamp-bedroom.jpg)](https://pin.it/1psWFxsOl)
 
 | Feature | Details |
 |---|---|
@@ -152,7 +152,7 @@ LED strip lights are not just for gaming rooms. When placed behind a headboard, 
 
 **Best placement tip:** Stick the LED strip to the back edge of your headboard so the light glows onto the wall but the strip itself is hidden. Use a warm white or amber color (not blue or cool white — that kills the mood).
 
-[![Warm amber LED strip lights glowing behind a velvet upholstered headboard in a dark cozy bedroom]({{ site.baseurl }}/assets/images/home-decor/led-strip-headboard-bedroom.jpg)](https://pin.it/XXXXXXX)
+[![Warm amber LED strip lights glowing behind a velvet upholstered headboard in a dark cozy bedroom]({{ site.baseurl }}/assets/images/home-decor/led-strip-headboard-bedroom.jpg)](https://pin.it/1psWFxsOl)
 
 | Feature | Details |
 |---|---|
@@ -194,7 +194,7 @@ Salt lamps are carved from natural Himalayan pink salt and give off a soft orang
 
 **Best placement tip:** Put it on your nightstand 1–2 feet from where you sleep. It gives just enough light so you're not fumbling in the dark, without being bright enough to disrupt your sleep.
 
-[![Himalayan salt lamp glowing warm orange on a white marble nightstand in a serene bedroom]({{ site.baseurl }}/assets/images/home-decor/himalayan-salt-lamp-bedroom.jpg)](https://pin.it/XXXXXXX)
+[![Himalayan salt lamp glowing warm orange on a white marble nightstand in a serene bedroom]({{ site.baseurl }}/assets/images/home-decor/himalayan-salt-lamp-bedroom.jpg)](https://pin.it/1psWFxsOl)
 
 | Feature | Details |
 |---|---|
