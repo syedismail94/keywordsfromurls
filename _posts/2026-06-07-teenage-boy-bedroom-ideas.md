@@ -6,7 +6,7 @@ permalink: /home-decor/teenage-boy-bedroom-ideas/
 description: "Transform your teen's room with these easy bedroom ideas for boys — from gaming setups to sports themes. Budget tips, real product picks & step-by-step advice."
 ---
 
-[![Teenage boy bedroom with dark walls, LED lights, gaming desk and stylish decor]({{ site.baseurl }}/assets/images/home-decor/teenage-boy-bedroom-hero.jpg)]()
+[![Teenage boy bedroom with dark walls, LED lights, gaming desk and stylish decor]({{ site.baseurl }}/assets/images/home-decor/teenage-boy-bedroom-hero.jpg)](https://pin.it/1n4IF5trq)
 
 ## Introduction
 
@@ -22,7 +22,7 @@ Let's build a room he'll love spending time in.
 
 The color you choose sets the tone for everything else. Teenage boys usually want something bold, moody, or sporty — not pastel or plain white.
 
-[![Dark navy and charcoal bedroom color scheme for teenage boy with accent lighting]({{ site.baseurl }}/assets/images/home-decor/teenage-boy-bedroom-color-scheme.jpg)](https://pin.it/XXXXXXX)
+[![Dark navy and charcoal bedroom color scheme for teenage boy with accent lighting]({{ site.baseurl }}/assets/images/home-decor/teenage-boy-bedroom-color-scheme.jpg)](https://pin.it/1n4IF5trq)
 
 ### Best Color Combinations for Teen Boy Rooms
 
@@ -49,7 +49,7 @@ The color you choose sets the tone for everything else. Teenage boys usually wan
 
 A teenage boy needs a desk that works for both homework and screen time. The trick is making it organized AND cool-looking.
 
-[![Teen boy bedroom L-shaped desk setup with monitor, LED strip lights, and organized storage]({{ site.baseurl }}/assets/images/home-decor/teenage-boy-desk-setup.jpg)](https://pin.it/XXXXXXX)
+[![Teen boy bedroom L-shaped desk setup with monitor, LED strip lights, and organized storage]({{ site.baseurl }}/assets/images/home-decor/teenage-boy-desk-setup.jpg)](https://pin.it/1n4IF5trq)
 
 ### Desk Setup Checklist
 
@@ -74,7 +74,7 @@ A teenage boy needs a desk that works for both homework and screen time. The tri
 
 For most teenage boys, the gaming setup is the centerpiece of the room. Here's how to build one that looks pro without spending a fortune.
 
-[![Ultimate teen gaming setup with dual monitors, RGB lighting, gaming chair and controller rack]({{ site.baseurl }}/assets/images/home-decor/teenage-boy-gaming-setup.jpg)](https://pin.it/XXXXXXX)
+[![Ultimate teen gaming setup with dual monitors, RGB lighting, gaming chair and controller rack]({{ site.baseurl }}/assets/images/home-decor/teenage-boy-gaming-setup.jpg)](https://pin.it/6eBybuRXa)
 
 ### Budget Gaming Room Gear
 
@@ -121,7 +121,7 @@ The bed takes up the most space, so placing it right is key to making the room f
 
 Lighting transforms a boring bedroom into a space that feels custom and intentional. LED strips are cheap, easy to install, and can be changed instantly.
 
-[![Teenage boy bedroom with LED strip lights behind bed headboard and under desk shelf in blue and purple]({{ site.baseurl }}/assets/images/home-decor/teenage-boy-bedroom-led-lighting.jpg)](https://pin.it/XXXXXXX)
+[![Teenage boy bedroom with LED strip lights behind bed headboard and under desk shelf in blue and purple]({{ site.baseurl }}/assets/images/home-decor/teenage-boy-bedroom-led-lighting.jpg)](https://pin.it/6eBybuRXa)
 
 ### LED Lighting Options
 
@@ -145,7 +145,7 @@ Lighting transforms a boring bedroom into a space that feels custom and intentio
 
 Empty walls make a room feel unfinished. For teen boys, wall décor should feel personal — not like something picked by a parent.
 
-[![Teen boy bedroom wall with floating shelves, sneaker display, sports memorabilia and framed street art]({{ site.baseurl }}/assets/images/home-decor/teenage-boy-bedroom-wall-decor.jpg)](https://pin.it/XXXXXXX)
+[![Teen boy bedroom wall with floating shelves, sneaker display, sports memorabilia and framed street art]({{ site.baseurl }}/assets/images/home-decor/teenage-boy-bedroom-wall-decor.jpg)](https://pin.it/6eBybuRXa)
 
 ### Wall Décor Ideas by Interest
 
@@ -194,7 +194,7 @@ Teenage boys accumulate a lot of stuff — clothes, shoes, gear, tech. Storage h
 
 Bedding is the biggest fabric piece in the room — it should match the color scheme and be comfortable enough that a teen actually makes the bed (sometimes).
 
-[![Teen boy bedroom with dark slate gray comforter, textured throw pillows and matching geometric bedding set]({{ site.baseurl }}/assets/images/home-decor/teenage-boy-bedroom-bedding.jpg)](https://pin.it/XXXXXXX)
+[![Teen boy bedroom with dark slate gray comforter, textured throw pillows and matching geometric bedding set]({{ site.baseurl }}/assets/images/home-decor/teenage-boy-bedroom-bedding.jpg)](https://pin.it/6eBybuRXa)
 
 ### Recommended Bedding Sets (USA Retailers)
 
