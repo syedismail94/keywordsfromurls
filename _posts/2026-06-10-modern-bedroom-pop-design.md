@@ -6,7 +6,7 @@ permalink: /home-decor/modern-bedroom-pop-design/
 description: "Transform your bedroom with modern pop design ideas — bold colors, layered textures & smart layouts. Budget-friendly tips for every style."
 ---
 
-[![Modern bedroom with pop design accents, pastel walls, neon lighting and plush bedding]({{ site.baseurl }}/assets/images/home-decor/modern-bedroom-pop-design-hero.jpg)](https://pin.it/XXXXXXX)
+[![Modern bedroom with pop design accents, pastel walls, neon lighting and plush bedding]({{ site.baseurl }}/assets/images/home-decor/modern-bedroom-pop-design-hero.jpg)](https://pin.it/1Fj8TPj31)
 
 ## Introduction
 
@@ -31,7 +31,7 @@ It is popular in:
 
 Your wall color is the canvas. For pop design, go with a soft neutral so your accent pieces can shine.
 
-[![Bedroom wall painted in soft warm white with colorful pop accents on furniture]({{ site.baseurl }}/assets/images/home-decor/bedroom-base-wall-color.jpg)](https://pin.it/XXXXXXX)
+[![Bedroom wall painted in soft warm white with colorful pop accents on furniture]({{ site.baseurl }}/assets/images/home-decor/bedroom-base-wall-color.jpg)](https://pin.it/1Fj8TPj31)
 
 **Best base colors for pop design:**
 
@@ -70,7 +70,7 @@ Use your accent color in: throw pillows, a rug, curtains, a lamp, or a painted a
 
 The bed is the anchor of your room. In pop design, the headboard is usually where the personality lives.
 
-[![Upholstered velvet headboard in deep emerald green on a modern platform bed]({{ site.baseurl }}/assets/images/home-decor/bedroom-velvet-headboard.jpg)](https://pin.it/XXXXXXX)
+[![Upholstered velvet headboard in deep emerald green on a modern platform bed]({{ site.baseurl }}/assets/images/home-decor/bedroom-velvet-headboard.jpg)](https://pin.it/225AxjKQ6)
 
 **Best headboard styles for pop design:**
 
@@ -103,7 +103,7 @@ Add **2–4 throw pillows** in mixed sizes. Mix solid accent color with a subtle
 
 A rug grounds the space and brings warmth underfoot. In pop design, the rug is often where the pattern lives.
 
-[![Large geometric area rug in mustard and ivory under a modern platform bed]({{ site.baseurl }}/assets/images/home-decor/bedroom-statement-rug.jpg)](https://pin.it/XXXXXXX)
+[![Large geometric area rug in mustard and ivory under a modern platform bed]({{ site.baseurl }}/assets/images/home-decor/bedroom-statement-rug.jpg)](https://pin.it/225AxjKQ6)
 
 **Rug sizing guide for bedrooms:**
 
@@ -123,7 +123,7 @@ A rug grounds the space and brings warmth underfoot. In pop design, the rug is o
 
 Lighting is the fastest way to transform a bedroom's mood. Pop design uses at least three light sources.
 
-[![Cozy bedroom with LED strip lights behind headboard, bedside lamp and fairy lights]({{ site.baseurl }}/assets/images/home-decor/bedroom-layered-lighting.jpg)](https://pin.it/XXXXXXX)
+[![Cozy bedroom with LED strip lights behind headboard, bedside lamp and fairy lights]({{ site.baseurl }}/assets/images/home-decor/bedroom-layered-lighting.jpg)](https://pin.it/225AxjKQ6)
 
 **3-layer lighting setup:**
 
@@ -141,7 +141,7 @@ Lighting is the fastest way to transform a bedroom's mood. Pop design uses at le
 
 A gallery wall is the personal storytelling element in pop design. It does not need to be perfectly symmetrical — in fact, casual clusters look more modern.
 
-[![Eclectic gallery wall with mix of art prints, mirrors and neon sign above a dresser]({{ site.baseurl }}/assets/images/home-decor/bedroom-gallery-wall.jpg)](https://pin.it/XXXXXXX)
+[![Eclectic gallery wall with mix of art prints, mirrors and neon sign above a dresser]({{ site.baseurl }}/assets/images/home-decor/bedroom-gallery-wall.jpg)](https://pin.it/2mcaZKnLs)
 
 **Simple gallery wall formula:**
 
@@ -179,7 +179,7 @@ Plants make any pop-design room feel alive and editorial. You do not need a gree
 
 This is where pop design gets fun. Accent pieces are the "conversation starters" — things that make the room yours.
 
-[![Bedroom shelf styled with aesthetic objects, candles, books and small plants]({{ site.baseurl }}/assets/images/home-decor/bedroom-accent-shelf-styling.jpg)](https://pin.it/XXXXXXX)
+[![Bedroom shelf styled with aesthetic objects, candles, books and small plants]({{ site.baseurl }}/assets/images/home-decor/bedroom-accent-shelf-styling.jpg)](https://pin.it/2mcaZKnLs)
 
 **Go-to pop design accent pieces:**
 
