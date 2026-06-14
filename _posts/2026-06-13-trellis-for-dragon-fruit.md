@@ -6,7 +6,7 @@ permalink: /home-decor/trellis-for-dragon-fruit/
 description: "Discover 15 best trellis ideas for dragon fruit — wood, steel, concrete posts & DIY builds with costs, setup tips & USA buying guide."
 ---
 
-[![Dragon fruit cactus growing on a tall wooden post trellis in a sunny backyard]({{ site.baseurl }}/assets/images/home-decor/dragon-fruit-trellis-hero.jpg)](https://pin.it/XXXXXXX)
+[![Dragon fruit cactus growing on a tall wooden post trellis in a sunny backyard]({{ site.baseurl }}/assets/images/home-decor/dragon-fruit-trellis-hero.jpg)](https://pin.it/7bbylCj2i)
 
 ## Introduction
 
@@ -49,7 +49,7 @@ A standard garden trellis will not work. Dragon fruit needs a purpose-built or h
 
 ### 3.1 Single Wooden Post with Tire Top
 
-[![Dragon fruit growing over a car tire mounted on top of a wooden post]({{ site.baseurl }}/assets/images/home-decor/dragon-fruit-wooden-post-tire-top.jpg)](https://pin.it/XXXXXXX)
+[![Dragon fruit growing over a car tire mounted on top of a wooden post]({{ site.baseurl }}/assets/images/home-decor/dragon-fruit-wooden-post-tire-top.jpg)](https://pin.it/3OsZ0ndOk)
 
 The most popular dragon fruit trellis in the USA. A 4×4 pressure-treated wood post is set 2 feet into the ground, and an old car tire is bolted flat on top. The cactus grows up the post and drapes over the tire.
 
@@ -64,7 +64,7 @@ The most popular dragon fruit trellis in the USA. A 4×4 pressure-treated wood p
 
 ### 3.2 Concrete Post with Cross-Arm Top
 
-[![Dragon fruit trained on a concrete post with a wooden cross-arm at the top]({{ site.baseurl }}/assets/images/home-decor/dragon-fruit-concrete-post-cross-arm.jpg)](https://pin.it/XXXXXXX)
+[![Dragon fruit trained on a concrete post with a wooden cross-arm at the top]({{ site.baseurl }}/assets/images/home-decor/dragon-fruit-concrete-post-cross-arm.jpg)](https://pin.it/29SiLeU0a)
 
 A pre-cast concrete fence post with a wooden 2×4 cross-arm nailed across the top in a T or X shape. The cactus arms drape over the cross and cascade down, producing flowers and fruit at the hanging tips.
 
@@ -91,7 +91,7 @@ Top with a welded steel ring or bolt-on wooden cross-arm to give the cactus a su
 
 ### 3.4 Multi-Post Row System
 
-[![Row of wooden posts connected by horizontal wire supporting multiple dragon fruit plants]({{ site.baseurl }}/assets/images/home-decor/dragon-fruit-multi-post-row-system.jpg)](https://pin.it/XXXXXXX)
+[![Row of wooden posts connected by horizontal wire supporting multiple dragon fruit plants]({{ site.baseurl }}/assets/images/home-decor/dragon-fruit-multi-post-row-system.jpg)](https://pin.it/5FUdUr7UW)
 
 For growing multiple dragon fruit plants, space posts 8–10 feet apart in a row and run two horizontal wires — one at mid-height and one at the top. Each plant climbs its own post and drapes along the top wire.
 
@@ -118,7 +118,7 @@ Salvaged telephone poles or utility poles make ultra-durable dragon fruit posts.
 
 ### 3.6 PVC Pipe Post (Budget Option)
 
-[![Dragon fruit cactus growing up a white PVC pipe post in a container garden]({{ site.baseurl }}/assets/images/home-decor/dragon-fruit-pvc-pipe-post.jpg)](https://pin.it/XXXXXXX)
+[![Dragon fruit cactus growing up a white PVC pipe post in a container garden]({{ site.baseurl }}/assets/images/home-decor/dragon-fruit-pvc-pipe-post.jpg)](https://pin.it/4UCOK7KGu)
 
 A 4-inch PVC pipe filled with sand or concrete for weight makes a lightweight, rust-proof post. Best for container growing or temporary setups.
 
@@ -144,7 +144,7 @@ Metal T-posts (used for fencing) cost $8–$15 each and can be driven into the g
 
 ### 3.8 Wooden A-Frame Trellis
 
-[![Dragon fruit growing on a wooden A-frame trellis structure in a backyard garden]({{ site.baseurl }}/assets/images/home-decor/dragon-fruit-a-frame-wood-trellis.jpg)](https://pin.it/XXXXXXX)
+[![Dragon fruit growing on a wooden A-frame trellis structure in a backyard garden]({{ site.baseurl }}/assets/images/home-decor/dragon-fruit-a-frame-wood-trellis.jpg)](https://pin.it/4YSoOs1Lj)
 
 Two wooden posts leaned together in an A-shape with a horizontal bar at the top. The cactus climbs to the peak and cascades down both sides.
 
@@ -192,7 +192,7 @@ Stack 3–4 blocks for extra stability and pour a little concrete between them.
 
 ### 3.12 Bamboo Tripod Post
 
-[![Dragon fruit cactus tied to a bamboo tripod trellis structure in a tropical garden]({{ site.baseurl }}/assets/images/home-decor/dragon-fruit-bamboo-tripod-trellis.jpg)](https://pin.it/XXXXXXX)
+[![Dragon fruit cactus tied to a bamboo tripod trellis structure in a tropical garden]({{ site.baseurl }}/assets/images/home-decor/dragon-fruit-bamboo-tripod-trellis.jpg)](https://pin.it/hyTVT5q6i)
 
 Three thick bamboo poles (2-inch diameter, 8 ft long) lashed together at the top form a tripod. The dragon fruit climbs all three legs.
 
@@ -227,7 +227,7 @@ This is the most space-efficient option for container growers with limited patio
 
 ### 3.15 Metal Cattle Panel Arch
 
-[![Dragon fruit growing over a curved cattle panel arch in a large backyard garden]({{ site.baseurl }}/assets/images/home-decor/dragon-fruit-cattle-panel-arch.jpg)](https://pin.it/XXXXXXX)
+[![Dragon fruit growing over a curved cattle panel arch in a large backyard garden]({{ site.baseurl }}/assets/images/home-decor/dragon-fruit-cattle-panel-arch.jpg)](https://pin.it/7xFyV3Ia4)
 
 A 16-ft galvanized cattle panel (from Tractor Supply Co., $30–$50) bent into an arch and anchored in the ground. Multiple dragon fruit plants grow up the sides and cascade over the top.
 
