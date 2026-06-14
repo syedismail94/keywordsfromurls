@@ -6,7 +6,7 @@ permalink: /home-decor/trellis-for-bougainvillea/
 description: "Discover 15 stunning trellis ideas for bougainvillea — from wood to metal, DIY to store-bought, with costs, tips & USA buying guide."
 ---
 
-[![Bougainvillea growing on a wooden arch trellis in a sunny backyard]({{ site.baseurl }}/assets/images/home-decor/bougainvillea-trellis-hero.jpg)]()
+[![Bougainvillea growing on a wooden arch trellis in a sunny backyard]({{ site.baseurl }}/assets/images/home-decor/bougainvillea-trellis-hero.jpg)](https://pin.it/6BcJ5JpbH)
 
 ## Introduction
 
@@ -49,7 +49,7 @@ If the trellis bends or wobbles, the plant will not train well and the display w
 
 ### 3.1 Classic Fan-Shape Wall Trellis
 
-[![Fan trellis mounted on a white wall with bougainvillea trained outward]({{ site.baseurl }}/assets/images/home-decor/fan-trellis-bougainvillea-wall.jpg)]()
+[![Fan trellis mounted on a white wall with bougainvillea trained outward]({{ site.baseurl }}/assets/images/home-decor/fan-trellis-bougainvillea-wall.jpg)](https://pin.it/6BcJ5JpbH)
 
 A fan-shaped trellis mounts flat against a wall and spreads the vine upward and outward in a V-shape. It is one of the most popular looks for bougainvillea in Southern California and Texas.
 
@@ -64,7 +64,7 @@ A fan-shaped trellis mounts flat against a wall and spreads the vine upward and 
 
 ### 3.2 Garden Arch / Pergola Entry
 
-[![Bougainvillea-covered garden arch at a home entrance with bright pink blooms]({{ site.baseurl }}/assets/images/home-decor/bougainvillea-garden-arch-entry.jpg)]()
+[![Bougainvillea-covered garden arch at a home entrance with bright pink blooms]({{ site.baseurl }}/assets/images/home-decor/bougainvillea-garden-arch-entry.jpg)](https://pin.it/6BcJ5JpbH)
 
 A metal or wood arch over a garden path creates a tunnel of blooms that stops visitors in their tracks. This is a statement piece best suited for backyards with a defined walkway.
 
@@ -90,7 +90,7 @@ Stainless steel cables mounted horizontally across a wall or fence create a slee
 
 ### 3.4 Obelisk / Tower Trellis for Pots
 
-[![Bougainvillea growing on an iron obelisk trellis in a terracotta container on a patio]({{ site.baseurl }}/assets/images/home-decor/bougainvillea-obelisk-pot-patio.jpg)]()
+[![Bougainvillea growing on an iron obelisk trellis in a terracotta container on a patio]({{ site.baseurl }}/assets/images/home-decor/bougainvillea-obelisk-pot-patio.jpg)](https://pin.it/1biZ094ob)
 
 If you grow bougainvillea in a container on a patio or balcony, an obelisk trellis gives it structure without needing a wall. The plant spirals up the tower and blooms in all directions.
 
@@ -117,7 +117,7 @@ Six to eight bamboo poles tied at the top form a teepee that bougainvillea can c
 
 ### 3.6 Iron Grid Panel Trellis
 
-[![Square iron grid panel on a fence with bougainvillea trained across it]({{ site.baseurl }}/assets/images/home-decor/iron-grid-panel-bougainvillea.jpg)]()
+[![Square iron grid panel on a fence with bougainvillea trained across it]({{ site.baseurl }}/assets/images/home-decor/iron-grid-panel-bougainvillea.jpg)](https://pin.it/6NU9AMYww)
 
 Flat square or rectangular iron grid panels bolt directly to a fence or wall. The grid gives the vine dozens of anchor points and produces a uniform, structured bloom display.
 
@@ -152,7 +152,7 @@ If you already have a pergola, adding a lattice or wire panel on one or two side
 
 ### 3.9 Fence-Top Trellis Extension
 
-[![Wood fence with trellis extension on top supporting overflowing bougainvillea]({{ site.baseurl }}/assets/images/home-decor/fence-top-trellis-bougainvillea.jpg)]()
+[![Wood fence with trellis extension on top supporting overflowing bougainvillea]({{ site.baseurl }}/assets/images/home-decor/fence-top-trellis-bougainvillea.jpg)](https://pin.it/JsedmGzLs)
 
 Add a 2–3 ft trellis extension above an existing fence to create a taller privacy screen with bougainvillea flowing over the top. This is popular in California neighborhoods with 6-foot privacy fences.
 
@@ -195,7 +195,7 @@ The simplest and cheapest trellis for a stucco or masonry wall — masonry nails
 
 ### 3.13 Gazebo Wrap Trellis
 
-[![Bougainvillea fully wrapped around a white gazebo frame in a backyard]({{ site.baseurl }}/assets/images/home-decor/bougainvillea-gazebo-wrap.jpg)]()
+[![Bougainvillea fully wrapped around a white gazebo frame in a backyard]({{ site.baseurl }}/assets/images/home-decor/bougainvillea-gazebo-wrap.jpg)](https://pin.it/4aysTqbWu)
 
 Train bougainvillea up and around all four corner posts of a gazebo using twist ties and guide wires. Over 2–3 years, the plant can cover the entire structure in blooms.
 
@@ -218,7 +218,7 @@ For balcony growers, run stainless steel cables vertically from the railing floo
 
 ### 3.15 Curved Arbor Tunnel
 
-[![Long curved metal arbor tunnel covered in blooming bougainvillea in a garden path]({{ site.baseurl }}/assets/images/home-decor/bougainvillea-arbor-tunnel.jpg)]()
+[![Long curved metal arbor tunnel covered in blooming bougainvillea in a garden path]({{ site.baseurl }}/assets/images/home-decor/bougainvillea-arbor-tunnel.jpg)](https://pin.it/1Fj8TPj31)
 
 A series of metal arches connected in a row creates a tunnel of bougainvillea over a garden path. This is a high-impact project that takes 2–3 years to fully fill in but becomes the centerpiece of any garden.
 
