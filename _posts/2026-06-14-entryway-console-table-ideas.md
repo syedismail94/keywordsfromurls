@@ -22,7 +22,7 @@ Before you start decorating, pick a table that fits your space. A console table 
 | Medium entryway (4–6 ft) | 36–48 inches | 14–16 inches |
 | Large foyer (6 ft+) | 48–60 inches | 16–18 inches |
 
-[![Slim entryway console table styled with a mirror and lamp in a narrow hallway](https://images.unsplash.com/photo-1600210492486-724fe5c67fb3?w=1000&h=1500&fit=crop)](https://pin.it/XXXXXXX)
+[![Slim entryway console table styled with a mirror and lamp in a narrow hallway](https://images.unsplash.com/photo-1600210492486-724fe5c67fb3?w=1000&h=1500&fit=crop)](https://pin.it/2zr3tRweP)
 
 ## 2. Pick a Style That Matches Your Home
 
@@ -54,7 +54,7 @@ Designers often use the "rule of three" to style flat surfaces. Group items by h
 * Medium item: a small lamp or stack of books
 * Short item: a decorative tray or candle
 
-[![Styled entryway console table with a lamp, books, and a small vase arranged in a triangle layout](https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=1000&h=1500&fit=crop)](https://pin.it/XXXXXXX)
+[![Styled entryway console table with a lamp, books, and a small vase arranged in a triangle layout](https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=1000&h=1500&fit=crop)](https://pin.it/2zr3tRweP)
 
 ## 4. Add a Mirror Above the Table
 
@@ -69,7 +69,7 @@ A mirror above your console table makes the entryway feel bigger and brighter. C
 | Rectangular | Traditional, balanced |
 | Sunburst | Adds a decorative focal point |
 
-[![Round mirror hung above an entryway console table to make the hallway feel bigger](https://images.unsplash.com/photo-1556228453-efd6c1ff04f6?w=1000&h=1500&fit=crop)](https://pin.it/XXXXXXX)
+[![Round mirror hung above an entryway console table to make the hallway feel bigger](https://images.unsplash.com/photo-1556228453-efd6c1ff04f6?w=1000&h=1500&fit=crop)]()
 
 ## 5. Use a Tray to Corral Small Items
 
@@ -79,7 +79,7 @@ Keys, mail, sunglasses, and chargers can pile up fast. A simple tray keeps clutt
 * Marble trays add a touch of luxury (Amazon, $20–$40)
 * Woven trays suit boho or coastal styles (World Market, $18–$30)
 
-[![Wooden catch-all tray on console table holding keys, mail, and small decor items](https://images.unsplash.com/photo-1616627781301-7dfb1a31e1c1?w=1000&h=1500&fit=crop)](https://pin.it/XXXXXXX)
+[![Wooden catch-all tray on console table holding keys, mail, and small decor items](https://images.unsplash.com/photo-1616627781301-7dfb1a31e1c1?w=1000&h=1500&fit=crop)](https://pin.it/2zr3tRweP)
 
 ## 6. Bring in Greenery or Fresh Flowers
 
@@ -94,7 +94,7 @@ Plants instantly make a space feel alive. If you don't have a green thumb, high-
 | Faux eucalyptus stems | None | Amazon, $12–$18 |
 | ZZ plant | Low light | Trader Joe's (seasonal), $15–$25 |
 
-[![Console table decorated with a snake plant in a ceramic pot next to a stack of books](https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=1000&h=1500&fit=crop)](https://pin.it/XXXXXXX)
+[![Console table decorated with a snake plant in a ceramic pot next to a stack of books](https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=1000&h=1500&fit=crop)](https://pin.it/2zr3tRweP)
 
 ## 7. Add Lighting for Warmth
 
@@ -104,13 +104,13 @@ A small lamp or a pair of battery-operated candles adds a cozy glow, especially 
 * LED flameless candles: $10–$20 for a set (Amazon)
 * Plug-in sconces above the table: $30–$50 (Wayfair)
 
-[![Small table lamp glowing on an entryway console table in the evening](https://images.unsplash.com/photo-1517705008128-361805f42e00?w=1000&h=1500&fit=crop)](https://pin.it/XXXXXXX)
+[![Small table lamp glowing on an entryway console table in the evening](https://images.unsplash.com/photo-1517705008128-361805f42e00?w=1000&h=1500&fit=crop)](https://pin.it/2zr3tRweP)
 
 ## 8. Add Personal Touches with Frames and Art
 
 Lean a small piece of art or a few framed photos against the wall behind your console table. This adds personality without needing to drill holes.
 
-[![Framed art leaning against the wall behind a styled entryway console table](https://images.unsplash.com/photo-1583847268964-b28dc8f51f92?w=1000&h=1500&fit=crop)](https://pin.it/XXXXXXX)
+[![Framed art leaning against the wall behind a styled entryway console table](https://images.unsplash.com/photo-1583847268964-b28dc8f51f92?w=1000&h=1500&fit=crop)](https://pin.it/2zr3tRweP)
 
 ## 9. Seasonal Swaps Keep It Fresh
 
@@ -123,7 +123,7 @@ Rotate a few small items with the seasons so your entryway always feels current.
 | Fall | Pumpkins, warm-toned candles |
 | Winter | Pinecones, faux garland, string lights |
 
-[![Entryway console table styled with seasonal fall decor including pumpkins and warm candles](https://images.unsplash.com/photo-1601979031925-424e53b6caaa?w=1000&h=1500&fit=crop)](https://pin.it/XXXXXXX)
+[![Entryway console table styled with seasonal fall decor including pumpkins and warm candles](https://images.unsplash.com/photo-1601979031925-424e53b6caaa?w=1000&h=1500&fit=crop)](https://pin.it/2zr3tRweP)
 
 ## 10. Add Storage Baskets Underneath
 
@@ -131,7 +131,7 @@ If your console table has open shelving below, use woven baskets to store shoes,
 
 * Set of 2 woven baskets: $25–$45 (Target, Walmart)
 
-[![Woven storage baskets placed under an entryway console table for shoe storage](https://images.unsplash.com/photo-1556909114-44e3e70034e2?w=1000&h=1500&fit=crop)](https://pin.it/XXXXXXX)
+[![Woven storage baskets placed under an entryway console table for shoe storage](https://images.unsplash.com/photo-1556909114-44e3e70034e2?w=1000&h=1500&fit=crop)](https://pin.it/2zr3tRweP)
 
 ## Frequently Asked Questions
 
