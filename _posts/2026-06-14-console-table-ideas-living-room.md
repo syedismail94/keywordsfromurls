@@ -6,7 +6,7 @@ permalink: /home-decor/console-table-ideas-living-room/
 description: "Get gorgeous console table ideas for living room - styling tips, decor combos, and budget buys under $200 that instantly upgrade your space."
 ---
 
-[![Modern console table styled with lamp, books, and vase in a bright living room]({{ site.baseurl }}/assets/images/home-decor/console-table-living-room-hero.jpg)](https://pin.it/XXXXXXX)
+[![Modern console table styled with lamp, books, and vase in a bright living room]({{ site.baseurl }}/assets/images/home-decor/console-table-living-room-hero.jpg)](https://pin.it/55OYvUyE1)
 
 If your living room feels like it's missing "something" but you can't put your finger on it, a console table is usually the answer. It's one of those pieces that does double duty: it adds storage, fills empty wall space, and gives you a spot to style with decor you love.
 
@@ -30,7 +30,7 @@ Before you start styling, pick a table style that matches your room's vibe. Here
 
 Placing a console table directly behind your sofa is the most popular layout, and for good reason. It fills awkward empty space and gives your living room a finished, "designed" look.
 
-[![Console table styled behind a sofa with a lamp and decorative tray]({{ site.baseurl }}/assets/images/home-decor/console-table-behind-sofa.jpg)](https://pin.it/XXXXXXX)
+[![Console table styled behind a sofa with a lamp and decorative tray]({{ site.baseurl }}/assets/images/home-decor/console-table-behind-sofa.jpg)](https://pin.it/7162AQNNQ)
 
 ### 2.1 Quick Tips for Behind-the-Sofa Styling
 
@@ -42,7 +42,7 @@ Placing a console table directly behind your sofa is the most popular layout, an
 
 A console table looks best when it has layers, not just one item plopped in the center. Mix heights, textures, and shapes for a curated look.
 
-[![Layered console table decor with stacked books, candle, and small plant]({{ site.baseurl }}/assets/images/home-decor/console-table-layered-decor.jpg)](https://pin.it/XXXXXXX)
+[![Layered console table decor with stacked books, candle, and small plant]({{ site.baseurl }}/assets/images/home-decor/console-table-layered-decor.jpg)](https://pin.it/669P3VVQB)
 
 ### 3.1 Easy Layering Formula
 
@@ -55,7 +55,7 @@ A console table looks best when it has layers, not just one item plopped in the 
 
 Hanging a mirror above your console table instantly makes the space feel bigger and brighter. It also bounces light around the room, which is great if your living room doesn't get much natural sunlight.
 
-[![Round mirror hung above a console table reflecting living room light]({{ site.baseurl }}/assets/images/home-decor/console-table-mirror-above.jpg)](https://pin.it/XXXXXXX)
+[![Round mirror hung above a console table reflecting living room light]({{ site.baseurl }}/assets/images/home-decor/console-table-mirror-above.jpg)](https://pin.it/256M1g1Zw)
 
 ### 4.1 Mirror Shape Guide
 
@@ -70,7 +70,7 @@ Hanging a mirror above your console table instantly makes the space feel bigger 
 
 If your console table doesn't have drawers, woven baskets underneath are a simple fix. They hide clutter like remotes, blankets, or kids' toys while adding texture.
 
-[![Woven storage baskets placed under a console table in a living room]({{ site.baseurl }}/assets/images/home-decor/console-table-woven-baskets.jpg)](https://pin.it/XXXXXXX)
+[![Woven storage baskets placed under a console table in a living room]({{ site.baseurl }}/assets/images/home-decor/console-table-woven-baskets.jpg)](https://pin.it/256M1g1Zw)
 
 ### 5.1 Where to Buy Affordable Baskets
 
@@ -82,7 +82,7 @@ If your console table doesn't have drawers, woven baskets underneath are a simpl
 
 If you have an open-concept living room, a console table can act as a soft divider between the entry and the seating area without blocking the flow of the room.
 
-[![Console table used as a room divider in an open concept living room]({{ site.baseurl }}/assets/images/home-decor/console-table-room-divider.jpg)](https://pin.it/XXXXXXX)
+[![Console table used as a room divider in an open concept living room]({{ site.baseurl }}/assets/images/home-decor/console-table-room-divider.jpg)](https://pin.it/5aMC63Ayv)
 
 ### 6.1 Best Sizes for Divider Use
 
@@ -96,7 +96,7 @@ If you have an open-concept living room, a console table can act as a soft divid
 
 Plants are one of the cheapest ways to make a console table feel alive. Even a single faux plant in a nice pot can transform the whole setup.
 
-[![Console table styled with a tall faux plant in a ceramic pot]({{ site.baseurl }}/assets/images/home-decor/console-table-greenery-styling.jpg)](https://pin.it/XXXXXXX)
+[![Console table styled with a tall faux plant in a ceramic pot]({{ site.baseurl }}/assets/images/home-decor/console-table-greenery-styling.jpg)](https://pin.it/5aMC63Ayv)
 
 ### 7.1 Low-Maintenance Plant Picks
 
@@ -121,7 +121,7 @@ A small styling trick that makes a big difference: pick a console table whose wo
 
 Turn your console table into a functional bar cart alternative or coffee station. This works great for small apartments without extra furniture space.
 
-[![Console table styled as a small coffee and drinks station]({{ site.baseurl }}/assets/images/home-decor/console-table-coffee-bar-station.jpg)](https://pin.it/XXXXXXX)
+[![Console table styled as a small coffee and drinks station]({{ site.baseurl }}/assets/images/home-decor/console-table-coffee-bar-station.jpg)](https://pin.it/5aMC63Ayv)
 
 ### 9.1 What to Include
 
