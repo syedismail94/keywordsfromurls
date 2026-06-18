@@ -6,7 +6,7 @@ permalink: /home-decor/bedroom-furniture-ideas-for-small-rooms/
 description: "Transform your tiny bedroom with smart furniture ideas that save space, add storage, and look amazing. Tips, products & costs inside."
 ---
 
-[![Small bedroom with space-saving furniture layout showing loft bed, built-in shelves, and neutral tones]({{ site.baseurl }}/assets/images/home-decor/small-bedroom-furniture-hero.jpg)](https://pin.it/XXXXXXX)
+[![Small bedroom with space-saving furniture layout showing loft bed, built-in shelves, and neutral tones]({{ site.baseurl }}/assets/images/home-decor/small-bedroom-furniture-hero.jpg)](https://pin.it/6qrsuWBX6)
 
 ## Introduction
 
@@ -36,7 +36,7 @@ Most small bedrooms in US apartments are between **100 and 150 square feet**. Kn
 
 The bed takes up the most space in any small bedroom. Choosing the right one changes everything.
 
-[![Platform bed with built-in storage drawers in a small bedroom with white walls and warm wood tones]({{ site.baseurl }}/assets/images/home-decor/platform-bed-storage-small-bedroom.jpg)](https://pin.it/XXXXXXX)
+[![Platform bed with built-in storage drawers in a small bedroom with white walls and warm wood tones]({{ site.baseurl }}/assets/images/home-decor/platform-bed-storage-small-bedroom.jpg)](https://pin.it/3pOP9fD82)
 
 ### Best Bed Types for Small Rooms
 
@@ -56,7 +56,7 @@ The bed takes up the most space in any small bedroom. Choosing the right one cha
 
 Most people think horizontally. Small room experts think vertically. Your ceiling is free real estate.
 
-[![Floor-to-ceiling bookshelf beside bed in small bedroom with white walls, plants, and warm lighting]({{ site.baseurl }}/assets/images/home-decor/vertical-shelving-small-bedroom.jpg)](https://pin.it/XXXXXXX)
+[![Floor-to-ceiling bookshelf beside bed in small bedroom with white walls, plants, and warm lighting]({{ site.baseurl }}/assets/images/home-decor/vertical-shelving-small-bedroom.jpg)](https://pin.it/1eEzH24yY)
 
 ### Vertical Furniture Ideas
 
@@ -73,7 +73,7 @@ Most people think horizontally. Small room experts think vertically. Your ceilin
 
 In a small room, every piece of furniture should earn its place. Single-purpose furniture is a luxury small rooms cannot afford.
 
-[![Ottoman storage bench at foot of bed in cozy small bedroom with linen bedding and soft natural light]({{ site.baseurl }}/assets/images/home-decor/storage-ottoman-bench-small-bedroom.jpg)](https://pin.it/XXXXXXX)
+[![Ottoman storage bench at foot of bed in cozy small bedroom with linen bedding and soft natural light]({{ site.baseurl }}/assets/images/home-decor/storage-ottoman-bench-small-bedroom.jpg)](https://pin.it/1eEzH24yY)
 
 ### Top Multi-Function Furniture Picks
 
@@ -109,7 +109,7 @@ If your bedroom has a closet, invest in a closet system instead of a dresser. Yo
 
 Dark furniture absorbs light and makes a small room feel smaller. Light furniture and reflective surfaces bounce light around, making the room feel bigger than it is.
 
-[![Bright small bedroom with white and light wood furniture, mirrored nightstand, and natural window light]({{ site.baseurl }}/assets/images/home-decor/light-color-furniture-small-bedroom.jpg)](https://pin.it/XXXXXXX)
+[![Bright small bedroom with white and light wood furniture, mirrored nightstand, and natural window light]({{ site.baseurl }}/assets/images/home-decor/light-color-furniture-small-bedroom.jpg)](https://pin.it/3Qw6iVNrD)
 
 ### Best Finishes for Small Bedrooms
 
@@ -128,7 +128,7 @@ Dark furniture absorbs light and makes a small room feel smaller. Light furnitur
 
 Working from home in a small bedroom is possible with the right desk setup. The key is choosing a desk that fits into dead zones — corners, closet nooks, or wall space above the bed.
 
-[![Floating wall-mounted desk with small shelf in a compact bedroom with a neutral color palette and organized workspace]({{ site.baseurl }}/assets/images/home-decor/floating-desk-small-bedroom.jpg)](https://pin.it/XXXXXXX)
+[![Floating wall-mounted desk with small shelf in a compact bedroom with a neutral color palette and organized workspace]({{ site.baseurl }}/assets/images/home-decor/floating-desk-small-bedroom.jpg)](https://pin.it/48T4uxh69)
 
 ### Small Bedroom Desk Options
 
