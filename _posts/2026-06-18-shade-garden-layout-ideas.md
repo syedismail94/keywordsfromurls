@@ -6,7 +6,7 @@ permalink: /home-decor/shade-garden-layout-ideas/
 description: "Transform dark corners into lush retreats with these shade garden layout ideas — plant picks, design steps, and budget tips for US gardeners."
 ---
 
-[![Beautiful layered shade garden with ferns, hostas, and flowering plants under a tree canopy]({{ site.baseurl }}/assets/images/home-decor/shade-garden-hero-layered-layout.jpg)](https://pin.it/XXXXXXX)
+[![Beautiful layered shade garden with ferns, hostas, and flowering plants under a tree canopy]({{ site.baseurl }}/assets/images/home-decor/shade-garden-hero-layered-layout.jpg)](https://pin.it/6Ywq8jSnF)
 
 ## Introduction
 
@@ -48,7 +48,7 @@ Shade gardens under trees compete for water and nutrients. This is the most over
 
 ### 2.1 The Three Main Shade Garden Layouts
 
-[![Three shade garden layout styles shown side by side — woodland, island bed, and border design]({{ site.baseurl }}/assets/images/home-decor/shade-garden-layout-styles-comparison.jpg)](https://pin.it/XXXXXXX)
+[![Three shade garden layout styles shown side by side — woodland, island bed, and border design]({{ site.baseurl }}/assets/images/home-decor/shade-garden-layout-styles-comparison.jpg)](https://pin.it/o9etRtD04)
 
 **Layout 1 — The Woodland Path Style**
 Best for: Backyards with trees, natural or rustic aesthetic
@@ -78,7 +78,7 @@ This layering is what makes a shade garden look lush and full instead of random.
 
 ### Step 1: Measure and Sketch Your Space
 
-[![Hand-drawn shade garden sketch on graph paper with plant placement marked]({{ site.baseurl }}/assets/images/home-decor/shade-garden-sketch-planning-layout.jpg)](https://pin.it/XXXXXXX)
+[![Hand-drawn shade garden sketch on graph paper with plant placement marked]({{ site.baseurl }}/assets/images/home-decor/shade-garden-sketch-planning-layout.jpg)](https://pin.it/dxs9EX2Am)
 
 You don't need landscape software. A piece of graph paper works perfectly.
 
@@ -104,7 +104,7 @@ Anchor plants are your biggest, most dramatic plants. Pick one or two varieties 
 
 ### Step 3: Fill in the Middle Layer
 
-[![Coral bells and hostas planted together in middle layer of a shade garden bed]({{ site.baseurl }}/assets/images/home-decor/shade-garden-middle-layer-coral-bells-hostas.jpg)](https://pin.it/XXXXXXX)
+[![Coral bells and hostas planted together in middle layer of a shade garden bed]({{ site.baseurl }}/assets/images/home-decor/shade-garden-middle-layer-coral-bells-hostas.jpg)](https://pin.it/dxs9EX2Am)
 
 Once your anchor plants are placed (even just on paper), fill around them with medium plants. These are your color and texture carriers.
 
@@ -118,7 +118,7 @@ Once your anchor plants are placed (even just on paper), fill around them with m
 
 ### Step 4: Add Ground Cover to Finish the Edges
 
-[![Creeping Jenny and ajuga as ground cover edging a shade garden border]({{ site.baseurl }}/assets/images/home-decor/shade-garden-ground-cover-edging.jpg)](https://pin.it/XXXXXXX)
+[![Creeping Jenny and ajuga as ground cover edging a shade garden border]({{ site.baseurl }}/assets/images/home-decor/shade-garden-ground-cover-edging.jpg)](https://pin.it/6YCWTIUN1)
 
 Ground covers do two things: they fill bare soil (so weeds can't move in) and they soften the edge of your garden so it looks finished.
 
@@ -142,7 +142,7 @@ A clean edge makes any garden look 10x more polished. You have a few options:
 
 ### Step 6: Mulch It Properly
 
-[![Freshly mulched shade garden bed with shredded bark around hostas and ferns]({{ site.baseurl }}/assets/images/home-decor/shade-garden-mulching-technique.jpg)](https://pin.it/XXXXXXX)
+[![Freshly mulched shade garden bed with shredded bark around hostas and ferns]({{ site.baseurl }}/assets/images/home-decor/shade-garden-mulching-technique.jpg)](https://pin.it/6CnlS0nWM)
 
 Mulch is not optional in a shade garden. It holds moisture, regulates soil temperature, and suppresses weeds.
 
@@ -163,7 +163,7 @@ Mulch is not optional in a shade garden. It holds moisture, regulates soil tempe
 
 ### 4.1 Use Contrast in Foliage
 
-[![Contrast of large hosta leaves next to delicate fern fronds in shade garden]({{ site.baseurl }}/assets/images/home-decor/shade-garden-foliage-texture-contrast.jpg)](https://pin.it/XXXXXXX)
+[![Contrast of large hosta leaves next to delicate fern fronds in shade garden]({{ site.baseurl }}/assets/images/home-decor/shade-garden-foliage-texture-contrast.jpg)](https://pin.it/6I8HrHETt)
 
 Flowers come and go, but foliage is there all season. The secret to a shade garden that looks amazing even without flowers is contrast — mixing leaf shapes, sizes, and colors.
 
