@@ -6,7 +6,7 @@ permalink: /home-decor/trellis-for-ampalaya/
 description: "Learn how to build a simple, sturdy trellis for ampalaya (bitter melon) at home. Step-by-step guide with materials, costs, and tips for USA gardeners."
 ---
 
-[![DIY ampalaya trellis in a sunny backyard garden with bitter melon vines climbing wooden posts]({{ site.baseurl }}/assets/images/home-decor/ampalaya-trellis-hero.jpg)](https://pin.it/XXXXXXX)
+[![DIY ampalaya trellis in a sunny backyard garden with bitter melon vines climbing wooden posts]({{ site.baseurl }}/assets/images/home-decor/ampalaya-trellis-hero.jpg)](https://pin.it/5KXCc5dCc)
 
 Growing ampalaya — better known as bitter melon — is one of the most rewarding things you can do in a backyard garden or on a sunny patio. But here's the thing: without a proper trellis, this fast-climbing vine turns into a tangled mess that chokes itself out. A good trellis doesn't just keep your plants tidy. It boosts air circulation, reduces disease, and makes harvesting way easier.
 
@@ -59,7 +59,7 @@ Here's what to gather before you start building. All of these are available at H
 
 ## 4. Step 1 — Pick the Right Location
 
-[![Measuring a sunny garden bed for ampalaya trellis placement with measuring tape on soil]({{ site.baseurl }}/assets/images/home-decor/ampalaya-trellis-location.jpg)](https://pin.it/XXXXXXX)
+[![Measuring a sunny garden bed for ampalaya trellis placement with measuring tape on soil]({{ site.baseurl }}/assets/images/home-decor/ampalaya-trellis-location.jpg)](https://pin.it/5KXCc5dCc)
 
 Ampalaya needs **full sun — at least 6 to 8 hours daily**. Walk your yard at noon and note where the sun hits strongest. That's your spot.
 
@@ -73,7 +73,7 @@ A few more things to check:
 
 ## 5. Step 2 — Set Your Posts
 
-[![Hammering wooden posts into garden soil for ampalaya trellis support structure]({{ site.baseurl }}/assets/images/home-decor/setting-trellis-posts.jpg)](https://pin.it/XXXXXXX)
+[![Hammering wooden posts into garden soil for ampalaya trellis support structure]({{ site.baseurl }}/assets/images/home-decor/setting-trellis-posts.jpg)](https://pin.it/5KXCc5dCc)
 
 The posts are what hold everything up — don't rush this step.
 
@@ -94,7 +94,7 @@ The posts are what hold everything up — don't rush this step.
 
 ## 6. Step 3 — String Your Wire or Netting
 
-[![Stringing galvanized wire horizontally across wooden trellis posts for bitter melon vine support]({{ site.baseurl }}/assets/images/home-decor/stringing-trellis-wire.jpg)](https://pin.it/XXXXXXX)
+[![Stringing galvanized wire horizontally across wooden trellis posts for bitter melon vine support]({{ site.baseurl }}/assets/images/home-decor/stringing-trellis-wire.jpg)](https://pin.it/26NDaAhbt)
 
 This is where the vine will actually grab on and climb. You have two main options:
 
@@ -116,7 +116,7 @@ For ampalaya specifically, wire mesh or netting works better because the tendril
 
 ## 7. Step 4 — Train the Young Vines
 
-[![Gently tying young ampalaya vine tendril to trellis wire with soft garden twine]({{ site.baseurl }}/assets/images/home-decor/training-ampalaya-vine.jpg)](https://pin.it/XXXXXXX)
+[![Gently tying young ampalaya vine tendril to trellis wire with soft garden twine]({{ site.baseurl }}/assets/images/home-decor/training-ampalaya-vine.jpg)](https://pin.it/26NDaAhbt)
 
 When your ampalaya seedlings reach about 10–12 inches tall, it's time to start directing them toward the trellis.
 
