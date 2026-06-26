@@ -6,7 +6,7 @@ permalink: /home-decor/blackberry-trellis-ideas/
 description: Discover 10 beautiful blackberry trellis ideas that combine function with curb appeal — perfect for small yards, fences, and raised garden beds.
 ---
 
-[![Gorgeous blackberry trellis with lush green canes trained along a white wooden fence in a sunny American backyard]({{ site.baseurl }}/assets/images/home-decor/blackberry-trellis-hero.jpg)](https://pin.it/XXXXXXX)
+[![Gorgeous blackberry trellis with lush green canes trained along a white wooden fence in a sunny American backyard]({{ site.baseurl }}/assets/images/home-decor/blackberry-trellis-hero.jpg)](https://pin.it/6lgpSG4WK)
 
 If your blackberry canes are flopping all over the place, you're not alone. Without a proper trellis, blackberries grow into a tangled mess that's hard to harvest and even harder to manage. But here's the good news — the right support system doesn't just fix the problem. It can genuinely make your garden look like something out of a magazine.
 
@@ -25,7 +25,7 @@ This is the gold standard for home blackberry growers — simple, affordable, an
 
 This setup works best in an open row, so it's ideal for larger yards where you've dedicated a bed to berries. Most home growers run 2–3 wires at 2, 3.5, and 5 feet high.
 
-[![T-post wire trellis with blackberry canes trained in neat rows in a lush green American garden]({{ site.baseurl }}/assets/images/home-decor/blackberry-t-post-trellis.jpg)](https://pin.it/XXXXXXX)
+[![T-post wire trellis with blackberry canes trained in neat rows in a lush green American garden]({{ site.baseurl }}/assets/images/home-decor/blackberry-t-post-trellis.jpg)](https://pin.it/6lgpSG4WK)
 
 | Post Type | Best For | Cost per Post | Lifespan |
 |-----------|----------|---------------|----------|
@@ -41,7 +41,7 @@ Got a fence already? Put it to work. A fan-style trellis mounts directly onto yo
 
 You can buy pre-made fan trellises at Walmart or Lowe's for around $15–$30, or build one with wooden furring strips and a few eye bolts. The key is leaving about 6 inches of clearance between the trellis and the fence so air can circulate.
 
-[![Blackberry canes trained in a fan pattern on a wooden garden fence with visible ripe berries]({{ site.baseurl }}/assets/images/home-decor/blackberry-fence-fan-trellis.jpg)](https://pin.it/XXXXXXX)
+[![Blackberry canes trained in a fan pattern on a wooden garden fence with visible ripe berries]({{ site.baseurl }}/assets/images/home-decor/blackberry-fence-fan-trellis.jpg)](https://pin.it/6lgpSG4WK)
 
 ---
 
@@ -59,7 +59,7 @@ If you're working with a tight budget, PVC pipe is your friend. A T-trellis buil
 
 It won't win any beauty contests, but it works well hidden inside raised beds or along a back garden wall where aesthetics matter less than function. It's also lightweight and easy to move or reconfigure. Find everything you need at Home Depot in the plumbing aisle.
 
-[![Clean PVC pipe trellis supporting blackberry canes inside a raised garden bed in a US backyard]({{ site.baseurl }}/assets/images/home-decor/blackberry-pvc-trellis.jpg)](https://pin.it/XXXXXXX)
+[![Clean PVC pipe trellis supporting blackberry canes inside a raised garden bed in a US backyard]({{ site.baseurl }}/assets/images/home-decor/blackberry-pvc-trellis.jpg)](https://pin.it/6lgpSG4WK)
 
 | Material | Estimated Total Cost | Difficulty | Best Setting |
 |----------|---------------------|------------|--------------|
@@ -77,7 +77,7 @@ This is the showstopper. An arched arbor over a garden path lets blackberry cane
 
 Metal arch arbors are available at Amazon, Walmart, and garden centers for $60–$150. Look for ones rated for climbing plants with a weight capacity of at least 30 lbs. You'll want to train 2–3 canes up each side and secure them loosely with plant ties as they grow.
 
-[![Romantic garden arbor with blackberry canes trained overhead forming a leafy green arch over a stone path]({{ site.baseurl }}/assets/images/home-decor/blackberry-arbor-trellis.jpg)](https://pin.it/XXXXXXX)
+[![Romantic garden arbor with blackberry canes trained overhead forming a leafy green arch over a stone path]({{ site.baseurl }}/assets/images/home-decor/blackberry-arbor-trellis.jpg)](https://pin.it/6lgpSG4WK)
 
 ---
 
@@ -95,7 +95,7 @@ Espaliering is a technique borrowed from European orchards where plants are trai
 
 The result looks incredibly intentional — almost sculptural. It works especially well on a south-facing wall where the masonry retains heat and boosts berry production. Eye bolts rated for outdoor use ($1–$3 each) plus 12-gauge wire is all you need hardware-wise.
 
-[![Blackberry canes trained in a neat espalier pattern along a warm brick garden wall in afternoon light]({{ site.baseurl }}/assets/images/home-decor/blackberry-espalier-wall-trellis.jpg)](https://pin.it/XXXXXXX)
+[![Blackberry canes trained in a neat espalier pattern along a warm brick garden wall in afternoon light]({{ site.baseurl }}/assets/images/home-decor/blackberry-espalier-wall-trellis.jpg)](https://pin.it/6lgpSG4WK)
 
 ---
 
@@ -113,7 +113,7 @@ Similar to the arched arbor but made from agricultural cattle panels, this creat
 
 This style works best between two raised beds where the arch spans the walking path between them. Come harvest time, you reach in from both sides for easy picking. The whole build costs $40–$80 and takes about an hour to set up.
 
-[![Curved cattle panel arch trellis with blackberries growing over a garden path between two raised beds in summer]({{ site.baseurl }}/assets/images/home-decor/blackberry-cattle-panel-arch.jpg)](https://pin.it/XXXXXXX)
+[![Curved cattle panel arch trellis with blackberries growing over a garden path between two raised beds in summer]({{ site.baseurl }}/assets/images/home-decor/blackberry-cattle-panel-arch.jpg)](https://pin.it/6lgpSG4WK)
 
 ---
 
@@ -123,7 +123,7 @@ If your blackberry patch is visible from the street or patio, a decorative wroug
 
 You'll find good options on Amazon, Wayfair, and at garden centers — prices range from $30 for a basic panel up to $120 for larger decorative designs. They pair especially well with thornless blackberry varieties like 'Triple Crown' or 'Natchez' that you can let ramble freely without worrying about snagging yourself at pruning time.
 
-[![Ornate black iron trellis panel with lush blackberry canes growing through it in a cottage-style American garden]({{ site.baseurl }}/assets/images/home-decor/blackberry-decorative-iron-trellis.jpg)](https://pin.it/XXXXXXX)
+[![Ornate black iron trellis panel with lush blackberry canes growing through it in a cottage-style American garden]({{ site.baseurl }}/assets/images/home-decor/blackberry-decorative-iron-trellis.jpg)](https://pin.it/6lgpSG4WK)
 
 ---
 
