@@ -3,7 +3,7 @@ title: "9 Bedroom Decor Ideas That Instantly Transform Your Space (2026 Guide)"
 categories: [home-decor]
 layout: single
 permalink: /home-decor/bedroom-decor-ideas/
-description: "9 easy bedroom decor ideas with real costs, USA shopping picks, and DIY tips to make your room feel cozy, calm, and put-together."
+description: 9 easy bedroom decor ideas with real costs, USA shopping picks, and DIY tips to make your room feel cozy, calm, and put-together.
 ---
 
 
