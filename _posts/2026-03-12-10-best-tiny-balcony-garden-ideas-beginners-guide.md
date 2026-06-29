@@ -5,7 +5,7 @@ layout: single
 description: Discover the best tiny balcony garden ideas with a full plant list, how to grow each one, soil tips, watering guide, and cultivation duration. Perfect for beginners with small outdoor spaces.
 date: 2026-03-12
 ---
-
+---
 A tiny balcony can become one of the most **beautiful, lush and rewarding gardens you will ever grow**. You do not need a big plot of land — just the right plants, the right containers and a little know-how to transform even the smallest outdoor space into a blooming paradise.
 
 These **10 best plants for a tiny balcony garden** are all container-friendly, beginner-proof and absolutely stunning together. Each one comes with complete growing details — soil, watering, how to grow, how long until it blooms and where to position it on your balcony for the best results.
