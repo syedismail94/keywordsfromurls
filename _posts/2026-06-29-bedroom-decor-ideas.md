@@ -3,7 +3,7 @@ title: "10 Bedroom Decor Ideas That Instantly Make Your Room Look Expensive & Co
 categories: [home-decor]
 layout: single
 permalink: /home-decor/bedroom-decor-ideas/
-description: "Discover 10 stylish bedroom decor ideas to transform your space into a cozy, modern retreat with simple, budget-friendly upgrades."
+description: Discover 10 stylish bedroom decor ideas to transform your space into a cozy, modern retreat with simple, budget-friendly upgrades.
 ---
 
 [![Modern cozy bedroom decor hero image]({{ site.baseurl }}/assets/images/home-decor/bedroom-decor-hero.jpg)](https://pin.it/XXXXXXX)
