@@ -5,9 +5,8 @@ layout: single
 permalink: /home-decor/bedroom-decor-ideas/
 description: "9 easy bedroom decor ideas with real costs, USA shopping picks, and DIY tips to make your room feel cozy, calm, and put-together."
 ---
----
 
----
+
 [![Cozy modern bedroom with warm lighting and layered neutral bedding]({{ site.baseurl }}/assets/images/home-decor/bedroom-decor-ideas-hero.jpg)](https://pin.it/XXXXXXX)
 
 ## Bedroom Decor Ideas That Actually Work (Without Breaking Your Budget)
