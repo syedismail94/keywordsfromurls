@@ -6,8 +6,6 @@ permalink: /home-decor/bedroom-decor-ideas/
 description: "Discover 10 stylish bedroom decor ideas to transform your space into a cozy, modern retreat with simple, budget-friendly upgrades."
 date: 2026-06-29
 ---
----
----
 [![Modern cozy bedroom decor hero image]({{ site.baseurl }}/assets/images/home-decor/bedroom-decor-hero.jpg)](https://pin.it/XXXXXXX)
 
 A beautiful bedroom is not about spending more money. It's about making smart design choices that improve comfort, organization, and style. Whether your room is large or small, these bedroom decor ideas can help create a relaxing space you'll love spending time in.
