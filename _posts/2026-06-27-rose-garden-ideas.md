@@ -6,7 +6,7 @@ permalink: /home-decor/rose-garden-ideas/
 description: "Discover 10 stunning rose garden ideas for your yard — from cottage borders to raised beds. Easy tips, costs, and plant picks for US gardeners."
 ---
 
-[![Beautiful rose garden in full bloom with climbing roses on a white fence]({{ site.baseurl }}/assets/images/home-decor/rose-garden-hero.jpg)](https://pin.it/XXXXXXX)
+[![Beautiful rose garden in full bloom with climbing roses on a white fence]({{ site.baseurl }}/assets/images/home-decor/rose-garden-hero.jpg)](https://pin.it/6LTKtyzr2)
 
 ## Introduction
 
@@ -20,7 +20,7 @@ This guide walks you through 10 real, doable rose garden ideas — with plant na
 
 A cottage rose border is the most timeless rose garden look. You line the edge of your yard, fence, or garden path with a mix of shrub roses, lavender, and low perennials.
 
-[![Cottage-style rose garden border with pink and white roses along a garden path]({{ site.baseurl }}/assets/images/home-decor/cottage-rose-border.jpg)](https://pin.it/XXXXXXX)
+[![Cottage-style rose garden border with pink and white roses along a garden path]({{ site.baseurl }}/assets/images/home-decor/cottage-rose-border.jpg)](https://pin.it/6LTKtyzr2)
 
 **How to do it:**
 - Choose repeat-blooming shrub roses like 'David Austin Olivia Rose' or 'Knock Out Pink' (both available at Home Depot, $20–$35/plant)
@@ -42,7 +42,7 @@ A cottage rose border is the most timeless rose garden look. You line the edge o
 
 If your soil is poor or you want a more structured, polished look, a raised bed is the answer. It gives roses better drainage, reduces weeds, and makes the whole garden feel intentional.
 
-[![Wooden raised garden bed filled with red and pink roses in a sunny backyard]({{ site.baseurl }}/assets/images/home-decor/raised-rose-bed.jpg)](https://pin.it/XXXXXXX)
+[![Wooden raised garden bed filled with red and pink roses in a sunny backyard]({{ site.baseurl }}/assets/images/home-decor/raised-rose-bed.jpg)](https://pin.it/6LTKtyzr2)
 
 **How to do it:**
 - Build or buy a cedar raised bed (cedar resists rot — 4×8 ft kits cost $60–$120 at Home Depot)
@@ -60,7 +60,7 @@ If your soil is poor or you want a more structured, polished look, a raised bed 
 
 Climbing roses are one of the most dramatic, high-impact things you can add to a garden. A single climbing rose on a trellis or arch can completely change how your yard feels.
 
-[![Climbing pink roses covering a white garden arch at the entrance of a backyard]({{ site.baseurl }}/assets/images/home-decor/climbing-rose-arch.jpg)](https://pin.it/XXXXXXX)
+[![Climbing pink roses covering a white garden arch at the entrance of a backyard]({{ site.baseurl }}/assets/images/home-decor/climbing-rose-arch.jpg)](https://pin.it/6LTKtyzr2)
 
 **How to do it:**
 - Pick a climbing variety: 'New Dawn' (pale pink, very hardy), 'Fourth of July' (red-striped, disease resistant), or 'Don Juan' (deep red, fragrant)
@@ -97,7 +97,7 @@ This style takes inspiration from French and English estate gardens. It uses geo
 
 Roses don't have to stand alone. Pairing them with perennials creates a layered, naturalistic garden that looks lush and colorful all season — not just when the roses bloom.
 
-[![Lush mixed garden border with roses, salvia, and ornamental grasses in a suburban backyard]({{ site.baseurl }}/assets/images/home-decor/roses-mixed-perennials.jpg)](https://pin.it/XXXXXXX)
+[![Lush mixed garden border with roses, salvia, and ornamental grasses in a suburban backyard]({{ site.baseurl }}/assets/images/home-decor/roses-mixed-perennials.jpg)](https://pin.it/6LTKtyzr2)
 
 **Great companion plants:**
 - **Salvia** — blue spikes contrast beautifully with pink or red roses
@@ -113,7 +113,7 @@ Roses don't have to stand alone. Pairing them with perennials creates a layered,
 
 No yard? No problem. Roses grow very well in large pots, and a container rose garden on a patio, balcony, or front porch can be just as beautiful as a full bed.
 
-[![Terracotta pots with yellow and pink miniature roses arranged on a sunny patio]({{ site.baseurl }}/assets/images/home-decor/container-rose-patio.jpg)](https://pin.it/XXXXXXX)
+[![Terracotta pots with yellow and pink miniature roses arranged on a sunny patio]({{ site.baseurl }}/assets/images/home-decor/container-rose-patio.jpg)](https://pin.it/6LTKtyzr2)
 
 **How to do it:**
 - Choose a pot at least 15–18 inches wide and deep (drainage holes are essential)
@@ -167,7 +167,7 @@ Slopes are hard to plant and hard to mow. Groundcover roses solve both problems 
 
 Roses make surprisingly good privacy hedges — especially thorny varieties that also deter animals and intruders. A rose hedge looks softer and more beautiful than a wooden fence.
 
-[![Dense rose hedge with red blooms used as a natural privacy screen in a backyard]({{ site.baseurl }}/assets/images/home-decor/rose-privacy-hedge.jpg)](https://pin.it/XXXXXXX)
+[![Dense rose hedge with red blooms used as a natural privacy screen in a backyard]({{ site.baseurl }}/assets/images/home-decor/rose-privacy-hedge.jpg)](https://pin.it/6LTKtyzr2)
 
 **Best roses for hedging:**
 - **Rugosa roses** — very thorny, extremely hardy (Zone 2–9), fragrant; grows 4–6 ft tall
@@ -185,7 +185,7 @@ Roses make surprisingly good privacy hedges — especially thorny varieties that
 
 A moon garden uses white and pale-colored plants that glow at dusk and in moonlight. It's one of the most magical, underused ideas in home gardening — and white roses are the centerpiece.
 
-[![White rose garden glowing softly in evening light with moonflowers and silver foliage plants]({{ site.baseurl }}/assets/images/home-decor/white-moon-rose-garden.jpg)](https://pin.it/XXXXXXX)
+[![White rose garden glowing softly in evening light with moonflowers and silver foliage plants]({{ site.baseurl }}/assets/images/home-decor/white-moon-rose-garden.jpg)](https://pin.it/6LTKtyzr2)
 
 **White roses to consider:**
 - 'Iceberg' — floribunda, prolific bloomer, disease resistant
