@@ -10,7 +10,7 @@ description: "Cozy mini balcony decor ideas with real costs, layouts & buying ti
 
 A small balcony does not mean small style. With the right layout, colors, and a few smart picks, even a 20-square-foot balcony can feel like a cozy outdoor room. This guide breaks down nine simple decor ideas you can copy this weekend, along with real product names, approximate USA costs, and where to shop. No fluff, just a clear plan you can follow step by step.
 
-[![Cozy mini balcony decorated with string lights, small bistro table and potted plants]({{ site.baseurl }}/assets/images/home-decor/mini-balcony-decor-hero.jpg)](https://pin.it/XXXXXXX)
+[![Cozy mini balcony decorated with string lights, small bistro table and potted plants]({{ site.baseurl }}/assets/images/home-decor/mini-balcony-decor-hero.jpg)](https://pin.it/tkgdYK8a0)
 
 ## 1. Pick a Color Theme First
 
@@ -36,7 +36,7 @@ Space is the biggest challenge on a mini balcony, so furniture choice matters mo
 | Wall-mounted drop-leaf table | $45–$80 | IKEA, Amazon |
 | Stackable balcony chairs | $30–$60 each | Walmart, Home Depot |
 
-[![Foldable bistro table and two chairs set up on a small apartment balcony]({{ site.baseurl }}/assets/images/home-decor/foldable-bistro-set-balcony.jpg)](https://pin.it/XXXXXXX)
+[![Foldable bistro table and two chairs set up on a small apartment balcony]({{ site.baseurl }}/assets/images/home-decor/foldable-bistro-set-balcony.jpg)](https://pin.it/tkgdYK8a0)
 
 ## 3. Add Vertical Greenery
 
@@ -48,7 +48,7 @@ When floor space is limited, grow upward. A vertical garden adds life and color 
 * Tiered plant stands ($35–$70, Target)
 * Hanging macrame planters ($12–$20 each, Etsy)
 
-[![Vertical wall planter with hanging green plants on a narrow balcony wall]({{ site.baseurl }}/assets/images/home-decor/vertical-wall-planter-balcony.jpg)](https://pin.it/XXXXXXX)
+[![Vertical wall planter with hanging green plants on a narrow balcony wall]({{ site.baseurl }}/assets/images/home-decor/vertical-wall-planter-balcony.jpg)](https://pin.it/tkgdYK8a0)
 
 ## 4. Use a Weather-Friendly Outdoor Rug
 
@@ -60,7 +60,7 @@ A small rug instantly makes a balcony feel like a finished room instead of a lef
 | Jute blend | Medium, best under cover | $35–$65 |
 | Recycled plastic (Ruggable Outdoor) | High, washable | $60–$120 |
 
-[![Small woven outdoor rug placed under a bistro table on a tiny balcony]({{ site.baseurl }}/assets/images/home-decor/outdoor-rug-mini-balcony.jpg)](https://pin.it/XXXXXXX)
+[![Small woven outdoor rug placed under a bistro table on a tiny balcony]({{ site.baseurl }}/assets/images/home-decor/outdoor-rug-mini-balcony.jpg)](https://pin.it/tkgdYK8a0)
 
 ## 5. Layer in Warm Lighting
 
@@ -72,7 +72,7 @@ Good lighting turns a daytime balcony into an evening hangout spot. Layer two li
 * Battery lanterns ($10–$18 each, Target)
 * Clip-on spotlights for plants ($12–$20, IKEA)
 
-[![Warm string lights strung above a small balcony seating area at dusk]({{ site.baseurl }}/assets/images/home-decor/string-lights-balcony-evening.jpg)](https://pin.it/XXXXXXX)
+[![Warm string lights strung above a small balcony seating area at dusk]({{ site.baseurl }}/assets/images/home-decor/string-lights-balcony-evening.jpg)](https://pin.it/tkgdYK8a0)
 
 ## 6. Add a Privacy Screen
 
@@ -84,7 +84,7 @@ If your balcony faces a neighbor or busy street, a privacy screen makes the spac
 | Faux ivy privacy fence | Medium | $25–$45 |
 | Outdoor curtain panels | Adjustable | $30–$60 (pair) |
 
-[![Bamboo privacy screen mounted on the railing of a small apartment balcony]({{ site.baseurl }}/assets/images/home-decor/bamboo-privacy-screen-balcony.jpg)](https://pin.it/XXXXXXX)
+[![Bamboo privacy screen mounted on the railing of a small apartment balcony]({{ site.baseurl }}/assets/images/home-decor/bamboo-privacy-screen-balcony.jpg)](https://pin.it/tkgdYK8a0)
 
 ## 7. Choose Multi-Purpose Storage
 
@@ -94,7 +94,7 @@ A mini balcony works best when every item does double duty. A storage bench, for
 * Railing-mounted planter boxes with hooks ($20–$35, Amazon)
 * Stackable crates for plant pots or cushions ($15–$25 each)
 
-[![Outdoor storage bench used as extra seating on a compact balcony]({{ site.baseurl }}/assets/images/home-decor/storage-bench-balcony-seating.jpg)](https://pin.it/XXXXXXX)
+[![Outdoor storage bench used as extra seating on a compact balcony]({{ site.baseurl }}/assets/images/home-decor/storage-bench-balcony-seating.jpg)](https://pin.it/tkgdYK8a0)
 
 ## 8. Add Texture With Cushions and Throws
 
@@ -106,7 +106,7 @@ Soft textures make a hard concrete balcony feel inviting. Mix two or three textu
 | Knit throw blanket | Acrylic blend | $18–$30 |
 | Ceramic planter pots | Glazed stoneware | $12–$25 each |
 
-[![Outdoor cushions and a knit throw styled on a balcony chair]({{ site.baseurl }}/assets/images/home-decor/outdoor-cushions-throw-balcony.jpg)](https://pin.it/XXXXXXX)
+[![Outdoor cushions and a knit throw styled on a balcony chair]({{ site.baseurl }}/assets/images/home-decor/outdoor-cushions-throw-balcony.jpg)](https://pin.it/tkgdYK8a0)
 
 ## 9. Frame the View With a Focal Point
 
@@ -116,7 +116,7 @@ Every small balcony needs one standout piece that draws the eye, whether it is a
 * Mini tabletop water fountain ($35–$60, Amazon)
 * Weatherproof wall art panel ($25–$45, World Market)
 
-[![Statement potted plant placed as a focal point in the corner of a small balcony]({{ site.baseurl }}/assets/images/home-decor/statement-plant-balcony-focal-point.jpg)](https://pin.it/XXXXXXX)
+[![Statement potted plant placed as a focal point in the corner of a small balcony]({{ site.baseurl }}/assets/images/home-decor/statement-plant-balcony-focal-point.jpg)](https://pin.it/tkgdYK8a0)
 
 ## A Note on DIY Options
 
