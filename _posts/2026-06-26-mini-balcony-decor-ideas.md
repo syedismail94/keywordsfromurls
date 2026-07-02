@@ -6,7 +6,7 @@ permalink: /home-decor/mini-balcony-decor-ideas/
 description: "Transform your tiny balcony into a cozy retreat with these 10 easy, budget-friendly decor ideas perfect for small outdoor spaces."
 ---
 
-[![A cozy mini balcony decorated with string lights, potted plants, and a bistro chair set]({{ site.baseurl }}/assets/images/home-decor/mini-balcony-decor-hero.jpg)](https://pin.it/XXXXXXX)
+[![A cozy mini balcony decorated with string lights, potted plants, and a bistro chair set]({{ site.baseurl }}/assets/images/home-decor/mini-balcony-decor-hero.jpg)](https://pin.it/14S8O94Av)
 
 ## Introduction
 
@@ -30,7 +30,7 @@ The biggest mistake people make on small balconies is oversizing the furniture. 
 | Floor cushions | Compact zen-style spaces | $25–$60 | World Market, TJ Maxx |
 | Hanging chair | Corner balconies | $100–$300 | Wayfair, Amazon |
 
-[![A small balcony with a white metal bistro set and a cup of coffee on the table]({{ site.baseurl }}/assets/images/home-decor/mini-balcony-bistro-set.jpg)](https://pin.it/XXXXXXX)
+[![A small balcony with a white metal bistro set and a cup of coffee on the table]({{ site.baseurl }}/assets/images/home-decor/mini-balcony-bistro-set.jpg)](https://pin.it/14S8O94Av)
 
 **DIY tip:** If budget is tight, sand and repaint an old folding table from a thrift store. A coat of outdoor spray paint in black, white, or terracotta can make it look brand new.
 
@@ -56,7 +56,7 @@ When floor space is limited, grow up — literally. Vertical gardens let you sur
 | Succulents | Full sun | Very easy | Modern, minimal |
 | Petunias | Full sun | Easy | Colorful, cottage |
 
-[![A balcony railing lined with colorful railing planters full of petunias and herbs]({{ site.baseurl }}/assets/images/home-decor/mini-balcony-vertical-garden.jpg)](https://pin.it/XXXXXXX)
+[![A balcony railing lined with colorful railing planters full of petunias and herbs]({{ site.baseurl }}/assets/images/home-decor/mini-balcony-vertical-garden.jpg)](https://pin.it/14S8O94Av)
 
 **DIY tip:** Repurpose a wooden pallet as a vertical planter wall. Staple landscape fabric to the back, fill with potting soil, and plant succulents or strawberries in the slats. Lean it against the wall (make sure it's secured safely).
 
@@ -91,7 +91,7 @@ Nothing transforms a balcony faster than string lights after sunset. They create
 - Drape along the railing.
 - Wind around a plant or trellis for a layered effect.
 
-[![A mini apartment balcony at dusk with warm globe string lights strung overhead and potted plants below]({{ site.baseurl }}/assets/images/home-decor/mini-balcony-string-lights.jpg)](https://pin.it/XXXXXXX)
+[![A mini apartment balcony at dusk with warm globe string lights strung overhead and potted plants below]({{ site.baseurl }}/assets/images/home-decor/mini-balcony-string-lights.jpg)](https://pin.it/14S8O94Av)
 
 **Cost:** $20–$50 for a quality set. Solar options add ~$5–$15 more. No electrician needed.
 
@@ -140,7 +140,7 @@ Hard furniture — metal chairs, wooden benches — looks good but feels uninvit
 
 **Color tip:** Stick to 2–3 colors max. A neutral base (cream, gray, tan) with one bold accent (terracotta, sage green, navy) always looks intentional.
 
-[![A balcony chair loaded with colorful outdoor cushions and a woven throw blanket in earthy tones]({{ site.baseurl }}/assets/images/home-decor/mini-balcony-cushions-textiles.jpg)](https://pin.it/XXXXXXX)
+[![A balcony chair loaded with colorful outdoor cushions and a woven throw blanket in earthy tones]({{ site.baseurl }}/assets/images/home-decor/mini-balcony-cushions-textiles.jpg)](https://pin.it/14S8O94Av)
 
 **Budget guide:**
 - Seat cushions: $15–$50 each
@@ -176,7 +176,7 @@ Lanterns are one of the most versatile decor elements for a mini balcony. During
 - Battery-operated LED candles (safest for apartments)
 - Fairy light balls
 
-[![A balcony corner styled with three floor lanterns of different heights, glowing with warm candlelight at dusk]({{ site.baseurl }}/assets/images/home-decor/mini-balcony-lanterns-candles.jpg)](https://pin.it/XXXXXXX)
+[![A balcony corner styled with three floor lanterns of different heights, glowing with warm candlelight at dusk]({{ site.baseurl }}/assets/images/home-decor/mini-balcony-lanterns-candles.jpg)](https://pin.it/14S8O94Av)
 
 **Where to buy:** HomeGoods, TJ Maxx, and World Market carry beautiful lanterns at $12–$50. Pottery Barn has upscale versions at $60–$150.
 
@@ -198,7 +198,7 @@ The balconies that feel truly pulled together always have one consistent idea ru
 
 **How to pick yours:** Think about how you want to feel when you're out there. Energized? Calm? Social? Romantic? Let that feeling guide your choices.
 
-[![A boho-style mini balcony with macramé wall hanging, rattan furniture, and trailing plants in terracotta pots]({{ site.baseurl }}/assets/images/home-decor/mini-balcony-boho-theme.jpg)](https://pin.it/XXXXXXX)
+[![A boho-style mini balcony with macramé wall hanging, rattan furniture, and trailing plants in terracotta pots]({{ site.baseurl }}/assets/images/home-decor/mini-balcony-boho-theme.jpg)](https://pin.it/14S8O94Av)
 
 ---
 
