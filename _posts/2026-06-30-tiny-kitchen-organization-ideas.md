@@ -6,7 +6,7 @@ permalink: /home-decor/tiny-kitchen-organization-ideas/
 description: "Smart tiny kitchen organization ideas to maximize storage, cut clutter, and make small kitchens feel bigger on any budget."
 ---
 
-[![Tiny kitchen organized with smart storage solutions]({{ site.baseurl }}/assets/images/home-decor/tiny-kitchen-organization-hero.jpg)](https://pin.it/XXXXXXX)
+[![Tiny kitchen organized with smart storage solutions]({{ site.baseurl }}/assets/images/home-decor/tiny-kitchen-organization-hero.jpg)](https://pin.it/7vrQ8VufC)
 
 If your kitchen feels like it's working against you instead of for you, you are not alone. Small kitchens can still be efficient, calm, and pretty — you just need the right storage ideas in the right places. Below are simple, real-world ways to organize a tiny kitchen without a full renovation.
 
@@ -14,7 +14,7 @@ If your kitchen feels like it's working against you instead of for you, you are 
 
 Most tiny kitchens waste their walls. A pegboard or slim wall rail near the stove gives you a spot for pots, utensils, and cutting boards without touching counter space.
 
-[![Pegboard wall storage holding pots and utensils in a small kitchen]({{ site.baseurl }}/assets/images/home-decor/vertical-wall-pegboard-storage.jpg)](https://pin.it/XXXXXXX)
+[![Pegboard wall storage holding pots and utensils in a small kitchen]({{ site.baseurl }}/assets/images/home-decor/vertical-wall-pegboard-storage.jpg)](https://pin.it/7vrQ8VufC)
 
 A basic pegboard kit costs around $25 to $40 at The Container Store or Amazon, and it installs with just a drill.
 
@@ -27,7 +27,7 @@ A basic pegboard kit costs around $25 to $40 at The Container Store or Amazon, a
 
 If you have even 12 inches of floor space, a rolling cart adds extra counter and storage. Slide it next to the fridge or under a window when not in use.
 
-[![Rolling kitchen cart used as extra counter and storage space]({{ site.baseurl }}/assets/images/home-decor/rolling-kitchen-storage-cart.jpg)](https://pin.it/XXXXXXX)
+[![Rolling kitchen cart used as extra counter and storage space]({{ site.baseurl }}/assets/images/home-decor/rolling-kitchen-storage-cart.jpg)](https://pin.it/7vrQ8VufC)
 
 The IKEA RÅSKOG cart (about $40) is a popular choice because it's narrow, has three tiers, and moves easily on wheels.
 
@@ -35,7 +35,7 @@ The IKEA RÅSKOG cart (about $40) is a popular choice because it's narrow, has t
 
 Deep, messy drawers are one of the biggest culprits of clutter in small kitchens. Dividers turn one big space into organized sections for utensils, spices, and gadgets.
 
-[![Drawer with dividers organizing kitchen utensils neatly]({{ site.baseurl }}/assets/images/home-decor/drawer-divider-organization.jpg)](https://pin.it/XXXXXXX)
+[![Drawer with dividers organizing kitchen utensils neatly]({{ site.baseurl }}/assets/images/home-decor/drawer-divider-organization.jpg)](https://pin.it/7vrQ8VufC)
 
 Expandable bamboo dividers run $15 to $30 and fit most standard drawer sizes.
 
@@ -43,7 +43,7 @@ Expandable bamboo dividers run $15 to $30 and fit most standard drawer sizes.
 
 The back of every cabinet door is free real estate. Add a small adhesive rack for lids, spice jars, or cleaning supplies.
 
-[![Cabinet door storage rack holding pot lids and spice jars]({{ site.baseurl }}/assets/images/home-decor/cabinet-door-storage-rack.jpg)](https://pin.it/XXXXXXX)
+[![Cabinet door storage rack holding pot lids and spice jars]({{ site.baseurl }}/assets/images/home-decor/cabinet-door-storage-rack.jpg)](https://pin.it/7vrQ8VufC)
 
 | Cabinet Door Add-On | Best For | Average Cost (USD) |
 |---|---|---|
@@ -55,7 +55,7 @@ The back of every cabinet door is free real estate. Add a small adhesive rack fo
 
 Most cabinets have wasted air space above your plates and cups. A simple shelf riser doubles your storage without adding anything to the floor.
 
-[![Shelf riser stacking dishes and cups inside a kitchen cabinet]({{ site.baseurl }}/assets/images/home-decor/cabinet-shelf-riser.jpg)](https://pin.it/XXXXXXX)
+[![Shelf riser stacking dishes and cups inside a kitchen cabinet]({{ site.baseurl }}/assets/images/home-decor/cabinet-shelf-riser.jpg)](https://pin.it/7vrQ8VufC)
 
 Metal or bamboo risers cost about $10 to $20 each and are sold at Target, Walmart, and Bed Bath & Beyond.
 
@@ -63,7 +63,7 @@ Metal or bamboo risers cost about $10 to $20 each and are sold at Target, Walmar
 
 Knife blocks take up valuable counter space that tiny kitchens cannot spare. A magnetic strip mounted on the wall keeps blades visible, safe, and off the counter.
 
-[![Magnetic knife strip mounted on kitchen wall holding knives]({{ site.baseurl }}/assets/images/home-decor/magnetic-knife-strip-wall.jpg)](https://pin.it/XXXXXXX)
+[![Magnetic knife strip mounted on kitchen wall holding knives]({{ site.baseurl }}/assets/images/home-decor/magnetic-knife-strip-wall.jpg)](https://pin.it/7vrQ8VufC)
 
 A 16-inch magnetic strip costs around $15 to $20 and also works for metal spice tins.
 
@@ -71,7 +71,7 @@ A 16-inch magnetic strip costs around $15 to $20 and also works for metal spice 
 
 When pantry space is limited, clear stackable bins help you see what you have and stop you from buying duplicates. Group similar items, like baking supplies or snacks, into one bin.
 
-[![Clear labeled bins organizing pantry items on a small shelf]({{ site.baseurl }}/assets/images/home-decor/clear-pantry-storage-bins.jpg)](https://pin.it/XXXXXXX)
+[![Clear labeled bins organizing pantry items on a small shelf]({{ site.baseurl }}/assets/images/home-decor/clear-pantry-storage-bins.jpg)](https://pin.it/7vrQ8VufC)
 
 A set of 6 clear bins from The Home Edit or Amazon Basics runs about $30 to $45.
 
@@ -79,7 +79,7 @@ A set of 6 clear bins from The Home Edit or Amazon Basics runs about $30 to $45.
 
 If wall cabinets feel bulky, one or two floating shelves can hold everyday items while keeping the room feeling open. Use them for items you reach for daily, like mugs or olive oil.
 
-[![Floating shelves above kitchen counter holding mugs and jars]({{ site.baseurl }}/assets/images/home-decor/floating-shelves-above-counter.jpg)](https://pin.it/XXXXXXX)
+[![Floating shelves above kitchen counter holding mugs and jars]({{ site.baseurl }}/assets/images/home-decor/floating-shelves-above-counter.jpg)](https://pin.it/7vrQ8VufC)
 
 A pair of 24-inch wood floating shelves costs roughly $35 to $60, and most are easy to mount yourself in an afternoon.
 
