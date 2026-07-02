@@ -7,7 +7,7 @@ description: 9 easy bedroom decor ideas with real costs, USA shopping picks, and
 ---
 
 
-[![Cozy modern bedroom with warm lighting and layered neutral bedding]({{ site.baseurl }}/assets/images/home-decor/bedroom-decor-ideas-hero.jpg)](https://pin.it/XXXXXXX)
+[![Cozy modern bedroom with warm lighting and layered neutral bedding]({{ site.baseurl }}/assets/images/home-decor/bedroom-decor-ideas-hero.jpg)](https://pin.it/6qjYEBDSZ)
 
 ## Bedroom Decor Ideas That Actually Work (Without Breaking Your Budget)
 
@@ -35,7 +35,7 @@ Color sets the mood before anything else in the room does. Soft, muted tones, sa
 
 A gallon of quality paint from **Behr** or **Sherwin-Williams** runs about $35 to $65 and covers roughly 400 square feet, which is enough for most bedroom walls with one coat to spare. If you're renting, peel-and-stick wallpaper from **Tempaper** ($40–$80 a roll) gives you the same effect without touching the lease.
 
-[![Bedroom painted in soft sage green with warm white trim and natural light]({{ site.baseurl }}/assets/images/home-decor/cozy-neutral-bedroom-color-palette.jpg)](https://pin.it/XXXXXXX)
+[![Bedroom painted in soft sage green with warm white trim and natural light]({{ site.baseurl }}/assets/images/home-decor/cozy-neutral-bedroom-color-palette.jpg)](https://pin.it/6qjYEBDSZ)
 
 | Color Family | Mood It Creates | Paint Option (USA) | Approx. Cost |
 |---|---|---|---|
@@ -52,7 +52,7 @@ A headboard is the easiest way to make a bed look intentional instead of like a 
 
 You can buy one ready-made from **IKEA** (around $80–$150 for basic models), **Wayfair** ($150–$400 for upholstered styles), or **West Elm** if you want something higher-end ($400–$900). If you're handy, a DIY upholstered headboard using plywood, foam, and fabric usually costs under $100 in materials and is one of the most popular weekend projects in the decor world, just search "DIY upholstered headboard" for step-by-step tutorials once you're ready to build.
 
-[![Bedroom with tall upholstered velvet headboard in deep blue and wood nightstands]({{ site.baseurl }}/assets/images/home-decor/upholstered-statement-headboard-bedroom.jpg)](https://pin.it/XXXXXXX)
+[![Bedroom with tall upholstered velvet headboard in deep blue and wood nightstands]({{ site.baseurl }}/assets/images/home-decor/upholstered-statement-headboard-bedroom.jpg)](https://pin.it/6qjYEBDSZ)
 
 | Headboard Type | Price Range | Where to Buy (USA) |
 |---|---|---|
@@ -67,7 +67,7 @@ This is the fastest, cheapest way to make a bedroom feel finished. A flat, singl
 
 Mix textures on purpose: a smooth cotton sheet, a chunky knit throw, and a linen duvet cover all in the same room read as "curated," not random. **Brooklinen** and **Parachute** sell well-reviewed cotton and linen sets in the $80–$180 range, while **Target's Threshold** line covers the same look starting around $30.
 
-[![Close up of layered bedding with knit throw and textured pillows in warm light]({{ site.baseurl }}/assets/images/home-decor/layered-textiles-cozy-bedroom-bedding.jpg)](https://pin.it/XXXXXXX)
+[![Close up of layered bedding with knit throw and textured pillows in warm light]({{ site.baseurl }}/assets/images/home-decor/layered-textiles-cozy-bedroom-bedding.jpg)](https://pin.it/6qjYEBDSZ)
 
 | Textile | Material | Avg. Price (USA) |
 |---|---|---|
@@ -82,7 +82,7 @@ If your bedroom has a corner near a window, you already have everything you need
 
 An accent chair from **Article** or **Target** runs $150–$350, and a small side table from **IKEA** adds another $30–$60. Put your phone charger somewhere else in the house so this corner stays a place you actually want to sit and read.
 
-[![Cozy bedroom reading nook with armchair, side table, and warm floor lamp]({{ site.baseurl }}/assets/images/home-decor/bedroom-reading-nook-armchair-corner.jpg)](https://pin.it/XXXXXXX)
+[![Cozy bedroom reading nook with armchair, side table, and warm floor lamp]({{ site.baseurl }}/assets/images/home-decor/bedroom-reading-nook-armchair-corner.jpg)](https://pin.it/6qjYEBDSZ)
 
 ## 5. Use Warm, Ambient Lighting
 
@@ -90,7 +90,7 @@ Overhead lighting alone makes any bedroom feel like a hotel hallway. The fix is 
 
 A pair of table lamps from **Target** or **HomeGoods** costs $25–$60 each. Smart bulbs from **Philips Hue** ($15–$25 each) let you dim the room from your phone, which is a small upgrade that gets used every single night.
 
-[![Bedroom in the evening with warm lamp light and soft glowing string lights]({{ site.baseurl }}/assets/images/home-decor/warm-ambient-bedroom-lighting-lamps.jpg)](https://pin.it/XXXXXXX)
+[![Bedroom in the evening with warm lamp light and soft glowing string lights]({{ site.baseurl }}/assets/images/home-decor/warm-ambient-bedroom-lighting-lamps.jpg)](https://pin.it/6qjYEBDSZ)
 
 | Lighting Type | Best Use | Price Range |
 |---|---|---|
@@ -105,7 +105,7 @@ A bare wall above the bed is one of the most common bedroom complaints, and it's
 
 Print sites like **Minted** and **Society6** sell art prints from $20–$60, and frames from **Target** or **Michaels** run $10–$30 each. If you'd rather DIY this section, framing your own travel photos, kids' artwork, or pressed botanicals is a popular low-cost route, just keep mat sizes consistent across frames so the wall looks intentional rather than mismatched.
 
-[![Bedroom wall with framed gallery wall art display above the bed]({{ site.baseurl }}/assets/images/home-decor/bedroom-gallery-wall-art-display.jpg)](https://pin.it/XXXXXXX)
+[![Bedroom wall with framed gallery wall art display above the bed]({{ site.baseurl }}/assets/images/home-decor/bedroom-gallery-wall-art-display.jpg)](https://pin.it/6qjYEBDSZ)
 
 ## 7. Bring in Plants and Greenery
 
@@ -113,7 +113,7 @@ Plants are one of the cheapest ways to add life and color to a bedroom without c
 
 If your bedroom doesn't get much light, go with low-light plants like a **snake plant**, **ZZ plant**, or **pothos**, all sold at **The Sill**, **Home Depot**, or **Trader Joe's** for $15–$45. Faux plants from **Target** ($20–$40) are a fine substitute if you tend to forget to water.
 
-[![Bedroom windowsill and dresser styled with potted plants in soft daylight]({{ site.baseurl }}/assets/images/home-decor/indoor-plants-bedroom-greenery-decor.jpg)](https://pin.it/XXXXXXX)
+[![Bedroom windowsill and dresser styled with potted plants in soft daylight]({{ site.baseurl }}/assets/images/home-decor/indoor-plants-bedroom-greenery-decor.jpg)](https://pin.it/6qjYEBDSZ)
 
 | Plant | Light Needs | Avg. Price |
 |---|---|---|
@@ -128,7 +128,7 @@ Clutter is the enemy of a calm bedroom, even a beautifully decorated room looks 
 
 A simple six-drawer dresser from **IKEA** starts around $150–$250, while a solid wood version from **Crate & Barrel** runs $600–$900. Underbed storage bins from **The Container Store** ($15–$30 each) are an easy add-on for any budget.
 
-[![Bedroom with wood dresser and woven storage baskets neatly organized]({{ site.baseurl }}/assets/images/home-decor/bedroom-storage-furniture-organization.jpg)](https://pin.it/XXXXXXX)
+[![Bedroom with wood dresser and woven storage baskets neatly organized]({{ site.baseurl }}/assets/images/home-decor/bedroom-storage-furniture-organization.jpg)](https://pin.it/6qjYEBDSZ)
 
 | Furniture Piece | Function | Price Range (USA) |
 |---|---|---|
@@ -143,7 +143,7 @@ This is the step that actually makes a bedroom feel like yours instead of a show
 
 Keep it to a few curated objects rather than a crowded shelf. A scented candle from **Bath & Body Works** or **Anthropologie** ($15–$35) and a ceramic vase from **HomeGoods** ($10–$25) go a long way for very little money.
 
-[![Bedroom nightstand styled with candle, books, and small ceramic vase]({{ site.baseurl }}/assets/images/home-decor/personal-accessories-bedroom-styling.jpg)](https://pin.it/XXXXXXX)
+[![Bedroom nightstand styled with candle, books, and small ceramic vase]({{ site.baseurl }}/assets/images/home-decor/personal-accessories-bedroom-styling.jpg)](https://pin.it/6qjYEBDSZ)
 
 ## Bedroom Decor Cost Breakdown: Budget vs Mid-Range vs Designer
 
