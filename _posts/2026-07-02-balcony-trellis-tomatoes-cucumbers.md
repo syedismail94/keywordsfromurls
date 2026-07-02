@@ -8,7 +8,7 @@ description: "Learn how to train tomatoes and cucumbers on a balcony trellis wit
 
 If your balcony floor is running out of space but your gardening dreams are not, a trellis is the answer. Training tomatoes and cucumbers to grow upward instead of outward turns even a tiny balcony into a productive, good-looking garden corner. This guide walks you through picking the right trellis, setting it up, and training your vines the easy way.
 
-[![Balcony trellis with tomatoes and cucumbers growing vertically in small space garden]({{ site.baseurl }}/assets/images/home-decor/balcony-trellis-tomatoes-cucumbers-hero.jpg)](https://pin.it/XXXXXXX)
+[![Balcony trellis with tomatoes and cucumbers growing vertically in small space garden]({{ site.baseurl }}/assets/images/home-decor/balcony-trellis-tomatoes-cucumbers-hero.jpg)](https://pin.it/BclLGV95r)
 
 ## Why Vertical Trellis Growing Works So Well on Balconies
 
@@ -42,7 +42,7 @@ Not every trellis fits every balcony. Match the type to your space and railing s
 
 If your balcony has a solid railing, a railing-mounted panel saves the most floor space. If you have an open corner, a freestanding obelisk works beautifully for cucumbers and looks like a decor piece even before the vines fill in.
 
-[![Comparing obelisk, ladder, and netting trellis styles for a small balcony]({{ site.baseurl }}/assets/images/home-decor/choosing-balcony-trellis-type.jpg)](https://pin.it/XXXXXXX)
+[![Comparing obelisk, ladder, and netting trellis styles for a small balcony]({{ site.baseurl }}/assets/images/home-decor/choosing-balcony-trellis-type.jpg)](https://pin.it/BclLGV95r)
 
 ## 3. Setting Up Pots and Soil for Trellis Growing
 
@@ -50,7 +50,7 @@ If your balcony has a solid railing, a railing-mounted panel saves the most floo
 
 Tomatoes and cucumbers both need room for roots. A 15–20 gallon pot or grow bag is ideal. Fill it with a well-draining potting mix blended with compost — this gives roots the nutrients they need without staying soggy.
 
-[![Filling a large balcony pot with well-draining potting mix before planting]({{ site.baseurl }}/assets/images/home-decor/balcony-pot-soil-setup-for-trellis.jpg)](https://pin.it/XXXXXXX)
+[![Filling a large balcony pot with well-draining potting mix before planting]({{ site.baseurl }}/assets/images/home-decor/balcony-pot-soil-setup-for-trellis.jpg)](https://pin.it/BclLGV95r)
 
 ## 4. Installing the Trellis Securely
 
@@ -58,7 +58,7 @@ Tomatoes and cucumbers both need room for roots. A 15–20 gallon pot or grow ba
 
 Push the trellis legs deep into the soil, or bolt railing brackets before adding your plant. Doing this before planting avoids disturbing young roots later. For windy balconies, weigh the pot base with a few bricks or a heavy stone.
 
-[![Installing and anchoring a balcony trellis securely into a large pot]({{ site.baseurl }}/assets/images/home-decor/installing-balcony-trellis-securely.jpg)](https://pin.it/XXXXXXX)
+[![Installing and anchoring a balcony trellis securely into a large pot]({{ site.baseurl }}/assets/images/home-decor/installing-balcony-trellis-securely.jpg)](https://pin.it/BclLGV95r)
 
 ## 5. Planting and Spacing
 
@@ -66,7 +66,7 @@ Push the trellis legs deep into the soil, or bolt railing brackets before adding
 
 Plant one tomato or two cucumber seedlings per large pot, spaced at least 12–18 inches apart. Crowding them slows growth and blocks airflow, which invites disease.
 
-[![Planting tomato and cucumber seedlings with proper spacing near a trellis]({{ site.baseurl }}/assets/images/home-decor/planting-spacing-tomatoes-cucumbers.jpg)](https://pin.it/XXXXXXX)
+[![Planting tomato and cucumber seedlings with proper spacing near a trellis]({{ site.baseurl }}/assets/images/home-decor/planting-spacing-tomatoes-cucumbers.jpg)](https://pin.it/BclLGV95r)
 
 ## 6. Training the Vines
 
@@ -74,13 +74,13 @@ Plant one tomato or two cucumber seedlings per large pot, spaced at least 12–1
 
 As the main stem grows, gently guide it toward the trellis and secure it with a soft tie every 8–10 inches. Use a loose figure-eight loop — one side around the stem, one side around the trellis — so the stem has room to thicken without getting choked.
 
-[![Tying tomato and cucumber vines loosely to a balcony trellis with soft ties]({{ site.baseurl }}/assets/images/home-decor/tying-training-vines-balcony-trellis.jpg)](https://pin.it/XXXXXXX)
+[![Tying tomato and cucumber vines loosely to a balcony trellis with soft ties]({{ site.baseurl }}/assets/images/home-decor/tying-training-vines-balcony-trellis.jpg)](https://pin.it/BclLGV95r)
 
 ### Step 6: Prune and Guide Weekly
 
 Check your plants once a week. Pinch off small side shoots (called suckers) on tomatoes so the plant focuses energy on the main climbing stem. For cucumbers, gently wind the tendrils around the trellis instead of tying every single one.
 
-[![Pruning tomato suckers and guiding cucumber tendrils along a trellis weekly]({{ site.baseurl }}/assets/images/home-decor/pruning-guiding-vine-growth.jpg)](https://pin.it/XXXXXXX)
+[![Pruning tomato suckers and guiding cucumber tendrils along a trellis weekly]({{ site.baseurl }}/assets/images/home-decor/pruning-guiding-vine-growth.jpg)](https://pin.it/BclLGV95r)
 
 ## 7. Supporting Heavy Fruit
 
@@ -88,7 +88,7 @@ Check your plants once a week. Pinch off small side shoots (called suckers) on t
 
 Once tomatoes or cucumbers start forming in clusters, the stem near them can bend or snap under the weight. Add a soft sling or extra tie just below a heavy cluster to share the load with the trellis.
 
-[![Adding extra support slings for heavy tomato and cucumber fruit clusters on trellis]({{ site.baseurl }}/assets/images/home-decor/supporting-heavy-fruit-clusters-trellis.jpg)](https://pin.it/XXXXXXX)
+[![Adding extra support slings for heavy tomato and cucumber fruit clusters on trellis]({{ site.baseurl }}/assets/images/home-decor/supporting-heavy-fruit-clusters-trellis.jpg)](https://pin.it/BclLGV95r)
 
 ## 8. Seasonal Care and Watering
 
@@ -96,13 +96,13 @@ Once tomatoes or cucumbers start forming in clusters, the stem near them can ben
 
 Balcony pots dry out faster than garden soil, especially in summer heat. Water deeply until it drains from the bottom, rather than a light daily sprinkle. Feed with a slow-release fertilizer every 4–6 weeks through the growing season.
 
-[![Watering deeply at the base of trellised tomato and cucumber plants on a balcony]({{ site.baseurl }}/assets/images/home-decor/seasonal-watering-balcony-trellis-plants.jpg)](https://pin.it/XXXXXXX)
+[![Watering deeply at the base of trellised tomato and cucumber plants on a balcony]({{ site.baseurl }}/assets/images/home-decor/seasonal-watering-balcony-trellis-plants.jpg)](https://pin.it/BclLGV95r)
 
 ## 9. Vertical Space-Saving Ideas for Small Balconies
 
 If floor space is really tight, mix in hanging pots, stacked planters, or a second small trellis panel along a side wall. Vertical layering like this can double your growing space without adding a single extra square foot.
 
-[![Vertical space-saving balcony garden layout with stacked planters and trellis panels]({{ site.baseurl }}/assets/images/home-decor/vertical-space-saving-balcony-garden-ideas.jpg)](https://pin.it/XXXXXXX)
+[![Vertical space-saving balcony garden layout with stacked planters and trellis panels]({{ site.baseurl }}/assets/images/home-decor/vertical-space-saving-balcony-garden-ideas.jpg)](https://pin.it/BclLGV95r)
 
 ## 10. A Quick Note on DIY Trellis Options
 
