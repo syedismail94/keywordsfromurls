@@ -6,7 +6,7 @@ permalink: /home-decor/hanging-plants-ideas-kitchen/
 description: "Discover 10 beautiful hanging plant ideas for your kitchen. Easy tips, real plant picks, and styling advice for any kitchen size or budget."
 ---
 
-[![Hanging plants in a bright modern kitchen with macramé hangers and trailing pothos above a white farmhouse sink]({{ site.baseurl }}/assets/images/home-decor/hanging-plants-kitchen-hero.jpg)](https://pin.it/XXXXXXX)
+[![Hanging plants in a bright modern kitchen with macramé hangers and trailing pothos above a white farmhouse sink]({{ site.baseurl }}/assets/images/home-decor/hanging-plants-kitchen-hero.jpg)](https://pin.it/1ZxsmKkly)
 
 Hanging plants in the kitchen do something wall art and cabinet hardware simply cannot — they bring the space to life. Whether you have a tiny apartment galley or a wide open farmhouse kitchen, suspending greenery from the ceiling or a window rod changes how the whole room feels.
 
@@ -24,7 +24,7 @@ Done well, they make a kitchen feel lived-in without being cluttered.
 
 ## 1. Classic Macramé Hanger with Pothos
 
-[![Macramé hanger holding a golden pothos in a terracotta pot near a sunny kitchen window]({{ site.baseurl }}/assets/images/home-decor/macrame-pothos-kitchen-window.jpg)](https://pin.it/XXXXXXX)
+[![Macramé hanger holding a golden pothos in a terracotta pot near a sunny kitchen window]({{ site.baseurl }}/assets/images/home-decor/macrame-pothos-kitchen-window.jpg)](https://pin.it/1ZxsmKkly)
 
 **Best plant:** Golden Pothos (*Epipremnum aureum*)  
 **Why it works:** Pothos is almost impossible to kill. It trails beautifully from a macramé hanger, tolerates low light, and thrives in the humidity near the sink or stove.
@@ -47,7 +47,7 @@ Done well, they make a kitchen feel lived-in without being cluttered.
 
 ## 2. Tension Rod Herb Garden Over the Sink
 
-[![Fresh herb pots hanging from a matte black tension rod above a farmhouse sink in a white kitchen]({{ site.baseurl }}/assets/images/home-decor/tension-rod-herb-garden-sink.jpg)](https://pin.it/XXXXXXX)
+[![Fresh herb pots hanging from a matte black tension rod above a farmhouse sink in a white kitchen]({{ site.baseurl }}/assets/images/home-decor/tension-rod-herb-garden-sink.jpg)](https://pin.it/6ZUIMmguI)
 
 **Best plants:** Basil, mint, chives, thyme, parsley  
 **Why it works:** A tension rod fits inside a window frame with zero drilling. Hang small S-hooks and lightweight pots from it, and you have a working herb garden right where you cook.
@@ -79,7 +79,7 @@ Done well, they make a kitchen feel lived-in without being cluttered.
 
 ## 4. Wooden Dowel Display with Multiple Trailing Plants
 
-[![A wooden dowel hung from the ceiling with three small hanging pots in different plant varieties above a kitchen island]({{ site.baseurl }}/assets/images/home-decor/wooden-dowel-multi-plant-kitchen.jpg)](https://pin.it/XXXXXXX)
+[![A wooden dowel hung from the ceiling with three small hanging pots in different plant varieties above a kitchen island]({{ site.baseurl }}/assets/images/home-decor/wooden-dowel-multi-plant-kitchen.jpg)](https://pin.it/6ZUIMmguI)
 
 **Best plants:** Mix of pothos, spider plant, and heartleaf philodendron  
 **Why it works:** One dowel, multiple plants at different heights — this creates the lush, layered look you see in design magazine kitchens. It works especially well above an island or peninsula.
@@ -109,7 +109,7 @@ Done well, they make a kitchen feel lived-in without being cluttered.
 
 ## 6. Ceiling-Hung Planter Rail System
 
-[![A matte black ceiling planter rail with four hanging plants of varying heights in a modern kitchen with open shelving]({{ site.baseurl }}/assets/images/home-decor/ceiling-planter-rail-modern-kitchen.jpg)](https://pin.it/XXXXXXX)
+[![A matte black ceiling planter rail with four hanging plants of varying heights in a modern kitchen with open shelving]({{ site.baseurl }}/assets/images/home-decor/ceiling-planter-rail-modern-kitchen.jpg)](https://pin.it/6ZUIMmguI)
 
 **Best plants:** Pothos, trailing jade, spider plant, English ivy  
 **Why it works:** A planter rail is a permanent, intentional design move. It looks like the kitchen was built with plants in mind — not decorated with them as an afterthought.
@@ -145,7 +145,7 @@ Done well, they make a kitchen feel lived-in without being cluttered.
 
 ## 8. Spider Plant in a Woven Basket Hanger
 
-[![A full, healthy spider plant in a natural woven seagrass basket hanging near a bright kitchen window]({{ site.baseurl }}/assets/images/home-decor/spider-plant-woven-basket-kitchen.jpg)](https://pin.it/XXXXXXX)
+[![A full, healthy spider plant in a natural woven seagrass basket hanging near a bright kitchen window]({{ site.baseurl }}/assets/images/home-decor/spider-plant-woven-basket-kitchen.jpg)](https://pin.it/6ZUIMmguI)
 
 **Best plant:** Spider Plant (*Chlorophytum comosum*)  
 **Why it works:** Spider plants are one of the most forgiving houseplants alive. They send out little "babies" on long stems that trail naturally from a basket — almost no styling effort needed.
@@ -177,7 +177,7 @@ Done well, they make a kitchen feel lived-in without being cluttered.
 
 ## 10. Boho Layered Rattan Hoop Plant Display
 
-[![A layered rattan hoop plant display with trailing pothos and trailing string of hearts hanging in a boho kitchen with warm wood tones]({{ site.baseurl }}/assets/images/home-decor/rattan-hoop-plant-display-boho-kitchen.jpg)](https://pin.it/XXXXXXX)
+[![A layered rattan hoop plant display with trailing pothos and trailing string of hearts hanging in a boho kitchen with warm wood tones]({{ site.baseurl }}/assets/images/home-decor/rattan-hoop-plant-display-boho-kitchen.jpg)](https://pin.it/6ZUIMmguI)
 
 **Best plants:** String of Hearts, trailing pothos, small ferns  
 **Why it works:** Rattan hoops layered at different heights create a sculptural, boho look that functions like wall art — except it's living. Works especially well in kitchens with wood cabinetry, warm lighting, or open shelving.
