@@ -10,7 +10,7 @@ If your balcony is small, oddly shaped, or just feels cluttered every time you t
 
 Below are 9 tested balcony garden layouts for apartments, each with a simple diagram-style visual, a materials table, and plant picks that actually work in that setup.
 
-[![Apartment balcony garden layout diagram with planters, trellis, and seating zones]({{ site.baseurl }}/assets/images/home-decor/balcony-garden-layout-ideas-hero.jpg)](https://pin.it/XXXXXXX)
+[![Apartment balcony garden layout diagram with planters, trellis, and seating zones]({{ site.baseurl }}/assets/images/home-decor/balcony-garden-layout-ideas-hero.jpg)](https://pin.it/3CTXJEU8E)
 
 ## Quick Reference: Which Layout Fits Your Balcony
 
@@ -40,7 +40,7 @@ If your balcony has an L-shape or a dead corner that never gets used, this layou
 
 A DIY version of this layout is simple: stack sturdy wooden crates at different heights instead of buying a tiered stand. It costs less and still gives you the same layered look.
 
-[![Corner layout diagram for L-shaped apartment balcony with tiered plant stand]({{ site.baseurl }}/assets/images/home-decor/corner-layout-l-shaped-balcony.jpg)](https://pin.it/XXXXXXX)
+[![Corner layout diagram for L-shaped apartment balcony with tiered plant stand]({{ site.baseurl }}/assets/images/home-decor/corner-layout-l-shaped-balcony.jpg)](https://pin.it/3CTXJEU8E)
 
 ## 2. Railing Planter Layout for Narrow Balconies
 
@@ -55,7 +55,7 @@ Narrow balconies lose floor space fast once you add pots. The fix is to move the
 
 Choose trailing plants like petunias or ivy on the outer boxes so greenery spills down the front of the railing, and keep upright herbs on the inner boxes facing you.
 
-[![Railing planter layout diagram for narrow apartment balcony]({{ site.baseurl }}/assets/images/home-decor/railing-planter-layout-narrow-balcony.jpg)](https://pin.it/XXXXXXX)
+[![Railing planter layout diagram for narrow apartment balcony]({{ site.baseurl }}/assets/images/home-decor/railing-planter-layout-narrow-balcony.jpg)](https://pin.it/3CTXJEU8E)
 
 ## 3. Vertical Tiered Layout for Small Square Balconies
 
@@ -70,7 +70,7 @@ When floor space is limited in every direction, going vertical is the only way t
 
 Keep the heaviest pots on the bottom shelf for stability, and place trailing plants on the top shelf so they can grow downward instead of blocking light for the shelves below.
 
-[![Vertical tiered plant shelf layout for small apartment balcony]({{ site.baseurl }}/assets/images/home-decor/vertical-tiered-layout-small-balcony.jpg)](https://pin.it/XXXXXXX)
+[![Vertical tiered plant shelf layout for small apartment balcony]({{ site.baseurl }}/assets/images/home-decor/vertical-tiered-layout-small-balcony.jpg)](https://pin.it/3CTXJEU8E)
 
 ## 4. Wall-Mounted Grid Layout
 
@@ -86,7 +86,7 @@ If your balcony has one blank exterior wall, a wall-mounted grid layout uses tha
 
 This layout is popular with renters because most grid panels lean against the wall or use adhesive strips, so no drilling is needed. If you're open to a light DIY, adding a slim trellis section to the grid lets you grow jasmine or mini clematis without extra floor pots.
 
-[![Wall-mounted grid garden layout for apartment balcony]({{ site.baseurl }}/assets/images/home-decor/wall-mounted-grid-layout-balcony.jpg)](https://pin.it/XXXXXXX)
+[![Wall-mounted grid garden layout for apartment balcony]({{ site.baseurl }}/assets/images/home-decor/wall-mounted-grid-layout-balcony.jpg)](https://pin.it/3CTXJEU8E)
 
 ## 5. U-Shaped Seating + Garden Layout
 
@@ -101,7 +101,7 @@ Larger balconies can support a U-shaped layout, where seating fills the back wal
 
 Place your tallest plants at the back corners so they don't block sightlines while you're sitting, and use lower planters along the sides.
 
-[![U-shaped seating and garden layout diagram for large apartment balcony]({{ site.baseurl }}/assets/images/home-decor/u-shaped-seating-garden-layout-balcony.jpg)](https://pin.it/XXXXXXX)
+[![U-shaped seating and garden layout diagram for large apartment balcony]({{ site.baseurl }}/assets/images/home-decor/u-shaped-seating-garden-layout-balcony.jpg)](https://pin.it/3CTXJEU8E)
 
 ## 6. Zone Layout: Lounge + Garden Split
 
@@ -116,7 +116,7 @@ If your balcony is wide enough for both relaxing and gardening, split it into tw
 
 This layout works especially well for balconies used daily for morning coffee, since your seating area stays clean and separate from soil, watering cans, and tools.
 
-[![Zone layout diagram splitting apartment balcony into lounge and garden areas]({{ site.baseurl }}/assets/images/home-decor/zone-layout-lounge-garden-balcony.jpg)](https://pin.it/XXXXXXX)
+[![Zone layout diagram splitting apartment balcony into lounge and garden areas]({{ site.baseurl }}/assets/images/home-decor/zone-layout-lounge-garden-balcony.jpg)](https://pin.it/3CTXJEU8E)
 
 ## 7. Hanging Layout for Overhead Space
 
@@ -131,7 +131,7 @@ Balconies with an overhead beam, pergola, or even just a sturdy railing can use 
 
 Stagger the hanging heights slightly instead of lining them up evenly. This adds visual depth and stops the plants from looking like a flat row.
 
-[![Hanging planter layout for apartment balcony overhead space]({{ site.baseurl }}/assets/images/home-decor/hanging-layout-overhead-balcony-garden.jpg)](https://pin.it/XXXXXXX)
+[![Hanging planter layout for apartment balcony overhead space]({{ site.baseurl }}/assets/images/home-decor/hanging-layout-overhead-balcony-garden.jpg)](https://pin.it/3CTXJEU8E)
 
 ## 8. Foldable/Modular Layout for Multi-Use Balconies
 
@@ -146,7 +146,7 @@ If your balcony doubles as a smoking spot, a drying area, or storage, a fixed ga
 
 Keep this layout to 4–6 pots maximum on wheeled or foldable stands so the whole setup can be reconfigured in under two minutes.
 
-[![Foldable modular plant stand layout for multi-use apartment balcony]({{ site.baseurl }}/assets/images/home-decor/foldable-modular-layout-balcony-garden.jpg)](https://pin.it/XXXXXXX)
+[![Foldable modular plant stand layout for multi-use apartment balcony]({{ site.baseurl }}/assets/images/home-decor/foldable-modular-layout-balcony-garden.jpg)](https://pin.it/3CTXJEU8E)
 
 ## 9. Herb Corner Near the Kitchen-Adjacent Door
 
@@ -161,7 +161,7 @@ If your balcony connects to your kitchen through a sliding door, dedicate one sm
 
 Keep this corner small on purpose. A crowded herb stand is harder to maintain than a focused set of 4–5 herbs you'll actually cook with.
 
-[![Herb corner layout near kitchen sliding door on apartment balcony]({{ site.baseurl }}/assets/images/home-decor/herb-corner-kitchen-adjacent-balcony.jpg)](https://pin.it/XXXXXXX)
+[![Herb corner layout near kitchen sliding door on apartment balcony]({{ site.baseurl }}/assets/images/home-decor/herb-corner-kitchen-adjacent-balcony.jpg)](https://pin.it/3CTXJEU8E)
 
 ## Frequently Asked Questions
 
