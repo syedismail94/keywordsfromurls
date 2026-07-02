@@ -6,7 +6,7 @@ permalink: /home-decor/balcony-privacy-ideas-trellis-curtains-screens/
 description: "Compare trellis, curtains, and screens for balcony privacy. Costs, pros, cons, and where to buy in the USA. Find your best fit fast."
 ---
 
-[![Balcony privacy ideas comparing trellis curtains and screens](https://pin.it/XXXXXXX)]({{ site.baseurl }}/assets/images/home-decor/balcony-privacy-ideas-hero.jpg)
+[![Balcony privacy ideas comparing trellis curtains and screens](https://pin.it/pd8W9WP3q)]({{ site.baseurl }}/assets/images/home-decor/balcony-privacy-ideas-hero.jpg)
 
 Living close to your neighbors doesn't mean you have to give up your outdoor peace. A small balcony can still feel private, calm, and yours — you just need the right cover-up. This guide compares the three most popular balcony privacy options: trellis panels, outdoor curtains, and privacy screens. You'll see what each one costs, how well it blocks view, and which one fits your balcony best.
 
@@ -14,7 +14,7 @@ Living close to your neighbors doesn't mean you have to give up your outdoor pea
 
 A trellis is a wood or vinyl lattice panel you attach to your railing. It blocks partial view right away and looks even better once climbing plants grow through it.
 
-[![Wood trellis panel attached to balcony railing for privacy](https://pin.it/XXXXXXX)]({{ site.baseurl }}/assets/images/home-decor/trellis-panel-balcony-privacy.jpg)
+[![Wood trellis panel attached to balcony railing for privacy](https://pin.it/pd8W9WP3q)]({{ site.baseurl }}/assets/images/home-decor/trellis-panel-balcony-privacy.jpg)
 
 **Best for:** Balconies that get good sun and where you don't mind a slower, greener style of privacy.
 
@@ -30,7 +30,7 @@ A trellis is a wood or vinyl lattice panel you attach to your railing. It blocks
 
 Outdoor curtains are the softest, most instant privacy fix. Hang them from a tension rod and pull them closed whenever you want to disappear from view.
 
-[![Outdoor curtains hung on balcony for instant privacy](https://pin.it/XXXXXXX)]({{ site.baseurl }}/assets/images/home-decor/outdoor-curtains-balcony-privacy.jpg)
+[![Outdoor curtains hung on balcony for instant privacy](https://pin.it/5u0heOCKF)]({{ site.baseurl }}/assets/images/home-decor/outdoor-curtains-balcony-privacy.jpg)
 
 **Best for:** Renters, small balconies, and anyone who wants a cozy, resort-style look.
 
@@ -46,7 +46,7 @@ Outdoor curtains are the softest, most instant privacy fix. Hang them from a ten
 
 Screens are freestanding or railing-mounted panels made from bamboo, reed, fabric, or synthetic weave. They give the most solid, all-day privacy of the three options.
 
-[![Bamboo privacy screen mounted on balcony railing](https://pin.it/XXXXXXX)]({{ site.baseurl }}/assets/images/home-decor/bamboo-privacy-screen-balcony.jpg)
+[![Bamboo privacy screen mounted on balcony railing](https://pin.it/8B6CmiZHM)]({{ site.baseurl }}/assets/images/home-decor/bamboo-privacy-screen-balcony.jpg)
 
 **Best for:** Balconies facing a busy street, a neighbor's window, or a shared walkway.
 
@@ -62,7 +62,7 @@ Screens are freestanding or railing-mounted panels made from bamboo, reed, fabri
 
 If you love plants, a vertical garden doubles as decor and a privacy wall. Pocket planters or stacked planter boxes create a green barrier without blocking airflow completely.
 
-[![Vertical garden planter wall used for balcony privacy](https://pin.it/XXXXXXX)]({{ site.baseurl }}/assets/images/home-decor/vertical-garden-privacy-wall-balcony.jpg)
+[![Vertical garden planter wall used for balcony privacy](https://pin.it/8B6CmiZHM)]({{ site.baseurl }}/assets/images/home-decor/vertical-garden-privacy-wall-balcony.jpg)
 
 **Best for:** Plant lovers who want privacy that also looks alive and seasonal.
 
@@ -72,7 +72,7 @@ If you love plants, a vertical garden doubles as decor and a privacy wall. Pocke
 
 A retractable screen works like a roller blind mounted on your railing or ceiling track. Pull it across when you want privacy, roll it back when you want the view.
 
-[![Retractable privacy screen installed on balcony for flexible coverage](https://pin.it/XXXXXXX)]({{ site.baseurl }}/assets/images/home-decor/retractable-privacy-screen-balcony.jpg)
+[![Retractable privacy screen installed on balcony for flexible coverage](https://pin.it/8B6CmiZHM)]({{ site.baseurl }}/assets/images/home-decor/retractable-privacy-screen-balcony.jpg)
 
 **Best for:** People who want privacy on demand without a permanent fixed screen.
 
@@ -82,7 +82,7 @@ A retractable screen works like a roller blind mounted on your railing or ceilin
 
 Lattice fence panels are a heavier, more permanent version of a trellis. They're great for balconies where you want a finished, fence-like edge rather than a see-through pattern.
 
-[![Lattice fence panel installed along balcony edge for privacy](https://pin.it/XXXXXXX)]({{ site.baseurl }}/assets/images/home-decor/lattice-fence-panel-balcony-privacy.jpg)
+[![Lattice fence panel installed along balcony edge for privacy](https://pin.it/8B6CmiZHM)]({{ site.baseurl }}/assets/images/home-decor/lattice-fence-panel-balcony-privacy.jpg)
 
 **Best for:** Balconies in condos or apartments with strict rules on drilling — most lattice panels clip on with brackets.
 
@@ -92,7 +92,7 @@ Lattice fence panels are a heavier, more permanent version of a trellis. They're
 
 Faux hedge panels give you a full, green, solid-looking wall with zero watering or trimming. They snap together and cover a railing in minutes.
 
-[![Artificial hedge panel privacy screen on balcony railing](https://pin.it/XXXXXXX)]({{ site.baseurl }}/assets/images/home-decor/artificial-hedge-privacy-screen-balcony.jpg)
+[![Artificial hedge panel privacy screen on balcony railing](https://pin.it/8B6CmiZHM)]({{ site.baseurl }}/assets/images/home-decor/artificial-hedge-privacy-screen-balcony.jpg)
 
 **Best for:** Anyone who wants a lush look with no maintenance at all.
 
