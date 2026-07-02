@@ -6,7 +6,7 @@ permalink: /home-decor/studio-apartment-decor-ideas/
 description: "21 smart studio apartment decor ideas to zone, style, and stretch a small space — budget tips, products, and US shopping links inside."
 ---
 
-[![Cozy studio apartment with zoned living and sleeping areas decorated in warm neutral tones]({{ site.baseurl }}/assets/images/home-decor/studio-apartment-decor-hero.jpg)](https://pin.it/XXXXXXX)
+[![Cozy studio apartment with zoned living and sleeping areas decorated in warm neutral tones]({{ site.baseurl }}/assets/images/home-decor/studio-apartment-decor-hero.jpg)](https://pin.it/3Nx6KW3hX)
 
 Living in a studio apartment means every square foot has to work hard. The good news? A small space doesn't have to feel cramped, messy, or boring. With the right layout tricks, color choices, and a few smart buys, your studio can feel just as stylish and functional as a full-size apartment.
 
@@ -18,7 +18,7 @@ The easiest way to make a studio feel like separate rooms is to break it up visu
 
 Use two different rug styles or colors for two zones. A 5x7 ft rug ($60–$150 at Target or Rugs USA) works well under a sofa, while a smaller 3x5 ft rug ($40–$90) defines a reading nook or bed area.
 
-[![Studio apartment floor zoned with two different area rugs to separate living and sleeping spaces]({{ site.baseurl }}/assets/images/home-decor/studio-apartment-rug-zoning.jpg)](https://pin.it/XXXXXXX)
+[![Studio apartment floor zoned with two different area rugs to separate living and sleeping spaces]({{ site.baseurl }}/assets/images/home-decor/studio-apartment-rug-zoning.jpg)](https://pin.it/3Nx6KW3hX)
 
 ## 2. Use a Bookshelf as a Room Divider
 
@@ -26,7 +26,7 @@ A tall open bookshelf does two jobs at once: storage and separation. Place it pe
 
 The IKEA Kallax shelf ($60–$180 depending on size) is a popular pick because it's open on both sides, so it doesn't feel like a barrier.
 
-[![Open bookshelf used as a room divider between studio apartment bed and living room]({{ site.baseurl }}/assets/images/home-decor/studio-apartment-bookshelf-divider.jpg)](https://pin.it/XXXXXXX)
+[![Open bookshelf used as a room divider between studio apartment bed and living room]({{ site.baseurl }}/assets/images/home-decor/studio-apartment-bookshelf-divider.jpg)](https://pin.it/3Nx6KW3hX)
 
 ## 3. Pick a Light, Neutral Color Palette
 
@@ -49,7 +49,7 @@ Look for affordable linen-look curtains from H&M Home ($25–$40 per panel) or T
 
 In a studio, every piece of furniture should earn its spot. A storage ottoman, a sofa bed, or a nesting coffee table all save space while doing double duty.
 
-[![Multi-functional storage ottoman and sofa bed setup in a small studio apartment living area]({{ site.baseurl }}/assets/images/home-decor/studio-apartment-multifunctional-furniture.jpg)](https://pin.it/XXXXXXX)
+[![Multi-functional storage ottoman and sofa bed setup in a small studio apartment living area]({{ site.baseurl }}/assets/images/home-decor/studio-apartment-multifunctional-furniture.jpg)](https://pin.it/3Nx6KW3hX)
 
 ### Quick Comparison: Multi-Functional Furniture Picks
 
@@ -68,19 +68,19 @@ It feels counterintuitive, but pulling your sofa or bed a few inches off the wal
 
 Floor space is precious in a studio, so build up instead of out. Tall, narrow shelving units, wall-mounted cabinets, and over-the-door organizers free up the floor while still giving you storage.
 
-[![Tall vertical wall shelving unit used for storage in a compact studio apartment]({{ site.baseurl }}/assets/images/home-decor/studio-apartment-vertical-storage.jpg)](https://pin.it/XXXXXXX)
+[![Tall vertical wall shelving unit used for storage in a compact studio apartment]({{ site.baseurl }}/assets/images/home-decor/studio-apartment-vertical-storage.jpg)](https://pin.it/3Nx6KW3hX)
 
 ## 8. Use a Statement Mirror to Bounce Light
 
 A large leaning mirror placed across from a window reflects natural light around the room and visually doubles the space. A 65-inch leaning floor mirror runs $100–$250 at stores like Target, CB2, or Wayfair.
 
-[![Large leaning floor mirror placed across from a window to reflect light in a studio apartment]({{ site.baseurl }}/assets/images/home-decor/studio-apartment-statement-mirror.jpg)](https://pin.it/XXXXXXX)
+[![Large leaning floor mirror placed across from a window to reflect light in a studio apartment]({{ site.baseurl }}/assets/images/home-decor/studio-apartment-statement-mirror.jpg)](https://pin.it/3Nx6KW3hX)
 
 ## 9. Keep Your Bed Styling Simple and Layered
 
 Since your bed is often visible from the living area in a studio, treat it like part of the decor, not just furniture. A neutral duvet, two to three pillows, and a textured throw blanket keep it looking like a feature, not clutter.
 
-[![Neatly styled studio apartment bed with neutral bedding and a textured throw blanket as a decor focal point]({{ site.baseurl }}/assets/images/home-decor/studio-apartment-bed-styling.jpg)](https://pin.it/XXXXXXX)
+[![Neatly styled studio apartment bed with neutral bedding and a textured throw blanket as a decor focal point]({{ site.baseurl }}/assets/images/home-decor/studio-apartment-bed-styling.jpg)](https://pin.it/3Nx6KW3hX)
 
 ## 10. Layer Lighting Instead of Using One Overhead Light
 
@@ -109,13 +109,13 @@ Heavy drapes block natural light, which a studio needs. Sheer or light linen cur
 
 A few plants placed at different heights — a tall fiddle leaf fig in a corner, a trailing pothos on a shelf, a small succulent on a table — add life and softness without taking up much floor space.
 
-[![Indoor plants placed at varying heights including a tall floor plant and a trailing pothos on a shelf in a studio apartment]({{ site.baseurl }}/assets/images/home-decor/studio-apartment-plant-styling.jpg)](https://pin.it/XXXXXXX)
+[![Indoor plants placed at varying heights including a tall floor plant and a trailing pothos on a shelf in a studio apartment]({{ site.baseurl }}/assets/images/home-decor/studio-apartment-plant-styling.jpg)](https://pin.it/3Nx6KW3hX)
 
 ## 15. Use Wall Space for Art, Not Just Storage
 
 It's tempting to fill every wall with shelves in a small space, but leave at least one wall mostly for art or a gallery wall. A studio with only storage on the walls can start to feel like a warehouse instead of a home.
 
-[![Gallery wall of framed art above a small desk area in a studio apartment]({{ site.baseurl }}/assets/images/home-decor/studio-apartment-gallery-wall.jpg)](https://pin.it/XXXXXXX)
+[![Gallery wall of framed art above a small desk area in a studio apartment]({{ site.baseurl }}/assets/images/home-decor/studio-apartment-gallery-wall.jpg)](https://pin.it/3Nx6KW3hX)
 
 ## 16. Pick a Kitchen Cart for Extra Counter Space
 
@@ -137,7 +137,7 @@ Once your major furniture is in place, resist adding more pieces. Instead, add t
 
 Even a narrow strip by your front door can act as a mini entryway. A slim console table, a wall hook for keys, and a small tray for shoes creates a "drop zone" so clutter doesn't spread into your main living area.
 
-[![Narrow entryway console table with wall hooks and a shoe tray near a studio apartment front door]({{ site.baseurl }}/assets/images/home-decor/studio-apartment-entryway-styling.jpg)](https://pin.it/XXXXXXX)
+[![Narrow entryway console table with wall hooks and a shoe tray near a studio apartment front door]({{ site.baseurl }}/assets/images/home-decor/studio-apartment-entryway-styling.jpg)](https://pin.it/3Nx6KW3hX)
 
 ## 21. Stick to 2–3 Materials Throughout
 
