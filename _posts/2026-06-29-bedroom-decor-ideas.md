@@ -6,13 +6,13 @@ permalink: /home-decor/bedroom-decor-ideas/
 description: Discover 10 stylish bedroom decor ideas to transform your space into a cozy, modern retreat with simple, budget-friendly upgrades.
 ---
 
-[![Modern cozy bedroom decor hero image]({{ site.baseurl }}/assets/images/home-decor/bedroom-decor-hero.jpg)](https://pin.it/XXXXXXX)
+[![Modern cozy bedroom decor hero image]({{ site.baseurl }}/assets/images/home-decor/bedroom-decor-hero.jpg)](https://pin.it/6qjYEBDSZ)
 
 A beautiful bedroom is not about spending more money. It's about making smart design choices that improve comfort, organization, and style. Whether your room is large or small, these bedroom decor ideas can help create a relaxing space you'll love spending time in.
 
 ## 1. Layer Your Bedding for a Luxury Hotel Look
 
-[![Layered bedding with pillows and throw blanket]({{ site.baseurl }}/assets/images/home-decor/layered-bedding-bedroom.jpg)](https://pin.it/XXXXXXX)
+[![Layered bedding with pillows and throw blanket]({{ site.baseurl }}/assets/images/home-decor/layered-bedding-bedroom.jpg)](https://pin.it/6qjYEBDSZ)
 
 The bed is the focal point of every bedroom. Layering bedding instantly makes the room feel more expensive and inviting.
 
@@ -30,7 +30,7 @@ The bed is the focal point of every bedroom. Layering bedding instantly makes th
 
 ## 2. Use Warm Lighting Instead of Harsh Ceiling Lights
 
-[![Warm bedside lamp lighting cozy bedroom]({{ site.baseurl }}/assets/images/home-decor/warm-lighting-bedroom.jpg)](https://pin.it/XXXXXXX)
+[![Warm bedside lamp lighting cozy bedroom]({{ site.baseurl }}/assets/images/home-decor/warm-lighting-bedroom.jpg)](https://pin.it/6qjYEBDSZ)
 
 Lighting dramatically affects how a room feels.
 
@@ -44,7 +44,7 @@ A layered lighting setup creates a cozy atmosphere for reading and relaxing.
 
 ## 3. Create a Statement Wall Behind the Bed
 
-[![Minimal wall art above bed aesthetic bedroom]({{ site.baseurl }}/assets/images/home-decor/wall-art-bedroom.jpg)](https://pin.it/XXXXXXX)
+[![Minimal wall art above bed aesthetic bedroom]({{ site.baseurl }}/assets/images/home-decor/wall-art-bedroom.jpg)](https://pin.it/6qjYEBDSZ)
 
 A blank wall often makes a bedroom feel unfinished.
 
@@ -59,7 +59,7 @@ Choose one feature wall rather than decorating every wall.
 
 ## 4. Upgrade Your Headboard
 
-[![Upholstered headboard modern bedroom design]({{ site.baseurl }}/assets/images/home-decor/headboard-bedroom.jpg)](https://pin.it/XXXXXXX)
+[![Upholstered headboard modern bedroom design]({{ site.baseurl }}/assets/images/home-decor/headboard-bedroom.jpg)](https://pin.it/6qjYEBDSZ)
 
 A stylish headboard instantly elevates the room.
 
@@ -76,7 +76,7 @@ Neutral colors work best because they stay timeless.
 
 ## 5. Add a Large Area Rug
 
-[![Soft area rug under bed cozy bedroom]({{ site.baseurl }}/assets/images/home-decor/bedroom-rug.jpg)](https://pin.it/XXXXXXX)
+[![Soft area rug under bed cozy bedroom]({{ site.baseurl }}/assets/images/home-decor/bedroom-rug.jpg)](https://pin.it/6qjYEBDSZ)
 
 A rug adds warmth, softness, and visual balance.
 
@@ -92,7 +92,7 @@ The rug should extend beyond the sides of the bed.
 
 ## 6. Bring Nature Indoors with Plants
 
-[![Indoor plant near window bedroom decor]({{ site.baseurl }}/assets/images/home-decor/bedroom-plants.jpg)](https://pin.it/XXXXXXX)
+[![Indoor plant near window bedroom decor]({{ site.baseurl }}/assets/images/home-decor/bedroom-plants.jpg)](https://pin.it/6qjYEBDSZ)
 
 Plants add life and freshness while improving visual appeal.
 
@@ -107,7 +107,7 @@ Choose low-maintenance options if you're a beginner.
 
 ## 7. Stick to a Simple Color Palette
 
-[![Neutral color palette bedroom beige tones]({{ site.baseurl }}/assets/images/home-decor/neutral-bedroom-colors.jpg)](https://pin.it/XXXXXXX)
+[![Neutral color palette bedroom beige tones]({{ site.baseurl }}/assets/images/home-decor/neutral-bedroom-colors.jpg)](https://pin.it/6qjYEBDSZ)
 
 Too many colors can make a room feel cluttered.
 
@@ -121,7 +121,7 @@ Using only 2-3 primary colors creates a cohesive look.
 
 ## 8. Style Your Nightstands Like a Designer
 
-[![Minimal nightstand decor lamp book plant]({{ site.baseurl }}/assets/images/home-decor/nightstand-decor.jpg)](https://pin.it/XXXXXXX)
+[![Minimal nightstand decor lamp book plant]({{ site.baseurl }}/assets/images/home-decor/nightstand-decor.jpg)](https://pin.it/6qjYEBDSZ)
 
 A cluttered nightstand can ruin an otherwise beautiful bedroom.
 
@@ -135,7 +135,7 @@ Keep it functional and clean.
 
 ## 9. Install Floor-Length Curtains
 
-[![Light curtains bedroom window aesthetic]({{ site.baseurl }}/assets/images/home-decor/bedroom-curtains.jpg)](https://pin.it/XXXXXXX)
+[![Light curtains bedroom window aesthetic]({{ site.baseurl }}/assets/images/home-decor/bedroom-curtains.jpg)](https://pin.it/6qjYEBDSZ)
 
 Curtains soften the room and make ceilings appear higher.
 
@@ -149,7 +149,7 @@ This simple trick makes a room feel larger.
 
 ## 10. Use Mirrors to Increase Light and Space
 
-[![Large mirror reflecting light bedroom decor]({{ site.baseurl }}/assets/images/home-decor/bedroom-mirror.jpg)](https://pin.it/XXXXXXX)
+[![Large mirror reflecting light bedroom decor]({{ site.baseurl }}/assets/images/home-decor/bedroom-mirror.jpg)](https://pin.it/6qjYEBDSZ)
 
 Mirrors reflect light and create the illusion of more space.
 
