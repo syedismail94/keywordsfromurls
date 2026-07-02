@@ -10,7 +10,7 @@ description: "Easy small bathroom decor ideas to make your space feel bigger, br
 
 A small bathroom does not have to feel cramped or boring. With the right colors, mirrors, lighting, and a few smart layout tricks, even a tiny bathroom can look like a spa. Below are simple, beginner-friendly decor ideas you can copy this weekend, with real product names and prices so you know exactly where to start.
 
-[![Small bathroom decor idea with light colors and a large mirror]({{ site.baseurl }}/assets/images/home-decor/small-bathroom-decor-hero.jpg)](https://pin.it/XXXXXXX)
+[![Small bathroom decor idea with light colors and a large mirror]({{ site.baseurl }}/assets/images/home-decor/small-bathroom-decor-hero.jpg)](https://pin.it/3BnUOK1hH)
 
 ## 1. Pick a Light, Soft Color Palette
 
@@ -27,7 +27,7 @@ Dark colors make walls feel closer. Light, soft tones like off-white, pale sage,
 | Light Gray Subway Tile | Shower walls | $2–$5 per sq ft |
 | Cream Penny Tile | Flooring | $8–$12 per sq ft |
 
-[![Soft sage green and white color palette in a small bathroom]({{ site.baseurl }}/assets/images/home-decor/small-bathroom-color-palette.jpg)](https://pin.it/XXXXXXX)
+[![Soft sage green and white color palette in a small bathroom]({{ site.baseurl }}/assets/images/home-decor/small-bathroom-color-palette.jpg)](https://pin.it/3BnUOK1hH)
 
 ## 2. Use a Large or Round Mirror
 
@@ -36,7 +36,7 @@ A big mirror reflects light and visually doubles the size of the room. Round or 
 * Try the Kate and Laurel Rhodes Round Wall Mirror (about $90, available on Amazon and Target).
 * Hang it slightly higher than eye level to draw the eye upward.
 
-[![Large round mirror reflecting light in a small bathroom]({{ site.baseurl }}/assets/images/home-decor/small-bathroom-round-mirror.jpg)](https://pin.it/XXXXXXX)
+[![Large round mirror reflecting light in a small bathroom]({{ site.baseurl }}/assets/images/home-decor/small-bathroom-round-mirror.jpg)](https://pin.it/3BnUOK1hH)
 
 ## 3. Add Layered Lighting
 
@@ -52,13 +52,13 @@ A single overhead bulb creates flat, harsh light. Layering light sources adds wa
 | Soft ambient light | Warm LED ceiling flush mount | $35–$70 |
 | Accent light | Battery LED strip under cabinet | $15–$25 |
 
-[![Layered warm lighting around a small bathroom vanity mirror]({{ site.baseurl }}/assets/images/home-decor/small-bathroom-layered-lighting.jpg)](https://pin.it/XXXXXXX)
+[![Layered warm lighting around a small bathroom vanity mirror]({{ site.baseurl }}/assets/images/home-decor/small-bathroom-layered-lighting.jpg)](https://pin.it/3BnUOK1hH)
 
 ## 4. Choose Open Shelving Over Bulky Cabinets
 
 Open wood shelves feel lighter than closed cabinets and give you a spot to display neatly folded towels or a small plant. Floating shelves from IKEA (BERGSHULT, about $25 for two) work well above the toilet or beside the sink.
 
-[![Open wood floating shelves used as small bathroom storage]({{ site.baseurl }}/assets/images/home-decor/small-bathroom-open-shelving.jpg)](https://pin.it/XXXXXXX)
+[![Open wood floating shelves used as small bathroom storage]({{ site.baseurl }}/assets/images/home-decor/small-bathroom-open-shelving.jpg)](https://pin.it/2HjkGVywg)
 
 ## 5. Bring in Texture With Towels and Bath Mats
 
@@ -67,7 +67,7 @@ Plain walls feel more finished when texture is added through soft furnishings. A
 * Parachute Classic Towels (about $59 for a bath towel set)
 * Lulu and Georgia tufted bath mat (about $48)
 
-[![Cozy waffle towels and a tufted bath mat styled in a small bathroom]({{ site.baseurl }}/assets/images/home-decor/small-bathroom-textured-towels.jpg)](https://pin.it/XXXXXXX)
+[![Cozy waffle towels and a tufted bath mat styled in a small bathroom]({{ site.baseurl }}/assets/images/home-decor/small-bathroom-textured-towels.jpg)](https://pin.it/2HjkGVywg)
 
 ## 6. Add Greenery That Loves Humidity
 
@@ -79,13 +79,13 @@ A small plant adds life and color without using floor space. Pick plants that ac
 | Snake Plant | Low | $15–$25 |
 | Boston Fern | Medium | $12–$20 |
 
-[![Small potted plant on a bathroom shelf adding greenery to the decor]({{ site.baseurl }}/assets/images/home-decor/small-bathroom-greenery.jpg)](https://pin.it/XXXXXXX)
+[![Small potted plant on a bathroom shelf adding greenery to the decor]({{ site.baseurl }}/assets/images/home-decor/small-bathroom-greenery.jpg)](https://pin.it/2HjkGVywg)
 
 ## 7. Use Vertical Space With Wall Storage
 
 When floor space is limited, look up. A tall, narrow ladder shelf or a wall-mounted cabinet keeps items handy without crowding the room. West Elm and Target both sell slim bathroom ladder shelves between $80 and $150.
 
-[![Tall narrow ladder shelf used for vertical bathroom storage]({{ site.baseurl }}/assets/images/home-decor/small-bathroom-vertical-storage.jpg)](https://pin.it/XXXXXXX)
+[![Tall narrow ladder shelf used for vertical bathroom storage]({{ site.baseurl }}/assets/images/home-decor/small-bathroom-vertical-storage.jpg)](https://pin.it/2HjkGVywg)
 
 ## A Note on DIY Upgrades
 
