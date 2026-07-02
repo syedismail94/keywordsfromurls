@@ -6,7 +6,7 @@ permalink: /home-decor/hanging-plants-kitchen-ideas/
 description: "Discover 10 beautiful hanging plants ideas for your kitchen — from trailing pothos to herb gardens. Easy, budget-friendly, and beginner-approved."
 ---
 
-[![10 Hanging Plants Ideas for Kitchen - Trailing Pothos and Herbs in a Bright Modern Kitchen]({{ site.baseurl }}/assets/images/home-decor/hanging-plants-kitchen-hero.jpg)](https://pin.it/XXXXXXX)
+[![10 Hanging Plants Ideas for Kitchen - Trailing Pothos and Herbs in a Bright Modern Kitchen]({{ site.baseurl }}/assets/images/home-decor/hanging-plants-kitchen-hero.jpg)](https://pin.it/6LTKtyzr2)
 
 ---
 
@@ -26,7 +26,7 @@ Here's what you need to know before we dive in: most kitchens get moderate indir
 
 ### 1. Classic Trailing Pothos in a Macramé Hanger
 
-[![Trailing golden pothos in a cream macramé hanger near a kitchen window]({{ site.baseurl }}/assets/images/home-decor/pothos-macrame-kitchen.jpg)](https://pin.it/XXXXXXX)
+[![Trailing golden pothos in a cream macramé hanger near a kitchen window]({{ site.baseurl }}/assets/images/home-decor/pothos-macrame-kitchen.jpg)](https://pin.it/6LTKtyzr2)
 
 Pothos is the most forgiving houseplant you can buy. It trails beautifully, grows fast, and handles low light better than almost anything else.
 
@@ -49,7 +49,7 @@ Hang it near your kitchen window in a macramé hanger and let the vines drape do
 
 ### 2. Fresh Herb Hanging Garden
 
-[![Three terracotta herb pots hanging in a row above a kitchen counter with basil, parsley, and thyme]({{ site.baseurl }}/assets/images/home-decor/herb-hanging-garden-kitchen.jpg)](https://pin.it/XXXXXXX)
+[![Three terracotta herb pots hanging in a row above a kitchen counter with basil, parsley, and thyme]({{ site.baseurl }}/assets/images/home-decor/herb-hanging-garden-kitchen.jpg)](https://pin.it/6LTKtyzr2)
 
 This is the most *useful* idea on this list. Imagine snipping fresh basil for your pasta or pulling a sprig of thyme without leaving your kitchen.
 
@@ -87,7 +87,7 @@ Hang it in a glass globe terrarium near a window that gets morning sun. The glas
 
 ### 4. Spider Plant Cascade
 
-[![Lush green and white striped spider plant hanging near a kitchen window with baby offshoots trailing down]({{ site.baseurl }}/assets/images/home-decor/spider-plant-kitchen-hanging.jpg)](https://pin.it/XXXXXXX)
+[![Lush green and white striped spider plant hanging near a kitchen window with baby offshoots trailing down]({{ site.baseurl }}/assets/images/home-decor/spider-plant-kitchen-hanging.jpg)](https://pin.it/6LTKtyzr2)
 
 Spider plants are underrated. They grow fast, produce little "babies" (called spiderettes) that hang down on long runners, and they're completely non-toxic — great if you have pets or kids.
 
@@ -123,7 +123,7 @@ They do need more humidity and consistent moisture than some plants — which is
 
 ### 6. Wicker Basket Shelf Planters (Tiered Look)
 
-[![Two-tier wicker basket hanging planter with trailing green plants in a warm-toned kitchen]({{ site.baseurl }}/assets/images/home-decor/wicker-tiered-basket-kitchen-plants.jpg)](https://pin.it/XXXXXXX)
+[![Two-tier wicker basket hanging planter with trailing green plants in a warm-toned kitchen]({{ site.baseurl }}/assets/images/home-decor/wicker-tiered-basket-kitchen-plants.jpg)](https://pin.it/6LTKtyzr2)
 
 Not everything needs to be a single pot on a rope. Tiered wicker basket planters let you layer two or three plants at different heights, creating a full, styled look without taking up much ceiling space.
 
@@ -153,7 +153,7 @@ Hang them in geometric brass or black wire holders near your backsplash or windo
 
 ### 8. Philodendron for Drama
 
-[![Long-trailing heart-leaf philodendron in a ceramic pot hanging from a ceiling hook in a modern white kitchen]({{ site.baseurl }}/assets/images/home-decor/philodendron-hanging-kitchen.jpg)](https://pin.it/XXXXXXX)
+[![Long-trailing heart-leaf philodendron in a ceramic pot hanging from a ceiling hook in a modern white kitchen]({{ site.baseurl }}/assets/images/home-decor/philodendron-hanging-kitchen.jpg)](https://pin.it/6LTKtyzr2)
 
 Heart-leaf philodendron is one of the most dramatic trailers you can hang. Given time, the vines can reach 4–6 feet, creating a stunning curtain of heart-shaped leaves.
 
@@ -191,7 +191,7 @@ It's a popular setup for:
 
 ### 10. Succulent Wall Pocket Planters
 
-[![Three fabric wall pocket planters with small succulents mounted near a kitchen window]({{ site.baseurl }}/assets/images/home-decor/succulent-wall-pocket-kitchen.jpg)](https://pin.it/XXXXXXX)
+[![Three fabric wall pocket planters with small succulents mounted near a kitchen window]({{ site.baseurl }}/assets/images/home-decor/succulent-wall-pocket-kitchen.jpg)](https://pin.it/6LTKtyzr2)
 
 If ceiling space is tight, go to the wall. Fabric or felt wall pocket planters mount flat against the wall (one nail or Command strip) and hold 3–6 small plants each.
 
