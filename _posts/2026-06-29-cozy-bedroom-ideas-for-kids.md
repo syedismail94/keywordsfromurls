@@ -6,13 +6,13 @@ permalink: /home-decor/bedroom-decor-ideas/
 description: Discover 10 stylish bedroom decor ideas to transform your space into a cozy, modern retreat with simple, budget-friendly upgrades.
 date: 2026-06-29
 ---
-[![Modern cozy bedroom decor hero image]({{ site.baseurl }}/assets/images/home-decor/bedroom-decor-hero.jpg)](https://pin.it/XXXXXXX)
+[![Modern cozy bedroom decor hero image]({{ site.baseurl }}/assets/images/home-decor/bedroom-decor-hero.jpg)](https://pin.it/tkgdYK8a0)
 
 A beautiful bedroom is not about spending more money. It's about making smart design choices that improve comfort, organization, and style. Whether your room is large or small, these bedroom decor ideas can help create a relaxing space you'll love spending time in.
 
 ## 1. Layer Your Bedding for a Luxury Hotel Look
 
-[![Layered bedding with pillows and throw blanket]({{ site.baseurl }}/assets/images/home-decor/layered-bedding-bedroom.jpg)](https://pin.it/XXXXXXX)
+[![Layered bedding with pillows and throw blanket]({{ site.baseurl }}/assets/images/home-decor/layered-bedding-bedroom.jpg)](https://pin.it/tkgdYK8a0)
 
 The bed is the focal point of every bedroom. Layering bedding instantly makes the room feel more expensive and inviting. I've found that the secret to a hotel-quality bed is all in the layers, not the price tag.
 
@@ -37,7 +37,7 @@ The bed is the focal point of every bedroom. Layering bedding instantly makes th
 
 ## 2. Use Warm Lighting Instead of Harsh Ceiling Lights
 
-[![Warm bedside lamp lighting cozy bedroom]({{ site.baseurl }}/assets/images/home-decor/warm-lighting-bedroom.jpg)](https://pin.it/XXXXXXX)
+[![Warm bedside lamp lighting cozy bedroom]({{ site.baseurl }}/assets/images/home-decor/warm-lighting-bedroom.jpg)](https://pin.it/tkgdYK8a0)
 
 Lighting dramatically affects how a room feels. When I switched from cool white bulbs to warm ones, my bedroom instantly felt cozier and more inviting.
 
@@ -60,7 +60,7 @@ Lighting dramatically affects how a room feels. When I switched from cool white 
 
 ## 3. Create a Statement Wall Behind the Bed
 
-[![Minimal wall art above bed aesthetic bedroom]({{ site.baseurl }}/assets/images/home-decor/wall-art-bedroom.jpg)](https://pin.it/XXXXXXX)
+[![Minimal wall art above bed aesthetic bedroom]({{ site.baseurl }}/assets/images/home-decor/wall-art-bedroom.jpg)](https://pin.it/tkgdYK8a0)
 
 A blank wall often makes a bedroom feel unfinished. I've seen tiny rooms transform with just one well-chosen statement wall.
 
@@ -78,7 +78,7 @@ A blank wall often makes a bedroom feel unfinished. I've seen tiny rooms transfo
 
 ## 4. Upgrade Your Headboard
 
-[![Upholstered headboard modern bedroom design]({{ site.baseurl }}/assets/images/home-decor/headboard-bedroom.jpg)](https://pin.it/XXXXXXX)
+[![Upholstered headboard modern bedroom design]({{ site.baseurl }}/assets/images/home-decor/headboard-bedroom.jpg)](https://pin.it/tkgdYK8a0)
 
 A stylish headboard instantly elevates the room. You'd be surprised how a simple headboard change can transform an entire bedroom.
 
@@ -104,7 +104,7 @@ A stylish headboard instantly elevates the room. You'd be surprised how a simple
 
 ## 5. Add a Large Area Rug
 
-[![Soft area rug under bed cozy bedroom]({{ site.baseurl }}/assets/images/home-decor/bedroom-rug.jpg)](https://pin.it/XXXXXXX)
+[![Soft area rug under bed cozy bedroom]({{ site.baseurl }}/assets/images/home-decor/bedroom-rug.jpg)](https://pin.it/tkgdYK8a0)
 
 A rug adds warmth, softness, and visual balance. Walking on a soft rug in the morning is one of life's simple pleasures.
 
@@ -128,7 +128,7 @@ A rug adds warmth, softness, and visual balance. Walking on a soft rug in the mo
 
 ## 6. Bring Nature Indoors with Plants
 
-[![Indoor plant near window bedroom decor]({{ site.baseurl }}/assets/images/home-decor/bedroom-plants.jpg)](https://pin.it/XXXXXXX)
+[![Indoor plant near window bedroom decor]({{ site.baseurl }}/assets/images/home-decor/bedroom-plants.jpg)](https://pin.it/tkgdYK8a0)
 
 Plants add life and freshness while improving visual appeal. I have a snake plant in my bedroom that's been thriving for years with minimal care.
 
@@ -153,7 +153,7 @@ Plants add life and freshness while improving visual appeal. I have a snake plan
 
 ## 7. Stick to a Simple Color Palette
 
-[![Neutral color palette bedroom beige tones]({{ site.baseurl }}/assets/images/home-decor/neutral-bedroom-colors.jpg)](https://pin.it/XXXXXXX)
+[![Neutral color palette bedroom beige tones]({{ site.baseurl }}/assets/images/home-decor/neutral-bedroom-colors.jpg)](https://pin.it/tkgdYK8a0)
 
 Too many colors can make a room feel cluttered. I made this mistake in my first apartment and it felt chaotic.
 
@@ -176,7 +176,7 @@ Too many colors can make a room feel cluttered. I made this mistake in my first 
 
 ## 8. Style Your Nightstands Like a Designer
 
-[![Minimal nightstand decor lamp book plant]({{ site.baseurl }}/assets/images/home-decor/nightstand-decor.jpg)](https://pin.it/XXXXXXX)
+[![Minimal nightstand decor lamp book plant]({{ site.baseurl }}/assets/images/home-decor/nightstand-decor.jpg)](https://pin.it/tkgdYK8a0)
 
 A cluttered nightstand can ruin an otherwise beautiful bedroom. Keep it simple and intentional.
 
@@ -199,7 +199,7 @@ A cluttered nightstand can ruin an otherwise beautiful bedroom. Keep it simple a
 
 ## 9. Install Floor-Length Curtains
 
-[![Light curtains bedroom window aesthetic]({{ site.baseurl }}/assets/images/home-decor/bedroom-curtains.jpg)](https://pin.it/XXXXXXX)
+[![Light curtains bedroom window aesthetic]({{ site.baseurl }}/assets/images/home-decor/bedroom-curtains.jpg)](https://pin.it/tkgdYK8a0)
 
 Curtains soften the room and make ceilings appear higher. I was amazed at how much bigger my room looked with correctly hung curtains.
 
@@ -223,7 +223,7 @@ Curtains soften the room and make ceilings appear higher. I was amazed at how mu
 
 ## 10. Use Mirrors to Increase Light and Space
 
-[![Large mirror reflecting light bedroom decor]({{ site.baseurl }}/assets/images/home-decor/bedroom-mirror.jpg)](https://pin.it/XXXXXXX)
+[![Large mirror reflecting light bedroom decor]({{ site.baseurl }}/assets/images/home-decor/bedroom-mirror.jpg)](https://pin.it/tkgdYK8a0)
 
 Mirrors reflect light and create the illusion of more space. This is the oldest trick in interior design - and it works every time.
 
