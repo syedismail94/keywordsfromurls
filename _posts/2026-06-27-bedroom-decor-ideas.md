@@ -6,7 +6,7 @@ permalink: /home-decor/bedroom-decor-ideas/
 description: "Transform your bedroom with 10 simple decor ideas. From cozy lighting to accent walls — stylish tips for every budget in the USA."
 ---
 
-[![Cozy bedroom decor ideas hero shot with warm lighting and layered bedding]({{ site.baseurl }}/assets/images/home-decor/bedroom-decor-ideas-hero.jpg)](https://pin.it/XXXXXXX)
+[![Cozy bedroom decor ideas hero shot with warm lighting and layered bedding]({{ site.baseurl }}/assets/images/home-decor/bedroom-decor-ideas-hero.jpg)](https://pin.it/3jxWHHr9L)
 
 ---
 
@@ -28,7 +28,7 @@ The fastest way to make a bedroom look pulled-together is to treat your bed like
 
 **What it costs:** A good layered bedding set from Target or TJ Maxx runs $80–$200 total. Amazon Basics has a solid duvet set starting around $35.
 
-[![Layered hotel-style bedding with neutral tones and textured throw]({{ site.baseurl }}/assets/images/home-decor/layered-bedding-bedroom.jpg)](https://pin.it/XXXXXXX)
+[![Layered hotel-style bedding with neutral tones and textured throw]({{ site.baseurl }}/assets/images/home-decor/layered-bedding-bedroom.jpg)](https://pin.it/3jxWHHr9L)
 
 ---
 
@@ -50,7 +50,7 @@ A velvet or bouclé upholstered headboard in a deep tone — forest green, navy,
 
 **DIY tip:** You can fake a headboard by hanging a large piece of fabric or a tapestry centered above the bed — no drilling into studs needed. Great for renters.
 
-[![Sage green upholstered headboard as bedroom focal point]({{ site.baseurl }}/assets/images/home-decor/statement-headboard-bedroom.jpg)](https://pin.it/XXXXXXX)
+[![Sage green upholstered headboard as bedroom focal point]({{ site.baseurl }}/assets/images/home-decor/statement-headboard-bedroom.jpg)](https://pin.it/3jxWHHr9L)
 
 ---
 
@@ -70,7 +70,7 @@ Most bedrooms have one overhead light that makes everything look harsh and flat.
 - Target Threshold bedside lamps: $40–$80/each
 - Govee or Philips Hue LED strips (behind headboard): $25–$60
 
-[![Warm layered bedroom lighting with bedside lamp and LED strip behind headboard]({{ site.baseurl }}/assets/images/home-decor/layered-bedroom-lighting.jpg)](https://pin.it/XXXXXXX)
+[![Warm layered bedroom lighting with bedside lamp and LED strip behind headboard]({{ site.baseurl }}/assets/images/home-decor/layered-bedroom-lighting.jpg)](https://pin.it/3jxWHHr9L)
 
 ---
 
@@ -92,7 +92,7 @@ You don't need to paint all four walls. One bold wall is enough to completely tr
 
 **DIY note:** Peel-and-stick wallpaper from Chasing Paper or Tempaper is renter-safe and fully removable. A 60 sq ft room wall runs about $80–$130.
 
-[![Deep terracotta accent wall behind a bed with warm bedroom decor]({{ site.baseurl }}/assets/images/home-decor/accent-wall-bedroom.jpg)](https://pin.it/XXXXXXX)
+[![Deep terracotta accent wall behind a bed with warm bedroom decor]({{ site.baseurl }}/assets/images/home-decor/accent-wall-bedroom.jpg)](https://pin.it/3jxWHHr9L)
 
 ---
 
@@ -153,7 +153,7 @@ Decor can't compete with clutter. A beautifully decorated room still looks chaot
 
 **Visual order tip:** Keep surfaces at 70% empty. A nightstand with a lamp, one book, and a small plant looks curated. The same nightstand with 12 items looks messy.
 
-[![Minimalist bedroom nightstand styling with lamp, plant, and one book]({{ site.baseurl }}/assets/images/home-decor/bedroom-nightstand-styling.jpg)](https://pin.it/XXXXXXX)
+[![Minimalist bedroom nightstand styling with lamp, plant, and one book]({{ site.baseurl }}/assets/images/home-decor/bedroom-nightstand-styling.jpg)](https://pin.it/3jxWHHr9L)
 
 ---
 
@@ -195,7 +195,7 @@ Most people buy curtains that are too short. It's one of the most common decorat
 
 **Color tip:** Curtains in the same tone as your walls make the room feel larger and more cohesive.
 
-[![Floor-length linen curtains in a bright minimal bedroom]({{ site.baseurl }}/assets/images/home-decor/floor-length-bedroom-curtains.jpg)](https://pin.it/XXXXXXX)
+[![Floor-length linen curtains in a bright minimal bedroom]({{ site.baseurl }}/assets/images/home-decor/floor-length-bedroom-curtains.jpg)](https://pin.it/3jxWHHr9L)
 
 ---
 
@@ -216,7 +216,7 @@ If your bedroom has space — even just 4×4 feet in a corner — turn it into a
 
 **DIY note:** You can build a reading nook vibe with just a floor cushion ($30 from Amazon), a pile of pillows, and a plug-in wall sconce ($25) if space is tight.
 
-[![Cozy reading corner in bedroom with armchair, floor lamp, and throw blanket]({{ site.baseurl }}/assets/images/home-decor/bedroom-reading-corner.jpg)](https://pin.it/XXXXXXX)
+[![Cozy reading corner in bedroom with armchair, floor lamp, and throw blanket]({{ site.baseurl }}/assets/images/home-decor/bedroom-reading-corner.jpg)](https://pin.it/3jxWHHr9L)
 
 ---
 
