@@ -10,7 +10,7 @@ Starting a herb garden on your balcony sounds simple until you actually try it. 
 
 Here are 15 beginner steps to set up a balcony herb garden that actually survives past the first month.
 
-[![Beginner balcony herb garden setup with labeled pots and containers]({{ site.baseurl }}/assets/images/home-decor/balcony-herb-garden-setup-hero.jpg)](https://pin.it/XXXXXXX)
+[![Beginner balcony herb garden setup with labeled pots and containers]({{ site.baseurl }}/assets/images/home-decor/balcony-herb-garden-setup-hero.jpg)](https://pin.it/6JTH99PWJ)
 
 ## Quick Reference: What You'll Need
 
@@ -26,7 +26,7 @@ Here are 15 beginner steps to set up a balcony herb garden that actually survive
 
 Before buying a single pot, spend one day watching how much direct sun your balcony gets. Most herbs need at least 4–6 hours of direct sunlight. South or west-facing balconies usually get the most light, while north-facing ones need shade-tolerant herbs like mint or parsley instead of basil or rosemary.
 
-[![Checking balcony sunlight exposure before starting herb garden]({{ site.baseurl }}/assets/images/home-decor/checking-balcony-sunlight-herb-garden.jpg)](https://pin.it/XXXXXXX)
+[![Checking balcony sunlight exposure before starting herb garden]({{ site.baseurl }}/assets/images/home-decor/checking-balcony-sunlight-herb-garden.jpg)](https://pin.it/7MtUFqT73)
 
 ## 2. Pick the Right Container Type
 
@@ -38,7 +38,7 @@ Your container choice affects how often you'll water and how well your herbs gro
 | Plastic pots | Basil, mint, cilantro | $3–$8 |
 | Window box planter | Multiple herbs together | $15–$25 |
 
-[![Choosing terracotta and plastic containers for balcony herb garden]({{ site.baseurl }}/assets/images/home-decor/choosing-containers-balcony-herb-garden.jpg)](https://pin.it/XXXXXXX)
+[![Choosing terracotta and plastic containers for balcony herb garden]({{ site.baseurl }}/assets/images/home-decor/choosing-containers-balcony-herb-garden.jpg)](https://pin.it/7MtUFqT73)
 
 ## 3. Choose Beginner-Friendly Herbs
 
@@ -52,13 +52,13 @@ Not every herb is easy to start with. Skip the fussy ones until you have a seaso
 | Chives | Full sun to partial shade | Moderate | Easy |
 | Parsley | Partial shade | Regular | Easy |
 
-[![Beginner-friendly herbs for balcony garden basil mint thyme chives]({{ site.baseurl }}/assets/images/home-decor/beginner-friendly-herbs-balcony-garden.jpg)](https://pin.it/XXXXXXX)
+[![Beginner-friendly herbs for balcony garden basil mint thyme chives]({{ site.baseurl }}/assets/images/home-decor/beginner-friendly-herbs-balcony-garden.jpg)](https://pin.it/7MtUFqT73)
 
 ## 4. Get the Soil and Drainage Right
 
 Herbs hate sitting in soggy soil, and this is the single biggest reason beginner herb gardens fail. Use a well-draining potting mix, never garden soil straight from the ground, and make sure every pot has drainage holes at the bottom with a tray underneath to catch runoff.
 
-[![Well-draining potting soil setup for balcony herb garden pots]({{ site.baseurl }}/assets/images/home-decor/soil-drainage-setup-balcony-herb-garden.jpg)](https://pin.it/XXXXXXX)
+[![Well-draining potting soil setup for balcony herb garden pots]({{ site.baseurl }}/assets/images/home-decor/soil-drainage-setup-balcony-herb-garden.jpg)](https://pin.it/3asaLLxls)
 
 ## 5. Set a Simple Watering Schedule
 
@@ -77,13 +77,13 @@ If your balcony floor space is limited, a vertical herb stand lets you fit 6–8
 | Vertical tiered stand | Small balconies | $30–$60 |
 | Horizontal window box | Wider balconies | $20–$40 |
 
-[![Vertical tiered herb stand setup for small balcony]({{ site.baseurl }}/assets/images/home-decor/vertical-herb-stand-balcony-setup.jpg)](https://pin.it/XXXXXXX)
+[![Vertical tiered herb stand setup for small balcony]({{ site.baseurl }}/assets/images/home-decor/vertical-herb-stand-balcony-setup.jpg)](https://pin.it/5oqMKbu1u)
 
 ## 8. Choose Railing or Floor Placement
 
 Railing-mounted planters keep your floor completely clear and work well for smaller herbs like thyme and chives. Floor placement near a wall works better for larger herbs like rosemary or basil, since they need more room for roots to spread.
 
-[![Railing mounted herb planters versus floor placement on balcony]({{ site.baseurl }}/assets/images/home-decor/railing-vs-floor-herb-planters-balcony.jpg)](https://pin.it/XXXXXXX)
+[![Railing mounted herb planters versus floor placement on balcony]({{ site.baseurl }}/assets/images/home-decor/railing-vs-floor-herb-planters-balcony.jpg)](https://pin.it/3dJREERkW)
 
 ## 9. Label Every Pot
 
@@ -97,7 +97,7 @@ Balconies often get uneven light, with one side receiving more sun than the othe
 
 Balconies, especially on higher floors, can get more wind than a ground-level garden. Strong wind dries out soil faster and can snap thin stems like basil. A simple mesh windscreen along the railing, or grouping pots closer together, reduces wind stress significantly.
 
-[![Wind protection mesh screen for balcony herb garden]({{ site.baseurl }}/assets/images/home-decor/wind-protection-balcony-herb-garden.jpg)](https://pin.it/XXXXXXX)
+[![Wind protection mesh screen for balcony herb garden]({{ site.baseurl }}/assets/images/home-decor/wind-protection-balcony-herb-garden.jpg)](https://pin.it/3dJREERkW)
 
 ## 12. Plan for Seasonal Herb Swaps
 
@@ -107,7 +107,7 @@ Not all herbs survive every season outdoors. Basil and cilantro are warm-weather
 
 Cutting herbs the right way keeps the plant producing more instead of stressing it out. Always cut just above a leaf node, take no more than a third of the plant at once, and harvest in the morning when essential oils are strongest for the best flavor.
 
-[![Proper herb harvesting technique cutting above leaf node]({{ site.baseurl }}/assets/images/home-decor/harvesting-technique-balcony-herb-garden.jpg)](https://pin.it/XXXXXXX)
+[![Proper herb harvesting technique cutting above leaf node]({{ site.baseurl }}/assets/images/home-decor/harvesting-technique-balcony-herb-garden.jpg)](https://pin.it/d1gS9XKOK)
 
 ## 14. Watch for Common Pests Early
 
@@ -123,7 +123,7 @@ You don't need ten herbs on day one. Start with three to five pots on a simple s
 | 3 small pots with trays | $15–$25 |
 | Small bag of potting mix | $8–$12 |
 
-[![Budget friendly starter herb garden layout for balcony beginners]({{ site.baseurl }}/assets/images/home-decor/budget-starter-herb-garden-balcony.jpg)](https://pin.it/XXXXXXX)
+[![Budget friendly starter herb garden layout for balcony beginners]({{ site.baseurl }}/assets/images/home-decor/budget-starter-herb-garden-balcony.jpg)](https://pin.it/4qIhYnC2I)
 
 ## Frequently Asked Questions
 
