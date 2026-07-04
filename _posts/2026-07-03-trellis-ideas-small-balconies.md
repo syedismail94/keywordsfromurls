@@ -19,7 +19,7 @@ An old-style wooden ladder leaned against your railing instantly becomes a trell
 * **Best plants:** Pothos, string of pearls, jasmine
 * **Cost:** $20–$40
 
-[![Wooden ladder trellis leaned against balcony railing with climbing pothos vines](https://{{ site.baseurl }}/assets/images/home-decor/ladder-trellis-balcony-railing.jpg)](https://pin.it/pEQHEJDDm)
+[![Wooden ladder trellis leaned against balcony railing with climbing pothos vines]({{ site.baseurl }}/assets/images/home-decor/ladder-trellis-balcony-railing.jpg)](https://pin.it/pEQHEJDDm)
 
 ## 2. Bamboo Pole Trellis
 
@@ -29,7 +29,7 @@ Bamboo poles tied together in a fan or grid shape look natural and cost almost n
 * **Best plants:** Sweet peas, morning glory, cherry tomatoes
 * **Cost:** $10–$20
 
-[![Bamboo pole trellis tied in a fan shape on a small apartment balcony](https://{{ site.baseurl }}/assets/images/home-decor/bamboo-pole-trellis-fan.jpg)](https://pin.it/3EiwJhPiY)
+[![Bamboo pole trellis tied in a fan shape on a small apartment balcony]({{ site.baseurl }}/assets/images/home-decor/bamboo-pole-trellis-fan.jpg)](https://pin.it/3EiwJhPiY)
 
 ## 3. Wall-Mounted Lattice Panel
 
@@ -39,7 +39,7 @@ A simple wooden lattice panel screwed onto the balcony wall gives climbers somet
 * **Best plants:** Clematis, climbing hydrangea, ivy
 * **Cost:** $15–$35
 
-[![White wooden lattice panel mounted on a balcony wall with climbing ivy](https://{{ site.baseurl }}/assets/images/home-decor/wall-mounted-lattice-panel.jpg)](https://pin.it/6OzLO6yp1)
+[![White wooden lattice panel mounted on a balcony wall with climbing ivy]({{ site.baseurl }}/assets/images/home-decor/wall-mounted-lattice-panel.jpg)](https://pin.it/6OzLO6yp1)
 
 ## 4. Hanging String Trellis
 
@@ -57,7 +57,7 @@ PVC pipes glued into a grid make a lightweight, weatherproof trellis you can pai
 * **Best plants:** Cucumbers, climbing roses (mini varieties)
 * **Cost:** $12–$25
 
-[![Painted PVC pipe grid trellis on a balcony with green climbing vines](https://{{ site.baseurl }}/assets/images/home-decor/pvc-pipe-grid-trellis.jpg)](https://pin.it/4k0VDoOyo)
+[![Painted PVC pipe grid trellis on a balcony with green climbing vines]({{ site.baseurl }}/assets/images/home-decor/pvc-pipe-grid-trellis.jpg)](https://pin.it/4k0VDoOyo)
 
 ## 6. Obelisk Trellis in a Corner Pot
 
@@ -67,7 +67,7 @@ A tall, cone-shaped obelisk trellis fits neatly in one corner pot and adds heigh
 * **Best plants:** Climbing roses, mandevilla
 * **Cost:** $20–$45
 
-[![Tall metal obelisk trellis standing in a corner planter on a small balcony](https://{{ site.baseurl }}/assets/images/home-decor/obelisk-trellis-corner-pot.jpg)](https://pin.it/6YkvYfOiN)
+[![Tall metal obelisk trellis standing in a corner planter on a small balcony]({{ site.baseurl }}/assets/images/home-decor/obelisk-trellis-corner-pot.jpg)](https://pin.it/6YkvYfOiN)
 
 ## 7. Repurposed Pallet Trellis
 
@@ -77,7 +77,7 @@ An old wood pallet stood on its side is an instant rustic trellis — and it's o
 * **Best plants:** Strawberries, herbs, small climbers
 * **Cost:** $0–$20
 
-[![Rustic wooden pallet trellis standing upright on a balcony with trailing plants](https://{{ site.baseurl }}/assets/images/home-decor/repurposed-pallet-trellis.jpg)](https://pin.it/6YkvYfOiN)
+[![Rustic wooden pallet trellis standing upright on a balcony with trailing plants]({{ site.baseurl }}/assets/images/home-decor/repurposed-pallet-trellis.jpg)](https://pin.it/6YkvYfOiN)
 
 ## 8. Fan-Shaped Wire Trellis in a Pot
 
@@ -95,7 +95,7 @@ If your balcony is shared or overlooked by neighbors, a tall trellis panel along
 * **Best plants:** Star jasmine, honeysuckle
 * **Cost:** $30–$60
 
-[![Tall cedar trellis panel used as a privacy screen on an apartment balcony](https://{{ site.baseurl }}/assets/images/home-decor/balcony-divider-privacy-trellis.jpg)](https://pin.it/5ot9WJdFI)
+[![Tall cedar trellis panel used as a privacy screen on an apartment balcony]({{ site.baseurl }}/assets/images/home-decor/balcony-divider-privacy-trellis.jpg)](https://pin.it/5ot9WJdFI)
 
 ## 10. Window Box Trellis Combo
 
@@ -113,7 +113,7 @@ Copper pipes have a warm, modern look that suits minimalist balconies. It takes 
 * **Best plants:** Passionflower, clematis
 * **Cost:** $25–$50
 
-[![Modern copper pipe trellis with geometric design on a minimalist balcony](https://{{ site.baseurl }}/assets/images/home-decor/copper-pipe-trellis-modern.jpg)](https://pin.it/423ODrV23)
+[![Modern copper pipe trellis with geometric design on a minimalist balcony]({{ site.baseurl }}/assets/images/home-decor/copper-pipe-trellis-modern.jpg)](https://pin.it/423ODrV23)
 
 ## 12. Vertical Rope Ladder Trellis
 
@@ -147,7 +147,7 @@ An A-frame trellis stands on its own without needing a wall or railing, which ma
 * **Best plants:** Climbing roses, clematis, beans
 * **Cost:** $30–$55
 
-[![Freestanding wooden A-frame trellis in the center of an open balcony space](https://{{ site.baseurl }}/assets/images/home-decor/a-frame-freestanding-trellis.jpg)](https://pin.it/423ODrV23)
+[![Freestanding wooden A-frame trellis in the center of an open balcony space]({{ site.baseurl }}/assets/images/home-decor/a-frame-freestanding-trellis.jpg)](https://pin.it/423ODrV23)
 
 ## Quick Comparison Table
 
