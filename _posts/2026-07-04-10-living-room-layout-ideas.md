@@ -6,7 +6,7 @@ permalink: /home-decor/10-living-room-layout-ideas/
 description: "10 living room layout ideas for every room size and shape, with furniture spacing tips, cost notes, and where to shop in the USA."
 ---
 
-[![Living room layout ideas hero image showing a well-arranged furniture setup]({{ site.baseurl }}/assets/images/home-decor/hero-living-room-layout-ideas.jpg)](https://pin.it/XXXXXXX)
+[![Living room layout ideas hero image showing a well-arranged furniture setup]({{ site.baseurl }}/assets/images/home-decor/hero-living-room-layout-ideas.jpg)](https://pin.it/51FNPqr7B)
 
 Rearranging your living room doesn't cost a single dollar, but it can completely change how the room feels. A good layout makes conversation easy, keeps traffic flowing, and gives every piece of furniture a reason to be where it is.
 
@@ -30,7 +30,7 @@ This is the classic, safe-and-elegant layout. Two matching chairs face a sofa, w
 
 **Try it with:** a pair of accent chairs like IKEA's Strandmon ($279 each) facing a neutral sofa from Article or West Elm ($1,200–$2,000).
 
-[![Symmetrical living room layout with matching chairs facing a sofa]({{ site.baseurl }}/assets/images/home-decor/symmetrical-sofa-chair-layout.jpg)](https://pin.it/XXXXXXX)
+[![Symmetrical living room layout with matching chairs facing a sofa]({{ site.baseurl }}/assets/images/home-decor/symmetrical-sofa-chair-layout.jpg)](https://pin.it/57bSitXD6)
 
 ## 2. L-Shaped Sectional Corner Layout
 
@@ -40,7 +40,7 @@ An L-shaped sectional tucked into a corner frees up the rest of the floor and cr
 
 **Try it with:** a sectional such as Burrow's Nomad Sectional (from $2,395) or a budget option from Lovesac.
 
-[![L-shaped sectional placed in the corner of a living room]({{ site.baseurl }}/assets/images/home-decor/l-shaped-sectional-corner-layout.jpg)](https://pin.it/XXXXXXX)
+[![L-shaped sectional placed in the corner of a living room]({{ site.baseurl }}/assets/images/home-decor/l-shaped-sectional-corner-layout.jpg)](https://pin.it/u0pT34HzK)
 
 ## 3. Floating Furniture Layout
 
@@ -50,7 +50,7 @@ Instead of pushing every piece against the wall, pull your sofa and chairs a few
 
 **Tip:** add a slim console table behind the sofa to define the back edge and give it a finished look.
 
-[![Floating furniture layout with sofa pulled away from the wall]({{ site.baseurl }}/assets/images/home-decor/floating-furniture-layout.jpg)](https://pin.it/XXXXXXX)
+[![Floating furniture layout with sofa pulled away from the wall]({{ site.baseurl }}/assets/images/home-decor/floating-furniture-layout.jpg)](https://pin.it/1Aq9MOZhl)
 
 ## 4. Conversation Circle Layout
 
@@ -60,7 +60,7 @@ Arrange seating in a loose circle or oval around a central rug and coffee table.
 
 **Try it with:** two matching loveseats facing each other plus one accent chair to complete the circle.
 
-[![Conversation circle seating layout around a coffee table]({{ site.baseurl }}/assets/images/home-decor/conversation-circle-seating-layout.jpg)](https://pin.it/XXXXXXX)
+[![Conversation circle seating layout around a coffee table]({{ site.baseurl }}/assets/images/home-decor/conversation-circle-seating-layout.jpg)](https://pin.it/6qZMwBS1U)
 
 ## 5. Zone-Based Layout for Open Concept Rooms
 
@@ -74,7 +74,7 @@ When your living room flows into the kitchen or dining area, use a rug and a sof
 | Dining zone | Table + 4-6 chairs | 6x9 ft under table |
 | Entry zone | Console table | Runner, 2x6 ft |
 
-[![Zone based living room layout in an open concept home]({{ site.baseurl }}/assets/images/home-decor/zone-based-open-concept-layout.jpg)](https://pin.it/XXXXXXX)
+[![Zone based living room layout in an open concept home]({{ site.baseurl }}/assets/images/home-decor/zone-based-open-concept-layout.jpg)](https://pin.it/6qZMwBS1U)
 
 ## 6. Small Living Room Layout With Multi-Functional Furniture
 
@@ -84,7 +84,7 @@ In a small space, every piece should earn its spot twice. A storage ottoman repl
 
 **Try it with:** a storage ottoman ($90–$150 at Target or Wayfair) and a slim 2-seater loveseat.
 
-[![Small living room layout with multi functional storage furniture]({{ site.baseurl }}/assets/images/home-decor/small-living-room-multifunctional-layout.jpg)](https://pin.it/XXXXXXX)
+[![Small living room layout with multi functional storage furniture]({{ site.baseurl }}/assets/images/home-decor/small-living-room-multifunctional-layout.jpg)](https://pin.it/6pTcW4MtX)
 
 ## 7. Long and Narrow Room Layout
 
@@ -92,7 +92,7 @@ Long, narrow living rooms feel like hallways if you line every piece up along on
 
 **Best for:** railroad-style apartments, older homes, basements.
 
-[![Long narrow living room layout split into two furniture zones]({{ site.baseurl }}/assets/images/home-decor/long-narrow-living-room-layout.jpg)](https://pin.it/XXXXXXX)
+[![Long narrow living room layout split into two furniture zones]({{ site.baseurl }}/assets/images/home-decor/long-narrow-living-room-layout.jpg)](https://pin.it/5dKiGtg1v)
 
 ## 8. Layout Built Around a Focal Point
 
@@ -106,7 +106,7 @@ Every great living room layout has one hero: a fireplace, a big window, or a TV 
 | TV wall | Sofa directly across, at eye level when seated |
 | Large window | Seating angled to enjoy the view without glare |
 
-[![Living room layout arranged around a fireplace focal point]({{ site.baseurl }}/assets/images/home-decor/focal-point-fireplace-layout.jpg)](https://pin.it/XXXXXXX)
+[![Living room layout arranged around a fireplace focal point]({{ site.baseurl }}/assets/images/home-decor/focal-point-fireplace-layout.jpg)](https://pin.it/5vS3SuL2y)
 
 ## 9. Living Room and Dining Combo Layout
 
@@ -114,7 +114,7 @@ If your living and dining areas share one room, place the sofa with its back to 
 
 **Best for:** apartments, condos, small houses without a separate dining room.
 
-[![Combined living room and dining area layout with sofa as divider]({{ site.baseurl }}/assets/images/home-decor/living-dining-combo-layout.jpg)](https://pin.it/XXXXXXX)
+[![Combined living room and dining area layout with sofa as divider]({{ site.baseurl }}/assets/images/home-decor/living-dining-combo-layout.jpg)](https://pin.it/5XOqIjTjH)
 
 ## 10. Flexible Layout for Renters
 
