@@ -6,7 +6,7 @@ permalink: /home-decor/shade-plants-low-sun-light/
 description: "Discover 10 shade plants that thrive in low sunlight. Easy care tips, costs, and where to buy them in the USA for a green, cozy home."
 ---
 
-[![Shade plants arranged in a low light living room corner]({{ site.baseurl }}/assets/images/home-decor/shade-plants-low-light-hero.jpg)](https://pin.it/XXXXXXX)
+[![Shade plants arranged in a low light living room corner]({{ site.baseurl }}/assets/images/home-decor/shade-plants-low-light-hero.jpg)](https://pin.it/2CggDW427)
 
 Not every room in your home gets bright sunlight, and that is okay. Some of the prettiest, healthiest plants actually prefer low light. If you have a dim hallway, a north-facing bedroom, or a desk far from the window, this list is for you.
 
@@ -37,7 +37,7 @@ It handles very low light well, though it grows faster in medium light. Let the 
 ### Cost and Where to Buy
 A small pothos costs around $12 to $25 at Home Depot, Lowe's, or The Sill. Trader Joe's also carries them seasonally for less.
 
-[![Golden pothos hanging in a low light corner shelf]({{ site.baseurl }}/assets/images/home-decor/golden-pothos-low-light.jpg)](https://pin.it/XXXXXXX)
+[![Golden pothos hanging in a low light corner shelf]({{ site.baseurl }}/assets/images/home-decor/golden-pothos-low-light.jpg)](https://pin.it/61hg0P7xZ)
 
 ## 2. Snake Plant
 
@@ -49,7 +49,7 @@ It survives in dim corners with almost no natural light. Water it every 2 to 3 w
 ### Cost and Where to Buy
 Prices range from $15 to $35 depending on size, available at IKEA, Lowe's, and Costa Farms online.
 
-[![Tall snake plant styled in a dark home corner]({{ site.baseurl }}/assets/images/home-decor/snake-plant-corner-decor.jpg)](https://pin.it/XXXXXXX)
+[![Tall snake plant styled in a dark home corner]({{ site.baseurl }}/assets/images/home-decor/snake-plant-corner-decor.jpg)](https://pin.it/2PtdMUuPs)
 
 ## 3. ZZ Plant
 
@@ -61,7 +61,7 @@ It thrives in low to medium light and stores water in its roots, so occasional n
 ### Cost and Where to Buy
 Expect to pay $20 to $40 at Home Depot or through The Sill's online store.
 
-[![ZZ plant on a wooden shelf in a dim room]({{ site.baseurl }}/assets/images/home-decor/zz-plant-shelf-decor.jpg)](https://pin.it/XXXXXXX)
+[![ZZ plant on a wooden shelf in a dim room]({{ site.baseurl }}/assets/images/home-decor/zz-plant-shelf-decor.jpg)](https://pin.it/5Sg4JHx0V)
 
 ## 4. Peace Lily
 
@@ -73,7 +73,7 @@ It prefers low to medium indirect light and tells you when it is thirsty by droo
 ### Cost and Where to Buy
 A healthy peace lily runs $18 to $30 at Lowe's, Walmart, or local nurseries.
 
-[![Peace lily with white blooms in a low light living room]({{ site.baseurl }}/assets/images/home-decor/peace-lily-living-room.jpg)](https://pin.it/XXXXXXX)
+[![Peace lily with white blooms in a low light living room]({{ site.baseurl }}/assets/images/home-decor/peace-lily-living-room.jpg)](https://pin.it/1qSXE00ra)
 
 ## 5. Chinese Evergreen
 
@@ -85,7 +85,7 @@ It does well in low light and prefers to dry out slightly between waterings.
 ### Cost and Where to Buy
 Pricing is around $20 to $45 depending on the leaf pattern, found at Costa Farms or local garden centers.
 
-[![Chinese evergreen plant on a side table near a shaded window]({{ site.baseurl }}/assets/images/home-decor/chinese-evergreen-side-table.jpg)](https://pin.it/XXXXXXX)
+[![Chinese evergreen plant on a side table near a shaded window]({{ site.baseurl }}/assets/images/home-decor/chinese-evergreen-side-table.jpg)](https://pin.it/4dx1wRiXL)
 
 ## 6. Cast Iron Plant
 
@@ -97,7 +97,7 @@ It grows well in very low light and only needs water every two weeks or so.
 ### Cost and Where to Buy
 Costs range from $18 to $35, available at Home Depot and specialty plant shops.
 
-[![Cast iron plant placed in a shaded hallway]({{ site.baseurl }}/assets/images/home-decor/cast-iron-plant-hallway.jpg)](https://pin.it/XXXXXXX)
+[![Cast iron plant placed in a shaded hallway]({{ site.baseurl }}/assets/images/home-decor/cast-iron-plant-hallway.jpg)](https://pin.it/47jViKC6f)
 
 ## 7. Boston Fern
 
@@ -109,7 +109,7 @@ It prefers low to medium indirect light and consistent moisture, so water it 2 t
 ### Cost and Where to Buy
 A hanging Boston fern costs $15 to $28 at Lowe's or Home Depot.
 
-[![Boston fern hanging basket in a low light bathroom]({{ site.baseurl }}/assets/images/home-decor/boston-fern-hanging-basket.jpg)](https://pin.it/XXXXXXX)
+[![Boston fern hanging basket in a low light bathroom]({{ site.baseurl }}/assets/images/home-decor/boston-fern-hanging-basket.jpg)](https://pin.it/6oqGMiNHN)
 
 ## 8. Heartleaf Philodendron
 
@@ -121,7 +121,7 @@ It handles low to medium light and prefers the top inch of soil to dry before wa
 ### Cost and Where to Buy
 Prices start around $10 and go up to $22, sold at Trader Joe's, Home Depot, and The Sill.
 
-[![Heartleaf philodendron trailing on a bookshelf]({{ site.baseurl }}/assets/images/home-decor/philodendron-heartleaf-shelf.jpg)](https://pin.it/XXXXXXX)
+[![Heartleaf philodendron trailing on a bookshelf]({{ site.baseurl }}/assets/images/home-decor/philodendron-heartleaf-shelf.jpg)](https://pin.it/7bQKyrygE)
 
 ## 9. Calathea
 
@@ -133,7 +133,7 @@ It prefers low to medium indirect light and likes consistently moist soil with f
 ### Cost and Where to Buy
 A Calathea typically costs $15 to $30, found at Costa Farms online or local plant boutiques.
 
-[![Calathea plant with patterned leaves in a bedroom corner]({{ site.baseurl }}/assets/images/home-decor/calathea-bedroom-corner.jpg)](https://pin.it/XXXXXXX)
+[![Calathea plant with patterned leaves in a bedroom corner]({{ site.baseurl }}/assets/images/home-decor/calathea-bedroom-corner.jpg)](https://pin.it/7bQKyrygE)
 
 ## 10. English Ivy
 
