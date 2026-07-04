@@ -10,8 +10,7 @@ Small balcony, big dreams — that's most of us. You want a green, private littl
 
 Below are 15 trellis ideas that actually work on tight balconies, with real prices, materials, and where to buy in the USA.
 
-[![Small balcony corner with a wooden trellis covered in climbing vines and hanging pots](https://{{ site.baseurl }}/assets/images/home-decor/small-balcony-trellis-hero.jpg)](https://pin.it/57KhkhLWJ)
-
+[![Small balcony corner with a wooden trellis covered in climbing vines and hanging pots]({{ site.baseurl }}/assets/images/home-decor/small-balcony-trellis-hero.jpg)](https://pin.it/57KhkhLWJ)
 ## 1. Ladder Trellis Against the Railing
 
 An old-style wooden ladder leaned against your railing instantly becomes a trellis. Vines climb the rungs, and you can hang small pots off each step too.
