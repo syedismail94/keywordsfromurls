@@ -6,7 +6,7 @@ permalink: /home-decor/guest-bathroom-decor-ideas/
 description: "15 easy guest bathroom decor ideas with warm lighting, plants, and small-space tips your visitors will remember."
 ---
 
-[![Cozy guest bathroom with green tile shower, plants, and warm candle lighting]({{ site.baseurl }}/assets/images/home-decor/guest-bathroom-hero-green-tile.jpg)](https://pin.it/XXXXXXX)
+[![Cozy guest bathroom with green tile shower, plants, and warm candle lighting]({{ site.baseurl }}/assets/images/home-decor/guest-bathroom-hero-green-tile.jpg)](https://pin.it/6s4zZz9hW)
 
 Your guest bathroom does not need a full renovation to feel special. A few smart swaps in color, lighting, and styling can turn a plain half-bath into a space your visitors actually compliment. Below are 15 real, doable ideas — no big budget or contractor required for most of them.
 
@@ -18,7 +18,7 @@ A round mirror softens all the straight lines in a small bathroom. Look for one 
 
 Live plants make a bathroom feel finished. Pothos and ferns handle humidity well and need almost no direct sun.
 
-[![Trailing pothos plants on a floating wood shelf above a bathroom vanity]({{ site.baseurl }}/assets/images/home-decor/trailing-plants-floating-shelf.jpg)](https://pin.it/XXXXXXX)
+[![Trailing pothos plants on a floating wood shelf above a bathroom vanity]({{ site.baseurl }}/assets/images/home-decor/trailing-plants-floating-shelf.jpg)](https://pin.it/3o6zddagm)
 
 If you would rather skip watering duty, high-quality faux trailing vines from Target or Amazon look nearly identical from a few feet away.
 
@@ -26,7 +26,7 @@ If you would rather skip watering duty, high-quality faux trailing vines from Ta
 
 White vanities are safe, but a painted vanity in forest green, navy, or charcoal instantly makes the room look designed on purpose.
 
-[![Navy blue bathroom vanity with brass hardware and white marble countertop]({{ site.baseurl }}/assets/images/home-decor/navy-vanity-brass-hardware.jpg)](https://pin.it/XXXXXXX)
+[![Navy blue bathroom vanity with brass hardware and white marble countertop]({{ site.baseurl }}/assets/images/home-decor/navy-vanity-brass-hardware.jpg)](https://pin.it/7tzr5LCjd)
 
 Benjamin Moore's "Hunter Green" and "Hale Navy" are two popular cabinet colors for this look, and a quart of cabinet paint runs about $25–$40.
 
@@ -38,7 +38,7 @@ A thin, washable runner rug in a faded floral or medallion pattern adds warmth u
 
 Swapping chrome faucets and towel bars for brushed gold is one of the highest-impact, lowest-effort updates you can make.
 
-[![Brushed gold faucet and vessel sink on a gray bathroom vanity with warm lighting]({{ site.baseurl }}/assets/images/home-decor/brushed-gold-faucet-fixtures.jpg)](https://pin.it/XXXXXXX)
+[![Brushed gold faucet and vessel sink on a gray bathroom vanity with warm lighting]({{ site.baseurl }}/assets/images/home-decor/brushed-gold-faucet-fixtures.jpg)](https://pin.it/7xvYqf9e5)
 
 A single faucet swap costs $80–$200 and takes under an hour if your supply lines already match.
 
@@ -46,7 +46,7 @@ A single faucet swap costs $80–$200 and takes under an hour if your supply lin
 
 Open shelving gives you a spot for rolled towels, small plants, and a candle without crowding the counter.
 
-[![Floating wood shelves styled with folded towels and small potted plants]({{ site.baseurl }}/assets/images/home-decor/floating-wood-shelves-styling.jpg)](https://pin.it/XXXXXXX)
+[![Floating wood shelves styled with folded towels and small potted plants]({{ site.baseurl }}/assets/images/home-decor/floating-wood-shelves-styling.jpg)](https://pin.it/510aVeodk)
 
 Keep styling to odd numbers — three items per shelf usually looks more natural than two or four.
 
@@ -58,7 +58,7 @@ A single botanical or abstract print in a thin black or brass frame fills empty 
 
 Even if the rest of the shower is plain white, a colored or textured tile inside the niche adds a designer touch without retiling the whole stall.
 
-[![Green textured tile shower niche with bottles and a small wood shelf]({{ site.baseurl }}/assets/images/home-decor/textured-tile-shower-niche.jpg)](https://pin.it/XXXXXXX)
+[![Green textured tile shower niche with bottles and a small wood shelf]({{ site.baseurl }}/assets/images/home-decor/textured-tile-shower-niche.jpg)](https://pin.it/510aVeodk)
 
 Zellige-style tile from Clé Tile or Fireclay Tile is a favorite for this exact spot.
 
@@ -66,7 +66,7 @@ Zellige-style tile from Clé Tile or Fireclay Tile is a favorite for this exact 
 
 Overhead lighting alone tends to feel harsh. A few candles on the counter soften the room and make it feel guest-ready in seconds.
 
-[![Lit candles on a bathroom vanity counter beside a mirror at dusk]({{ site.baseurl }}/assets/images/home-decor/candles-vanity-ambient-lighting.jpg)](https://pin.it/XXXXXXX)
+[![Lit candles on a bathroom vanity counter beside a mirror at dusk]({{ site.baseurl }}/assets/images/home-decor/candles-vanity-ambient-lighting.jpg)](https://pin.it/2kTLrSkOv)
 
 Stick to soy or beeswax candles in unscented or lightly scented options so they do not clash with soap and lotion smells already in the room.
 
@@ -78,7 +78,7 @@ If your layout allows it, a frameless glass shower door instantly makes a small 
 
 A vessel sink that sits on top of the counter, rather than dropped in, gives the vanity a boutique-hotel look.
 
-[![White vessel sink on a light gray vanity with brass faucet and candles]({{ site.baseurl }}/assets/images/home-decor/vessel-sink-modern-vanity.jpg)](https://pin.it/XXXXXXX)
+[![White vessel sink on a light gray vanity with brass faucet and candles]({{ site.baseurl }}/assets/images/home-decor/vessel-sink-modern-vanity.jpg)](https://pin.it/2kTLrSkOv)
 
 Just confirm your counter height still works comfortably for guests — vessel sinks add 4–6 inches of height.
 
@@ -86,7 +86,7 @@ Just confirm your counter height still works comfortably for guests — vessel s
 
 Real marble is expensive and needs regular sealing. Porcelain tile that mimics marble veining gives the same high-end look for a fraction of the cost and zero maintenance.
 
-[![Marble-look porcelain tile bathroom wall with round backlit mirror and fresh flowers]({{ site.baseurl }}/assets/images/home-decor/marble-look-tile-luxury.jpg)](https://pin.it/XXXXXXX)
+[![Marble-look porcelain tile bathroom wall with round backlit mirror and fresh flowers]({{ site.baseurl }}/assets/images/home-decor/marble-look-tile-luxury.jpg)](https://pin.it/59q9KQdux)
 
 ## 13. Add Sconce Lighting Beside the Mirror
 
@@ -100,7 +100,7 @@ A seagrass or rattan basket under the vanity or on an open shelf keeps spare tow
 
 Nothing signals "ready for guests" faster than a small vase of fresh flowers on the counter.
 
-[![Fresh white flowers in vases on a marble bathroom counter with a backlit mirror]({{ site.baseurl }}/assets/images/home-decor/fresh-flowers-counter-styling.jpg)](https://pin.it/XXXXXXX)
+[![Fresh white flowers in vases on a marble bathroom counter with a backlit mirror]({{ site.baseurl }}/assets/images/home-decor/fresh-flowers-counter-styling.jpg)](https://pin.it/6KXG42ovR)
 
 Even grocery-store stems in a simple glass vase make a real difference — this is one of the cheapest updates on the list.
 
