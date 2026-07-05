@@ -10,7 +10,7 @@ Your dorm bed is the biggest thing in the room, so it sets the tone for everythi
 
 Below are 10 dorm bed ideas that actually work in real dorm rooms — small footprints, shared walls, no drilling allowed. Each one is easy to copy on a normal student budget.
 
-[![Cozy neutral dorm bed with fairy lights and layered bedding as hero inspiration for dorm room decor]({{ site.baseurl }}/assets/images/home-decor/dorm-bed-ideas-hero.jpg)](https://pin.it/XXXXXXX)
+[![Cozy neutral dorm bed with fairy lights and layered bedding as hero inspiration for dorm room decor]({{ site.baseurl }}/assets/images/home-decor/dorm-bed-ideas-hero.jpg)](https://pin.it/57W8nqgQf)
 
 ## 1. Add Under-Bed Storage Bins
 
@@ -18,7 +18,7 @@ Dorm rooms almost never have enough closet space, so the space under your bed ri
 
 Look for bins that match your frame height — most dorm bed risers add 6 to 8 inches, which fits a standard 6-inch storage bin with room to spare.
 
-[![Stackable storage bins tucked neatly under a lofted dorm bed frame]({{ site.baseurl }}/assets/images/home-decor/under-bed-storage-bins.jpg)](https://pin.it/XXXXXXX)
+[![Stackable storage bins tucked neatly under a lofted dorm bed frame]({{ site.baseurl }}/assets/images/home-decor/under-bed-storage-bins.jpg)](https://pin.it/VNKKeKBgN)
 
 ### Quick Comparison: Under-Bed Storage Options
 
@@ -35,7 +35,7 @@ If plastic bins feel too dorm-standard, woven wicker baskets do the same storage
 
 This works especially well with warm color palettes — think blush pink, cream, and sage green bedding.
 
-[![Row of wicker baskets under a dorm bed used as stylish storage]({{ site.baseurl }}/assets/images/home-decor/wicker-basket-storage.jpg)](https://pin.it/XXXXXXX)
+[![Row of wicker baskets under a dorm bed used as stylish storage]({{ site.baseurl }}/assets/images/home-decor/wicker-basket-storage.jpg)](https://pin.it/VNKKeKBgN)
 
 ## 3. Drape Fairy Lights Along the Headboard
 
@@ -43,7 +43,7 @@ This is the single easiest upgrade on this list. A strand of warm white LED fair
 
 Battery-powered or USB-powered strands with removable adhesive clips are best, since most dorms don't allow nails or wall damage.
 
-[![Warm fairy lights draped along the wall above a dorm bed headboard]({{ site.baseurl }}/assets/images/home-decor/fairy-lights-headboard.jpg)](https://pin.it/XXXXXXX)
+[![Warm fairy lights draped along the wall above a dorm bed headboard]({{ site.baseurl }}/assets/images/home-decor/fairy-lights-headboard.jpg)](https://pin.it/7cd8joRwQ)
 
 ## 4. Layer Neutral Bedding for a Hotel Look
 
@@ -51,7 +51,7 @@ You don't need a bold pattern to make a bed look good. A neutral palette — ivo
 
 Start with a flat base sheet set, add a textured duvet, then finish with two throw pillows and one folded blanket at the foot of the bed.
 
-[![Neutral layered dorm bedding in ivory and oatmeal tones for a hotel-style look]({{ site.baseurl }}/assets/images/home-decor/neutral-layered-bedding.jpg)](https://pin.it/XXXXXXX)
+[![Neutral layered dorm bedding in ivory and oatmeal tones for a hotel-style look]({{ site.baseurl }}/assets/images/home-decor/neutral-layered-bedding.jpg)](https://pin.it/77XIHtUIg)
 
 ## 5. Bring in a Boho Green Jungle Look
 
@@ -59,7 +59,7 @@ If you like a lived-in, plant-filled room, lean into it on the bed too. Olive gr
 
 Faux eucalyptus garlands draped along a shelf above the bed give the same effect with zero watering required.
 
-[![Boho dorm bed styled with olive green bedding and trailing plants]({{ site.baseurl }}/assets/images/home-decor/boho-green-jungle-bed.jpg)](https://pin.it/XXXXXXX)
+[![Boho dorm bed styled with olive green bedding and trailing plants]({{ site.baseurl }}/assets/images/home-decor/boho-green-jungle-bed.jpg)](https://pin.it/77XIHtUIg)
 
 ## 6. Hang Sheer Canopy Curtains
 
@@ -67,7 +67,7 @@ A canopy frame with sheer curtains hung around the bed turns a standard dorm fra
 
 Pick a light, breathable fabric so the curtains don't trap heat, and pair with the fairy lights from tip 3 for a soft glow at night.
 
-[![Sheer dusty blue canopy curtains hung around a dorm bed frame]({{ site.baseurl }}/assets/images/home-decor/canopy-curtain-bed.jpg)](https://pin.it/XXXXXXX)
+[![Sheer dusty blue canopy curtains hung around a dorm bed frame]({{ site.baseurl }}/assets/images/home-decor/canopy-curtain-bed.jpg)](https://pin.it/7yhjY06Tp)
 
 ## 7. Build a Gallery Wall of Posters Above the Bed
 
@@ -75,7 +75,7 @@ Instead of one big poster, group two or three framed prints of different sizes a
 
 Command strips or 3M poster hanging strips are the go-to for dorms since they hold real weight and come off cleanly at move-out.
 
-[![Framed poster gallery wall arranged above a dorm bed headboard]({{ site.baseurl }}/assets/images/home-decor/poster-gallery-wall.jpg)](https://pin.it/XXXXXXX)
+[![Framed poster gallery wall arranged above a dorm bed headboard]({{ site.baseurl }}/assets/images/home-decor/poster-gallery-wall.jpg)](https://pin.it/4JE8QXY5n)
 
 ## 8. Create a Polaroid Photo Wall
 
@@ -83,7 +83,7 @@ A cluster of small printed photos taped in a loose grid beside the bed is one of
 
 Keep the grid loose and slightly uneven — perfectly straight rows tend to look less natural.
 
-[![Small polaroid photo wall arranged beside a dorm bed]({{ site.baseurl }}/assets/images/home-decor/polaroid-photo-wall.jpg)](https://pin.it/XXXXXXX)
+[![Small polaroid photo wall arranged beside a dorm bed]({{ site.baseurl }}/assets/images/home-decor/polaroid-photo-wall.jpg)](https://pin.it/4JE8QXY5n)
 
 ## 9. Match Your Throw Pillows to One Accent Color
 
@@ -91,7 +91,7 @@ Pick one accent color — sage green, dusty pink, or mustard — and repeat it a
 
 Stick to two pillow shapes max (one lumbar, one square) so the bed doesn't feel overcrowded in a small dorm room.
 
-[![Dorm bed styled with matching sage green throw pillows as an accent color]({{ site.baseurl }}/assets/images/home-decor/matching-throw-pillows.jpg)](https://pin.it/XXXXXXX)
+[![Dorm bed styled with matching sage green throw pillows as an accent color]({{ site.baseurl }}/assets/images/home-decor/matching-throw-pillows.jpg)](https://pin.it/yPTzSWD3n)
 
 ## A Quick Note on DIY Options
 
