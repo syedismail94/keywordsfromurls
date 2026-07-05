@@ -10,7 +10,7 @@ Working from home only feels good when your space actually works for you. A cram
 
 Below are 10 home office inspiration ideas that mix good design with real function. Each one is something you can actually plan for your own space, whether you have a full spare room or just a small nook.
 
-[![Modern home office setup with natural light and wooden desk](https://keywordsfromurls.com/assets/images/home-decor/home-office-inspiration-hero.jpg)](https://pin.it/XXXXXXX)
+[![Modern home office setup with natural light and wooden desk](https://keywordsfromurls.com/assets/images/home-decor/home-office-inspiration-hero.jpg)](https://pin.it/62OKcJGa9)
 
 ## 1. Position Your Desk Near Natural Light
 
@@ -20,7 +20,7 @@ Daylight does more for your focus than any productivity app. Placing your desk n
 
 **What to do:** Set your desk perpendicular to the window instead of facing it head-on. This avoids glare on your monitor while still bathing the space in light.
 
-[![Home office desk placed beside a bright window for natural light](https://keywordsfromurls.com/assets/images/home-decor/natural-light-window-desk-placement.jpg)](https://pin.it/XXXXXXX)
+[![Home office desk placed beside a bright window for natural light](https://keywordsfromurls.com/assets/images/home-decor/natural-light-window-desk-placement.jpg)](https://pin.it/62OKcJGa9)
 
 | Light Source | Cost (USD) | Where to Buy |
 |---|---|---|
@@ -39,7 +39,7 @@ Your desk is the anchor piece of the whole room, so it's worth picking one that 
 
 A few solid options: the IKEA MICKE desk (around $99) for budget-friendly minimalism, or the Fully Jarvis standing desk (around $499) if you want a sit-stand option.
 
-[![Statement wooden desk as the focal point of a home office](https://keywordsfromurls.com/assets/images/home-decor/statement-desk-design-idea.jpg)](https://pin.it/XXXXXXX)
+[![Statement wooden desk as the focal point of a home office](https://keywordsfromurls.com/assets/images/home-decor/statement-desk-design-idea.jpg)](https://pin.it/62OKcJGa9)
 
 ## 3. Style an Ergonomic Chair That Still Looks Good
 
@@ -56,7 +56,7 @@ A chair that hurts your back after an hour is a problem no matter how nice the r
 | Herman Miller Aeron | $1,200–$1,600 | Long work hours |
 | Branch Ergonomic Chair | $300–$350 | Budget ergonomics |
 
-[![Ergonomic office chair styled with cushion and throw for a home office](https://keywordsfromurls.com/assets/images/home-decor/ergonomic-chair-styling.jpg)](https://pin.it/XXXXXXX)
+[![Ergonomic office chair styled with cushion and throw for a home office](https://keywordsfromurls.com/assets/images/home-decor/ergonomic-chair-styling.jpg)](https://pin.it/62OKcJGa9)
 
 ## 4. Add an Accent Wall Behind the Desk
 
@@ -69,7 +69,7 @@ An accent wall gives your home office personality without redoing the whole room
 
 Sherwin-Williams "Naval" or Behr "Cracked Pepper" are both popular picks, and a gallon typically runs $45–$55.
 
-[![Accent wall painted in sage green behind a home office desk](https://keywordsfromurls.com/assets/images/home-decor/accent-wall-color-home-office.jpg)](https://pin.it/XXXXXXX)
+[![Accent wall painted in sage green behind a home office desk](https://keywordsfromurls.com/assets/images/home-decor/accent-wall-color-home-office.jpg)](https://pin.it/62OKcJGa9)
 
 ## 5. Use Open Shelving for Storage and Style
 
@@ -82,7 +82,7 @@ Closed cabinets hide clutter, but open shelving forces you to keep things intent
 
 A simple floating shelf set from IKEA (LACK, around $15 each) is an easy starting point.
 
-[![Open wall shelving styled with books and decor in a home office](https://keywordsfromurls.com/assets/images/home-decor/open-shelving-storage-idea.jpg)](https://pin.it/XXXXXXX)
+[![Open wall shelving styled with books and decor in a home office](https://keywordsfromurls.com/assets/images/home-decor/open-shelving-storage-idea.jpg)](https://pin.it/62OKcJGa9)
 
 ## 6. Layer in a Rug and Soft Textiles
 
@@ -105,7 +105,7 @@ A gallery wall turns a blank space above your desk into something worth looking 
 - Use matching or coordinating frames for a cleaner look
 - Start with a paper template on the wall before hammering any nails
 
-[![Gallery wall of framed art above a home office desk](https://keywordsfromurls.com/assets/images/home-decor/gallery-wall-art-home-office.jpg)](https://pin.it/XXXXXXX)
+[![Gallery wall of framed art above a home office desk](https://keywordsfromurls.com/assets/images/home-decor/gallery-wall-art-home-office.jpg)](https://pin.it/62OKcJGa9)
 
 ## 8. Bring in Plants for a Calmer Space
 
@@ -118,7 +118,7 @@ Plants add color, texture, and a bit of life to a room that can otherwise feel f
 
 Most of these run $15–$35 at a local nursery or Home Depot's garden section.
 
-[![Home office desk styled with green plants for a calming atmosphere](https://keywordsfromurls.com/assets/images/home-decor/plant-styling-greenery-idea.jpg)](https://pin.it/XXXXXXX)
+[![Home office desk styled with green plants for a calming atmosphere](https://keywordsfromurls.com/assets/images/home-decor/plant-styling-greenery-idea.jpg)](https://pin.it/62OKcJGa9)
 
 ## 9. Layer Task and Ambient Lighting
 
@@ -131,7 +131,7 @@ Relying on one overhead light is one of the most common home office mistakes. La
 
 A BenQ e-Reading desk lamp (around $110) is a popular pick for task lighting since it's designed to reduce glare.
 
-[![Layered task and ambient lighting setup in a home office](https://keywordsfromurls.com/assets/images/home-decor/task-ambient-lighting-fixture.jpg)](https://pin.it/XXXXXXX)
+[![Layered task and ambient lighting setup in a home office](https://keywordsfromurls.com/assets/images/home-decor/task-ambient-lighting-fixture.jpg)](https://pin.it/62OKcJGa9)
 
 ## 10. Design a Multi-Functional Corner Nook
 
@@ -142,7 +142,7 @@ Not everyone has a spare room, and that's fine. A well-planned corner nook can w
 - Vertical storage, like a wall-mounted shelf, instead of floor cabinets
 - A room divider or curtain if the nook is in a shared living space
 
-[![Small corner nook set up as a functional home office](https://keywordsfromurls.com/assets/images/home-decor/multifunctional-corner-nook.jpg)](https://pin.it/XXXXXXX)
+[![Small corner nook set up as a functional home office](https://keywordsfromurls.com/assets/images/home-decor/multifunctional-corner-nook.jpg)](https://pin.it/62OKcJGa9)
 
 ## Frequently Asked Questions
 
