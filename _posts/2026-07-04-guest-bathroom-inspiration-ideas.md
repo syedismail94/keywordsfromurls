@@ -6,7 +6,7 @@ permalink: /home-decor/guest-bathroom-inspiration-ideas/
 description: "10 easy guest bathroom inspiration ideas to impress every visitor, with costs, styles, and where to shop in the USA."
 ---
 
-[![Elegant guest bathroom with neutral tones and modern fixtures]({{ site.baseurl }}/assets/images/home-decor/guest-bathroom-hero.jpg)](https://pin.it/XXXXXXX)
+[![Elegant guest bathroom with neutral tones and modern fixtures]({{ site.baseurl }}/assets/images/home-decor/guest-bathroom-hero.jpg)](https://pin.it/2UkAwbSiV)
 
 Your guest bathroom says a lot about your home, even though it's one of the smallest rooms in it. It's usually the one space visitors actually see up close, so it's worth a little extra thought. The good news is you don't need a big renovation budget to make it feel warm, clean, and welcoming.
 
@@ -20,7 +20,7 @@ A soft palette of white, warm beige, and light stone instantly makes a small bat
 
 Pair matte white walls with a woven bath mat, a wood stool, and fluffy white towels. Add one small plant like eucalyptus for a spa feel.
 
-[![Spa inspired neutral guest bathroom with wood accents and white towels]({{ site.baseurl }}/assets/images/home-decor/spa-neutral-guest-bathroom.jpg)](https://pin.it/XXXXXXX)
+[![Spa inspired neutral guest bathroom with wood accents and white towels]({{ site.baseurl }}/assets/images/home-decor/spa-neutral-guest-bathroom.jpg)](https://pin.it/2UkAwbSiV)
 
 **Where to shop:** Target and HomeGoods have affordable waffle-weave towel sets ($25–$40), and World Market sells rattan stools around $60–$90.
 
@@ -30,7 +30,7 @@ A patterned or textured wallpaper on just one wall gives the room personality wi
 
 Peel-and-stick wallpaper is the easiest option if you're renting or don't want a permanent change.
 
-[![Bold botanical wallpaper accent wall behind guest bathroom vanity]({{ site.baseurl }}/assets/images/home-decor/wallpaper-accent-wall-bathroom.jpg)](https://pin.it/XXXXXXX)
+[![Bold botanical wallpaper accent wall behind guest bathroom vanity]({{ site.baseurl }}/assets/images/home-decor/wallpaper-accent-wall-bathroom.jpg)](https://pin.it/2UkAwbSiV)
 
 **Where to shop:** Spoonflower and Wayfair sell peel-and-stick rolls for $35–$70 per roll, covering about 28 square feet.
 
@@ -38,7 +38,7 @@ Peel-and-stick wallpaper is the easiest option if you're renting or don't want a
 
 The mirror is one of the first things guests look at, so swapping a plain builder-grade mirror for an arched, round, or brass-framed one changes the whole feel of the room instantly. This is one of the cheapest upgrades on this list with the biggest visual payoff.
 
-[![Round brass framed statement mirror above guest bathroom sink]({{ site.baseurl }}/assets/images/home-decor/statement-mirror-bathroom.jpg)](https://pin.it/XXXXXXX)
+[![Round brass framed statement mirror above guest bathroom sink]({{ site.baseurl }}/assets/images/home-decor/statement-mirror-bathroom.jpg)](https://pin.it/2UkAwbSiV)
 
 **Where to shop:** Amazon and Kirkland's carry round and arched framed mirrors between $60 and $150 depending on size.
 
@@ -46,7 +46,7 @@ The mirror is one of the first things guests look at, so swapping a plain builde
 
 Harsh overhead lighting can make even a beautifully decorated bathroom feel cold and unflattering. Adding a small warm-toned sconce on either side of the mirror, plus a soft LED nightlight, gives the room a hotel-like glow.
 
-[![Warm brass sconces on either side of bathroom mirror]({{ site.baseurl }}/assets/images/home-decor/warm-lighting-guest-bathroom.jpg)](https://pin.it/XXXXXXX)
+[![Warm brass sconces on either side of bathroom mirror]({{ site.baseurl }}/assets/images/home-decor/warm-lighting-guest-bathroom.jpg)](https://pin.it/2UkAwbSiV)
 
 **Where to shop:** Lowe's and Wayfair sell wall sconces from $40–$80 each; choose bulbs marked 2700K for a warm glow.
 
@@ -54,7 +54,7 @@ Harsh overhead lighting can make even a beautifully decorated bathroom feel cold
 
 Mismatched towels are one of the fastest ways to make a bathroom feel unfinished. A matched set in one or two colors, folded or rolled neatly on an open shelf, instantly reads as "high-end hotel" rather than "spare closet."
 
-[![Rolled matching white towels arranged on open bathroom shelf]({{ site.baseurl }}/assets/images/home-decor/matching-hotel-towels.jpg)](https://pin.it/XXXXXXX)
+[![Rolled matching white towels arranged on open bathroom shelf]({{ site.baseurl }}/assets/images/home-decor/matching-hotel-towels.jpg)](https://pin.it/2UkAwbSiV)
 
 **Where to shop:** Parachute and Brooklinen sell hotel-weight towel sets from $70–$120; Target's Threshold line offers a budget option at $25–$35.
 
@@ -62,7 +62,7 @@ Mismatched towels are one of the fastest ways to make a bathroom feel unfinished
 
 Mixing in natural materials like wood, rattan, or woven baskets softens the hard surfaces (tile, porcelain, glass) that dominate most bathrooms. A rattan mirror frame, a wood tray for soap and lotion, or a woven laundry basket all add warmth without any construction work.
 
-[![Rattan basket and wood tray adding natural texture to bathroom counter]({{ site.baseurl }}/assets/images/home-decor/natural-texture-rattan-bathroom.jpg)](https://pin.it/XXXXXXX)
+[![Rattan basket and wood tray adding natural texture to bathroom counter]({{ site.baseurl }}/assets/images/home-decor/natural-texture-rattan-bathroom.jpg)](https://pin.it/2UkAwbSiV)
 
 **Where to shop:** World Market and HomeGoods have rattan baskets and wood trays priced $15–$45.
 
@@ -70,7 +70,7 @@ Mixing in natural materials like wood, rattan, or woven baskets softens the hard
 
 An empty counter feels unfinished, but a cluttered one feels messy. The sweet spot is 3 to 5 curated items: a soap pump in a nice bottle, a small candle, a folded hand towel, and one small plant or stem in a vase.
 
-[![Styled bathroom counter with soap pump candle and small plant]({{ site.baseurl }}/assets/images/home-decor/styled-bathroom-counter.jpg)](https://pin.it/XXXXXXX)
+[![Styled bathroom counter with soap pump candle and small plant]({{ site.baseurl }}/assets/images/home-decor/styled-bathroom-counter.jpg)](https://pin.it/2UkAwbSiV)
 
 **Where to shop:** Target's Hearth & Hand line and Anthropologie both sell refillable glass soap pumps for $12–$28.
 
@@ -78,7 +78,7 @@ An empty counter feels unfinished, but a cluttered one feels messy. The sweet sp
 
 Swap the standard bath mat for a vintage-style, patterned, or chunky textured rug. This single change adds color and comfort underfoot and is one of the easiest weekend swaps on this whole list.
 
-[![Patterned vintage style bath rug in front of bathroom vanity]({{ site.baseurl }}/assets/images/home-decor/statement-bath-rug.jpg)](https://pin.it/XXXXXXX)
+[![Patterned vintage style bath rug in front of bathroom vanity]({{ site.baseurl }}/assets/images/home-decor/statement-bath-rug.jpg)](https://pin.it/2UkAwbSiV)
 
 **Where to shop:** Ruggable and Boutique Rugs sell washable patterned bath mats from $35–$65.
 
@@ -86,7 +86,7 @@ Swap the standard bath mat for a vintage-style, patterned, or chunky textured ru
 
 Live plants bring life into a guest bathroom, but not every plant likes steam and low light. Pothos, snake plants, and ZZ plants are nearly impossible to kill and tolerate bathroom humidity well. If you'd rather skip maintenance, a realistic faux stem works just as well visually.
 
-[![Snake plant in ceramic pot on guest bathroom windowsill]({{ site.baseurl }}/assets/images/home-decor/bathroom-friendly-plants.jpg)](https://pin.it/XXXXXXX)
+[![Snake plant in ceramic pot on guest bathroom windowsill]({{ site.baseurl }}/assets/images/home-decor/bathroom-friendly-plants.jpg)](https://pin.it/2UkAwbSiV)
 
 **Where to shop:** The Sill and local nurseries sell small snake plants for $18–$30; Target sells realistic faux stems for $10–$20.
 
