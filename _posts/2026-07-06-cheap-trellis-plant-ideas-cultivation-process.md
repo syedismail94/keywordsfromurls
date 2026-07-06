@@ -6,7 +6,7 @@ permalink: /home-decor/cheap-trellis-plant-ideas-cultivation-process/
 description: "10 budget-friendly trellis plant ideas with simple cultivation steps, costs, and buying tips for a lush, low-cost garden wall."
 ---
 
-[![Cheap trellis plant ideas for a budget garden wall]({{ site.baseurl }}/assets/images/home-decor/cheap-trellis-plants-hero.jpg)](https://pin.it/XXXXXXX)
+[![Cheap trellis plant ideas for a budget garden wall]({{ site.baseurl }}/assets/images/home-decor/cheap-trellis-plants-hero.jpg)](https://pin.it/2W98DyMlL)
 
 If you've got a bare fence, a boring wall, or an empty corner of the patio, a trellis is the cheapest way to fix it. You don't need a big budget or a green thumb. You just need the right plant, a cheap frame, and a little patience.
 
@@ -16,7 +16,7 @@ Below are 10 trellis plants that cost very little to grow, look gorgeous climbin
 
 Morning glory is one of the fastest, cheapest vines you can grow. It's an annual, so you start fresh each year, but the seeds cost almost nothing and it blooms within weeks.
 
-[![Morning glory vine climbing a simple garden trellis]({{ site.baseurl }}/assets/images/home-decor/morning-glory-trellis.jpg)](https://pin.it/XXXXXXX)
+[![Morning glory vine climbing a simple garden trellis]({{ site.baseurl }}/assets/images/home-decor/morning-glory-trellis.jpg)](https://pin.it/2W98DyMlL)
 
 **Cultivation process:**
 1. Soak seeds in water for 24 hours before planting to soften the shell.
@@ -31,7 +31,7 @@ Morning glory is one of the fastest, cheapest vines you can grow. It's an annual
 
 Sweet pea brings soft color and a light fragrance, and it's one of the easiest cottage-garden climbers for beginners.
 
-[![Sweet pea flowers growing along a wooden trellis]({{ site.baseurl }}/assets/images/home-decor/sweet-pea-trellis.jpg)](https://pin.it/XXXXXXX)
+[![Sweet pea flowers growing along a wooden trellis]({{ site.baseurl }}/assets/images/home-decor/sweet-pea-trellis.jpg)](https://pin.it/2W98DyMlL)
 
 **Cultivation process:**
 1. Plant seeds in early spring in well-drained soil.
@@ -46,7 +46,7 @@ Sweet pea brings soft color and a light fragrance, and it's one of the easiest c
 
 Clematis is a classic trellis favorite because of its large, showy flowers. It's a perennial, so it's a one-time investment that comes back year after year.
 
-[![Purple clematis flowers on a metal trellis panel]({{ site.baseurl }}/assets/images/home-decor/clematis-trellis.jpg)](https://pin.it/XXXXXXX)
+[![Purple clematis flowers on a metal trellis panel]({{ site.baseurl }}/assets/images/home-decor/clematis-trellis.jpg)](https://pin.it/4dTgY6xwe)
 
 **Cultivation process:**
 1. Plant in spring or fall, keeping the roots shaded and the top in sun ("cool feet, warm face").
@@ -61,7 +61,7 @@ Clematis is a classic trellis favorite because of its large, showy flowers. It's
 
 Climbing roses give a trellis that romantic, cottage-style look without needing a big garden.
 
-[![Pink climbing roses trained on a white trellis]({{ site.baseurl }}/assets/images/home-decor/climbing-roses-trellis.jpg)](https://pin.it/XXXXXXX)
+[![Pink climbing roses trained on a white trellis]({{ site.baseurl }}/assets/images/home-decor/climbing-roses-trellis.jpg)](https://pin.it/4HpQzGrkI)
 
 **Cultivation process:**
 1. Plant bare-root or potted roses in early spring in a sunny spot.
@@ -76,8 +76,7 @@ Climbing roses give a trellis that romantic, cottage-style look without needing 
 
 This cheerful little vine is perfect for containers and small trellises on balconies or patios.
 
-[![Black-eyed Susan vine with yellow flowers on a small trellis]({{ site.baseurl }}/assets/images/home-decor/black-eyed-susan-vine-trellis.jpg)](https://pin.it/XXXXXXX)
-
+[![Black-eyed Susan vine with yellow flowers on a small trellis]({{ site.baseurl }}/assets/images/home-decor/black-eyed-susan-vine-trellis.jpg)](https://pin.it/7mqwS7aie)
 **Cultivation process:**
 1. Start seeds indoors 6-8 weeks before the last frost, or buy a small starter plant.
 2. Transplant outdoors once frost danger is gone.
@@ -91,7 +90,7 @@ This cheerful little vine is perfect for containers and small trellises on balco
 
 Trellising isn't just for flowers — cucumbers grow beautifully vertical and add a fresh, kitchen-garden charm to a patio corner.
 
-[![Cucumber vines trained vertically on a wooden trellis]({{ site.baseurl }}/assets/images/home-decor/cucumber-vine-trellis.jpg)](https://pin.it/XXXXXXX)
+[![Cucumber vines trained vertically on a wooden trellis]({{ site.baseurl }}/assets/images/home-decor/cucumber-vine-trellis.jpg)](https://pin.it/6JyQZYjgN)
 
 **Cultivation process:**
 1. Sow seeds directly in soil once the ground has warmed up in late spring.
@@ -106,7 +105,7 @@ Trellising isn't just for flowers — cucumbers grow beautifully vertical and ad
 
 Pole beans are one of the cheapest, fastest-growing trellis plants, and they double as a small edible harvest.
 
-[![Pole bean plants climbing a bamboo trellis]({{ site.baseurl }}/assets/images/home-decor/pole-beans-trellis.jpg)](https://pin.it/XXXXXXX)
+[![Pole bean plants climbing a bamboo trellis]({{ site.baseurl }}/assets/images/home-decor/pole-beans-trellis.jpg)](https://pin.it/5IcaD7Ua7)
 
 **Cultivation process:**
 1. Sow seeds directly outdoors after the last frost, 1 inch deep.
@@ -121,8 +120,7 @@ Pole beans are one of the cheapest, fastest-growing trellis plants, and they dou
 
 Jasmine brings fragrance and a soft, romantic look, and it thrives happily on a simple trellis by a door or window.
 
-[![Fragrant jasmine vine growing on a trellis near a window]({{ site.baseurl }}/assets/images/home-decor/jasmine-trellis.jpg)](https://pin.it/XXXXXXX)
-
+[![Fragrant jasmine vine growing on a trellis near a window]({{ site.baseurl }}/assets/images/home-decor/jasmine-trellis.jpg)](https://pin.it/4olBNDOnd)
 **Cultivation process:**
 1. Plant in spring in well-drained, slightly acidic soil.
 2. Choose a spot with full sun to light shade.
@@ -136,7 +134,7 @@ Jasmine brings fragrance and a soft, romantic look, and it thrives happily on a 
 
 Honeysuckle is a tough, low-maintenance vine that fills a trellis quickly and attracts hummingbirds.
 
-[![Honeysuckle vine covering a garden trellis]({{ site.baseurl }}/assets/images/home-decor/honeysuckle-trellis.jpg)](https://pin.it/XXXXXXX)
+[![Honeysuckle vine covering a garden trellis]({{ site.baseurl }}/assets/images/home-decor/honeysuckle-trellis.jpg)](https://pin.it/7ngmd5tt5)
 
 **Cultivation process:**
 1. Plant in spring or fall in a sunny to partly shaded spot.
