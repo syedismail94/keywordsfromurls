@@ -6,7 +6,7 @@ permalink: /content-creation/100-hook-lines-for-your-videos/
 description: "100 proven hook lines to stop the scroll in the first 3 seconds. Copy-paste openers for TikTok, Reels & YouTube Shorts that actually get watch time."
 ---
 
-[![Content creator writing video hook lines in a notebook next to a phone on a tripod]({{ site.baseurl }}/assets/images/content-creation/video-hook-lines-hero.jpg)](https://pin.it/XXXXXXX)
+[![Content creator writing video hook lines in a notebook next to a phone on a tripod]({{ site.baseurl }}/assets/images/content-creation/video-hook-lines-hero.jpg)](https://pin.it/6kHVqsmJC)
 
 If your video doesn't grab attention in the first three seconds, it's over. People are scrolling fast, and your hook line is the only thing standing between "keep watching" and "next video."
 
@@ -192,7 +192,7 @@ Riding a trend gives you a head start, because the format is already familiar to
 
 You don't need fancy software to write a good hook, but a few tools can save time and help you deliver it smoothly on camera.
 
-[![Smartphone mounted on a tripod with a teleprompter app open, set up in a bright living room]({{ site.baseurl }}/assets/images/content-creation/teleprompter-app-video-setup.jpg)](https://pin.it/XXXXXXX)
+[![Smartphone mounted on a tripod with a teleprompter app open, set up in a bright living room]({{ site.baseurl }}/assets/images/content-creation/teleprompter-app-video-setup.jpg)](https://pin.it/6kHVqsmJC)
 
 | Tool | What It Does | Approx. Cost (USD) | Where to Get It |
 |---|---|---|---|
