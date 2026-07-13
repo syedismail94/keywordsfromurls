@@ -6,7 +6,7 @@ permalink: /home-decor/rustic-modern-kitchen-design-ideas/
 description: "Get a rustic modern kitchen with these 9 simple design ideas, costs, and material tips for a warm, timeless home upgrade."
 ---
 
-[![Rustic modern kitchen with wood beams, black metal accents, and warm lighting]({{ site.baseurl }}/assets/images/home-decor/rustic-modern-kitchen-hero.jpg)](https://pin.it/XXXXXXX)
+[![Rustic modern kitchen with wood beams, black metal accents, and warm lighting]({{ site.baseurl }}/assets/images/home-decor/rustic-modern-kitchen-hero.jpg)](https://pin.it/1hjCAt455)
 
 A rustic modern kitchen mixes two things that sound like opposites: cozy farmhouse charm and clean modern lines. The result is a space that feels warm, lived-in, and stylish at the same time.
 
@@ -33,7 +33,7 @@ Your color palette is the foundation of the whole look. Rustic modern kitchens u
 | Accent color | Charcoal or matte black | Island, hardware, fixtures |
 | Natural texture | Honey oak, walnut | Shelves, beams, countertop edges |
 
-[![Warm earthy color palette swatches with wood tones in a rustic kitchen]({{ site.baseurl }}/assets/images/home-decor/warm-earthy-color-palette-rustic-kitchen.jpg)](https://pin.it/XXXXXXX)
+[![Warm earthy color palette swatches with wood tones in a rustic kitchen]({{ site.baseurl }}/assets/images/home-decor/warm-earthy-color-palette-rustic-kitchen.jpg)](https://pin.it/1hjCAt455)
 
 ### Quick Tip
 Test your paint color on the wall for 2–3 days before committing. Kitchen lighting changes a lot between morning and evening, and warm tones can look different than expected under yellow bulb light.
@@ -47,7 +47,7 @@ This is the heart of rustic modern style. Pair natural wood cabinets with black 
 - Walnut lower cabinets + brushed brass faucet
 - Painted upper cabinets + wood lower cabinets (two-tone look)
 
-[![Kitchen cabinets mixing natural wood tones with black metal hardware]({{ site.baseurl }}/assets/images/home-decor/wood-and-metal-mix-kitchen-cabinets.jpg)](https://pin.it/XXXXXXX)
+[![Kitchen cabinets mixing natural wood tones with black metal hardware]({{ site.baseurl }}/assets/images/home-decor/wood-and-metal-mix-kitchen-cabinets.jpg)](https://pin.it/1hjCAt455)
 
 If a full cabinet replacement isn't in your budget, refacing or repainting just the lower cabinets in a wood-look finish is a budget-friendly shortcut.
 
@@ -60,7 +60,7 @@ Open shelving is one of the easiest ways to bring rustic character into a kitche
 - Reclaimed wood shelf brackets — Etsy, around $25–$60 a pair
 - Ready-made rustic shelving kits — Wayfair, around $80–$150
 
-[![Open wood shelving displaying ceramic dishes in a rustic modern kitchen]({{ site.baseurl }}/assets/images/home-decor/open-wood-shelving-rustic-kitchen.jpg)](https://pin.it/XXXXXXX)
+[![Open wood shelving displaying ceramic dishes in a rustic modern kitchen]({{ site.baseurl }}/assets/images/home-decor/open-wood-shelving-rustic-kitchen.jpg)](https://pin.it/1hjCAt455)
 
 Keep shelves lightly styled — a few plates, a plant, and some neutral ceramics. Overcrowded shelves can make the space feel busy instead of curated.
 
@@ -73,7 +73,7 @@ Lighting is what ties the whole design together. Skip shiny chrome or crystal fi
 - Wood-and-metal chandeliers over a dining nook
 - Warm-toned (2700K–3000K) bulbs, never cool white
 
-[![Black metal cage pendant lights hanging over a kitchen island]({{ site.baseurl }}/assets/images/home-decor/black-metal-pendant-lighting-kitchen.jpg)](https://pin.it/XXXXXXX)
+[![Black metal cage pendant lights hanging over a kitchen island]({{ site.baseurl }}/assets/images/home-decor/black-metal-pendant-lighting-kitchen.jpg)](https://pin.it/1hjCAt455)
 
 | Fixture Type | Average Cost (USD) | Best Placement |
 |---|---|---|
@@ -90,7 +90,7 @@ Countertops set the tone for the whole kitchen. Rustic modern kitchens favor cou
 - Quartz with a marble-look pattern
 - Butcher block wood counters (great for an island)
 
-[![Natural stone countertop with visible veining in a rustic kitchen]({{ site.baseurl }}/assets/images/home-decor/natural-stone-countertop-rustic-kitchen.jpg)](https://pin.it/XXXXXXX)
+[![Natural stone countertop with visible veining in a rustic kitchen]({{ site.baseurl }}/assets/images/home-decor/natural-stone-countertop-rustic-kitchen.jpg)](https://pin.it/1hjCAt455)
 
 A honed (matte) finish reads more rustic than a polished, shiny one, even with the same stone.
 
@@ -103,7 +103,7 @@ The backsplash is a small area, but it makes a big visual impact. Choose tiles t
 - Subway tile in a warm off-white
 - Natural stone mosaic in earthy tones
 
-[![Handmade look zellige tile backsplash in a warm off-white kitchen]({{ site.baseurl }}/assets/images/home-decor/handmade-tile-backsplash-kitchen.jpg)](https://pin.it/XXXXXXX)
+[![Handmade look zellige tile backsplash in a warm off-white kitchen]({{ site.baseurl }}/assets/images/home-decor/handmade-tile-backsplash-kitchen.jpg)](https://pin.it/1hjCAt455)
 
 | Tile Type | Cost per Sq Ft (Material Only) | Look |
 |---|---|---|
@@ -120,7 +120,7 @@ Flooring plays a bigger role than most people expect. Wide-plank wood floors (or
 - Wood-look luxury vinyl plank (LVP) — budget-friendly and waterproof
 - Wood-look porcelain tile — great for durability
 
-[![Wide plank wood flooring in a rustic modern kitchen]({{ site.baseurl }}/assets/images/home-decor/wide-plank-wood-flooring-kitchen.jpg)](https://pin.it/XXXXXXX)
+[![Wide plank wood flooring in a rustic modern kitchen]({{ site.baseurl }}/assets/images/home-decor/wide-plank-wood-flooring-kitchen.jpg)](https://pin.it/1hjCAt455)
 
 For kitchens, wood-look tile or LVP is often more practical than real hardwood since it handles spills and moisture better.
 
@@ -133,7 +133,7 @@ Small details finish the look. Cabinet knobs, drawer pulls, and faucets in matte
 - Kitchen faucet in matte black — around $120–$250
 - Cabinet hinges in black or bronze — around $2–$6 each
 
-[![Matte black iron cabinet hardware and drawer pulls]({{ site.baseurl }}/assets/images/home-decor/black-iron-cabinet-hardware.jpg)](https://pin.it/XXXXXXX)
+[![Matte black iron cabinet hardware and drawer pulls]({{ site.baseurl }}/assets/images/home-decor/black-iron-cabinet-hardware.jpg)](https://pin.it/1hjCAt455)
 
 This is one of the cheapest upgrades on this list and one of the most noticeable.
 
@@ -147,7 +147,7 @@ The final step is styling. Rustic modern kitchens use texture instead of clutter
 - Wooden cutting boards displayed upright
 - A small potted herb plant on the counter
 
-[![Layered natural textures and decor styling on a kitchen counter]({{ site.baseurl }}/assets/images/home-decor/layered-textured-decor-rustic-kitchen.jpg)](https://pin.it/XXXXXXX)
+[![Layered natural textures and decor styling on a kitchen counter]({{ site.baseurl }}/assets/images/home-decor/layered-textured-decor-rustic-kitchen.jpg)](https://pin.it/1hjCAt455)
 
 ## Rustic Modern Kitchen: Quick Cost Reference
 
