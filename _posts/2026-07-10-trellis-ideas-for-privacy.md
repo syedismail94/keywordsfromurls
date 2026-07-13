@@ -6,7 +6,7 @@ permalink: /home-decor/trellis-ideas-for-privacy/
 description: "10 stylish trellis ideas for backyard privacy, from cedar panels to climbing vines. Budget-friendly designs for any USA patio or yard."
 ---
 
-[![Cedar trellis panels creating a private backyard patio corner]({{ site.baseurl }}/assets/images/home-decor/trellis-ideas-for-privacy-hero.jpg)](https://pin.it/XXXXXXX)
+[![Cedar trellis panels creating a private backyard patio corner]({{ site.baseurl }}/assets/images/home-decor/trellis-ideas-for-privacy-hero.jpg)](https://pin.it/4EPi0cjD7)
 
 ## Introduction
 
@@ -41,7 +41,7 @@ Lattice has small enough gaps to block direct sightlines while still letting air
 
 Home Depot and Lowe's sell pre-made lattice panels starting around $40 for a 4x8 foot panel. For a nicer finish, look at cedar lattice at Menards, which runs closer to $100–$120 per panel.
 
-[![Lattice panel trellis attached to a wooden backyard fence]({{ site.baseurl }}/assets/images/home-decor/lattice-panel-privacy-trellis.jpg)](https://pin.it/XXXXXXX)
+[![Lattice panel trellis attached to a wooden backyard fence]({{ site.baseurl }}/assets/images/home-decor/lattice-panel-privacy-trellis.jpg)](https://pin.it/4EPi0cjD7)
 
 ## 2. Cedar Wood Trellis Screen for a Warm, Natural Look
 
@@ -55,7 +55,7 @@ The wide wood slats give near-complete privacy while the natural grain keeps the
 
 Wayfair and Home Depot both carry cedar privacy screens in the $150–$400 range depending on size. A local carpenter can also build one custom for a similar price.
 
-[![Cedar wood privacy trellis screen on a backyard patio]({{ site.baseurl }}/assets/images/home-decor/cedar-wood-trellis-screen.jpg)](https://pin.it/XXXXXXX)
+[![Cedar wood privacy trellis screen on a backyard patio]({{ site.baseurl }}/assets/images/home-decor/cedar-wood-trellis-screen.jpg)](https://pin.it/4EPi0cjD7)
 
 ## 3. Bamboo Privacy Trellis for Renters
 
@@ -69,7 +69,7 @@ Bamboo is lightweight, removable, and gives your space a relaxed, tropical feel 
 
 Amazon and IKEA both sell bamboo screening rolls for $30–$90, and they are simple to trim to size with garden shears.
 
-[![Bamboo privacy trellis screen on an apartment balcony]({{ site.baseurl }}/assets/images/home-decor/bamboo-privacy-trellis-fence.jpg)](https://pin.it/XXXXXXX)
+[![Bamboo privacy trellis screen on an apartment balcony]({{ site.baseurl }}/assets/images/home-decor/bamboo-privacy-trellis-fence.jpg)](https://pin.it/4EPi0cjD7)
 
 ## 4. Vertical Garden Trellis Wall
 
@@ -83,7 +83,7 @@ Layering greenery at different heights blocks views from multiple angles, and it
 
 Target and The Container Store sell modular vertical garden panels starting around $60, with full kits closer to $200.
 
-[![Vertical garden trellis wall with hanging planters for privacy]({{ site.baseurl }}/assets/images/home-decor/vertical-garden-trellis-wall.jpg)](https://pin.it/XXXXXXX)
+[![Vertical garden trellis wall with hanging planters for privacy]({{ site.baseurl }}/assets/images/home-decor/vertical-garden-trellis-wall.jpg)](https://pin.it/4EPi0cjD7)
 
 ## 5. Modern Metal Trellis Panel
 
@@ -97,7 +97,7 @@ Powder-coated steel holds up to weather without warping, and the clean lines sui
 
 Wayfair, West Elm, and CB2 carry metal privacy panels priced between $100 and $300 depending on the pattern and size.
 
-[![Modern black metal trellis privacy panel in a backyard]({{ site.baseurl }}/assets/images/home-decor/metal-trellis-privacy-screen.jpg)](https://pin.it/XXXXXXX)
+[![Modern black metal trellis privacy panel in a backyard]({{ site.baseurl }}/assets/images/home-decor/metal-trellis-privacy-screen.jpg)](https://pin.it/4EPi0cjD7)
 
 ## 6. Climbing Vine Arbor Trellis
 
@@ -111,7 +111,7 @@ Once the vines fill in, you get dense, natural coverage that also attracts polli
 
 Home Depot sells wood or metal arbor kits for $200–$600. Starter vines cost $15–$30 each at most local nurseries.
 
-[![Climbing vine trellis arbor covered in flowering plants]({{ site.baseurl }}/assets/images/home-decor/climbing-vine-trellis-arbor.jpg)](https://pin.it/XXXXXXX)
+[![Climbing vine trellis arbor covered in flowering plants]({{ site.baseurl }}/assets/images/home-decor/climbing-vine-trellis-arbor.jpg)](https://pin.it/4EPi0cjD7)
 
 ## 7. Modular Planter Box Trellis
 
@@ -125,7 +125,7 @@ Because they are on wheels or lightweight bases, you can reposition them as the 
 
 Lowe's and Wayfair sell modular planter-trellis combos for $80–$250, and they work well filled with tall grasses or climbing beans.
 
-[![Modular planter box trellis on wheels for patio privacy]({{ site.baseurl }}/assets/images/home-decor/modular-trellis-planter-boxes.jpg)](https://pin.it/XXXXXXX)
+[![Modular planter box trellis on wheels for patio privacy]({{ site.baseurl }}/assets/images/home-decor/modular-trellis-planter-boxes.jpg)](https://pin.it/4EPi0cjD7)
 
 ## 8. Freestanding Trellis Privacy Panel
 
@@ -139,7 +139,7 @@ This is the best option for pool areas, patio corners, or rental homes where you
 
 Target and Wayfair sell freestanding trellis screens from $120–$350, often available in sets of two or three panels.
 
-[![Freestanding trellis privacy panel near a pool patio corner]({{ site.baseurl }}/assets/images/home-decor/freestanding-trellis-privacy-panel.jpg)](https://pin.it/XXXXXXX)
+[![Freestanding trellis privacy panel near a pool patio corner]({{ site.baseurl }}/assets/images/home-decor/freestanding-trellis-privacy-panel.jpg)](https://pin.it/4EPi0cjD7)
 
 ## 9. Pergola with Built-In Trellis Sides
 
@@ -153,7 +153,7 @@ It creates a defined "room" feeling in your backyard, which makes the space feel
 
 Home Depot and Costco sell pergola kits with trellis panel add-ons starting at $500, with larger custom builds reaching $1,500 or more.
 
-[![Pergola with trellis side panels over an outdoor dining set]({{ site.baseurl }}/assets/images/home-decor/pergola-trellis-privacy-cover.jpg)](https://pin.it/XXXXXXX)
+[![Pergola with trellis side panels over an outdoor dining set]({{ site.baseurl }}/assets/images/home-decor/pergola-trellis-privacy-cover.jpg)](https://pin.it/4EPi0cjD7)
 
 ## 10. Folding Trellis Screen for Small Patios
 
