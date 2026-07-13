@@ -10,7 +10,7 @@ Your living room says a lot about your home before anyone even sits down. If it 
 
 Below are 10 living room decor ideas that real homeowners use to make their space feel warmer, bigger, and more put-together — with rough costs and where to shop, so you can plan your budget before you buy anything.
 
-[![Cozy modern living room with layered decor, warm lighting, and styled sofa]({{ site.baseurl }}/assets/images/home-decor/living-room-decor-ideas-hero.jpg)](https://pin.it/XXXXXXX)
+[![Cozy modern living room with layered decor, warm lighting, and styled sofa]({{ site.baseurl }}/assets/images/home-decor/living-room-decor-ideas-hero.jpg)](https://pin.it/3o2ruV7TU)
 
 ## Quick Reference: All 10 Ideas at a Glance
 
@@ -35,7 +35,7 @@ A single ceiling light makes any living room feel flat and a little cold. Design
 
 Warm white bulbs (2700K–3000K) look far cozier than bright white ones. A simple set of two matching table lamps from Target or West Elm, around $40 to $80 each, can change the whole feel of the room by evening.
 
-[![Living room styled with layered lamp lighting and warm bulbs in the evening]({{ site.baseurl }}/assets/images/home-decor/layered-lighting-living-room.jpg)](https://pin.it/XXXXXXX)
+[![Living room styled with layered lamp lighting and warm bulbs in the evening]({{ site.baseurl }}/assets/images/home-decor/layered-lighting-living-room.jpg)](https://pin.it/3o2ruV7TU)
 
 ## 2. Anchor the Room With a Statement Rug
 
@@ -43,7 +43,7 @@ A rug isn't just for warmth underfoot — it visually "holds" your furniture tog
 
 As a rule, your front sofa legs should sit on the rug, not float off it. Popular budget-friendly options include Rugs USA and Ruggable (from about $80), while Pottery Barn and West Elm offer higher-end wool rugs from $300 to $500.
 
-[![Living room with a large area rug properly sized under the sofa and coffee table]({{ site.baseurl }}/assets/images/home-decor/statement-rug-living-room.jpg)](https://pin.it/XXXXXXX)
+[![Living room with a large area rug properly sized under the sofa and coffee table]({{ site.baseurl }}/assets/images/home-decor/statement-rug-living-room.jpg)](https://pin.it/3o2ruV7TU)
 
 ## 3. Build a Gallery Wall Instead of One Big Print
 
@@ -51,7 +51,7 @@ One large piece of art can feel expensive fast. A gallery wall — a mix of smal
 
 Keep frame colors consistent (all black, all wood, or all gold) so the mix of sizes still looks intentional. HomeGoods, Etsy print shops, and Michaels frames are affordable starting points, usually $10 to $40 per piece.
 
-[![Gallery wall arrangement of framed art above a living room sofa]({{ site.baseurl }}/assets/images/home-decor/gallery-wall-living-room.jpg)](https://pin.it/XXXXXXX)
+[![Gallery wall arrangement of framed art above a living room sofa]({{ site.baseurl }}/assets/images/home-decor/gallery-wall-living-room.jpg)](https://pin.it/3o2ruV7TU)
 
 ## 4. Mix Textures With Throw Pillows
 
@@ -59,7 +59,7 @@ Matching pillow sets look flat in photos and in person. Mixing textures — a li
 
 A simple formula: 2 large pillows, 2 medium pillows, and 1 smaller accent pillow in a contrasting texture or pattern. Brands like Pottery Barn, H&M Home, and Target's Threshold line all offer covers in the $15 to $35 range.
 
-[![Sofa styled with mixed-texture throw pillows in neutral tones]({{ site.baseurl }}/assets/images/home-decor/throw-pillows-living-room.jpg)](https://pin.it/XXXXXXX)
+[![Sofa styled with mixed-texture throw pillows in neutral tones]({{ site.baseurl }}/assets/images/home-decor/throw-pillows-living-room.jpg)](https://pin.it/3o2ruV7TU)
 
 ## 5. Add an Accent Chair for a Second Seating Spot
 
@@ -67,7 +67,7 @@ An accent chair breaks up a room that's all sofa and no personality. It also giv
 
 Choose a chair that contrasts your sofa slightly — if your sofa is a solid neutral, a chair in a bold color, pattern, or a different material (like a boucle or leather) adds interest without clashing. Article and Wayfair both carry accent chairs starting around $200.
 
-[![Accent chair placed beside a sofa in a styled living room corner]({{ site.baseurl }}/assets/images/home-decor/accent-chair-living-room.jpg)](https://pin.it/XXXXXXX)
+[![Accent chair placed beside a sofa in a styled living room corner]({{ site.baseurl }}/assets/images/home-decor/accent-chair-living-room.jpg)](https://pin.it/3o2ruV7TU)
 
 ## 6. Style Your Coffee Table Like a Designer Would
 
@@ -75,7 +75,7 @@ An empty or cluttered coffee table makes the whole room feel unfinished. The eas
 
 Keep height varied — short, medium, tall — so your eye moves around the table instead of landing flat. Most of these pieces cost under $20 each at HomeGoods or Target.
 
-[![Coffee table styled with books, a tray, and a small decorative object]({{ site.baseurl }}/assets/images/home-decor/coffee-table-styling-living-room.jpg)](https://pin.it/XXXXXXX)
+[![Coffee table styled with books, a tray, and a small decorative object]({{ site.baseurl }}/assets/images/home-decor/coffee-table-styling-living-room.jpg)](https://pin.it/3o2ruV7TU)
 
 ## 7. Hang Curtains Higher and Wider Than the Window
 
@@ -83,7 +83,7 @@ This is one of the cheapest tricks with the biggest visual payoff. Hanging curta
 
 Choose curtains that touch (or barely graze) the floor — curtains that stop short above the floor make a room look smaller, not bigger. IKEA and Amazon both sell affordable curtain panels from around $25 to $50 a pair.
 
-[![Curtains hung high and wide above a living room window to make the ceiling look taller]({{ site.baseurl }}/assets/images/home-decor/curtains-living-room.jpg)](https://pin.it/XXXXXXX)
+[![Curtains hung high and wide above a living room window to make the ceiling look taller]({{ site.baseurl }}/assets/images/home-decor/curtains-living-room.jpg)](https://pin.it/3o2ruV7TU)
 
 ## 8. Bring in Real (or Realistic Faux) Plants
 
@@ -91,7 +91,7 @@ Plants soften hard furniture lines and add a natural pop of color that most livi
 
 For real plants, low-maintenance options like a pothos, snake plant, or ZZ plant are nearly impossible to kill and cost around $15 to $40 at most garden centers.
 
-[![Living room corner styled with a large potted plant near natural light]({{ site.baseurl }}/assets/images/home-decor/indoor-plants-living-room.jpg)](https://pin.it/XXXXXXX)
+[![Living room corner styled with a large potted plant near natural light]({{ site.baseurl }}/assets/images/home-decor/indoor-plants-living-room.jpg)](https://pin.it/3o2ruV7TU)
 
 ## 9. Use a Mirror to Bounce Light and Add Depth
 
@@ -99,7 +99,7 @@ A well-placed mirror can make a small or dark living room feel noticeably bigger
 
 An oversized round or arched mirror also works as a piece of art on its own, so it does double duty. Options from Amazon and CB2 range from about $60 for smaller pieces to $300 for large statement mirrors.
 
-[![Large mirror positioned across from a window in a living room to reflect light]({{ site.baseurl }}/assets/images/home-decor/mirror-placement-living-room.jpg)](https://pin.it/XXXXXXX)
+[![Large mirror positioned across from a window in a living room to reflect light]({{ site.baseurl }}/assets/images/home-decor/mirror-placement-living-room.jpg)](https://pin.it/3o2ruV7TU)
 
 ## 10. Finish With Personal Accessories
 
