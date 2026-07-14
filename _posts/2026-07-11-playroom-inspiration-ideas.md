@@ -6,7 +6,7 @@ permalink: /home-decor/playroom-inspiration-ideas/
 description: "Discover playroom inspiration ideas: layouts, storage, themes, and budget tips to design a fun, functional playroom kids will love."
 ---
 
-[![Bright and cozy kids playroom inspiration with colorful storage and reading nook]({{ site.baseurl }}/assets/images/home-decor/hero-playroom-inspiration-ideas.jpg)](https://pin.it/XXXXXXX)
+[![Bright and cozy kids playroom inspiration with colorful storage and reading nook]({{ site.baseurl }}/assets/images/home-decor/hero-playroom-inspiration-ideas.jpg)](https://pin.it/6yh0XIcrd)
 
 A playroom is more than just a space to keep toys out of the living room. It's where kids build forts, paint their first masterpiece, and learn to share their blocks with a sibling. Whether you have a full spare bedroom or just a cozy corner, the right layout, colors, and storage can turn any space into a room your kids actually want to play in.
 
@@ -36,13 +36,13 @@ This works best in larger rooms. Keep the center of the room empty for building,
 
 Instead of one big open space, divide the room into small "zones" — a reading corner, a building zone, an art table. This is a favorite among Montessori-inspired parents because it teaches kids where things belong.
 
-[![Montessori inspired playroom layout with low shelves and defined zones]({{ site.baseurl }}/assets/images/home-decor/montessori-inspired-playroom-layout.jpg)](https://pin.it/XXXXXXX)
+[![Montessori inspired playroom layout with low shelves and defined zones]({{ site.baseurl }}/assets/images/home-decor/montessori-inspired-playroom-layout.jpg)](https://pin.it/6yh0XIcrd)
 
 ### 2.3 Small Space or Multi-Purpose Layout
 
 No extra room? No problem. Many families turn a corner of the living room, a nook under the stairs, or part of a bedroom into a mini playroom using foldable and stackable furniture.
 
-[![Small space playroom idea using multipurpose folding furniture]({{ site.baseurl }}/assets/images/home-decor/small-space-playroom-multipurpose-furniture.jpg)](https://pin.it/XXXXXXX)
+[![Small space playroom idea using multipurpose folding furniture]({{ site.baseurl }}/assets/images/home-decor/small-space-playroom-multipurpose-furniture.jpg)](https://pin.it/6yh0XIcrd)
 
 **Quick tip:** Look for a storage bench like the IKEA KALLAX ($99) or a fold-flat table from Target ($60–$80) — both are made for tight spaces.
 
@@ -54,13 +54,13 @@ Color sets the whole mood of the room. Here are three directions that consistent
 
 Soft beige, sage green, and warm wood tones are calming and don't feel "childish" — great if the playroom is visible from your living space.
 
-[![Neutral tone playroom design with natural wood furniture and soft textures]({{ site.baseurl }}/assets/images/home-decor/neutral-tone-playroom-with-natural-materials.jpg)](https://pin.it/XXXXXXX)
+[![Neutral tone playroom design with natural wood furniture and soft textures]({{ site.baseurl }}/assets/images/home-decor/neutral-tone-playroom-with-natural-materials.jpg)](https://pin.it/6yh0XIcrd)
 
 ### 3.2 Pastel Dreamy Palette
 
 Soft pink, lilac, mint, and butter yellow feel gentle and work beautifully in nurseries that are transitioning into playrooms.
 
-[![Pastel color scheme playroom design with soft pink and mint accents]({{ site.baseurl }}/assets/images/home-decor/pastel-color-scheme-playroom-design.jpg)](https://pin.it/XXXXXXX)
+[![Pastel color scheme playroom design with soft pink and mint accents]({{ site.baseurl }}/assets/images/home-decor/pastel-color-scheme-playroom-design.jpg)](https://pin.it/6yh0XIcrd)
 
 ### 3.3 Bold Rainbow Palette
 
@@ -80,7 +80,7 @@ Good storage is the difference between a playroom that stays tidy and one that t
 
 Low, open shelves let toddlers see and reach their toys without needing help. Pair shelves with labeled bins so cleanup becomes a game, not a chore.
 
-[![Open shelf toy storage organization idea for kids playroom]({{ site.baseurl }}/assets/images/home-decor/open-shelf-toy-storage-organization.jpg)](https://pin.it/XXXXXXX)
+[![Open shelf toy storage organization idea for kids playroom]({{ site.baseurl }}/assets/images/home-decor/open-shelf-toy-storage-organization.jpg)](https://pin.it/6yh0XIcrd)
 
 ### 4.2 Labeled Bins and Baskets
 
@@ -101,7 +101,7 @@ Instead of putting every toy out at once, store half in a closet and swap them e
 
 Every playroom benefits from one quiet corner. A small rug, a soft chair or bean bag, and a low bookshelf are all you really need.
 
-[![Rainbow reading nook corner idea for kids playroom]({{ site.baseurl }}/assets/images/home-decor/rainbow-reading-nook-playroom-corner.jpg)](https://pin.it/XXXXXXX)
+[![Rainbow reading nook corner idea for kids playroom]({{ site.baseurl }}/assets/images/home-decor/rainbow-reading-nook-playroom-corner.jpg)](https://pin.it/6yh0XIcrd)
 
 **Try this combo:** A canopy tent from Amazon ($40–$70), a floor cushion, and a front-facing bookshelf so kids can see the covers, not just spines.
 
@@ -109,17 +109,17 @@ Every playroom benefits from one quiet corner. A small rug, a soft chair or bean
 
 Set up a dedicated art station with a washable table, a paper roll dispenser, and a caddy for crayons and markers. Keep a vinyl mat or old shower curtain underneath to protect flooring from paint and glue.
 
-[![Art station craft corner idea for kids playroom]({{ site.baseurl }}/assets/images/home-decor/art-station-kids-craft-corner.jpg)](https://pin.it/XXXXXXX)
+[![Art station craft corner idea for kids playroom]({{ site.baseurl }}/assets/images/home-decor/art-station-kids-craft-corner.jpg)](https://pin.it/6yh0XIcrd)
 
 A chalkboard or whiteboard wall is another favorite here — it adds open-ended creative play without needing extra supplies.
 
-[![Chalkboard wall creative play corner idea for kids playroom]({{ site.baseurl }}/assets/images/home-decor/chalkboard-wall-creative-play-corner.jpg)](https://pin.it/XXXXXXX)
+[![Chalkboard wall creative play corner idea for kids playroom]({{ site.baseurl }}/assets/images/home-decor/chalkboard-wall-creative-play-corner.jpg)](https://pin.it/6yh0XIcrd)
 
 ## 7. Play Structures and Indoor Play Equipment
 
 If you have the space, a small indoor playhouse or teepee tent adds a magical "room within a room" feeling that kids love returning to.
 
-[![Indoor playhouse tent play area idea for kids playroom]({{ site.baseurl }}/assets/images/home-decor/indoor-playhouse-tent-play-area.jpg)](https://pin.it/XXXXXXX)
+[![Indoor playhouse tent play area idea for kids playroom]({{ site.baseurl }}/assets/images/home-decor/indoor-playhouse-tent-play-area.jpg)](https://pin.it/6yh0XIcrd)
 
 Look for foldable options if floor space is limited — many indoor teepees fold flat for storage when not in use.
 
