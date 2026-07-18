@@ -8,7 +8,7 @@ description: "Discover 9 small bathroom ideas that add space, light, and storage
 
 If your bathroom feels more like a closet than a place to relax, you are not alone. Small bathrooms are one of the most common layout problems in American homes, especially in older houses, condos, and starter homes. The good news is that square footage is not the only thing that decides how "big" a bathroom feels. Color, light, storage, and a few smart layout swaps can do most of the work.
 
-[![Small bathroom makeover with light colors and glass shower to make the space look bigger]({{ site.baseurl }}/assets/images/home-decor/small-bathroom-ideas-hero.jpg)](https://pin.it/XXXXXXX)
+[![Small bathroom makeover with light colors and glass shower to make the space look bigger]({{ site.baseurl }}/assets/images/home-decor/small-bathroom-ideas-hero.jpg)](https://pin.it/2TzWa4kOI)
 
 I have pulled together nine ideas that interior designers actually use on small bathroom projects, along with rough costs, where to shop in the US, and what to expect from each one. This is a design and idea guide, not a full DIY tutorial, but I will point out where a project is a weekend job versus one that needs a licensed plumber or electrician.
 
@@ -34,7 +34,7 @@ Dark colors absorb light and make walls feel like they are closing in. In a smal
 
 Good options to look for at Sherwin-Williams or Benjamin Moore include soft white, pale sage, warm greige, or a gentle sky blue. Ask for a satin or semi-gloss finish rather than flat matte, because the slight sheen reflects more light and also holds up better against bathroom humidity.
 
-[![Light sage green paint on small bathroom walls with satin finish]({{ site.baseurl }}/assets/images/home-decor/light-reflective-paint-small-bathroom.jpg)](https://pin.it/XXXXXXX)
+[![Light sage green paint on small bathroom walls with satin finish]({{ site.baseurl }}/assets/images/home-decor/light-reflective-paint-small-bathroom.jpg)](https://pin.it/2YSdy0hu3)
 
 **Cost:** A gallon of quality bathroom paint runs about $30 to $55, and most small bathrooms only need one gallon plus primer.
 
@@ -53,7 +53,7 @@ A wall-mounted (floating) vanity leaves the floor visible underneath it, which t
 
 Brands like Kohler, IKEA (the GODMORGON line), and Wayfair's house brands make compact floating vanities sized for small bathrooms, usually between 24 and 30 inches wide.
 
-[![Wall mounted floating vanity in small bathroom with visible floor space]({{ site.baseurl }}/assets/images/home-decor/wall-mounted-vanity-small-bathroom.jpg)](https://pin.it/XXXXXXX)
+[![Wall mounted floating vanity in small bathroom with visible floor space]({{ site.baseurl }}/assets/images/home-decor/wall-mounted-vanity-small-bathroom.jpg)](https://pin.it/2YSdy0hu3)
 
 **Cost:** Expect $250 to $600 for the vanity itself, plus installation. Because plumbing lines usually need to be adjusted, this is a project for a licensed plumber, typically adding $150 to $300 in labor.
 
@@ -63,7 +63,7 @@ A single oversized mirror does more for a small bathroom than several small ones
 
 Look for a mirror that spans most of the width of your vanity, or consider a full wall mirror behind the sink. Round or arched mirrors soften a boxy room, while rectangular ones feel more traditional.
 
-[![Large arched mirror above vanity making small bathroom look bigger]({{ site.baseurl }}/assets/images/home-decor/large-mirror-small-bathroom.jpg)](https://pin.it/XXXXXXX)
+[![Large arched mirror above vanity making small bathroom look bigger]({{ site.baseurl }}/assets/images/home-decor/large-mirror-small-bathroom.jpg)](https://pin.it/2YSdy0hu3)
 
 **Cost:** A quality mirror from Pottery Barn, CB2, or Amazon in this size typically costs $100 to $350.
 
@@ -73,7 +73,7 @@ Shower curtains and bulky tub surrounds visually chop a small bathroom into sect
 
 This is a renovation-level project, so it is worth getting quotes from at least two licensed contractors. Companies like Re-Bath and local glass shops both do this work in most US cities.
 
-[![Frameless glass shower enclosure in renovated small bathroom]({{ site.baseurl }}/assets/images/home-decor/frameless-glass-shower-small-bathroom.jpg)](https://pin.it/XXXXXXX)
+[![Frameless glass shower enclosure in renovated small bathroom]({{ site.baseurl }}/assets/images/home-decor/frameless-glass-shower-small-bathroom.jpg)](https://pin.it/2YSdy0hu3)
 
 **Cost:** A custom frameless glass panel usually runs $900 to $2,000, and a full tub-to-shower conversion can reach $3,000 to $8,000 depending on tile and plumbing work.
 
@@ -83,7 +83,7 @@ When floor space is limited, the walls become your best friend. Tall, narrow she
 
 IKEA's ENHET and Home Depot's tall linen cabinets are both good budget-friendly options built specifically for narrow bathrooms.
 
-[![Tall narrow shelving unit used for towel and storage in small bathroom]({{ site.baseurl }}/assets/images/home-decor/vertical-storage-small-bathroom.jpg)](https://pin.it/XXXXXXX)
+[![Tall narrow shelving unit used for towel and storage in small bathroom]({{ site.baseurl }}/assets/images/home-decor/vertical-storage-small-bathroom.jpg)](https://pin.it/2YSdy0hu3)
 
 **Cost:** Ready-made tall shelving units range from $60 to $250 depending on material and brand.
 
@@ -91,7 +91,7 @@ IKEA's ENHET and Home Depot's tall linen cabinets are both good budget-friendly 
 
 A standard swinging door needs about 10 to 12 square feet of clear floor space just to open and close. In a small bathroom, that space is precious. A pocket door slides into the wall, and a barn-style sliding door mounts on the outside wall, so either option gives that swing radius back to you as usable floor.
 
-[![Sliding barn style door installed on small bathroom entrance]({{ site.baseurl }}/assets/images/home-decor/sliding-pocket-door-small-bathroom.jpg)](https://pin.it/XXXXXXX)
+[![Sliding barn style door installed on small bathroom entrance]({{ site.baseurl }}/assets/images/home-decor/sliding-pocket-door-small-bathroom.jpg)](https://pin.it/2YSdy0hu3)
 
 **Cost:** A pocket door conversion typically costs $300 to $700 including hardware and carpentry labor, since it involves opening the wall.
 
@@ -101,7 +101,7 @@ If your vanity has open shelving underneath the sink, woven baskets or stackable
 
 The Container Store, Target's Brightroom line, and Amazon Basics all carry bathroom-sized baskets that fit standard vanity openings.
 
-[![Woven storage baskets organized under bathroom vanity sink]({{ site.baseurl }}/assets/images/home-decor/under-sink-storage-baskets-small-bathroom.jpg)](https://pin.it/XXXXXXX)
+[![Woven storage baskets organized under bathroom vanity sink]({{ site.baseurl }}/assets/images/home-decor/under-sink-storage-baskets-small-bathroom.jpg)](https://pin.it/2YSdy0hu3)
 
 **Cost:** A set of 3 to 4 baskets or bins usually costs $25 to $80.
 
@@ -111,7 +111,7 @@ It sounds backwards, but bigger tiles make a small room feel larger, not smaller
 
 Floor & Decor and The Tile Shop both carry affordable large-format porcelain tile suited for bathroom floors.
 
-[![Large format porcelain floor tile installed in small bathroom]({{ site.baseurl }}/assets/images/home-decor/large-format-floor-tile-small-bathroom.jpg)](https://pin.it/XXXXXXX)
+[![Large format porcelain floor tile installed in small bathroom]({{ site.baseurl }}/assets/images/home-decor/large-format-floor-tile-small-bathroom.jpg)](https://pin.it/2YSdy0hu3)
 
 **Cost:** Porcelain large-format tile costs $3 to $8 per square foot, plus $6 to $12 per square foot for professional installation.
 
@@ -119,7 +119,7 @@ Floor & Decor and The Tile Shop both carry affordable large-format porcelain til
 
 A single overhead bulb creates flat, harsh shadows that make a small bathroom feel even more cramped. Layered lighting combines three sources: a ceiling fixture for general light, sconces beside the mirror for face-level task light, and, if possible, a small accent light inside a shower niche or above a shelf.
 
-[![Layered bathroom lighting with sconces and ceiling fixture in small bathroom]({{ site.baseurl }}/assets/images/home-decor/layered-lighting-small-bathroom.jpg)](https://pin.it/XXXXXXX)
+[![Layered bathroom lighting with sconces and ceiling fixture in small bathroom]({{ site.baseurl }}/assets/images/home-decor/layered-lighting-small-bathroom.jpg)](https://pin.it/2YSdy0hu3)
 
 **Cost:** Wall sconces run $30 to $120 a pair, and adding a new electrical box for a sconce typically adds $100 to $250 in electrician labor if there is no existing wiring.
 
